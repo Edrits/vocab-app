@@ -20,7 +20,7 @@ There are no tests, linter, or build. Verify changes by loading the page and exe
 
 ## Deployment
 
-Live at **https://edrits.github.io/vocab-app/** via GitHub Pages, serving the `main` branch of `github.com/Edrits/vocab-app` (root folder). Deploying = pushing to `main`; Pages picks it up within a couple of minutes. Ned uses it from his phone as a home-screen web app, so after a vocab fetch or app change, commit and push to make it reach him.
+Live at **https://edrits.github.io/vocab-app/** via GitHub Pages, serving the `main` branch of `github.com/Edrits/vocab-app` (root folder). Deploying = pushing to `main`; Pages picks it up within a couple of minutes. Edward uses it from his phone as a home-screen web app, so after a vocab fetch or app change, commit and push to make it reach him.
 
 ## Architecture
 
