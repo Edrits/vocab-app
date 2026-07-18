@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#c0392b" />
+  <title>网语 · Netizen Vocab</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <style>
+    :root {
+      --red: #c0392b;
+      --gold: #b8860b;
+      --ink: #1a1a1a;
+      --paper: #faf7f2;
+      --card: #ffffff;
+      --muted: #6b7280;
+      --line: #ececec;
+      --good: #2f9e44;
+      --ok: #f59f00;
+      --hard: #e8590c;
+      --again: #868e96;
+      --new: #adb5bd;
+      --learning: #f59f00;
+      --known: #2f9e44;
+      --shadow: 0 6px 24px rgba(0,0,0,.08);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ink: #f2efe9; --paper: #16130f; --card: #221d17;
+        --muted: #9a9187; --line: #33291f; --shadow: 0 6px 24px rgba(0,0,0,.4);
+        --gold: #d4a72c;
+      }
+    }
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      height: 100vh; height: 100dvh;
+      display: flex; flex-direction: column; overflow: hidden;
+    }
+    header {
+      padding: max(env(safe-area-inset-top), 14px) 18px 10px;
+      display: flex; align-items: center; justify-content: space-between;
+      border-bottom: 1px solid var(--line);
+      background: var(--paper); z-index: 5;
+    }
+    .brand { display: flex; align-items: baseline; gap: 8px; }
+    .brand h1 { font-size: 20px; margin: 0; letter-spacing: .5px; }
+    .brand .en { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 1.5px; }
+    .stats { font-size: 12px; color: var(--muted); text-align: right; line-height: 1.4; }
+    .stats b { color: var(--red); font-size: 15px; }
+
+    /* mode tabs */
+    .tabs { display: flex; gap: 4px; padding: 8px 14px; border-bottom: 1px solid var(--line); background: var(--paper); }
+    .tab {
+      flex: 1; border: none; background: none; color: var(--muted);
+      font-size: 14px; font-weight: 600; padding: 8px; border-radius: 10px; cursor: pointer;
+    }
+    .tab.active { background: color-mix(in srgb, var(--red) 12%, transparent); color: var(--red); }
+
+    .progress-bar { height: 4px; background: var(--line); overflow: hidden; width: 100%; }
+    .progress-bar.hidden { display: none; }
+    .progress-fill { height: 100%; background: var(--red); width: 0%; transition: width .3s ease; }
+
+    main { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; width: 100%; }
+    .wrap { width: 100%; max-width: 560px; margin: 0 auto; padding: 20px 16px; }
+
+    /* study view */
+    main.study .wrap { min-height: 100%; display: flex; flex-direction: column; justify-content: center; }
+    .card {
+      background: var(--card); border-radius: 22px; box-shadow: var(--shadow);
+      width: 100%; padding: 28px 24px; text-align: center; border: 1px solid var(--line);
+      display: flex; flex-direction: column; gap: 14px; cursor: pointer; user-select: none;
+      transition: transform .15s ease;
+    }
+    .card:active { transform: scale(.99); }
+    .cat {
+      align-self: center; font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase;
+      color: var(--red); background: color-mix(in srgb, var(--red) 12%, transparent);
+      padding: 4px 12px; border-radius: 999px; font-weight: 700;
+    }
+    .cat.cat-chengyu { color: var(--gold); background: color-mix(in srgb, var(--gold) 16%, transparent); }
+    .hanzi { font-size: 50px; font-weight: 700; line-height: 1.1; margin: 4px 0; }
+    .pinyin { font-size: 20px; color: var(--muted); }
+    .tap-hint { font-size: 13px; color: var(--muted); margin-top: 6px; font-style: italic; }
+    .back { display: none; text-align: left; }
+    .back.show { display: block; animation: fade .25s ease; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    .row { margin: 12px 0; }
+    .label { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 3px; }
+    .meaning { font-size: 17px; line-height: 1.5; }
+    .meaning-zh { font-size: 16px; line-height: 1.6; margin-top: 5px; opacity: .92; }
+    .literal { font-size: 14px; color: var(--muted); font-style: italic; margin-top: 5px; }
+    .ex-zh { font-size: 19px; line-height: 1.5; }
+    .ex-py { font-size: 14px; color: var(--muted); margin-top: 2px; }
+    .ex-en { font-size: 15px; margin-top: 4px; }
+    .context { font-size: 14px; line-height: 1.55; opacity: .85; }
+    .divider { height: 1px; background: var(--line); margin: 6px 0; }
+
+    .grades {
+      display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;
+      width: 100%; max-width: 560px; margin: 0 auto; padding: 10px 16px calc(6px + env(safe-area-inset-bottom));
+      flex-shrink: 0; border-top: 1px solid var(--line); background: var(--paper);
+    }
+    .grade { border: none; border-radius: 14px; padding: 12px 6px; color: #fff; font-size: 14px; font-weight: 700; cursor: pointer; display: flex; flex-direction: column; gap: 2px; align-items: center; }
+    .grade small { font-weight: 500; font-size: 10px; opacity: .85; }
+    .grade:active { filter: brightness(.92); }
+    .g-again { background: var(--again); } .g-hard { background: var(--hard); }
+    .g-ok { background: var(--ok); } .g-good { background: var(--good); }
+    .grades.hidden { display: none; }
+
+    .empty { text-align: center; color: var(--muted); padding: 40px 20px; }
+    .empty h2 { color: var(--ink); }
+    button.ghost { background: none; border: 1px solid var(--line); color: var(--muted); border-radius: 10px; padding: 8px 14px; font-size: 13px; cursor: pointer; }
+
+    /* browse / sorter view */
+    .toolbar { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+    .sort-row { display: flex; align-items: center; gap: 8px; }
+    .sort-row label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+    select {
+      flex: 1; font-size: 14px; padding: 8px 10px; border-radius: 10px;
+      border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    }
+    .search-box {
+      font-size: 14px; padding: 10px 12px; border-radius: 10px;
+      border: 1px solid var(--line); background: var(--card); color: var(--ink); width: 100%;
+    }
+    .search-box::placeholder { color: var(--muted); }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .chip {
+      font-size: 12px; padding: 6px 12px; border-radius: 999px; cursor: pointer;
+      border: 1px solid var(--line); background: var(--card); color: var(--muted); font-weight: 600;
+    }
+    .chip.active { background: var(--red); color: #fff; border-color: var(--red); }
+    .list { display: flex; flex-direction: column; gap: 8px; }
+    .item {
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+      padding: 12px 14px; cursor: pointer;
+    }
+    .item-head { display: flex; align-items: center; gap: 10px; }
+    .item-hanzi { font-size: 22px; font-weight: 700; }
+    .item-py { font-size: 14px; color: var(--muted); }
+    .item-spacer { flex: 1; }
+    .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+    .dot.new { background: var(--new); } .dot.learning { background: var(--learning); } .dot.known { background: var(--known); }
+    .item-tag { font-size: 10px; text-transform: uppercase; letter-spacing: .8px; color: var(--red); font-weight: 700; }
+    .item-tag.cat-chengyu { color: var(--gold); }
+    .item-meaning { font-size: 14px; color: var(--ink); opacity: .8; margin-top: 6px; line-height: 1.45; }
+    .item-body { display: none; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); text-align: left; }
+    .item.open .item-body { display: block; animation: fade .2s ease; }
+    .item.open .item-meaning { display: none; }
+    .count { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+
+    footer { text-align: center; font-size: 12px; color: var(--muted); padding: 8px 0 calc(12px + env(safe-area-inset-bottom)); flex-shrink: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand"><h1>网语</h1><span class="en">Netizen Vocab</span></div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-mode="study">Study</button>
+    <button class="tab" data-mode="browse">Browse</button>
+  </nav>
+
+  <div class="progress-bar" id="progressWrap"><div class="progress-fill" id="progress"></div></div>
+
+  <main id="main" class="study"><div class="wrap"><div class="card"><div class="hanzi">加载中…</div></div></div></main>
+
+  <div class="grades hidden" id="grades">
+    <button class="grade g-again" data-q="0">Again<small>&lt;1m</small></button>
+    <button class="grade g-hard" data-q="1">Hard<small id="l-hard"></small></button>
+    <button class="grade g-ok" data-q="2">Good<small id="l-ok"></small></button>
+    <button class="grade g-good" data-q="3">Easy<small id="l-good"></small></button>
+  </div>
+
+  <footer id="footer"></footer>
+
+  <script>
+    const STORE_KEY = 'netizen-vocab-srs-v1';
+    const catLabel = { slang:'Slang', social:'Social Trend', meme:'Meme', abbreviation:'Abbreviation', news:'News', chengyu:'Chengyu' };
+    let deck = [], queue = [], current = null, showingBack = false;
+    let mode = 'study';
+    let sortBy = 'new', filterCat = 'all', searchQuery = '';
+    function normalize(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,''); }
+
+    // ---- SRS state ----
+    function loadState(){ try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch { return {}; } }
+    function saveState(s){ localStorage.setItem(STORE_KEY, JSON.stringify(s)); }
+    let state = loadState();
+    function cardState(id){ return state[id] || { ease:2.5, interval:0, reps:0, due:0, lapses:0 }; }
+    const DAY = 86400000; const now = () => Date.now();
+
+    function grade(id, q){
+      const c = cardState(id);
+      if (q === 0){ c.reps=0; c.interval=0; c.lapses++; c.ease=Math.max(1.3,c.ease-0.2); c.due=now()+60000; }
+      else {
+        c.reps++;
+        if (q===1) c.ease=Math.max(1.3,c.ease-0.15);
+        if (q===3) c.ease=c.ease+0.1;
+        if (c.reps===1) c.interval = q===1?1:q===3?4:1;
+        else if (c.reps===2) c.interval = q===1?3:6;
+        else c.interval = Math.round(c.interval*c.ease*(q===1?0.7:q===3?1.3:1));
+        c.interval = Math.max(1,c.interval);
+        c.due = now()+c.interval*DAY;
+      }
+      state[id]=c; saveState(state);
+    }
+    function intervalLabel(id, q){
+      const c = {...cardState(id)};
+      if (q===0) return '<1m';
+      let reps=c.reps+1, interval=c.interval, ease=c.ease;
+      if (q===1) ease=Math.max(1.3,ease-0.15);
+      if (q===3) ease=ease+0.1;
+      if (reps===1) interval = q===1?1:q===3?4:1;
+      else if (reps===2) interval = q===1?3:6;
+      else interval = Math.round(interval*ease*(q===1?0.7:q===3?1.3:1));
+      interval = Math.max(1,interval);
+      return interval===1?'1d':interval+'d';
+    }
+    function knowLevel(id){
+      const s = state[id];
+      if (!s || s.reps===0) return { label:'New', cls:'new' };
+      if (s.reps < 3) return { label:'Learning', cls:'learning' };
+      return { label:'Known', cls:'known' };
+    }
+
+    // ---- study queue ----
+    function buildQueue(){
+      const t = now();
+      const learning = deck.filter(c => { const s=state[c.id]; return s && s.due<=t && s.reps===0 && s.lapses>0; });
+      const due = deck.filter(c => { const s=state[c.id]; return s && s.due<=t && s.reps>0; });
+      const fresh = deck.filter(c => !state[c.id]);
+      queue = [...learning, ...due, ...fresh];
+    }
+    function updateStats(){
+      if (mode === 'study') {
+        const learned = deck.filter(c => state[c.id] && state[c.id].reps>0).length;
+        document.getElementById('stats').innerHTML = `<b>${queue.length}</b> to review<br>${learned}/${deck.length} learned`;
+      } else {
+        const shown = deck.filter(inFilter).length;
+        document.getElementById('stats').innerHTML = `<b>${shown}</b> shown<br>${deck.length} total words`;
+      }
+    }
+
+    // ---- rendering ----
+    function render(){ mode === 'study' ? renderStudy() : renderBrowse(); }
+
+    function renderStudy(){
+      const main = document.getElementById('main');
+      main.className = 'study';
+      const grades = document.getElementById('grades');
+      const progressWrap = document.getElementById('progressWrap');
+      const progress = document.getElementById('progress');
+      progressWrap.classList.remove('hidden');
+      showingBack = false;
+
+      if (!queue.length){
+        grades.classList.add('hidden');
+        main.innerHTML = `<div class="wrap"><div class="empty"><h2>🎉 All done for now</h2>
+          <p>You've reviewed everything that's due. Come back later, or run through them again.</p>
+          <button class="ghost" onclick="resetSession()">Study all again</button></div></div>`;
+        progress.style.width = '100%';
+        document.getElementById('footer').textContent = `${deck.length} words in your deck`;
+        updateStats();
+        return;
+      }
+      current = queue[0];
+      progress.style.width = (100*(1 - queue.length/(deck.length||1))) + '%';
+      const c = current;
+      main.innerHTML = `<div class="wrap"><div class="card" id="flip">
+          <span class="cat cat-${c.category}">${catLabel[c.category]||c.category}</span>
+          <div class="hanzi">${c.hanzi}</div>
+          <div class="pinyin">${c.pinyin}</div>
+          <div class="tap-hint" id="hint">tap to reveal</div>
+          <div class="back" id="back">
+            <div class="divider"></div>
+            <div class="row"><div class="label">Meaning</div><div class="meaning">${c.meaning}</div>${c.meaning_zh?`<div class="meaning-zh">${c.meaning_zh}</div>`:''}<div class="literal">lit. ${c.literal}</div></div>
+            <div class="row"><div class="label">Example</div><div class="ex-zh">${c.example}</div><div class="ex-py">${c.example_pinyin}</div><div class="ex-en">${c.example_translation}</div></div>
+            <div class="row"><div class="label">Where it comes from</div><div class="context">${c.context}</div></div>
+          </div></div></div>`;
+      document.getElementById('flip').addEventListener('click', flip);
+      grades.classList.add('hidden');
+      document.getElementById('footer').textContent = c.hanzi + ' · ' + c.pinyin;
+      document.getElementById('l-hard').textContent = intervalLabel(c.id,1);
+      document.getElementById('l-ok').textContent = intervalLabel(c.id,2);
+      document.getElementById('l-good').textContent = intervalLabel(c.id,3);
+      updateStats();
+    }
+    function flip(){
+      if (showingBack) return;
+      showingBack = true;
+      document.getElementById('back').classList.add('show');
+      document.getElementById('hint').style.display = 'none';
+      document.getElementById('grades').classList.remove('hidden');
+    }
+    function doGrade(q){ if (!current) return; grade(current.id,q); buildQueue(); renderStudy(); }
+    function resetSession(){ buildQueue(); renderStudy(); }
+
+    // ---- browse / sorter ----
+    function inFilter(c){
+      if (filterCat !== 'all' && c.category !== filterCat) return false;
+      if (!searchQuery) return true;
+      const q = normalize(searchQuery);
+      return c.hanzi.includes(searchQuery) || normalize(c.pinyin).includes(q) || normalize(c.meaning).includes(q);
+    }
+    const sorters = {
+      new:  (a,b) => (b.date_added||'').localeCompare(a.date_added||'') || a._i - b._i,
+      old:  (a,b) => (a.date_added||'').localeCompare(b.date_added||'') || a._i - b._i,
+      pinyin: (a,b) => a.pinyin.localeCompare(b.pinyin, 'en', {sensitivity:'base'}),
+      category: (a,b) => (catLabel[a.category]||a.category).localeCompare(catLabel[b.category]||b.category) || a.pinyin.localeCompare(b.pinyin),
+      known: (a,b) => { const ra=(state[a.id]?.reps)||0, rb=(state[b.id]?.reps)||0; return ra-rb || (state[a.id]?.interval||0)-(state[b.id]?.interval||0); }
+    };
+    function renderBrowse(){
+      const main = document.getElementById('main');
+      main.className = 'browse';
+      document.getElementById('grades').classList.add('hidden');
+      document.getElementById('progressWrap').classList.add('hidden');
+      document.getElementById('footer').textContent = `${deck.length} words in your deck`;
+
+      const cats = ['all', ...Array.from(new Set(deck.map(c=>c.category)))];
+      const chips = cats.map(cat =>
+        `<button class="chip ${cat===filterCat?'active':''}" data-cat="${cat}">${cat==='all'?'All':(catLabel[cat]||cat)}</button>`
+      ).join('');
+
+      const rows = deck.filter(inFilter).sort(sorters[sortBy]).map(c => {
+        const k = knowLevel(c.id);
+        return `<div class="item" data-id="${c.id}">
+            <div class="item-head">
+              <span class="item-hanzi">${c.hanzi}</span>
+              <span class="item-py">${c.pinyin}</span>
+              <span class="item-spacer"></span>
+              <span class="item-tag cat-${c.category}">${catLabel[c.category]||c.category}</span>
+              <span class="dot ${k.cls}" title="${k.label}"></span>
+            </div>
+            <div class="item-meaning">${c.meaning}</div>
+            <div class="item-body">
+              <div class="row"><div class="label">Meaning</div><div class="meaning">${c.meaning}</div>${c.meaning_zh?`<div class="meaning-zh">${c.meaning_zh}</div>`:''}<div class="literal">lit. ${c.literal}</div></div>
+              <div class="row"><div class="label">Example</div><div class="ex-zh">${c.example}</div><div class="ex-py">${c.example_pinyin}</div><div class="ex-en">${c.example_translation}</div></div>
+              <div class="row"><div class="label">Where it comes from</div><div class="context">${c.context}</div></div>
+              <div class="row"><div class="label">Status</div><div class="meaning">${k.label}</div></div>
+            </div>
+          </div>`;
+      }).join('');
+
+      main.innerHTML = `<div class="wrap">
+        <div class="toolbar">
+          <input type="text" id="search" class="search-box" placeholder="Search hanzi, pinyin, or meaning" value="${searchQuery.replace(/"/g,'&quot;')}" />
+          <div class="sort-row">
+            <label for="sort">Sort</label>
+            <select id="sort">
+              <option value="new">Newest added</option>
+              <option value="old">Oldest added</option>
+              <option value="pinyin">Pinyin A–Z</option>
+              <option value="category">Category</option>
+              <option value="known">Least known first</option>
+            </select>
+          </div>
+          <div class="chips">${chips}</div>
+        </div>
+        <div class="list">${rows || '<div class="empty">No matching words.</div>'}</div>
+      </div>`;
+
+      const search = document.getElementById('search');
+      search.addEventListener('input', e => {
+        searchQuery = e.target.value;
+        const cursor = e.target.selectionStart;
+        renderBrowse();
+        const newSearch = document.getElementById('search');
+        newSearch.focus();
+        newSearch.setSelectionRange(cursor, cursor);
+      });
+      const sel = document.getElementById('sort');
+      sel.value = sortBy;
+      sel.addEventListener('change', e => { sortBy = e.target.value; renderBrowse(); });
+      main.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => { filterCat = ch.dataset.cat; renderBrowse(); }));
+      main.querySelectorAll('.item').forEach(it => it.addEventListener('click', () => it.classList.toggle('open')));
+      updateStats();
+    }
+
+    // ---- mode switching ----
+    function setMode(m){
+      mode = m;
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.mode===m));
+      if (m === 'study'){ buildQueue(); renderStudy(); } else { renderBrowse(); }
+    }
+    document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => setMode(t.dataset.mode)));
+    document.getElementById('grades').addEventListener('click', e => {
+      const btn = e.target.closest('.grade'); if (btn) doGrade(parseInt(btn.dataset.q,10));
+    });
+    document.addEventListener('keydown', e => {
+      if (mode !== 'study') return;
+      if (e.code === 'Space'){ e.preventDefault(); flip(); }
+      if (['1','2','3','4'].includes(e.key) && showingBack) doGrade(parseInt(e.key,10)-1);
+    });
+
+    // ---- load ----
+    fetch('vocab.json?_=' + Date.now()).then(r => r.json()).then(data => {
+      deck = data.map((c,i) => ({ ...c, _i:i }));
+      buildQueue(); renderStudy();
+    }).catch(err => {
+      document.getElementById('main').innerHTML = '<div class="wrap"><div class="empty"><h2>Couldn\'t load vocab</h2><p>'+err+'</p></div></div>';
+    });
+  </script>
+</body>
+</html>

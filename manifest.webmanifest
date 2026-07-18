@@ -1,0 +1,16 @@
+{
+  "name": "网语 · Netizen Vocab",
+  "short_name": "网语",
+  "description": "Learn trending Chinese netizen vocabulary with spaced-repetition flashcards.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192'%3E%3Crect width='192' height='192' rx='36' fill='%23c0392b'/%3E%3Ctext x='96' y='128' font-size='96' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3E网%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
