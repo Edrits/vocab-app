@@ -292,5 +292,61 @@
     "context": "A classic chengyu (from the Three Kingdoms era) that thrives online as the clipped verb 画饼 (huàbǐng) — now the standard word for a boss serving up grand, hollow promises to keep you working. A 成语 living a second life as office slang.",
     "category": "chengyu",
     "date_added": "2026-07-19"
+  },
+  {
+    "id": "xiexiu",
+    "hanzi": "邪修",
+    "pinyin": "xié xiū",
+    "literal": "heterodox/evil + cultivate",
+    "meaning": "An 'unorthodox hack' — a wildly unconventional, even absurd-looking shortcut that actually works. Applied to anything from cooking to fitness to studying.",
+    "meaning_zh": "指看似离谱、不按常理出牌，但实际上很管用的非常规方法或技巧，涵盖做饭、健身、学习等各种生活领域。",
+    "example": "用蜜雪冰城的柠檬水腌肉，是我摸索出的邪修做饭法。",
+    "example_pinyin": "Yòng Mìxuě Bīngchéng de níngméngshuǐ yān ròu, shì wǒ mōsuǒ chū de xiéxiū zuòfàn fǎ.",
+    "example_translation": "Marinating meat in bubble-tea-chain lemonade is my own unorthodox cooking hack.",
+    "context": "Borrowed from cultivation-fantasy (修仙) novels, where 邪修 are practitioners who reject the orthodox path for faster, riskier power. 小红书 users repurposed it in 2025–2026 for real life: posts like '兴趣邪修' and '邪修做饭' went viral for cutting corners in delightfully weird ways that actually deliver results.",
+    "category": "slang",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "ainilaoji",
+    "hanzi": "爱你老己",
+    "pinyin": "ài nǐ lǎo jǐ",
+    "literal": "love + you + old + self",
+    "meaning": "A cheeky twist on 'love yourself' — addressing yourself like an old, familiar friend ('old self') rather than an abstract ideal, said as a bit of self-encouragement or self-care.",
+    "meaning_zh": "“爱自己”的俏皮说法，把“自己”称作相识多年的“老己”，像哄老朋友一样安慰、鼓励自己，冲淡了传统自爱口号的说教感。",
+    "example": "今天又搞砸了，没事，爱你老己，明天见。",
+    "example_pinyin": "Jīntiān yòu gǎozá le, méishì, ài nǐ lǎo jǐ, míngtiān jiàn.",
+    "example_translation": "Messed up again today — it's fine, love you old self, see you tomorrow.",
+    "context": "Riffs on a League of Legends voice line, '爱你老妈，明天见' ('love you mum, see you tomorrow'), swapping in '老己'. It swept social media from late 2025 into 2026, with many hailing it as the year's kindest meme for reframing self-compassion without the usual self-help cheesiness.",
+    "category": "meme",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "cuipidagongren",
+    "hanzi": "脆皮打工人",
+    "pinyin": "cuìpí dǎgōngrén",
+    "literal": "crispy/brittle-skin + working person",
+    "meaning": "A 'crispy-skinned office worker' — someone who looks fine but is physically fragile, falling ill or getting hurt from the mildest overexertion, like a chip that shatters at a touch.",
+    "meaning_zh": "形容看起来正常，实则身体很脆弱的年轻上班族——熬夜加班、稍微劳累一下就生病或受伤，像薯片一样一碰就碎。",
+    "example": "加班到凌晨，第二天就感冒了，真是标准的脆皮打工人。",
+    "example_pinyin": "Jiābān dào língchén, dì èr tiān jiù gǎnmào le, zhēnshi biāozhǔn de cuìpí dǎgōngrén.",
+    "example_translation": "Worked until 2am and caught a cold the very next day — a textbook crispy-skinned office worker.",
+    "context": "Extended from 2023's '脆皮大学生' (students with mysteriously fragile bodies) to the workplace. Part of the self-mocking 打工人 meme lineage — young workers joking about burnout by comparing themselves to a snack that crumbles under the slightest pressure.",
+    "category": "social",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "jingshenzhuangtailianghao",
+    "hanzi": "精神状态良好",
+    "pinyin": "jīngshén zhuàngtài liánghǎo",
+    "literal": "mental + state + good",
+    "meaning": "An ironic caption meaning the opposite of what it says — 'my mental state is great' — used when things are visibly falling apart, as a self-deprecating badge of chaos.",
+    "meaning_zh": "字面是“心理状态很好”，实际是反讽——用来自嘲自己其实状态很不稳定、很崩溃，常配在搞怪或狼狈的照片下。",
+    "example": "论文还没写完，配图却写着“精神状态良好”。",
+    "example_pinyin": "Lùnwén hái méi xiě wán, pèitú què xiězhe \"jīngshén zhuàngtài liánghǎo\".",
+    "example_translation": "The essay's still unfinished, but the caption says 'mental state: great.'",
+    "context": "Traces back to '很有精神' ('full of spirit'), a line from a 1969 Japanese war film that became an ironic meme in Chinese gaming and anime circles. By the 2020s it evolved into '精神状态良好' as a deadpan caption netizens slap on photos of their own chaos or mishaps.",
+    "category": "meme",
+    "date_added": "2026-07-19"
   }
 ]
