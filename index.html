@@ -180,6 +180,7 @@
     .q-actions { display: flex; gap: 10px; justify-content: center; }
 
     /* me / stats */
+    .sync-nudge { font-size: 13px; color: var(--muted); text-align: center; padding: 10px 14px; border: 1px dashed var(--line); border-radius: 12px; margin-bottom: 12px; }
     .panel { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 18px; margin-bottom: 12px; }
     .panel h3 { margin: 0 0 12px; font-size: 12px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); font-weight: 700; }
     .rank-row { display: flex; align-items: center; gap: 14px; }
@@ -290,7 +291,7 @@
     // ---------- SRS (unchanged behaviour) ----------
     function loadJSON(key, fallback){ try { return JSON.parse(localStorage.getItem(key)) || fallback; } catch { return fallback; } }
     let state = loadJSON(SRS_KEY, {});
-    function saveState(){ localStorage.setItem(SRS_KEY, JSON.stringify(state)); }
+    function saveState(){ localStorage.setItem(SRS_KEY, JSON.stringify(state)); scheduleSync(); }
     function cardState(id){ return state[id] || { ease:2.5, interval:0, reps:0, due:0, lapses:0 }; }
     const DAY = 86400000; const now = () => Date.now();
 
@@ -332,7 +333,7 @@
     const NEW_PER_DAY = 10; // ration: max new words introduced per day
     let meta = loadJSON(META_KEY, { xp:0, activity:{}, doneBonusDate:null, newIntro:{} });
     meta.newIntro = meta.newIntro || {};
-    function saveMeta(){ meta.lastSaved = Date.now(); localStorage.setItem(META_KEY, JSON.stringify(meta)); }
+    function saveMeta(){ meta.lastSaved = Date.now(); localStorage.setItem(META_KEY, JSON.stringify(meta)); scheduleSync(); }
 
     // storage health check — some contexts (private browsing, embedded webviews) block it
     let storageOK = true;
@@ -382,6 +383,65 @@
       if (!meta.activity[todayKey(d)]) d.setDate(d.getDate()-1); // today not yet — count from yesterday
       while (meta.activity[todayKey(d)]){ s++; d.setDate(d.getDate()-1); }
       return s;
+    }
+
+    // ---------- cloud sync (PIN-keyed, via Cloudflare Worker) ----------
+    const SYNC_URL = ''; // deployed Worker URL enables sync; empty = feature hidden
+    const PIN_KEY = 'netizen-vocab-sync-pin';
+    function syncPin(){ try { return localStorage.getItem(PIN_KEY) || ''; } catch { return ''; } }
+    function syncEnabled(){ return !!(SYNC_URL && syncPin()); }
+    let syncInfo = { status:'idle', at:0 };
+    let syncTimer = null;
+    function syncLabel(){
+      if (!syncPin()) return 'Not set up';
+      return { idle:'Ready', syncing:'Syncing…',
+        synced:'Synced ✓ ' + (syncInfo.at ? new Date(syncInfo.at).toLocaleTimeString() : ''),
+        error:'⚠️ Couldn’t reach the cloud — will retry' }[syncInfo.status] || '';
+    }
+    function paintSync(){ const el = document.getElementById('syncLine'); if (el) el.innerHTML = syncLabel(); }
+    function syncBlobStr(){
+      return JSON.stringify({ app:'netizen-vocab-backup', savedAt: meta.lastSaved || Date.now(), srs: state, meta });
+    }
+    async function syncPush(){
+      if (!syncEnabled()) return;
+      syncInfo.status = 'syncing'; paintSync();
+      try {
+        const r = await fetch(SYNC_URL, { method:'PUT', headers:{ 'X-Pin': syncPin(), 'Content-Type':'application/json' }, body: syncBlobStr() });
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        syncInfo = { status:'synced', at: Date.now() };
+      } catch { syncInfo.status = 'error'; }
+      paintSync();
+    }
+    function scheduleSync(){
+      if (!syncEnabled()) return;
+      clearTimeout(syncTimer);
+      syncTimer = setTimeout(syncPush, 1500);
+    }
+    async function syncPull(interactive){
+      if (!syncEnabled()) return;
+      syncInfo.status = 'syncing'; paintSync();
+      try {
+        const r = await fetch(SYNC_URL, { headers:{ 'X-Pin': syncPin() } });
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        const remote = await r.json();
+        const localTs = meta.lastSaved || 0;
+        if (remote && remote.srs && (remote.savedAt || 0) > localTs){
+          state = remote.srs;
+          meta = remote.meta || meta;
+          meta.newIntro = meta.newIntro || {};
+          localStorage.setItem(SRS_KEY, JSON.stringify(state));
+          localStorage.setItem(META_KEY, JSON.stringify(meta));
+          syncInfo = { status:'synced', at: Date.now() };
+          if (deck.length){ buildQueue(); render(); }
+          if (interactive) toast('Progress pulled from the cloud ☁️');
+        } else if (localTs > ((remote && remote.savedAt) || 0)){
+          await syncPush();
+          if (interactive) toast('Local progress saved to the cloud ☁️');
+        } else {
+          syncInfo = { status:'synced', at: Date.now() };
+        }
+      } catch { syncInfo.status = 'error'; }
+      paintSync();
     }
 
     // ---------- tone-coloured pinyin ----------
@@ -488,9 +548,11 @@
       }</div>` : '';
       const storageWarn = storageOK ? '' :
         `<div class="warn-banner">⚠️ This browser is blocking storage — progress will NOT save here. See the Me tab.</div>`;
+      const syncNudge = (SYNC_URL && !syncPin()) ?
+        `<div class="sync-nudge">☁️ New: your progress can now follow you across devices — set a PIN in <b>Me → 云同步</b></div>` : '';
 
       main.innerHTML = `<div class="wrap">
-        ${storageWarn}
+        ${storageWarn}${syncNudge}
         <div class="panel" style="text-align:center">
           <h3>今日 · Today</h3>
           <div class="dash-counts">
@@ -861,6 +923,21 @@
           <div class="cat-counts">${Object.entries(catCounts).map(([c,n]) => `<span>${catLabel[c]||c} · ${n}</span>`).join('')}</div>
         </div>
 
+        ${SYNC_URL ? `<div class="panel">
+          <h3>云同步 · Cloud sync</h3>
+          ${syncPin() ? `
+            <div class="kv">Status: <b id="syncLine">${syncLabel()}</b></div>
+            <div class="kv" style="color:var(--muted);font-size:12px">Saves to the cloud moments after every change; loads wherever you enter the same PIN. Last-writer wins.</div>
+            <div class="btn-row">
+              <button class="ghost" id="syncNow">Sync now</button>
+              <button class="ghost" id="syncOff">Turn off on this device</button>
+            </div>`
+          : `
+            <div class="kv" style="color:var(--muted);font-size:12px">Pick a PIN — 4+ characters, a word plus digits is best (e.g. mango88). Enter the same PIN on any device and your streak, XP and review schedule follow you. Don’t reuse a password you care about.</div>
+            <input class="search" id="pinInput" type="text" autocomplete="off" placeholder="Choose your PIN">
+            <div class="btn-row"><button class="primary" id="syncOn">Enable sync</button></div>`}
+        </div>` : ''}
+
         <div class="panel">
           <h3>Storage &amp; backup</h3>
           ${storageOK ? '' : '<div class="warn-banner">⚠️ Storage is blocked in this browser context — progress cannot save here.</div>'}
@@ -899,10 +976,28 @@
         ta.style.display='block'; ta.value=''; ta.placeholder='Paste your backup here, then press Load';
         document.getElementById('loadRow').style.display='flex'; ta.focus();
       });
+      const syncOn = document.getElementById('syncOn');
+      if (syncOn) syncOn.addEventListener('click', () => {
+        const v = (document.getElementById('pinInput').value || '').trim();
+        if (v.length < 4){ toast('PIN needs at least 4 characters'); return; }
+        localStorage.setItem(PIN_KEY, v);
+        renderMe();
+        toast('Sync enabled ☁️');
+        syncPull(true);
+      });
+      const syncNow = document.getElementById('syncNow');
+      if (syncNow) syncNow.addEventListener('click', () => syncPull(true));
+      const syncOff = document.getElementById('syncOff');
+      if (syncOff) syncOff.addEventListener('click', () => {
+        localStorage.removeItem(PIN_KEY);
+        toast('Sync turned off on this device');
+        renderMe();
+      });
       document.getElementById('loadBtn').addEventListener('click', () => {
         try {
           const b = JSON.parse(document.getElementById('backupArea').value);
           if (b.app !== 'netizen-vocab-backup' || !b.srs || !b.meta) throw new Error('bad');
+          b.meta.lastSaved = Date.now(); // a deliberate restore counts as the newest state, so sync won't overwrite it
           localStorage.setItem(SRS_KEY, JSON.stringify(b.srs));
           localStorage.setItem(META_KEY, JSON.stringify(b.meta));
           toast('Backup restored ✅');
@@ -936,9 +1031,11 @@
     });
 
     // ---------- load ----------
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) syncPull(); });
     fetch('vocab.json?_=' + Date.now()).then(r => r.json()).then(data => {
       deck = data.map((c,i) => ({ ...c, _i:i }));
       buildQueue(); render();
+      syncPull();
     }).catch(err => {
       document.getElementById('main').innerHTML = '<div class="wrap"><div class="empty"><h2>Couldn\'t load vocab</h2><p>'+err+'</p></div></div>';
     });
