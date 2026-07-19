@@ -6,8 +6,21 @@ This is the task the scheduled agent runs each morning to grow `vocab.json`.
 Find 3–5 **fresh, genuinely-trending** Chinese netizen terms and append them to `vocab.json`,
 never duplicating a term already in the file.
 
+## Token discipline (important — the database grows daily)
+Never read `vocab.json` into context and never hand-edit it. It gains ~4 entries a day;
+reading it wholesale will eventually cost hundreds of thousands of tokens per run.
+You only ever need the *keys*, via the commands below.
+
 ## Steps
-1. **Read** `vocab.json` and collect every existing `hanzi` and `id` so you can skip duplicates.
+1. **List what exists** (instead of reading the file). Run:
+   ```
+   python3 -c "import json; d=json.load(open('vocab.json')); print(len(d), 'words:', ' '.join(e['hanzi'] for e in d))"
+   ```
+   This gives you the full dedupe list for a few tokens per word. The chengyu ratio and
+   category counts are printed by the append script in step 5, or on demand:
+   ```
+   python3 -c "import json, collections; print(collections.Counter(e['category'] for e in json.load(open('vocab.json'))))"
+   ```
 2. **Search** current Chinese internet trends. Rotate across sources so results stay varied:
    - Weibo hot search (微博热搜), Douyin / RedNote (小红书) trending, Bilibili
    - "中国 网络流行语 <current month/year>", "trending Chinese internet slang <year>"
@@ -20,9 +33,16 @@ never duplicating a term already in the file.
      every batch — track the running ratio (about 1 in 10).
 4. For each term, **verify meaning/usage** against at least one source before writing it —
    do not invent definitions. If unsure about a term, drop it rather than guess.
-5. **Append** each as an object to the `vocab.json` array with ALL fields below, then confirm
-   the file is still valid JSON.
-6. Commit with a message like `vocab: add N terms (YYYY-MM-DD)` (once the project is in git).
+5. **Append via the script** — write your new entries (ALL fields below) as a JSON array
+   to a scratch file *outside the repo* (e.g. `$TMPDIR/new_words.json`), then run:
+   ```
+   python3 scripts/add_words.py "$TMPDIR/new_words.json"
+   ```
+   It validates the schema, skips anything already in the deck, appends the rest, and
+   prints the new totals including the chengyu ratio. If it reports schema errors, fix
+   your scratch file and re-run — never edit `vocab.json` directly.
+6. Commit `vocab.json` with a message like `vocab: add N terms (YYYY-MM-DD)` and push
+   (push = deploy via GitHub Pages).
 
 ## Entry schema (every field required)
 ```json

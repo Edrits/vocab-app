@@ -26,9 +26,9 @@ Live at **https://edrits.github.io/vocab-app/** via GitHub Pages, serving the `m
 
 Three moving parts:
 
-- **`vocab.json`** — the entire database: a flat array of word entries. Each entry's schema and the quality bar are documented in `DAILY_FETCH.md`; follow it when adding words. Entries are keyed by a unique `id`; dedupe on `id`/`hanzi`.
+- **`vocab.json`** — the entire database: a flat array of word entries. Each entry's schema and the quality bar are documented in `DAILY_FETCH.md`. **Don't read it wholesale or hand-edit it — it grows daily.** To see what's in the deck, extract keys via a shell one-liner (see `DAILY_FETCH.md`); to add words, write the new entries to a scratch file and run `python3 scripts/add_words.py <file>`, which validates, dedupes on `id`/`hanzi`, appends, and prints deck stats.
 - **`index.html`** — the whole app (markup, CSS, and vanilla JS inline). Four tabs: **Study** (SM-2-lite flashcards), **Quiz** (multiple-choice rounds, XP only — never touches the SRS schedule), **Browse** (search/sort/filter list), and **Me** (netizen rank + XP, 打卡 streak heatmap, word of the day, mastery). Pinyin renders tone-coloured via `tonePinyin()`; audio uses the browser's built-in zh-CN speech synthesis. Category styling keys off `cat-<category>` classes (e.g. chengyu renders gold).
-- **`DAILY_FETCH.md`** — the recipe an agent follows to research trending terms and append them to `vocab.json`. The "grab today's words" workflow runs this. Keep roughly one chengyu per ~10 new words, and commit + push afterwards so the live site updates.
+- **`DAILY_FETCH.md`** — the recipe an agent follows to research trending terms and append them to `vocab.json`. A scheduled task (`daily-netizen-vocab-fetch`, ~06:30 daily, runs while the Claude app is open on this Mac) executes it automatically; "grab today's words" runs it on demand. Keep roughly one chengyu per ~10 words, and commit + push afterwards so the live site updates.
 
 Key design point: **review progress lives in the browser's `localStorage`** (SRS state under `netizen-vocab-srs-v1`; XP/streak/activity under `netizen-vocab-meta-v1`), never in `vocab.json`. This keeps the database clean and shareable, but means progress is per-device and resets if site data is cleared. Preserve this separation — don't write SRS state into `vocab.json`.
 
