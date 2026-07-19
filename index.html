@@ -386,7 +386,7 @@
     }
 
     // ---------- cloud sync (PIN-keyed, via Cloudflare Worker) ----------
-    const SYNC_URL = ''; // deployed Worker URL enables sync; empty = feature hidden
+    const SYNC_URL = 'https://vocab-sync.neddritchie.workers.dev'; // deployed Worker URL enables sync; empty = feature hidden
     const PIN_KEY = 'netizen-vocab-sync-pin';
     function syncPin(){ try { return localStorage.getItem(PIN_KEY) || ''; } catch { return ''; } }
     function syncEnabled(){ return !!(SYNC_URL && syncPin()); }
