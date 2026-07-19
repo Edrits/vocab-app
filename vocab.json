@@ -348,5 +348,61 @@
     "context": "Traces back to '很有精神' ('full of spirit'), a line from a 1969 Japanese war film that became an ironic meme in Chinese gaming and anime circles. By the 2020s it evolved into '精神状态良好' as a deadpan caption netizens slap on photos of their own chaos or mishaps.",
     "category": "meme",
     "date_added": "2026-07-19"
+  },
+  {
+    "id": "jingzijiyibei",
+    "hanzi": "敬自己一杯",
+    "pinyin": "jìng zìjǐ yī bēi",
+    "literal": "toast + oneself + one + cup",
+    "meaning": "\"Here's a toast to yourself\" — a self-directed toast used to quietly celebrate your own effort or comfort yourself after a hard day, with no one else's approval required.",
+    "meaning_zh": "意思是自己给自己敬一杯酒，用来肯定自己的努力、安慰疲惫的自己，不需要别人的认可，是当代年轻人自我和解、自我鼓励的一种温柔表达。",
+    "example": "项目终于交了，先敬自己一杯。",
+    "example_pinyin": "Xiàngmù zhōngyú jiāo le, xiān jìng zìjǐ yī bēi.",
+    "example_translation": "The project's finally done — cheers to myself first.",
+    "context": "Named one of China's official top-ten internet buzzwords of 2025 by state media outlets including 中新网. It captures a shift away from needing outside validation: instead of waiting for a boss or friend to say 'well done,' people quietly raise a glass — real or imagined — to themselves after finishing something hard, using the phrase as gentle self-care in a culture that prizes constant productivity.",
+    "category": "social",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "woyaoyanpai",
+    "hanzi": "我要验牌",
+    "pinyin": "wǒ yào yàn pái",
+    "literal": "I + want + check + cards/tiles",
+    "meaning": "\"I demand a card check!\" — a mock-outraged catchphrase shouted when something seems rigged, too good to be true, or suspiciously unfair, whether in a game, a shady purchase, or an absurd real-life coincidence.",
+    "meaning_zh": "字面意思是要求检查牌局是否作弊，现在被网友用来调侃任何看起来“太离谱”“太巧”“像开挂”的事情，比如抽卡出货、买到假货、比赛结果离谱等，带着夸张、搞笑的质疑语气。",
+    "example": "这个签到奖池居然连续三次抽到隐藏款，我要验牌！",
+    "example_pinyin": "Zhège qiāndào jiǎngchí jūrán liánxù sān cì chōu dào yǐncáng kuǎn, wǒ yào yàn pái!",
+    "example_translation": "The check-in prize pool gave me the hidden item three times in a row — I demand a card check!",
+    "context": "The line comes from a French gambler character's exaggerated, badly-accented Mandarin in the 1990 Stephen Chow film 'God of Gamblers II'. It resurfaced in early 2025 when players noticed an impossible run of matching cards in a game of Sanguosha (Three Kingdoms Kill), and someone spliced the old movie clip over the footage as a joke. It exploded into a catch-all meme for calling out anything absurdly convenient, racking up billions of views and even trending during the 2026 Lunar New Year TV gala.",
+    "category": "meme",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "kukuma",
+    "hanzi": "哭哭马",
+    "pinyin": "kū kū mǎ",
+    "literal": "cry + cry + horse",
+    "meaning": "A pouty-faced horse plush toy — and by extension, a stand-in for 'I'm having a rough day but I'm allowed to show it,' used self-deprecatingly instead of performing constant positivity.",
+    "meaning_zh": "原指义乌工厂在缝制马年吉祥物玩偶时，误把上扬的嘴角缝成了向下撇的“委屈脸”，本该是次品，却因为这副又可怜又可爱的表情意外走红。现在网友用“哭哭马”自嘲情绪低落、诸事不顺，或表达“允许自己不开心”的态度。",
+    "example": "今天又被老板骂了，我现在就是一只哭哭马。",
+    "example_pinyin": "Jīntiān yòu bèi lǎobǎn mà le, wǒ xiànzài jiùshì yī zhī kūkūmǎ.",
+    "example_translation": "Got yelled at by my boss again today — I'm basically a kūkūmǎ right now.",
+    "context": "A factory-defect plush toy from Yiwu made ahead of the 2026 Year of the Horse: a stitching mistake gave it a downturned, sulky mouth instead of the standard cheerful smile. Photos of the 'defective' toy went viral because its grumpy little face felt more honest than the usual forced-cheerful mascots, and it became shorthand for rejecting mandatory positivity at work — you're allowed to look like you're having a bad day.",
+    "category": "meme",
+    "date_added": "2026-07-19"
+  },
+  {
+    "id": "bianjiegan",
+    "hanzi": "边界感",
+    "pinyin": "biānjiè gǎn",
+    "literal": "boundary + sense",
+    "meaning": "A sense of personal boundaries — knowing where 'your business' ends and 'someone else's business' begins, and respecting that line in relationships, at work, and online.",
+    "meaning_zh": "指人与人交往中对界限的判定和重视程度，强调“你的事归你，我的事归我”，是一种保护个人隐私、情绪和舒适圈，同时也尊重他人空间的相处智慧。",
+    "example": "别老问我工资多少，能不能有点边界感？",
+    "example_pinyin": "Bié lǎo wèn wǒ gōngzī duōshǎo, néng bù néng yǒu diǎn biānjiè gǎn?",
+    "example_translation": "Stop asking how much I earn — could you have some boundaries?",
+    "context": "Named in Chinese social platforms' 2026 roundups of the year's defining terms (including 小红书's annual hot-words report), '边界感' tracks a broader shift toward asserting personal space against nosy relatives, oversharing coworkers, and boundary-crossing partners. It's commonly paired with related terms like '活人感' (feeling like a real, un-curated person) as part of a wave of vocabulary about protecting one's inner life from social pressure.",
+    "category": "social",
+    "date_added": "2026-07-19"
   }
 ]
