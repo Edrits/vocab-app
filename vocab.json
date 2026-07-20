@@ -404,5 +404,61 @@
     "context": "Named in Chinese social platforms' 2026 roundups of the year's defining terms (including 小红书's annual hot-words report), '边界感' tracks a broader shift toward asserting personal space against nosy relatives, oversharing coworkers, and boundary-crossing partners. It's commonly paired with related terms like '活人感' (feeling like a real, un-curated person) as part of a wave of vocabulary about protecting one's inner life from social pressure.",
     "category": "social",
     "date_added": "2026-07-19"
+  },
+  {
+    "id": "saibo-duizhang",
+    "hanzi": "赛博对账",
+    "pinyin": "sài bó duì zhàng",
+    "literal": "cyber + reconcile-accounts",
+    "meaning": "Using someone's own public online trail — old posts, livestream clips, comments — to check whether their words and actions actually line up, exposing hypocrisy or double standards. Also used for Chinese and international netizens comparing everyday-life details (wages, rent, work hours) across borders.",
+    "meaning_zh": "网友利用他人在网络上留下的公开记录（如动态、聊天记录、视频片段）来核实其言行是否一致，戳穿\"双标\"或言行不一；也指中外网民互相比较工资、物价、工时等日常生活细节，像对两本账一样核实彼此的生活。",
+    "example": "他去年说绝不加班，今天被网友\"赛博对账\"，翻出他加班的动态。",
+    "example_pinyin": "Tā qùnián shuō juébù jiābān, jīntiān bèi wǎngyǒu \"sàibó duìzhàng\", fānchū tā jiābān de dòngtài.",
+    "example_translation": "Last year he swore he'd never work overtime; today netizens \"cyber-reconciled\" him by digging up his old post about working late.",
+    "context": "Coined after the 2025 US TikTok ban scare sent American users flooding onto Xiaohongshu (RedNote), where they and Chinese users started comparing rent, wages and daily life like two ledgers being checked against each other (对账 is literally what accountants do). It quickly gained a sharper second use: scrolling someone's own post history to catch them contradicting themselves. Named one of China's official top-10 buzzwords of 2025.",
+    "category": "meme",
+    "date_added": "2026-07-20"
+  },
+  {
+    "id": "wai-juan",
+    "hanzi": "外卷",
+    "pinyin": "wài juǎn",
+    "literal": "outward + roll/curl (mirrors 内卷, \"inward-roll\")",
+    "meaning": "The deliberate opposite of 内卷 (nèijuǎn, ruinous internal competition for a shrinking pie): instead of fighting harder over the same limited resources, expanding outward for new markets and opportunities — or simply agreeing with rivals to stop the internal rat race together.",
+    "meaning_zh": "\"内卷\"的反义词，指不再和身边的人争夺有限的存量资源，而是向外开拓新市场、新资源，或者干脆和大家说好一起停止内部消耗式竞争。",
+    "example": "与其卷价格，不如想想怎么外卷，开拓海外市场。",
+    "example_pinyin": "Yǔqí juǎn jiàgé, bùrú xiǎngxiang zěnme wàijuǎn, kāituò hǎiwài shìchǎng.",
+    "example_translation": "Instead of racing each other to the bottom on price, why not go external and open up overseas markets instead.",
+    "context": "Built as a direct mirror of 内卷 — swap 内 (inward) for 外 (outward), keep the \"rolling/curling\" image. It surfaced heavily in 2026 commentary on Chinese carmakers and manufacturers stuck in brutal price wars, with people urging firms to \"外卷\" — grow the whole pie abroad — instead of \"内卷\" against each other at home.",
+    "category": "social",
+    "date_added": "2026-07-20"
+  },
+  {
+    "id": "jiao-mao-shui",
+    "hanzi": "交猫税",
+    "pinyin": "jiāo māo shuì",
+    "literal": "pay/hand-over + cat + tax",
+    "meaning": "A joking \"toll\" — a cat photo — that new foreign users on Xiaohongshu (RedNote) are told they must \"pay\" before being welcomed in; posting a pet pic as a friendly icebreaker when introducing yourself on the platform.",
+    "meaning_zh": "外国新用户在小红书上自我介绍时，被中国网友开玩笑要求先晒一张自家猫的照片作为\"入场费\"，戏称为\"交猫税\"，后来也扩展到晒狗、马、羊等各种宠物。",
+    "example": "刚注册小红书就有人让我先交猫税，我赶紧发了张我家猫主子的照片。",
+    "example_pinyin": "Gāng zhùcè Xiǎohóngshū jiù yǒu rén ràng wǒ xiān jiāo māoshuì, wǒ gǎnjǐn fāle zhāng wǒjiā māo zhǔzi de zhàopiàn.",
+    "example_translation": "I'd barely signed up for RedNote before someone told me to pay the cat tax, so I quickly posted a photo of my cat.",
+    "context": "Went viral in January 2025 when the looming US TikTok ban sent American \"TikTok refugees\" flooding onto Xiaohongshu. Chinese users welcomed them by jokingly demanding a \"cat tax\" — a cute pet photo — before letting them settle in, turning it into a good-natured cross-cultural icebreaker that's still referenced whenever new foreign users show up.",
+    "category": "meme",
+    "date_added": "2026-07-20"
+  },
+  {
+    "id": "ci-di-wu-yin-san-bai-liang",
+    "hanzi": "此地无银三百两",
+    "pinyin": "cǐ dì wú yín sān bǎi liǎng",
+    "literal": "this place + no + silver + three hundred + taels",
+    "meaning": "\"There's no 300 taels of silver buried here\" — said of someone whose clumsy denial or cover-up ends up proving exactly the thing they were trying to hide; the harder they protest, the more obviously guilty they look.",
+    "meaning_zh": "比喻想要隐瞒、掩盖真相的人，因为手法笨拙，反而弄巧成拙，暴露了自己想掩盖的事实；越是极力否认，越显得心虚。",
+    "example": "他反复强调\"我真的没有偷看她手机\"，简直是此地无银三百两。",
+    "example_pinyin": "Tā fǎnfù qiángdiào \"wǒ zhēnde méiyǒu tōukàn tā shǒujī\", jiǎnzhí shì cǐdì wú yín sānbǎi liǎng.",
+    "example_translation": "He kept insisting \"I really didn't peek at her phone\" — which basically proved that he did.",
+    "context": "From an old folk tale: a man buried silver, then worried people would suspect him, so he planted a sign reading \"there's no 300 taels of silver buried here.\" His neighbour Wang Er stole it and left his own sign saying \"your neighbour Wang Er didn't take it,\" giving himself away just as badly. Comment sections use it constantly to mock painfully unconvincing denials.",
+    "category": "chengyu",
+    "date_added": "2026-07-20"
   }
 ]
