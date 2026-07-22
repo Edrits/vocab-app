@@ -460,5 +460,61 @@
     "context": "From an old folk tale: a man buried silver, then worried people would suspect him, so he planted a sign reading \"there's no 300 taels of silver buried here.\" His neighbour Wang Er stole it and left his own sign saying \"your neighbour Wang Er didn't take it,\" giving himself away just as badly. Comment sections use it constantly to mock painfully unconvincing denials.",
     "category": "chengyu",
     "date_added": "2026-07-20"
+  },
+  {
+    "id": "zhu-wo-po-ding",
+    "hanzi": "助我破鼎",
+    "pinyin": "zhù wǒ pò dǐng",
+    "literal": "help me break [the] cauldron",
+    "meaning": "A rallying cry for smashing through an obstacle — exams, deadlines, a gym plateau. Netizens shout it (or type it) to psych themselves up or beg friends for a boost, like 'help me break through!'",
+    "meaning_zh": "为自己或他人打气的口号，表示要突破眼前的难关（考试、赶工、健身瓶颈等），求大家一起助力，冲破束缚。",
+    "example": "明天就要考试了，兄弟们，助我破鼎！",
+    "example_pinyin": "Míngtiān jiù yào kǎoshì le, xiōngdìmen, zhù wǒ pò dǐng!",
+    "example_translation": "The exam is tomorrow — brothers, help me break the cauldron!",
+    "context": "The line Nezha and Ao Bing shout in the 2025 blockbuster animation 哪吒之魔童闹海 (Ne Zha 2) as they join forces to shatter the Tianyuan Ding, a cauldron symbolising their fated doom. Netizens adopted it as an all-purpose motivational battle cry against life's obstacles, and it made the National Language Resources Monitoring Centre's official top-10 netizen phrases of 2025.",
+    "category": "meme",
+    "date_added": "2026-07-22"
+  },
+  {
+    "id": "wo-de-shen-cai-hen-man-miao",
+    "hanzi": "我的身材很曼妙",
+    "pinyin": "wǒ de shēncái hěn mànmiào",
+    "literal": "my figure is very graceful",
+    "meaning": "The ultimate deadpan non-answer. Reply '不知道，我的身材很曼妙' ('no idea — my figure is graceful') to any question you'd rather dodge: an absurd swerve plus shameless self-praise. Swap in other words (我的睡眠很曼妙…) to fit the situation.",
+    "meaning_zh": "万能的答非所问回复公式：别人问什么都回一句\"不知道，我的身材很曼妙\"，用荒诞的自夸化解一切严肃提问，是\"已读乱回\"的天花板。",
+    "example": "老板问我方案写完了吗？不知道，我的身材很曼妙。",
+    "example_pinyin": "Lǎobǎn wèn wǒ fāng'àn xiě wán le ma? Bù zhīdào, wǒ de shēncái hěn mànmiào.",
+    "example_translation": "The boss asked if I'd finished the proposal? No idea — my figure is graceful.",
+    "context": "Born in an April 2025 Taobao dress review: a shopper asked 'does this dress make hips look wide?' and another buyer replied 'no idea, my figure is graceful'. The gloriously useless answer simmered in fashion circles until January 2026, when actress Yang Mi's studio used it and it exploded into the meme of the new year, spawning endless 曼妙 variants.",
+    "category": "meme",
+    "date_added": "2026-07-22"
+  },
+  {
+    "id": "yi-du-luan-hui",
+    "hanzi": "已读乱回",
+    "pinyin": "yǐ dú luàn huí",
+    "literal": "already read, randomly reply",
+    "meaning": "Deliberately answering a message with cheerful nonsense — you've read it, you just refuse to engage seriously. A playful dodge that deflates awkward or nosy questions with absurdity rather than silence.",
+    "meaning_zh": "看了消息却故意胡乱回复，答非所问。用无厘头的回答把严肃或尴尬的话题解构掉，是比\"已读不回\"更有喜感的社交智慧。",
+    "example": "问他晚饭想吃什么，他回\"地球是圆的\"，纯属已读乱回。",
+    "example_pinyin": "Wèn tā wǎnfàn xiǎng chī shénme, tā huí \"dìqiú shì yuán de\", chúnshǔ yǐ dú luàn huí.",
+    "example_translation": "I asked what he wanted for dinner and he replied 'the Earth is round' — pure read-and-reply-nonsense.",
+    "context": "A riff on 已读不回 (read but never replied). Popularised by a Douyin video of a grandpa whose answers never matched his grandson's questions, it became shorthand for the young generation's coping style: rather than ghosting or arguing, defuse everything with a surreal one-liner. The 曼妙 meme is its crowning example.",
+    "category": "slang",
+    "date_added": "2026-07-22"
+  },
+  {
+    "id": "yu-zhi-peng-you-quan",
+    "hanzi": "预制朋友圈",
+    "pinyin": "yùzhì péngyǒuquān",
+    "literal": "pre-made friend circle (WeChat Moments)",
+    "meaning": "Pre-fabricated WeChat Moments: batch-shooting and editing photos during a trip or event, saving the location tag, then drip-feeding the posts over later days or weeks as if they were live. Life run like a content production line.",
+    "meaning_zh": "提前拍好、修好、配好文案的朋友圈素材，之后再分批\"新鲜\"发布。像预制菜一样，把生活的记录变成一条内容生产线。",
+    "example": "五一拍的照片她存到现在，每周发一条预制朋友圈。",
+    "example_pinyin": "Wǔyī pāi de zhàopiàn tā cún dào xiànzài, měi zhōu fā yì tiáo yùzhì péngyǒuquān.",
+    "example_translation": "She's still sitting on her May Day photos, posting one pre-made Moments update a week.",
+    "context": "Borrowed from 预制菜 (pre-made meals, a controversial restaurant trend). Went viral in September 2024 as netizens admitted to stockpiling polished holiday photos and scheduling them out, and it still circulates in 2026 alongside spin-offs like 预制人生 ('pre-made life'). Half self-mockery about performing life online, half genuine social-media strategy.",
+    "category": "social",
+    "date_added": "2026-07-22"
   }
 ]
