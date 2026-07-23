@@ -572,5 +572,33 @@
     "context": "From a Han-dynasty fable: Lord Ye filled his house with dragon carvings and paintings, but when a real dragon dropped by to say thanks, he fled in terror. Netizens wheel it out in comment sections whenever an audience demands something then abandons it on arrival — 'you don't love the game, you love the idea of it' energy, a favourite in fandom and gaming discourse.",
     "category": "chengyu",
     "date_added": "2026-07-23"
+  },
+  {
+    "id": "fa-feng-wenxue",
+    "hanzi": "发疯文学",
+    "pinyin": "fā fēng wén xué",
+    "literal": "go-crazy literature",
+    "meaning": "A deliberately unhinged, hyper-dramatic writing style — a wall of exaggerated, illogical, emotionally overflowing text — used to vent frustration or humorously overwhelm someone (a rude customer service rep, an ex) instead of arguing normally. Also just used for comic effect.",
+    "meaning_zh": "指用夸张、无逻辑、情绪爆棚的文字疯狂输出，常用来发泄情绪或怼人，也可以纯粹搞笑用。",
+    "example": "客服态度不好，她直接甩出一段发疯文学，把对方整不会了。",
+    "example_pinyin": "Kèfú tàidù bù hǎo, tā zhíjiē shuǎi chū yí duàn fāfēng wénxué, bǎ duìfāng zhěng bú huì le.",
+    "example_translation": "The customer service rep was rude, so she fired off a wall of 'unhinged literature' and completely threw them off.",
+    "context": "Emerged around 2020 on Douban forums, when a post beginning '我不发疯我说什么' (what else am I supposed to do if not go off) went viral for its chaotic, dramatic energy. It caught on as a way to vent stress or overwhelm rude strangers online — netizens now deploy a ready-made 'unhinged' paragraph instead of arguing normally.",
+    "category": "meme",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "da-zi",
+    "hanzi": "搭子",
+    "pinyin": "dā zi",
+    "literal": "partner / mate (for one specific activity)",
+    "meaning": "A casual, activity-specific companion — a 'meal buddy', 'gym buddy', 'travel buddy' — with none of the emotional commitment of a close friendship. You find a 搭子 for one purpose and the relationship stays light and disposable.",
+    "meaning_zh": "指为了某个具体场景临时结成的低承诺社交伙伴，比如饭搭子、健身搭子、旅游搭子，彼此不需要深交，事情办完就各自散去。",
+    "example": "我没有饭搭子，只能一个人吃饭。",
+    "example_pinyin": "Wǒ méiyǒu fàn dāzi, zhǐ néng yí gè rén chīfàn.",
+    "example_translation": "I don't have a meal buddy, so I have to eat alone.",
+    "context": "Took off in 2023 as young people, wary of the emotional labour and obligations of close friendships, started matching with strangers online purely for specific activities — 饭搭子 for meals, 逛展搭子 for exhibitions. It made 《咬文嚼字》's top-ten slang list that year and has stuck around as a low-commitment alternative to traditional friendship.",
+    "category": "social",
+    "date_added": "2026-07-23"
   }
 ]
