@@ -600,5 +600,61 @@
     "context": "Took off in 2023 as young people, wary of the emotional labour and obligations of close friendships, started matching with strangers online purely for specific activities — 饭搭子 for meals, 逛展搭子 for exhibitions. It made 《咬文嚼字》's top-ten slang list that year and has stuck around as a low-commitment alternative to traditional friendship.",
     "category": "social",
     "date_added": "2026-07-23"
+  },
+  {
+    "id": "wai-hao",
+    "hanzi": "外耗",
+    "pinyin": "wài hào",
+    "literal": "outward + expend",
+    "meaning": "The counterpart to the already-viral 内耗 (grinding yourself down with internal anxiety): instead of stewing on stress privately, you channel it outward, into action or onto other people. Used both as a genuine coping tip and as a wry admission of taking frustration out on others.",
+    "meaning_zh": "与\"内耗\"相对，指不把焦虑和负面情绪压在心里自我消耗，而是转向外部——投入实际行动，或者发泄给别人。既可以是积极意义上的\"把精力用在做事上\"，也可以带点自嘲或吐槽的意味。",
+    "example": "与其在心里内耗，不如外耗一下，直接把方案改了。",
+    "example_pinyin": "Yǔqí zài xīnli nèihào, bùrú wàihào yīxià, zhíjiē bǎ fāng'àn gǎi le.",
+    "example_translation": "Instead of stewing over it internally, might as well channel it outward — just go rewrite the proposal.",
+    "context": "Coined as a direct mirror of 内耗, which had already saturated Chinese social media as shorthand for silent, self-directed burnout. 外耗 flipped the word outward and spread through Zhihu and Weibo discussions in 2026 about healthier (or at least funnier) ways to handle stress — redirect it into action, rather than letting it eat you from the inside.",
+    "category": "social",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "diqiu-online",
+    "hanzi": "地球online",
+    "pinyin": "dìqiú online",
+    "literal": "Earth + online (as in an MMORPG server name)",
+    "meaning": "Treats real life as if it's a live-service video game you're stuck grinding: birth is \"registering an account,\" your ID number is your \"UID,\" commuting is a \"daily quest,\" and a bad day is the server \"acting up\" or under \"maintenance.\" A humorous lens for turning mundane hardship into something you can shrug off like a game glitch.",
+    "meaning_zh": "把现实生活比喻成一款正在运营的网络游戏：出生是\"注册账号\"，身份证号是\"UID\"，上班通勤是\"每日任务\"，倒霉的一天就是\"服务器又抽风/维护了\"。用游戏化的调侃口吻消解现实压力。",
+    "example": "别问了，地球online今天又在维护，什么事都不顺。",
+    "example_pinyin": "Bié wèn le, dìqiú online jīntiān yòu zài wéihù, shénme shì dōu bù shùn.",
+    "example_translation": "Don't even ask — Earth Online is under maintenance again today, nothing's going right.",
+    "context": "A long-running internet framing (netizens trace casual use back well over a decade) that resurged hard in 2026 as young people leaned harder into gaming vocabulary to describe burnout: work is \"grinding,\" exams are \"story quests,\" and a rough patch is just bad server luck — never your fault, and never permanent.",
+    "category": "meme",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "fan-jingzhi",
+    "hanzi": "反精致",
+    "pinyin": "fǎn jīngzhì",
+    "literal": "anti + exquisite/polished",
+    "meaning": "A backlash against the heavily filtered, perfectly curated \"精致生活\" (exquisite lifestyle) aesthetic that dominated lifestyle social media for years. 反精致 content is deliberately unpolished, slightly messy, and shot on the fly — and it's now what actually performs well, because audiences are tired of feeling inadequate next to fake-perfect feeds.",
+    "meaning_zh": "对多年来社交媒体上滤镜满满、摆拍精致的\"精致生活\"审美的一种反弹。\"反精致\"内容故意不加修饰、随手拍、甚至有点丑，反而因为真实感更受欢迎，因为大家看腻了假完美的生活方式。",
+    "example": "现在小红书都流行反精致了，随手拍的丑照反而比精修图火。",
+    "example_pinyin": "Xiànzài Xiǎohóngshū dōu liúxíng fǎn jīngzhì le, shùnshǒu pāi de chǒu zhào fǎn'ér bǐ jīngxiū tú huǒ.",
+    "example_translation": "Anti-polish is trending on Xiaohongshu now — casual ugly snapshots actually outperform heavily edited photos.",
+    "context": "Emerged in 2026 as Xiaohongshu users and bloggers reported aesthetic fatigue with the platform's trademark filtered, staged content. Creators found that rougher, more candid posts got better engagement, and 反精致 became the label for this shift away from curated perfection toward visible imperfection as the new marker of authenticity.",
+    "category": "social",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "sigua-tang",
+    "hanzi": "丝瓜汤",
+    "pinyin": "sīguā tāng",
+    "literal": "luffa (loofah gourd) + soup",
+    "meaning": "Shorthand for a very specific parental deflection tactic: instead of engaging with a real problem (career, relationships, emotions), an elder reduces it to a minor physical ailment and prescribes a home remedy — \"your liver's overheated, drink some luffa soup.\" Now used generally to mock anyone who dodges the actual issue with vague, unhelpful concern.",
+    "meaning_zh": "指一种典型的家长式回避方式：面对子女真正的问题（工作、感情、情绪），长辈不去正面回应，而是把一切归结为\"上火\"之类的小毛病，开出\"喝点丝瓜汤\"这种食疗偏方来打发。现在泛指任何用空洞、不解决问题的\"关心\"来回避正题的行为。",
+    "example": "跟我妈说压力大想辞职，她说是我肝火旺，让我喝丝瓜汤。",
+    "example_pinyin": "Gēn wǒ mā shuō yālì dà xiǎng cízhí, tā shuō shì wǒ gānhuǒ wàng, ràng wǒ hē sīguā tāng.",
+    "example_translation": "I told my mum I'm stressed and want to quit, and she said it's just liver heat and told me to drink luffa soup.",
+    "context": "Went viral in 2025 from short-video creator @累子's family comedy sketches, where an on-screen parent responds to every real problem with the same deflection: \"drink some luffa soup for your liver.\" It stuck because so many viewers recognised the pattern from their own families — turning emotional or structural problems into food-therapy small talk — and it's remained in steady circulation into 2026.",
+    "category": "meme",
+    "date_added": "2026-07-23"
   }
 ]
