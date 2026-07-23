@@ -516,5 +516,61 @@
     "context": "Borrowed from 预制菜 (pre-made meals, a controversial restaurant trend). Went viral in September 2024 as netizens admitted to stockpiling polished holiday photos and scheduling them out, and it still circulates in 2026 alongside spin-offs like 预制人生 ('pre-made life'). Half self-mockery about performing life online, half genuine social-media strategy.",
     "category": "social",
     "date_added": "2026-07-22"
+  },
+  {
+    "id": "huo-ren-wei-si",
+    "hanzi": "活人微死",
+    "pinyin": "huórén wēisǐ",
+    "literal": "living person, slightly dead",
+    "meaning": "Running on autopilot: body present, soul offline. Describes the numb, NPC-like state of grinding through work and chores with zero emotional response — alive on paper, faintly dead inside.",
+    "meaning_zh": "形容表面正常运转、内心却麻木空虚的状态：机械地上班干活，毫无情绪波动，像个NPC——人还活着，心已下线。",
+    "example": "周一开会的时候我整个人活人微死，全靠咖啡续命。",
+    "example_pinyin": "Zhōuyī kāihuì de shíhou wǒ zhěng gè rén huórén wēisǐ, quán kào kāfēi xùmìng.",
+    "example_translation": "In Monday's meeting I was alive-but-slightly-dead, kept going only by coffee.",
+    "context": "The gloomy twin of 活人感 ('alive-person energy', already in this deck). Blew up from late-2024 workplace discourse as young people described the 'faint death aura' of burnout — even novelist Yu Hua remarked it perfectly sums up the protagonist of Camus's The Outsider. 活 and 死 here work as adjectives on a sliding scale, so you can be more or less dead at your desk.",
+    "category": "social",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "gao-chou-xiang",
+    "hanzi": "搞抽象",
+    "pinyin": "gǎo chōuxiàng",
+    "literal": "do abstract",
+    "meaning": "To post or behave in a deliberately absurd, anti-logic, unserious way — surreal jokes, cursed images, nonsense replies. Calling something 太抽象了 ('too abstract') means it's bafflingly weird, in an amused way.",
+    "meaning_zh": "指反逻辑、反严肃、反常规的整活行为：发癫式发言、离谱二创、无厘头回复。\"太抽象了\"即\"这也太离谱/看不懂了\"，带着又困惑又想笑的语气。",
+    "example": "他评论区天天搞抽象，没人看得懂他在说什么。",
+    "example_pinyin": "Tā pínglùnqū tiāntiān gǎo chōuxiàng, méi rén kàn de dǒng tā zài shuō shénme.",
+    "example_translation": "He posts absurdist nonsense in the comments every day — nobody can tell what he's on about.",
+    "context": "Traces back to 2015 game-streamer Li Gan, whose catchphrase 真是太抽象了 ('that's just too abstract') got endlessly remixed. It matured into 抽象文化: dissolving stress and current events into absurdist play. Made the official top-10 netizen words of 2024 as 搞抽象, and RedNote's 2026 hot-word list crowned the follow-up 抽象力 — 'abstract-ness' as a skill.",
+    "category": "slang",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "tong-wen-hua",
+    "hanzi": "痛文化",
+    "pinyin": "tòng wénhuà",
+    "literal": "pain culture",
+    "meaning": "Decking out your belongings — bags, cars, phones, nails, bedroom walls — in maximalist anime/game merch to broadcast what you love. A 痛包 (ita-bag) has a clear window stuffed with badges of your favourite character.",
+    "meaning_zh": "用大量动漫、游戏周边高调装饰随身物品的亚文化：痛包、痛车、痛机、痛甲……\"万物皆可痛\"，背出门就是行走的本命宣言。",
+    "example": "她背着痛包去漫展，透明夹层里挂满了本命角色的徽章。",
+    "example_pinyin": "Tā bēizhe tòngbāo qù mànzhǎn, tòumíng jiācéng lǐ guà mǎn le běnmìng juésè de huīzhāng.",
+    "example_translation": "She took her ita-bag to the anime convention, its clear pocket crammed with badges of her favourite character.",
+    "context": "From Japanese 痛車 (itasha, 'painful car' — painful to the wallet and painfully conspicuous), which Chinese ACG fans extended to everything: 痛包, 痛衣, 痛墙. Long a niche two-dimensional (二次元) thing, it went mainstream on RedNote, making the platform's 2026 top-10 hot words as fans turned 'pain' into a social calling card.",
+    "category": "social",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "ye-gong-hao-long",
+    "hanzi": "叶公好龙",
+    "pinyin": "yè gōng hào lóng",
+    "literal": "Lord Ye loves dragons",
+    "meaning": "Professing to love something you'd actually flee from. The go-to jab for people whose enthusiasm is all talk — they adore the idea, not the reality.",
+    "meaning_zh": "比喻口头上说爱好某事物，真面对时却害怕或退缩，心口不一。常用来讽刺光唱高调、叶公式的\"喜欢\"。",
+    "example": "你们喊着想要续集，出了又不去看，这不是叶公好龙吗？",
+    "example_pinyin": "Nǐmen hǎnzhe xiǎng yào xùjí, chū le yòu bú qù kàn, zhè bú shì yègōng-hàolóng ma?",
+    "example_translation": "You all clamoured for a sequel, then didn't go and watch it — isn't that Lord Ye loving dragons?",
+    "context": "From a Han-dynasty fable: Lord Ye filled his house with dragon carvings and paintings, but when a real dragon dropped by to say thanks, he fled in terror. Netizens wheel it out in comment sections whenever an audience demands something then abandons it on arrival — 'you don't love the game, you love the idea of it' energy, a favourite in fandom and gaming discourse.",
+    "category": "chengyu",
+    "date_added": "2026-07-23"
   }
 ]
