@@ -656,5 +656,47 @@
     "context": "Went viral in 2025 from short-video creator @累子's family comedy sketches, where an on-screen parent responds to every real problem with the same deflection: \"drink some luffa soup for your liver.\" It stuck because so many viewers recognised the pattern from their own families — turning emotional or structural problems into food-therapy small talk — and it's remained in steady circulation into 2026.",
     "category": "meme",
     "date_added": "2026-07-23"
+  },
+  {
+    "id": "di-shan-chou-shui-yu-zhiyin",
+    "hanzi": "低山臭水遇知音",
+    "pinyin": "dī shān chòu shuǐ yù zhī yīn",
+    "literal": "low mountain, stinky water, meet a bosom friend",
+    "meaning": "A self-deprecating parody of the classic idiom 高山流水遇知音 (high mountains, flowing water, meeting a kindred spirit — used for a profound meeting of true friends). Swaps 'high' for 'low' and 'flowing' for 'stinky' to describe a group of ordinary, flawed people who just click — imperfect friends who somehow vibe perfectly.",
+    "meaning_zh": "由成语「高山流水遇知音」改编而来的自嘲版网络热词，把「高山」换成「低山」、「流水」换成「臭水」，用来调侃一群人虽然都不算优秀、各有缺点，却莫名合拍、彼此理解，形成独特的默契。",
+    "example": "我们仨谁也不是学霸，凑一起就是低山臭水遇知音。",
+    "example_pinyin": "Wǒmen sā shéi yě bú shì xuébà, còu yìqǐ jiùshì dī shān chòu shuǐ yù zhī yīn.",
+    "example_translation": "None of the three of us are top students, but put us together and it's like low mountains meeting stinky water — kindred spirits.",
+    "context": "Coined by fans of idol Song Yaxuan (宋亚轩) after he posted a nonsense string of sounds ('AEAEAEEOO') on Weibo and fans decoded it within 24 hours as a hum of the song 《恭喜发财》 — that instant, wordless mutual understanding got dubbed '低山臭水式脑电波同频'. Now used broadly online for any scrappy, unpolished but deeply in-sync friend group.",
+    "category": "meme",
+    "date_added": "2026-07-26"
+  },
+  {
+    "id": "zuo-wan-nide-zuo-nide",
+    "hanzi": "做完你的，做你的",
+    "pinyin": "zuò wán nǐ de, zuò nǐ de",
+    "literal": "finish yours, do your (own thing)",
+    "meaning": "A catchphrase meaning 'handle what's yours, mind your own business, stay in your lane' — used self-deprecatingly or as a pep talk to project unbothered confidence while everything around you is chaos.",
+    "meaning_zh": "意为专注做好自己的事，不受外界干扰，常用来自嘲或打气——在手忙脚乱、事情一堆的情况下依然保持自信从容的状态。",
+    "example": "任务再多也别慌，做完你的，做你的。",
+    "example_pinyin": "Rènwù zài duō yě bié huāng, zuò wán nǐ de, zuò nǐ de.",
+    "example_translation": "No matter how much is on your plate, don't panic — finish what's yours, do your own thing.",
+    "context": "From 鸡排哥 (Chicken Cutlet Bro), a street vendor in Jingdezhen who, amid the after-school rush at his stall, calmly told the crowd '做完你的做你的……这种场面，我还是在控制' (finish yours, do yours... I've still got this scene under control) in his thick local accent. His unbothered, self-assured delivery went viral, and netizens now quote the line to self-motivate or self-mock when swamped.",
+    "category": "meme",
+    "date_added": "2026-07-26"
+  },
+  {
+    "id": "cun-ka",
+    "hanzi": "村咖",
+    "pinyin": "cūn kā",
+    "literal": "village coffee (shop)",
+    "meaning": "A coffee shop set in a rural/countryside location — part of a lifestyle trend blending slow, pastoral living with the urban ritual of grabbing a coffee. Shorthand for the 'escape the city, briefly' fantasy.",
+    "meaning_zh": "指开在乡村里的咖啡馆，是融合田园慢生活与城市咖啡消费习惯的新业态，寄托着都市人对逃离城市、回归田园生活的向往。",
+    "example": "周末不想挤景点，就去郊外的村咖坐一下午。",
+    "example_pinyin": "Zhōumò bù xiǎng jǐ jǐngdiǎn, jiù qù jiāowài de cūn kā zuò yí xiàwǔ.",
+    "example_translation": "I don't feel like fighting crowds at tourist spots this weekend, so I'm just going to sit at a village coffee shop out in the countryside all afternoon.",
+    "context": "Took off after villages like Yucun (余村) in Anji County (安吉县), Zhejiang went viral for their scenic countryside cafés, drawing city dwellers for weekend day trips. It made 2025's top-ten internet buzzword list and is still widely used for the broader 'slow life, briefly' aesthetic that blends rural charm with city coffee culture.",
+    "category": "social",
+    "date_added": "2026-07-26"
   }
 ]
