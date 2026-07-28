@@ -698,5 +698,61 @@
     "context": "Took off after villages like Yucun (余村) in Anji County (安吉县), Zhejiang went viral for their scenic countryside cafés, drawing city dwellers for weekend day trips. It made 2025's top-ten internet buzzword list and is still widely used for the broader 'slow life, briefly' aesthetic that blends rural charm with city coffee culture.",
     "category": "social",
     "date_added": "2026-07-26"
+  },
+  {
+    "id": "mei-chi-de-ni-mi-shenme-mi",
+    "hanzi": "没吃的你咪什么咪",
+    "pinyin": "méi chī de nǐ mī shénme mī",
+    "literal": "no food-DE you meow what meow",
+    "meaning": "A Dongbei-dialect jab at someone making noise for nothing: from a meme where a person lures a cat with kitten-calling \"mī mī\" sounds, the distracted cat loses its food to another cat, then furiously \"scolds\" everyone — prompting the retort \"if there's nothing to eat, what are you meowing about?\" Used to mock someone who hypes something up, gets played, and then complains with nothing to show for it.",
+    "meaning_zh": "用东北话吐槽“瞎叫唤却没捞到好处”的人。梗源自网友用“咪咪”声逗猫，猫分心时食物被同伴叼走，气得炸毛乱叫，被调侃“没吃的你咪什么咪”。现多用来讽刺人白忙活、被忽悠还抱怨的情形。",
+    "example": "你连奖金影子都没摸到还在群里吹？没吃的你咪什么咪啊。",
+    "example_pinyin": "Nǐ lián jiǎngjīn yǐngzi dōu méi mō dào hái zài qún lǐ chuī? Méi chī de nǐ mī shénme mī a.",
+    "example_translation": "You haven't even seen a shadow of the bonus and you're still bragging in the group chat? What are you meowing about if there's nothing to eat?",
+    "context": "2026年初爆火的猫咪梗：有人用“咪咪”声模仿小猫呼唤母猫的叫声逗猫，猫咪转头分心时食物被同伴叼走，气急败坏地“骂”人，网友用东北方言吐槽“没吃的你咪什么咪”，讽刺猫贪图关注却啥也没捞着。这句话迅速出圈，被用来调侃任何“瞎起哄却一无所获”的人或事。",
+    "category": "meme",
+    "date_added": "2026-07-28"
+  },
+  {
+    "id": "queren-wei-xx-renge",
+    "hanzi": "确认为XX人格",
+    "pinyin": "quèrèn wéi XX réngé",
+    "literal": "confirmed as XX personality",
+    "meaning": "A fill-in-the-blank template from MBTI/personality-typing culture: after someone does or says something characteristic, netizens jokingly \"confirm\" them as a certain personality type — \"J人\" (the planner), \"P人\" (the improviser), or any invented label. Used to gently roast or affectionately type-cast someone's behaviour.",
+    "meaning_zh": "网友根据一个人的言行举止，调侃式地把ta“归类”进某种人格标签的万能句式，如“确认为J人”（计划型人格）、“确认为P人”（随性型人格），也能自创任意标签，用来俏皮地吐槽或“认证”某人的性格特点。",
+    "example": "出门前把行程表打印出来还带了备用方案，确认为J人格。",
+    "example_pinyin": "Chūmén qián bǎ xíngchéngbiǎo dǎyìn chūlái hái dàile bèiyòng fāng'àn, quèrèn wéi J réngé.",
+    "example_translation": "Printed out the itinerary before leaving and brought a backup plan too — confirmed J personality.",
+    "context": "源自MBTI人格测试在国内网络的走红：网友把16型人格里的字母（如判断型的J、知觉型的P）当作性格标签玩梗，“确认为XX人格”成了万能句式，只要谁的行为符合某种刻板印象就会被网友“盖章认证”，衍生出无数自创人格标签用来抖机灵。",
+    "category": "meme",
+    "date_added": "2026-07-28"
+  },
+  {
+    "id": "dong-huo",
+    "hanzi": "冻货",
+    "pinyin": "dòng huò",
+    "literal": "frozen goods",
+    "meaning": "Fan-culture slang for old, previously unreleased photos, videos, or behind-the-scenes clips of a celebrity that suddenly get \"defrosted\" and posted long after they were taken — like food that's been sitting in the freezer. Used teasingly or in mock self-defence.",
+    "meaning_zh": "粉丝圈用语，指明星存了很久（几个月甚至几年）才拿出来发的旧照片、旧视频、拍立得等物料，就像冷冻食品放很久才解冻拿出来一样，可以是调侃也可以是撒娇式辩解。",
+    "example": "她又翻出三年前的拍立得发超话，网友：又在发冻货了。",
+    "example_pinyin": "Tā yòu fānchū sān nián qián de pāilìdé fā chāohuà, wǎngyǒu: yòu zài fā dònghuò le.",
+    "example_translation": "She dug out a Polaroid from three years ago to post on her fan forum again — netizens: there she goes posting frozen goods again.",
+    "context": "2026年7月6日，艺人梓渝在生日直播中翻出珍藏多年的旧拍立得，被弹幕调侃是“冻货”，她当场反驳“这不是冻货，这是我的记忆！”还补了句“一个家里有一个冻货就行了”，梗迅速出圈，成为形容明星“压箱底旧料”的流行说法。",
+    "category": "slang",
+    "date_added": "2026-07-28"
+  },
+  {
+    "id": "zi-xiang-mao-dun",
+    "hanzi": "自相矛盾",
+    "pinyin": "zì xiāng máo dùn",
+    "literal": "self mutual spear-shield",
+    "meaning": "Classic chengyu for being self-contradictory — saying or doing two things that can't both be true. Constantly deployed in comment sections to call out hypocrisy, flip-flopping, or talking out of both sides of one's mouth.",
+    "meaning_zh": "出自《韩非子》，讲一个楚国人卖矛又卖盾，夸自己的盾无坚不摧，又夸自己的矛无所不破——两种说法互相冲突。现多用于评论区吐槽某人言行前后不一致、说一套做一套的“双标”行为。",
+    "example": "你上一秒说不看重学历，下一秒又嫌弃对方学历低，这不是自相矛盾吗？",
+    "example_pinyin": "Nǐ shàng yī miǎo shuō bù kànzhòng xuélì, xià yī miǎo yòu xiánqì duìfāng xuélì dī, zhè bùshì zìxiāngmáodùn ma?",
+    "example_translation": "One second you say you don't care about qualifications, the next you're looking down on someone for having a lower one — isn't that contradicting yourself?",
+    "context": "源自《韩非子·难一》里卖矛又卖盾的商人，吹嘘矛无所不破、盾无坚不摧，被人问“以子之矛陷子之盾何如”当场语塞。这个两千多年前的寓言至今仍是评论区吐槽“双标”“说话前后不一”的高频成语，尤其常见于扒名人言论前后矛盾的截图对比帖。",
+    "category": "chengyu",
+    "date_added": "2026-07-28"
   }
 ]
