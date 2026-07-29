@@ -754,5 +754,61 @@
     "context": "源自《韩非子·难一》里卖矛又卖盾的商人，吹嘘矛无所不破、盾无坚不摧，被人问“以子之矛陷子之盾何如”当场语塞。这个两千多年前的寓言至今仍是评论区吐槽“双标”“说话前后不一”的高频成语，尤其常见于扒名人言论前后矛盾的截图对比帖。",
     "category": "chengyu",
     "date_added": "2026-07-28"
+  },
+  {
+    "id": "shui-ling-ling-de",
+    "hanzi": "水灵灵地",
+    "pinyin": "shuǐ línglíng de",
+    "literal": "watery-and-spirited, ~ly",
+    "meaning": "An adverb dropped before a verb to say something happened directly, smoothly, and completely out in the open — \"just straight-up ___.\" Started out describing something fresh, dewy and full of life (bright eyes, crisp vegetables), then got repurposed into the viral sentence template \"水灵灵地 + verb.\"",
+    "meaning_zh": "本义形容人或物新鲜、有光泽、有精神（比如眼睛水灵灵的）。网络流行用法中，“水灵灵地”被当作副词放在动词前，强调事情发生得直接、坦荡、毫不遮掩，带点意外或自嘲的意味，例如“水灵灵地被裁员了”。",
+    "example": "我水灵灵地就把工资全花光了。",
+    "example_pinyin": "Wǒ shuǐ línglíng de jiù bǎ gōngzī quán huā guāng le.",
+    "example_translation": "I just straight-up blew my entire paycheck.",
+    "context": "源自2024年韩国女团成员洪恩采接受采访时说的“我在中间显得水灵灵的”，被网友玩梗后延伸出“水灵灵地+动词”的句式，形容一件事发生得毫无征兆、直白坦率。2024年入选《咬文嚼字》年度十大流行语，到2026年仍在社交平台被广泛套用造句。",
+    "category": "meme",
+    "date_added": "2026-07-29"
+  },
+  {
+    "id": "zhong-cao",
+    "hanzi": "种草",
+    "pinyin": "zhòngcǎo",
+    "literal": "to plant grass",
+    "meaning": "To recommend a product so persuasively it plants a craving to buy it in someone (or to catch that craving yourself). The exact counterpart of 拔草 (\"pull the grass\") — finally buying the thing, or giving up on wanting it. Core vocabulary of Xiaohongshu/RedNote-style recommendation culture.",
+    "meaning_zh": "指通过分享、推荐激起别人（或自己）对某样东西的购买欲望，让“想要”的念头像草一样在心里“种”下来。与“拔草”相对——拔草指最终买了（欲望被满足）或打消了购买念头。",
+    "example": "这个博主又给我种草了一支新口红。",
+    "example_pinyin": "Zhège bózhǔ yòu gěi wǒ zhòngcǎo le yì zhī xīn kǒuhóng.",
+    "example_translation": "That influencer got me hooked on wanting a new lipstick again.",
+    "context": "源自美妆论坛时代网友分享好物的说法，随小红书等“种草经济”平台兴起而成为全民热词，是理解当下网络消费文化绕不开的词，如今每次刷到心动好物都会说“被种草了”。",
+    "category": "slang",
+    "date_added": "2026-07-29"
+  },
+  {
+    "id": "dan-ren",
+    "hanzi": "淡人",
+    "pinyin": "dànrén",
+    "literal": "bland/light person",
+    "meaning": "Someone who stays even-keeled about everything — barely any emotional highs or lows, answers drama with a flat \"算了\" (never mind) or \"OK,\" hard to ruffle. The calm counterpart to 浓人.",
+    "meaning_zh": "指性格平和、情绪波动小、对事情不太上心的人，遇事常说“算了”“行”“没事”，追求情绪稳定、远离精神内耗，是一种自我调侃式的性格标签。",
+    "example": "别指望她会激动，她是标准的淡人。",
+    "example_pinyin": "Bié zhǐwàng tā huì jīdòng, tā shì biāozhǔn de dànrén.",
+    "example_translation": "Don't expect her to get worked up — she's a textbook \"dàn person.\"",
+    "context": "2024年前后由性格分类梗演变而来，与“浓人”相对，反映年轻人对情绪稳定、佛系生活方式的推崇，2026年仍是小红书等平台常见的自我贴标签方式。",
+    "category": "social",
+    "date_added": "2026-07-29"
+  },
+  {
+    "id": "nong-ren",
+    "hanzi": "浓人",
+    "pinyin": "nóngrén",
+    "literal": "thick/concentrated person",
+    "meaning": "The opposite of 淡人 — someone emotionally intense and expressive, quick to share feelings, craves attention and closeness, wears every mood right on their sleeve.",
+    "meaning_zh": "指情感丰富、热情外露、喜怒哀乐都写在脸上、渴望被关注和亲近的人，分享欲和倾诉欲都很强，与“淡人”相对。",
+    "example": "我是超级浓人，一有开心事就想告诉全世界。",
+    "example_pinyin": "Wǒ shì chāojí nóngrén, yī yǒu kāixīn shì jiù xiǎng gàosù quán shìjiè.",
+    "example_translation": "I'm such a \"nóng person\" — the second something good happens I want to tell the whole world.",
+    "context": "与“淡人”配套出现的性格标签梗，用来调侃自己或他人情绪外放、分享欲强的性格类型，常见于小红书等平台的人格分类讨论中。",
+    "category": "social",
+    "date_added": "2026-07-29"
   }
 ]
