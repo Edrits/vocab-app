@@ -810,5 +810,61 @@
     "context": "与“淡人”配套出现的性格标签梗，用来调侃自己或他人情绪外放、分享欲强的性格类型，常见于小红书等平台的人格分类讨论中。",
     "category": "social",
     "date_added": "2026-07-29"
+  },
+  {
+    "id": "suan-huang-gua",
+    "hanzi": "酸黄瓜",
+    "pinyin": "suān huáng guā",
+    "literal": "sour + yellow + melon (i.e. pickled cucumber)",
+    "meaning": "A self-mocking label netizens gave themselves after a celebrity used it as an insult for jealous critics; now used to jokingly claim you're broke, ordinary, or a bit envious — reclaiming the jab as a badge of humour rather than an attack.",
+    "meaning_zh": "网友自嘲用语。源自某明星怼网友时把“酸葡萄”说成“酸黄瓜”，本意是讽刺见不得别人好、爱说风凉话的人，后被网友反过来自称，变成一种戏谑的自嘲身份标签，用来调侃自己普通、没钱或有点羡慕别人。",
+    "example": "别问我今年攒了多少钱，我就是个酸黄瓜。",
+    "example_pinyin": "Bié wèn wǒ jīnnián zǎn le duōshǎo qián, wǒ jiùshì gè suān huáng guā.",
+    "example_translation": "Don't ask me how much I've saved this year — I'm just a \"sour cucumber.\"",
+    "context": "In January 2026, actress 闫学晶 dismissed online criticism of her lavish spending by calling her critics \"酸黄瓜\" — a garbled version of the idiom 酸葡萄 (\"sour grapes\"). The slip of the tongue went viral: rather than taking offence, netizens embraced \"酸黄瓜\" as a new self-deprecating label, claiming the identity themselves whenever joking about being broke, unremarkable, or quietly envious, turning an insult into shared comic relief.",
+    "category": "slang",
+    "date_added": "2026-07-30"
+  },
+  {
+    "id": "nai-lv-bo",
+    "hanzi": "奶绿波",
+    "pinyin": "nǎi lǜ bō",
+    "literal": "milk + green + wave (a mishearing of a billboard's real name)",
+    "meaning": "A nonsense phrase born from netizens misreading a highway billboard, now used as a stand-in for 'stuck in an endless, faintly absurd situation' — the joke is the sound itself, not any real meaning.",
+    "meaning_zh": "源自网友把高速公路广告牌上“明绿液”三个字看错、读成“奶绿波”的乌龙梗，后来常被用来调侃自己陷入某种没完没了、有点荒诞好笑的处境，比如堵在路上很久走不出去。",
+    "example": "堵了三个小时，感觉还没走出奶绿波。",
+    "example_pinyin": "Dǔ le sān gè xiǎoshí, gǎnjué hái méi zǒuchū nǎi lǜ bō.",
+    "example_translation": "Stuck in traffic for three hours — feels like I still haven't escaped the \"nai lü bo.\"",
+    "context": "A billboard for a product called 明绿液 (Míng Lǜ Yè) on a highway near Mingguang, Anhui, was misread by passing drivers as \"奶绿波\" because of the flowing calligraphy style. Bored travellers filmed themselves joking \"been driving all morning and still haven't gotten out of 奶绿波\", and the phrase went viral — eventually inspiring the local government to release actual \"奶绿波\" milk tea and mung bean cake products to ride the wave.",
+    "category": "meme",
+    "date_added": "2026-07-30"
+  },
+  {
+    "id": "zhu-ti-xing",
+    "hanzi": "主体性",
+    "pinyin": "zhǔ tǐ xìng",
+    "literal": "subject/self + body/entity + -ness (i.e. subjectivity)",
+    "meaning": "A borrowed philosophy term (via Sartre, Foucault) that's become netizen shorthand for reclaiming personal agency — refusing to live by others' expectations, rejecting people-pleasing, and daring to be disliked in order to live authentically.",
+    "meaning_zh": "本是哲学术语（常引用萨特、福柯），在网络语境中指找回自我掌控感：拒绝活成他人期待的样子，摆脱讨好型人格，拥有“被讨厌的勇气”，活出真正的自己。2026年被小红书评为年度十大热词之一。",
+    "example": "这件事我想清楚了，我要找回自己的主体性。",
+    "example_pinyin": "Zhè jiàn shì wǒ xiǎng qīngchǔ le, wǒ yào zhǎohuí zìjǐ de zhǔtǐxìng.",
+    "example_translation": "I've thought it through — I'm reclaiming my own subjectivity.",
+    "context": "As Chinese social media users grew tired of self-optimisation and people-pleasing, \"主体性\" spread on 小红书 as a way to talk about resisting social conditioning and other people's judgement. Posts invoking the term often cite Sartre or Foucault, discussing why \"the more subjectivity you have, the more enemies you make\" — it was named one of Xiaohongshu's top ten hot words of 2026, alongside 活人感 and 边界感, as part of a wider mood of guarding one's inner life.",
+    "category": "social",
+    "date_added": "2026-07-30"
+  },
+  {
+    "id": "long-xia",
+    "hanzi": "养龙虾",
+    "pinyin": "yǎng lóng xiā",
+    "literal": "to raise/keep + lobster",
+    "meaning": "Tech-world netizen slang for running and maintaining the open-source AI agent OpenClaw, whose bright red lobster-claw logo earned it the nickname \"龙虾\" (lobster) — 'raising a lobster' means babysitting your AI agent: watching its status, fixing its errors, feeding it new tools.",
+    "meaning_zh": "科技圈网络热梗，指使用和维护开源AI智能体OpenClaw。因其鲜红色的龙虾钳子图标，网友昵称它为“龙虾”，“养龙虾”便成了调侃自己在电脑里布置、盯着、维护这个AI智能体运行状态的说法。",
+    "example": "别找我，我在家养龙虾呢，得盯着它跑任务。",
+    "example_pinyin": "Bié zhǎo wǒ, wǒ zài jiā yǎng lóngxiā ne, děi dīngzhe tā pǎo rènwù.",
+    "example_translation": "Don't bother me, I'm \"raising my lobster\" at home — gotta watch it run its tasks.",
+    "context": "OpenClaw, an open-source AI agent tool, went viral in 2026 for its vivid red lobster-claw (\"Claw\") logo and branding, which plays on the literal meaning of \"claw.\" Developers and hobbyists who set it up and keep it running started calling the process \"养龙虾\" (raising a lobster) — half in-joke, half accurate description of the fussing, debugging, and monitoring involved in keeping an AI agent working reliably.",
+    "category": "meme",
+    "date_added": "2026-07-30"
   }
 ]
