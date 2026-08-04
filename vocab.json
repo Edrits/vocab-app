@@ -866,5 +866,47 @@
     "context": "OpenClaw, an open-source AI agent tool, went viral in 2026 for its vivid red lobster-claw (\"Claw\") logo and branding, which plays on the literal meaning of \"claw.\" Developers and hobbyists who set it up and keep it running started calling the process \"养龙虾\" (raising a lobster) — half in-joke, half accurate description of the fussing, debugging, and monitoring involved in keeping an AI agent working reliably.",
     "category": "meme",
     "date_added": "2026-07-30"
+  },
+  {
+    "id": "ka-ji-ma",
+    "hanzi": "卡急马",
+    "pinyin": "kǎ jí mǎ",
+    "literal": "clock-precisely + anxious + horse",
+    "meaning": "A satirical label for office workers who watch the clock obsessively and bolt the second work hours end, terrified that lingering an extra minute will get them saddled with last-minute tasks. Part of the Year-of-the-Horse (2026) genre of workplace \"confirmed diagnosis\" memes.",
+    "meaning_zh": "指那些死死盯着下班时间、一到点就立刻收拾走人的打工人，生怕多待一秒就被临时安排新工作。是马年（2026）职场“确诊体”系列热梗之一。",
+    "example": "一到六点，他就成了卡急马，秒没影。",
+    "example_pinyin": "Yī dào liù diǎn, tā jiù chéngle kǎjímǎ, miǎo méiyǐng.",
+    "example_translation": "The second it hits 6pm, he turns into a \"kǎjímǎ\" — gone in a flash.",
+    "context": "Emerged on Douyin in January 2026, riding the Year-of-the-Horse wave of workplace horse puns (alongside 脆皮打工人 and 哭哭马, already in the deck). 卡 (clock precisely) + 急 (anxious) + 马 (horse, the zodiac tie-in) captures the dread of being handed extra work right at knock-off time, part of a mock self-diagnosis trend where young workers jokingly \"confirm\" their own office-induced syndromes.",
+    "category": "slang",
+    "date_added": "2026-08-04"
+  },
+  {
+    "id": "bu-shufu-wenxue",
+    "hanzi": "不舒服文学",
+    "pinyin": "bù shūfu wénxué",
+    "literal": "uncomfortable literature",
+    "meaning": "A euphemistic script for airing a grievance without confrontation: preface a complaint by saying you assumed you were just being oversensitive, then gently insist that, no, it genuinely bothered you. Used to call out anything from a backhanded compliment to a broken workplace promise while staying polite.",
+    "meaning_zh": "一种委婉表达不满的话术公式：先说“以为是自己敏感了”，再补一句“但确实不舒服”，以温和克制的方式点出对方的冒犯，而不撕破脸。",
+    "example": "当时以为是我敏感了，但确实不舒服。",
+    "example_pinyin": "Dāngshí yǐwéi shì wǒ mǐngǎn le, dàn quèshí bù shūfu.",
+    "example_translation": "At the time I thought I was just being sensitive, but I really was uncomfortable.",
+    "context": "Kicked off when actor 王鹤棣 (Wang Hedi) used this phrasing on a variety show to describe how a past controversy had felt. Netizens turned his sentence into a reusable template, following earlier \"X文学\" genres like 废话文学 and 发疯文学 (also in the deck), and it quickly spread from celebrity gossip threads into everyday complaints about pushy bosses, awkward dates and thesis defences.",
+    "category": "meme",
+    "date_added": "2026-08-04"
+  },
+  {
+    "id": "omg-ni-xiadao-wo-le",
+    "hanzi": "OMG你吓到我了",
+    "pinyin": "OMG nǐ xiàdào wǒ le",
+    "literal": "OMG you scared me",
+    "meaning": "A sung, deadpan catchphrase quoted whenever something (or someone) is mildly, comically alarming — dropped into comments and captions as an ironic overreaction, riffing on the original song's flat AI-generated delivery.",
+    "meaning_zh": "源自一首AI神曲的经典台词，语气平淡却带着夸张的“被吓到”意味，现在被网友用来吐槽任何有点离谱、意外或惊悚的小事，带有调侃和无奈的反差萌。",
+    "example": "你这发型也太抽象了吧，OMG你吓到我了。",
+    "example_pinyin": "Nǐ zhè fàxíng yě tài chōuxiàng le ba, OMG nǐ xiàdào wǒ le.",
+    "example_translation": "That haircut is way too out there — OMG, you scared me.",
+    "context": "From papi酱's July 2026 AI-composed single《生气了》(\"Angry\"), for which she wrote the lyrics while AI handled the composition and vocals. The flat, slightly unsettling AI delivery of \"Oh my god你吓到我了\" turned the line into an instant meme, spawning duets, remixes and reaction clips across Douyin and Bilibili.",
+    "category": "meme",
+    "date_added": "2026-08-04"
   }
 ]
