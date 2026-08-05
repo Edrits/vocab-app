@@ -908,5 +908,47 @@
     "context": "From papi酱's July 2026 AI-composed single《生气了》(\"Angry\"), for which she wrote the lyrics while AI handled the composition and vocals. The flat, slightly unsettling AI delivery of \"Oh my god你吓到我了\" turned the line into an instant meme, spawning duets, remixes and reaction clips across Douyin and Bilibili.",
     "category": "meme",
     "date_added": "2026-08-04"
+  },
+  {
+    "id": "shejiao-dianchi",
+    "hanzi": "社交电池",
+    "pinyin": "shèjiāo diànchí",
+    "literal": "social + battery",
+    "meaning": "A metaphor for one's limited mental/emotional energy for socialising, likened to a phone battery: interacting with people drains it, alone time recharges it. Used to self-diagnose why you want to skip plans or need space.",
+    "meaning_zh": "把社交精力比作手机电量的说法，社交会“耗电”，独处则用来“充电”。年轻人常用来自嘲式地解释自己为什么想少社交或需要独处。",
+    "example": "今天见了三拨人，我的社交电池已经耗光了，晚上谁也不见。",
+    "example_pinyin": "Jīntiān jiànle sān bō rén, wǒ de shèjiāo diànchí yǐjīng hàoguāng le, wǎnshang shéi yě bú jiàn.",
+    "example_translation": "I've met three different groups of people today — my social battery is completely drained, I'm not seeing anyone tonight.",
+    "context": "Borrowed from the English \"social battery\" concept and popularised on Xiaohongshu/Weibo as a self-diagnostic label. Spawned the related term 社交省电模式 (social power-saving mode) — deliberately cutting back on socialising to protect the last bit of \"charge\" — letting people decline plans without guilt.",
+    "category": "slang",
+    "date_added": "2026-08-05"
+  },
+  {
+    "id": "zhijing-danmu",
+    "hanzi": "致敬",
+    "pinyin": "zhìjìng",
+    "literal": "pay respects / pay tribute",
+    "meaning": "Formally means \"to pay tribute,\" but as a Bilibili bullet-comment (danmu) it's fired off en masse whenever a video shows courage, kindness, resilience, or everyday heroism — a scrolling wave of sincere, collective respect.",
+    "meaning_zh": "本义是“表达敬意”，如今是B站弹幕文化里的高频词——每当视频中出现善良、勇敢、坚韧或英雄主义的画面，网友就会刷“致敬”弹幕，表达最朴素真诚的敬意。",
+    "example": "视频里那位截肢后依然乐观生活的博主一出现，满屏都是“致敬”的弹幕。",
+    "example_pinyin": "Shìpín lǐ nà wèi jiézhī hòu yīrán lèguān shēnghuó de bózhǔ yī chūxiàn, mǎn píng dōu shì “zhìjìng” de dànmù.",
+    "example_translation": "The moment the blogger who stayed optimistic after losing a limb appeared, the whole screen filled with \"zhìjìng\" bullet comments.",
+    "context": "Named Bilibili's 2025 Danmu of the Year, sent over 22.82 million times by more than 4.59 million users (80% Gen Z). Marks a shift in bullet-comment culture away from pure joking toward sincere, collective displays of respect for ordinary people's courage and kindness.",
+    "category": "meme",
+    "date_added": "2026-08-05"
+  },
+  {
+    "id": "ppt-yongdongji",
+    "hanzi": "PPT永动机",
+    "pinyin": "PPT yǒngdòngjī",
+    "literal": "PPT + perpetual motion machine",
+    "meaning": "A self-mocking term office workers use for themselves during late-night overtime — comparing themselves to a \"perpetual motion machine\" that keeps churning out slide decks without ever running out of energy, however exhausted they actually are.",
+    "meaning_zh": "打工人自嘲加班到深夜的说法——把自己比作一台不知疲倦、持续产出PPT的“永动机”，实际上是在委婉吐槽过度加班的职场文化。",
+    "example": "又要通宵改方案了，我现在就是一台PPT永动机。",
+    "example_pinyin": "Yòu yào tōngxiāo gǎi fāng'àn le, wǒ xiànzài jiùshì yī tái PPT yǒngdòngjī.",
+    "example_translation": "Another all-nighter revising the proposal — I'm basically a PPT perpetual-motion machine now.",
+    "context": "Circulates in workplace-venting posts alongside lines like 与键盘签订灵魂契约 (\"signing a soul contract with my keyboard\"), letting young office workers turn overtime fatigue into a joke rather than a straight complaint — the same self-deprecating work-humour family as 班味 and 脆皮打工人 already in the deck.",
+    "category": "slang",
+    "date_added": "2026-08-05"
   }
 ]
