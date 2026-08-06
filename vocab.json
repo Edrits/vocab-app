@@ -950,5 +950,47 @@
     "context": "Circulates in workplace-venting posts alongside lines like 与键盘签订灵魂契约 (\"signing a soul contract with my keyboard\"), letting young office workers turn overtime fatigue into a joke rather than a straight complaint — the same self-deprecating work-humour family as 班味 and 脆皮打工人 already in the deck.",
     "category": "slang",
     "date_added": "2026-08-05"
+  },
+  {
+    "id": "wo-langjie-le-wo-lijie-le",
+    "hanzi": "我浪姐了，我力竭了",
+    "pinyin": "Wǒ làngjiě le, wǒ lìjié le",
+    "literal": "I \"Sisters-Riding-the-Wind\"-ed, I'm exhausted",
+    "meaning": "Not really a portable expression — it's a one-off pun catchphrase from June 2026, born during a live episode of the variety show 乘风2026 (Sisters Who Make Waves, season 7). Netizens swapped the show's nickname 浪姐 into the verb slot of \"我力竭了\" (I'm exhausted) to sarcastically mean \"watching this show wore me out,\" describing both the visibly exhausted contestants and the fatigued audience.",
+    "meaning_zh": "并非通用词，而是2026年6月《乘风2026》（浪姐7）四公直播期间走红的谐音梗。网友把节目昵称“浪姐”当动词用，替换进“我力竭了”里，调侃“看这节目真的很力竭”，一语双关，既指参赛姐姐们体力透支，也指观众追综追得心累。",
+    "example": "又双叒改赛制？我浪姐了，我力竭了。",
+    "example_pinyin": "Yòu shuāng ruò gǎi sàizhì? Wǒ làngjiě le, wǒ lìjié le.",
+    "example_translation": "They changed the rules again?? I'm so \"浪姐\"-ed, I'm exhausted.",
+    "context": "Born on Weibo during the chaotic fourth live round of 乘风2026 (Sisters Who Make Waves, season 7) in June 2026, after contestants pushed through illness and skin flare-ups from back-to-back rehearsals. Fans piled on with lines like \"以后别说我力竭了，换成我浪姐了\" (\"don't say 'I'm exhausted' anymore, say 'I 浪姐'd'\"), turning the show's own name into shorthand for exhausting-to-watch — aimed as much at the messy scoring and rule changes as at the performers' visible strain.",
+    "category": "meme",
+    "date_added": "2026-08-06"
+  },
+  {
+    "id": "mao-meme",
+    "hanzi": "猫meme",
+    "pinyin": "Māo meme",
+    "literal": "cat meme",
+    "meaning": "Not a phrase with a fixed meaning but a whole video-meme genre: short, dramatically-scored clips of real pet cats \"acting out\" exaggerated storylines via dubbed dialogue and meme music stings. Imported from Japanese internet culture, it exploded across 小红书/B站/抖音 starting early 2026. Two \"star\" cats anchor the genre — a silver-shaded cat nicknamed 胖虎/Tiger (owned by Bilibili uploader 瘦巴巴的胖虎) and a golden-shaded cat owned by Xiaohongshu user 苍天呐 — plus crossover spin-offs like cats \"cosplaying\" as anime characters.",
+    "meaning_zh": "并非一个有固定含义的词，而是一整套视频meme类型：把家养猫的片段配上夸张的配音和音效剪成“小剧场”。源自日本网络文化，2026年初起在小红书、B站、抖音全网爆火。核心“顶流”猫包括银渐层“胖虎/Tiger”（B站UP主“瘦巴巴的胖虎”家的猫）和金渐层猫（小红书用户“苍天呐”家的猫），还衍生出猫“cos”动漫角色跳舞等玩法。",
+    "example": "刷到猫meme的第一反应：这猫怎么比我还会演。",
+    "example_pinyin": "Shuā dào māo meme de dì yī fǎnyìng: zhè māo zěnme bǐ wǒ hái huì yǎn.",
+    "example_translation": "My first reaction scrolling past a cat meme clip: how is this cat a better actor than me.",
+    "context": "Traces back to Japanese cat-owner accounts dubbing dramatic \"storylines\" over everyday footage of their cats; Chinese creators reposted the clips and then remade the format locally, and by 2026 the #猫meme tag had racked up over 750 million views on Xiaohongshu alone. Its selling point is that the narrative itself is the joke — the cat IS the plot, not just a reaction caption — which is why fan-made variants (cats redubbed as anime characters, crossover \"duets\" between the two star cats) keep multiplying.",
+    "category": "meme",
+    "date_added": "2026-08-06"
+  },
+  {
+    "id": "ai-shui",
+    "hanzi": "AI税",
+    "pinyin": "AI shuì",
+    "literal": "AI tax",
+    "meaning": "Not an actual tax — a satirical nickname netizens gave to a wave of August 2026 price hikes on the \"office-worker three-piece set\" (laptop, phone, e-bike), which they blame on AI chip demand eating up manufacturing capacity: a mainstream laptop model jumped from about 4,800rmb in June to 7,899rmb in July, sub-1,000rmb entry-level phones are being discontinued, and e-bike brands have raised prices 200–300rmb since April.",
+    "meaning_zh": "并非真实存在的税种，而是网友对2026年8月“打工人三件套”（电脑、手机、电动车）集体涨价的调侃说法，把涨价原因归咎于AI芯片产能被抢占：某笔记本电脑从6月约4800元涨到7月7899元，涨幅超六成；千元入门机加速下架；雅迪、爱玛等电动车品牌4月以来普涨200至300元。",
+    "example": "工资没涨，AI税倒是先涨了。",
+    "example_pinyin": "Gōngzī méi zhǎng, AI shuì dào shì xiān zhǎng le.",
+    "example_translation": "My salary hasn't gone up, but the \"AI tax\" sure has.",
+    "context": "Coined after the Weibo topic \"打工人三件套集体大涨价\" (\"office workers' three-piece set all rising in price together\") trended in August 2026, tying together separate price surges — laptops, budget phones, e-bikes — under one sarcastic banner blaming the AI boom's chip and component demand for squeezing ordinary consumers, even though none of the three products run AI hardware themselves.",
+    "category": "news",
+    "date_added": "2026-08-06"
   }
 ]

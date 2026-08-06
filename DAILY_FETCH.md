@@ -31,8 +31,18 @@ You only ever need the *keys*, via the commands below.
      Prefer chengyu that still circulate in online/comment culture, and in the `context`
      field note how netizens actually use it. Use category `chengyu`. Don't force one into
      every batch — track the running ratio (about 1 in 10).
+   - **Vocab vs. meme — be honest about which.** Not everything trending is a reusable piece
+     of vocabulary with a stable, portable meaning. Some things are really a one-off meme,
+     joke, or news reference that people are talking about right now (e.g. "PPT永动机" isn't
+     an expression with a fixed sense — it's a riff on a specific joke/story). Don't force
+     these into a dictionary-style "netizens use this to mean X" definition; that manufactures
+     a meaning that isn't really there. Instead, go find out the actual facts/event/post behind
+     it and write `meaning`/`context` as reporting: what's actually happening, why it's funny
+     or resonant, where it originated. Use category `meme` for these rather than `slang`.
 4. For each term, **verify meaning/usage** against at least one source before writing it —
-   do not invent definitions. If unsure about a term, drop it rather than guess.
+   do not invent definitions. For meme entries specifically, dig up the real originating
+   event/post/screenshot rather than guessing at a generic "meaning" — the fact pattern is
+   the whole point. If unsure about a term, drop it rather than guess.
 5. **Append via the script** — write your new entries (ALL fields below) as a JSON array
    to a scratch file *outside the repo* (e.g. `$TMPDIR/new_words.json`), then run:
    ```
@@ -66,3 +76,5 @@ You only ever need the *keys*, via the commands below.
 - The `context` field is the point of the app — always explain the *origin/vibe*, not just the meaning.
 - Keep examples short and idiomatic.
 - Accuracy over volume: 3 solid terms beat 5 shaky ones.
+- For meme-category entries, `meaning` should read as fact (what's actually going on) rather
+  than a fabricated dictionary sense — it's fine for the "definition" to just be the joke/story.
