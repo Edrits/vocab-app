@@ -992,5 +992,47 @@
     "context": "Coined after the Weibo topic \"打工人三件套集体大涨价\" (\"office workers' three-piece set all rising in price together\") trended in August 2026, tying together separate price surges — laptops, budget phones, e-bikes — under one sarcastic banner blaming the AI boom's chip and component demand for squeezing ordinary consumers, even though none of the three products run AI hardware themselves.",
     "category": "news",
     "date_added": "2026-08-06"
+  },
+  {
+    "id": "gu-zi",
+    "hanzi": "谷子",
+    "pinyin": "gǔ zi",
+    "literal": "grain (phonetic borrowing of English \"goods\")",
+    "meaning": "ACG (anime/comic/game, also idol fandom) merchandise — badges, acrylic stands, keychains, postcards and the like — that fans collect and trade.",
+    "meaning_zh": "\"谷子\"是英语单词\"goods\"的谐音简称，指二次元（动漫、游戏、偶像）周边商品，比如吧唧（徽章）、亚克力立牌、卡片、挂件等。收藏这些商品的人聚在一起，就形成了所谓的\"谷圈\"。",
+    "example": "她这个月工资全用来买新出的谷子了，光吧唧就买了二十个。",
+    "example_pinyin": "Tā zhège yuè gōngzī quán yòng lái mǎi xīn chū de gǔzi le, guāng bājī jiù mǎi le èrshí gè.",
+    "example_translation": "She spent her whole month's salary on the new merch drop — twenty badges alone.",
+    "context": "\"谷子\"来自英文\"goods\"的音译，最早在ACG（动画、漫画、游戏）粉丝圈流行开来，用来统称官方或授权发售的角色周边商品，收藏者聚集形成的社群叫\"谷圈\"，价位从低到高常被戏称为\"普谷\"\"湖景谷\"\"海景谷\"。这股风气如今也蔓延到偶像饭圈，\"入谷\"就是开始收藏某个角色或偶像周边的意思。",
+    "category": "slang",
+    "date_added": "2026-08-07"
+  },
+  {
+    "id": "zhongguo-chule-guozu-gailaidedoulaile",
+    "hanzi": "中国除了国足，该来的都来了",
+    "pinyin": "Zhōngguó chúle guózú, gāi lái de dōu lái le",
+    "literal": "China — except the national football team, everyone who should have come, came",
+    "meaning": "The running joke of the 2026 World Cup: every possible Chinese presence showed up at the tournament — referees, sponsors, manufacturing, even the toy brand Labubu as FIFA's official collectible partner — except China's own men's football team, which missed qualifying for a 24th straight year.",
+    "meaning_zh": "这是网友对2026年美加墨世界杯的调侃：赛场内外几乎全是\"中国元素\"——中国裁判马宁执法比赛，联想、海信、蒙牛等中国品牌冠名赞助，义乌供应了七成周边商品，泡泡玛特的Labubu还成了世界杯官方潮玩——唯独中国男足自己连续24年无缘世界杯正赛，成了这场盛会里最大的\"缺席者\"。",
+    "example": "网友刷到马宁执法决赛的新闻，评论区又刷起了\"中国除了国足，该来的都来了\"。",
+    "example_pinyin": "Wǎngyǒu shuā dào Mǎ Níng zhífǎ juésài de xīnwén, pínglùnqū yòu shuā qǐ le \"Zhōngguó chúle guózú, gāi lái de dōu lái le\".",
+    "example_translation": "When netizens saw the news that Ma Ning was refereeing the final, the comments filled up again with \"everything Chinese showed up at this World Cup except China's own team.\"",
+    "context": "2026年世界杯扩军至48队，亚洲名额大增，但国足在18强赛小组第五出局，连续24年无缘正赛。与此同时，中国裁判、赞助商、制造业乃至潮玩IP却全方位\"出现\"在了世界杯赛场内外，于是网友总结出这句自嘲式流行语，既是对国足长期低迷的调侃，也带着几分身为\"世界工厂\"的复杂骄傲。",
+    "category": "meme",
+    "date_added": "2026-08-07"
+  },
+  {
+    "id": "du-nai",
+    "hanzi": "毒奶",
+    "pinyin": "dú nǎi",
+    "literal": "poisoned milk",
+    "meaning": "A \"jinx\": confidently praising or predicting that someone/something will succeed, which — as if cursed — ends up causing the opposite outcome. The reverse of a supportive boost.",
+    "meaning_zh": "\"毒奶\"源自电竞圈，\"奶\"本指给队友加血、看好并夸赞某一方，是祝福的意思；但被夸的一方偏偏在此后犯错或翻车，这种\"一夸就崩\"的现象就叫\"毒奶\"，也就是变了质、起反作用的祝福。",
+    "example": "解说刚说他这把稳了，转头就送了人头，这波纯纯毒奶。",
+    "example_pinyin": "Jiěshuō gāng shuō tā zhè bǎ wěn le, zhuǎntóu jiù sòng le réntóu, zhè bō chúnchún dúnǎi.",
+    "example_translation": "The commentator had just said he had this round locked in, then he immediately fed a kill — a total jinx.",
+    "context": "\"奶\"最早是《魔兽世界》等游戏里对治疗/辅助职业的称呼，后引申为\"看好、力挺\"的意思；解说员夸某选手\"稳赢\"，对方却立刻失误翻盘，网友便把这种\"祝福变诅咒\"的效果戏称为\"毒奶\"。如今也常用于追星、考试、比赛预测等日常场合，比如夸朋友\"这次肯定过\"，结果对方没过，就会被调侃\"你毒奶他了\"。",
+    "category": "slang",
+    "date_added": "2026-08-07"
   }
 ]
