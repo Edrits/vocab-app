@@ -1076,5 +1076,47 @@
     "context": "The toy's \"wow-wow\" buzz got paired online with parody captions mimicking Huawei exec Richard Yu's (\"余承东\") signature hyperbolic launch-event claims (e.g. calling a car \"the best SUV under 10 million rmb\"), turning it into a running joke about inflated product-launch hype. It escalated into a minor scandal in early August 2026 when creators reported their videos or listings being taken down, though Huawei's HarmonyOS Intelligent Mobility Alliance publicly denied filing any complaints.",
     "category": "meme",
     "date_added": "2026-08-08"
+  },
+  {
+    "id": "wuhen-chehui",
+    "hanzi": "无痕撤回",
+    "pinyin": "wúhén chèhuí",
+    "literal": "without-trace withdraw-return",
+    "meaning": "\"Traceless recall\" — a July 2026 WeChat update (v8.0.76) letting you delete the grey \"you recalled a message\" notice from your own chat log after recalling a message. The catch: it only clears your side — the other person's screen still shows the recall notice, so nothing is actually hidden from them.",
+    "meaning_zh": "微信2026年7月更新的功能：撤回消息后，可以长按删除自己这边\"你撤回了一条消息\"的灰色提示。但这只对自己有效，对方那边照样能看到撤回提示，并没有真的\"消失无痕\"。",
+    "example": "我把打错的话撤回了，还用无痕撤回删了提示，可对面还是能看到\"对方撤回了一条消息\"，一点用都没有。",
+    "example_pinyin": "Wǒ bǎ dǎcuò de huà chèhuí le, hái yòng wúhén chèhuí shān le tíshì, kě duìmiàn háishi néng kàndào \"duìfāng chèhuí le yī tiáo xiāoxi\", yīdiǎn yòng dōu méiyǒu.",
+    "example_translation": "I recalled the message I mistyped and used traceless-recall to delete the notice on my side too, but the other person can still see \"the other party recalled a message\" — completely useless.",
+    "context": "WeChat rolled this out in version 8.0.76 (July 2026): long-press the grey \"you recalled a message\" bubble to delete it from your own chat history. It immediately drew backlash for being one-sided — deleting your own copy does nothing to stop the recipient from seeing the recall notice on their end. Netizens split into two camps: office workers glad to tidy up their own screenshots, and everyone else mocking it as fake \"traceless-ness\" and demanding a real two-way version. The gap between the feature's name and what it actually does made it an instant target for the chengyu [[yan-er-dao-ling]].",
+    "category": "news",
+    "date_added": "2026-08-09"
+  },
+  {
+    "id": "yan-er-dao-ling",
+    "hanzi": "掩耳盗铃",
+    "pinyin": "yǎn ěr dào líng",
+    "literal": "cover ears steal bell",
+    "meaning": "To deceive only yourself — plugging your own ears while stealing a bell, reasoning that if you can't hear it ring, no one else can either. Used for anyone who hides an obvious problem from themselves while it stays plainly visible to everyone else.",
+    "meaning_zh": "比喻自己欺骗自己：明明掩盖不了的事情，却偏要蒙蔽自己的耳目，以为自己看不见、听不见，别人也一样不知道。",
+    "example": "你把撤回提示删了，对方照样看得到，这不就是当代版掩耳盗铃吗？",
+    "example_pinyin": "Nǐ bǎ chèhuí tíshì shān le, duìfāng zhàoyàng kàn de dào, zhè bú jiùshì dāngdài bǎn yǎn ěr dào líng ma?",
+    "example_translation": "You deleted the recall notice, but the other person can still see it just the same — isn't that basically a modern-day \"covering your ears while stealing a bell\"?",
+    "context": "An ancient Warring States-era fable (recorded in the Lüshi Chunqiu) about a thief who covers his own ears while stealing a bell, thinking that since he can't hear it ring, nobody else will either. It's a fixture of netizen commentary for any half-measure that only fools the person doing it — most recently revived in July 2026 to mock WeChat's one-sided [[wuhen-chehui]] feature, since scrubbing the notice from your own screen does nothing to stop the other person from seeing it.",
+    "category": "chengyu",
+    "date_added": "2026-08-09"
+  },
+  {
+    "id": "qu-dongbei-bishu-shibai",
+    "hanzi": "去东北避暑失败",
+    "pinyin": "qù Dōngběi bìshǔ shībài",
+    "literal": "go Northeast escape-heat fail",
+    "meaning": "\"Failed to escape the heat by going to Northeast China\" — the running joke/complaint of August 2026, when Northeast China, normally the go-to summer-escape region, got hit by record-breaking heat itself, at times running hotter than Guangdong down south.",
+    "meaning_zh": "指2026年8月这轮反常高温里，本该凉爽避暑的中国东北反而热到破纪录，气温一度比广东还高，让原本计划去东北避暑的网友大呼\"失败\"。",
+    "example": "本来订了去哈尔滨的机票避暑，结果那边气温直逼35度，真是去东北避暑失败了。",
+    "example_pinyin": "Běnlái dìng le qù Hā'ěrbīn de jīpiào bìshǔ, jiéguǒ nàbiān qìwēn zhí bī sānshíwǔ dù, zhēnshi qù Dōngběi bìshǔ shībài le.",
+    "example_translation": "I'd booked a flight to Harbin to escape the heat, but it hit nearly 35°C there too — a proper \"failed to escape the heat by going to the Northeast.\"",
+    "context": "In late July/early August 2026 an unusually stubborn subtropical high pushed record heat into Northeast China, a region Chinese tourists normally flee to in summer. Some areas there ran hotter than Guangdong in the deep south, and air-conditioner sales in Liaoning reportedly jumped over 200% year-on-year as locals scrambled to cope. Netizens turned the irony into a stock phrase, \"去X避暑失败\" (\"failed to escape the heat by going to X\"), used specifically for the Northeast this summer as the usual heat-refuge stopped being one.",
+    "category": "meme",
+    "date_added": "2026-08-09"
   }
 ]
