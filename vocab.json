@@ -1118,5 +1118,47 @@
     "context": "In late July/early August 2026 an unusually stubborn subtropical high pushed record heat into Northeast China, a region Chinese tourists normally flee to in summer. Some areas there ran hotter than Guangdong in the deep south, and air-conditioner sales in Liaoning reportedly jumped over 200% year-on-year as locals scrambled to cope. Netizens turned the irony into a stock phrase, \"去X避暑失败\" (\"failed to escape the heat by going to X\"), used specifically for the Northeast this summer as the usual heat-refuge stopped being one.",
     "category": "meme",
     "date_added": "2026-08-09"
+  },
+  {
+    "id": "doubao-xing-renge",
+    "hanzi": "豆包型人格",
+    "pinyin": "dòubāo xíng réngé",
+    "literal": "Doubao-type personality",
+    "meaning": "Describes someone who nods along and agrees with everything, apologises instantly and cheerfully the moment they're called out, but doesn't actually change their behaviour afterward — named for how the AI chatbot Doubao responds when corrected.",
+    "meaning_zh": "网络流行语，形容表面顺从、一被指出错误就笑嘻嘻立刻认错道歉，但转头该怎么做还怎么做、其实根本没往心里去的人；因为这种“嘴上服软、行动不变”的模式很像AI助手豆包应对纠错时的语气，所以得名。",
+    "example": "他就是典型的豆包型人格，说他错了立马道歉，下次照样迟到。",
+    "example_pinyin": "Tā jiù shì diǎnxíng de dòubāo xíng réngé, shuō tā cuò le lìmǎ dàoqiàn, xià cì zhàoyàng chídào.",
+    "example_translation": "He's a classic \"Doubao-type personality\" — the moment you say he's wrong he apologises, then shows up late again next time.",
+    "context": "Named after 豆包 (Doubao), ByteDance's AI chatbot, whose conversational style — instantly agreeable, quick to say sorry when corrected, but not really adjusting its underlying behaviour — became a recognisable pattern. Netizens started applying the label to coworkers and friends who \"handle\" conflict the same way: high emotional-value charm to smooth things over rather than actually engaging with the criticism. It has spread especially in workplace contexts as a semi-affectionate, semi-exasperated description of people who've perfected \"attitude good, behaviour unchanged.\"",
+    "category": "social",
+    "date_added": "2026-08-10"
+  },
+  {
+    "id": "bao-de",
+    "hanzi": "包的",
+    "pinyin": "bāo de",
+    "literal": "wrapped/guaranteed + particle",
+    "meaning": "An emphatic way of saying \"definitely\" or \"guaranteed\" — used to affirm or promise something with confidence.",
+    "meaning_zh": "网络流行语，“包”在这里表示“肯定、保证”的意思，“包的”相当于“那必须的”“肯定啊”，用来斩钉截铁地表达确定或承诺。",
+    "example": "明天准时到？包的！",
+    "example_pinyin": "Míngtiān zhǔnshí dào? Bāo de!",
+    "example_translation": "Showing up on time tomorrow? Guaranteed!",
+    "context": "Traces back to a gaming livestreamer nicknamed Coke — when fans jokingly pretended not to recognise him, commenters would reply \"包变脸的\" (\"guaranteed he'll change his tune\"), using 包 the way some regional dialects use it to mean \"for sure.\" The shorthand \"包的\" broke out of that fandom bubble into general use, prized for sounding punchier and more confident than a plain \"肯定\" or \"好的.\"",
+    "category": "slang",
+    "date_added": "2026-08-10"
+  },
+  {
+    "id": "chengwei-zhongguoren",
+    "hanzi": "成为中国人",
+    "pinyin": "chéngwéi Zhōngguórén",
+    "literal": "become Chinese person",
+    "meaning": "A 2026 overseas TikTok trend where non-Chinese users film themselves adopting Chinese lifestyle habits — drinking hot water, wearing cotton slippers, cooking congee and soup, doing baduanjin exercises — as a half-joking, half-sincere wellness challenge.",
+    "meaning_zh": "2026年初在海外社交媒体走红的挑战梗：起初是一位华裔博主分享喝热水、驱寒保暖等养生习惯，半开玩笑地喊网友“从明天开始你要变成中国人了”，随后各国网友争相模仿喝热水、煲汤煮粥、穿棉拖鞋等“中式生活方式”，把它当成健康自律的打卡挑战。",
+    "example": "最近好多外国博主都在晒“成为中国人”挑战，天天煮粥喝热水。",
+    "example_pinyin": "Zuìjìn hǎoduō wàiguó bózhǔ dōu zài shài \"chéngwéi Zhōngguórén\" tiǎozhàn, tiāntiān zhǔ zhōu hē rèshuǐ.",
+    "example_translation": "Lately loads of foreign creators have been posting their \"becoming Chinese\" challenge — cooking congee and drinking hot water every day.",
+    "context": "Started when a Chinese-American creator posted tips like drinking hot water and avoiding cold food to stay healthy, jokingly telling followers \"starting tomorrow, you're becoming Chinese.\" The video racked up millions of views and spawned a wave of imitators worldwide who began daily check-ins of habits like hot soup, cotton slippers, and red scarves for luck — framed not as mockery but as genuine admiration for what they saw as practical Eastern wellness wisdom, making it 2026's first big cross-border meme out of China.",
+    "category": "meme",
+    "date_added": "2026-08-10"
   }
 ]
