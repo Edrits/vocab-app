@@ -1160,5 +1160,47 @@
     "context": "Started when a Chinese-American creator posted tips like drinking hot water and avoiding cold food to stay healthy, jokingly telling followers \"starting tomorrow, you're becoming Chinese.\" The video racked up millions of views and spawned a wave of imitators worldwide who began daily check-ins of habits like hot soup, cotton slippers, and red scarves for luck — framed not as mockery but as genuine admiration for what they saw as practical Eastern wellness wisdom, making it 2026's first big cross-border meme out of China.",
     "category": "meme",
     "date_added": "2026-08-10"
+  },
+  {
+    "id": "suan-niao",
+    "hanzi": "蒜鸟",
+    "pinyin": "suàn niǎo",
+    "literal": "garlic bird",
+    "meaning": "A plush toy mascot shaped like a garlic-headed yellow bird that \"speaks\" Wuhan dialect when squeezed — it says something that sounds like 算了 (\"suàn le\", meaning \"forget it, let it go\"). Not a piece of vocabulary with a portable meaning so much as a viral merchandise phenomenon: people buy and gift it as a cute, comforting way of saying \"let it go, don't stress.\"",
+    "meaning_zh": "一种大蒜头造型的黄色小鸟毛绒玩具，捏一下会用武汉方言说出类似\"算了\"的声音。它不是一个有固定含义的词，而是一款爆红的文创玩偶：靠谐音和萌感传递\"算了，别往心里去\"的安慰感。",
+    "example": "别纠结了，买只蒜鸟捏一捏，蒜鸟蒜鸟。",
+    "example_pinyin": "Bié jiūjié le, mǎi zhī suànniǎo niē yi niē, suàn niǎo suàn niǎo.",
+    "example_translation": "Stop stressing about it — go squeeze a suan niao, let it go, let it go.",
+    "context": "Wuhan native Li Mangguo made the first one from a sprouted garlic bulb to cheer up his wife after an argument, riffing on the Wuhan dialect phrase 算了 (\"suàn le\", let it go) sounding like 蒜鸟 (\"suàn niǎo\", garlic bird). The garlic-head design nods to the classic garnish on Wuhan hot-dry noodles. It went viral on Douyin and Xiaohongshu through 2025, sold over 100,000 units, spawned sibling dialect plushies, and became a fixture of Wuhan tourist shops and gift shelves — still circulating as a byword for \"chill out\" going into 2026.",
+    "category": "meme",
+    "date_added": "2026-08-13"
+  },
+  {
+    "id": "dai-ru-gan",
+    "hanzi": "代入感",
+    "pinyin": "dàirùgǎn",
+    "literal": "substitute-enter-feeling",
+    "meaning": "\"Immersion\"/\"sense of being there\" — the feeling of stepping into a video's perspective rather than just watching it, chased through POV framing, first-person narration, and ASMR-style sound design so the viewer feels present in the scene rather than an outside observer.",
+    "meaning_zh": "指观众看内容时产生的\"身临其境\"的感觉，仿佛自己就在画面里，而不只是旁观。常通过第一视角(POV)、第一人称叙述、ASMR式的环境音效来营造。",
+    "example": "这条第一视角做饭视频代入感也太强了，看完感觉自己刚吃完饭。",
+    "example_pinyin": "Zhè tiáo dì-yī shìjiǎo zuò fàn shìpín dàirùgǎn yě tài qiáng le, kàn wán gǎnjué zìjǐ gāng chī wán fàn.",
+    "example_translation": "This first-person cooking video has such strong immersion, I feel like I just ate after watching it.",
+    "context": "Named by Xiaohongshu's 2026 \"top ten hot words\" data report as one of the platform's defining content trends: POV clips, ASMR sound design and first-person narration exploded in popularity because viewers were chasing the feeling of being physically present in a scene rather than watching from outside. Douyin's \"immersive\" (沉浸式) tag alone has racked up billions of views, and 代入感 became the shorthand critics and creators use for why this style of content performs so well.",
+    "category": "social",
+    "date_added": "2026-08-13"
+  },
+  {
+    "id": "rou-ruan-li",
+    "hanzi": "柔软力",
+    "pinyin": "róuruǎnlì",
+    "literal": "soft-strength",
+    "meaning": "\"The strength of softness\" — a life philosophy of being outwardly gentle but inwardly resilient: using warmth, patience and emotional flexibility as your source of strength instead of toughness or aggression, and living out your own values quietly rather than by force.",
+    "meaning_zh": "一种\"外柔内韧\"的生活哲学：用温柔、耐心和情绪上的灵活性作为自己的力量来源，而不是靠强硬或对抗；不张扬，却能凭内在智慧活出自己的样子。",
+    "example": "她从不跟人硬碰硬，但总能把事情办成，这就是柔软力。",
+    "example_pinyin": "Tā cóng bù gēn rén yìngpèngyìng, dàn zǒng néng bǎ shìqing bàn chéng, zhè jiù shì róuruǎnlì.",
+    "example_translation": "She never confronts people head-on, but she always gets things done — that's 柔软力 (the strength of softness).",
+    "context": "One of Xiaohongshu's 2026 \"top ten hot words\", surfacing alongside 活人感 and 边界感 as part of a broader shift toward self-care and interiority: users increasingly frame emotional gentleness — being soft rather than combative — as a deliberate strength rather than a weakness, in contrast to older \"hustle culture\" ideals of toughness and grinding through.",
+    "category": "social",
+    "date_added": "2026-08-13"
   }
 ]
