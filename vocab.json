@@ -1202,5 +1202,61 @@
     "context": "One of Xiaohongshu's 2026 \"top ten hot words\", surfacing alongside 活人感 and 边界感 as part of a broader shift toward self-care and interiority: users increasingly frame emotional gentleness — being soft rather than combative — as a deliberate strength rather than a weakness, in contrast to older \"hustle culture\" ideals of toughness and grinding through.",
     "category": "social",
     "date_added": "2026-08-13"
+  },
+  {
+    "id": "lang-lang-shan",
+    "hanzi": "浪浪山",
+    "pinyin": "Làng Làng Shān",
+    "literal": "Wave-Wave Mountain (a place name)",
+    "meaning": "Shorthand for 'the grind you can't quite escape' — an unglamorous hometown, job, or daily routine that wears you down, even though it once held warmth too. People say 我想离开浪浪山 ('I want to leave Langlang Mountain') to voice the urge to get out of a rut without necessarily knowing where to go instead.",
+    "meaning_zh": "网络流行语，指那个磨人却难以真正离开的'家乡'或日常处境——也许不够发达甚至有些贫瘠，却承载过温暖的记忆。打工人常用'我想离开浪浪山'表达想逃离现状（工作、家乡、生活）的心情，即便不知道能去哪。",
+    "example": "每天加班到十点，我真的很想离开浪浪山。",
+    "example_pinyin": "Měitiān jiābān dào shí diǎn, wǒ zhēn de hěn xiǎng líkāi Lànglàng Shān.",
+    "example_translation": "Working overtime until 10pm every day, I really just want to escape this grind.",
+    "context": "From the 2023 animated short 《小妖怪的夏天》 (part of the anthology series 中国奇谭), where a small pig-demon toils under an exploitative demon boss in a place called 浪浪山, dreaming of leaving. His line to his mother, 我想离开浪浪山, struck a nerve with overworked young professionals who saw their own 996 lives in his. A 2025 spin-off film (《浪浪山小妖怪》) revived the phrase, and 浪浪山 became one of the most-cited 网络流行语 of 2025–2026 — shorthand for any grinding circumstance, work or hometown, that you long to escape.",
+    "category": "social",
+    "date_added": "2026-08-16"
+  },
+  {
+    "id": "ya-gou-zao-de",
+    "hanzi": "丫够燥的",
+    "pinyin": "yā gòu zào de",
+    "literal": "you (contemptuous) + quite + wild/hyped + 的",
+    "meaning": "Beijing slang for someone who's being loud, showy, or over-the-top — can land as a compliment, a playful tease, or genuine exasperation depending on tone. Roughly 'you're being wild as hell' or 'you're really putting on a show, huh'.",
+    "meaning_zh": "带有老北京方言味儿的调侃用语，形容某人嚣张、高调、爱显摆或行为夸张。语气可以是夸奖、玩笑式吐槽，也可以是真的看不下去了，全看场合和语气。",
+    "example": "又骑摩托又飙车，你丫够燥的。",
+    "example_pinyin": "Yòu qí mótuō yòu biāochē, nǐ yā gòu zào de.",
+    "example_translation": "Riding motorbikes, racing cars — you're really out here being wild.",
+    "context": "丫 is old Beijing street slang for 'you' (short for the coarser 丫头养的), softened by familiarity into a rough-and-tumble stand-in for 这家伙. 燥 originally meant 'agitated/restless' and, via rock and street culture, came to mean 'hyped, showy, over-the-top'. Short-video creators paired the two into 丫够燥的 in reaction videos and comment sections, and it caught on nationwide in the first half of 2026 as an all-purpose reaction to anyone being extra.",
+    "category": "slang",
+    "date_added": "2026-08-16"
+  },
+  {
+    "id": "xiang-shang-tan-qi",
+    "hanzi": "向上叹气",
+    "pinyin": "xiàng shàng tàn qì",
+    "literal": "toward-upward + sigh",
+    "meaning": "A viral self-soothing trick: instead of sighing downward with your head bowed and shoulders slumped (which signals 'I give up'), tilt your head back, open your chest, and exhale skyward — supposedly resetting your mood instead of reinforcing it. People film themselves doing it, often set to music.",
+    "meaning_zh": "近期爆火的解压小技巧：不再是低头弓背地向下叹气（传递'我不行了'的信号），而是抬头挺胸、望着天空把气叹出去，据说这样能让大脑收到'我在释放、我要重启'的信号，而不是加重emo。许多人拍视频记录自己'向上叹气'，还常配上音乐。",
+    "example": "心情不好的时候别老低头叹气，试试向上叹气，据说真的有用。",
+    "example_pinyin": "Xīnqíng bù hǎo de shíhou bié lǎo dītóu tànqì, shìshì xiàng shàng tànqì, jùshuō zhēn de yǒuyòng.",
+    "example_translation": "When you're feeling down, don't just sigh with your head bowed — try sighing upward instead, apparently it actually works.",
+    "context": "The technique traces to psychology's 'facial feedback hypothesis' — that posture and breathing can shape emotion rather than just express it. It spread from a livestreamer demonstrating it in May 2026, got a boost when a celebrity posted about it in June, and exploded in July as short-video creators set their upward sighs to sentimental pop songs, turning a breathing tip into a full-blown decompression meme.",
+    "category": "social",
+    "date_added": "2026-08-16"
+  },
+  {
+    "id": "zhongguo-ren-neng-fei",
+    "hanzi": "中国人能飞",
+    "pinyin": "Zhōngguó rén néng fēi",
+    "literal": "Chinese people + can + fly",
+    "meaning": "The hook of a deliberately absurd, catchy rap freestyle that exploded into a nationwide meme. The lyrics just repeat 'Chinese people can fly, yellow skin is right, only flies in Chinese, China is beautiful' — nonsensical on its face, but netizens read it as both tongue-in-cheek national pride (rockets, space stations, big planes — 'we can fly') and a generically hype self-affirmation chant.",
+    "meaning_zh": "一段刻意荒诞、洗脑的说唱即兴哼唱爆红成为全网热梗，歌词反复唱'中国人能飞，黄皮肤才对，讲中文才飞，中国就是美'。表面无厘头，但网友们既读出了民族自豪感（卫星、飞船、空间站、大飞机都能'飞'上天），也当作一句万能的自我打气口号来玩梗。",
+    "example": "面试通过了！中国人能飞！",
+    "example_pinyin": "Miànshì tōngguò le! Zhōngguó rén néng fēi!",
+    "example_translation": "Passed the interview! Chinese people can fly!",
+    "context": "Rapper 揽佬 sang the hook in his Huizhou-accented Mandarin over a Memphis-style trap beat sampling 'Summertime', on a livestream. It stayed niche until 29 July 2026, when 《国防时报》 used it as BGM for a military-themed short video that racked up 110,000+ full-screen views — the moment it broke out. Netizens then set the hook to everything from rocket launches to rock climbing to video-game highlight reels, cementing it as August 2026's biggest earworm meme.",
+    "category": "meme",
+    "date_added": "2026-08-16"
   }
 ]
