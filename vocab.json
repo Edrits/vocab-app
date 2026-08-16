@@ -1300,5 +1300,47 @@
     "context": "Started in January 2026 when idol 马嘉祺 (of 时代少年团) posted a wistful 'I want to hold onto this holiday' message as New Year's break ended — a feeling that instantly resonated with exhausted workers. Fans built the homophone pun (嘉祺/假期) into a lucky charm, and it spread past fandom circles into general office culture as a tongue-in-cheek way to manifest time off, especially fitting since 2026 is the Year of the Horse (马年) and his surname is also 马.",
     "category": "meme",
     "date_added": "2026-08-16"
+  },
+  {
+    "id": "yidairen-jiangshirou",
+    "hanzi": "一代人有一代人的僵尸肉",
+    "pinyin": "yí dài rén yǒu yí dài rén de jiāngshī ròu",
+    "literal": "one generation + has + one generation's + zombie meat",
+    "meaning": "A wry generational joke about freezer-hoarding: every generation has its own 'zombie meat' — food frozen so long it's practically undead — whether that's a parent's decades-old cured pork wrapped like a brick, or a younger person's forgotten oat milk and meal-prep containers. Used to point out that hoarding habits just take different forms across generations, not that any generation is exempt.",
+    "meaning_zh": "网络热梗，调侃两代人冰箱里都藏着'僵尸肉'——冻了太久、几乎'成精'的食物。老一辈可能是腌成砖头一样的腊肉、放了几年的排骨；年轻一代则是囤积却忘记喝的燕麦奶、吃了一半的预制菜。意思是'断舍离'这件事人人都懂但人人都做不到，只是每代人囤积的东西不一样。",
+    "example": "别笑我妈的腊肉了，你冰箱里那盒过期酸奶不也是你这代人的僵尸肉。",
+    "example_pinyin": "Bié xiào wǒ mā de làròu le, nǐ bīngxiāng lǐ nà hé guòqī suānnǎi bù yě shì nǐ zhè dài rén de jiāngshī ròu.",
+    "example_translation": "Don't laugh at my mum's cured pork — that expired yogurt in your fridge is your generation's zombie meat too.",
+    "context": "The phrase surfaced in July 2026 alongside a wave of social posts and news pieces comparing what different generations let go bad in their freezers — a parent's meat frozen for years next to a twenty-something's abandoned oat milk and takeout leftovers. It works as gentle intergenerational ribbing rather than real criticism: the joke isn't that older people hoard and younger people don't, it's that everyone has a version of the same habit.",
+    "category": "meme",
+    "date_added": "2026-08-16"
+  },
+  {
+    "id": "bu-jiang-bu-jiang",
+    "hanzi": "不讲不讲",
+    "pinyin": "bù jiǎng bù jiǎng",
+    "literal": "not + say/explain + (repeated)",
+    "meaning": "A catchphrase for shutting down a topic without explaining or justifying yourself — roughly 'not gonna get into it' or 'say no more'. Used to imitate a fiercely partial, doesn't-care-about-fairness attitude, most often self-deprecatingly or to describe someone playing favourites.",
+    "meaning_zh": "网络流行语，意思接近'不解释了、不想说了、别的都不重要'，常带点护短、偏心、不讲道理的意味。多用来自嘲或调侃某人一味偏袒某个对象、别的什么都不管不顾。",
+    "example": "只要我家猫开心，家具坏了不讲不讲。",
+    "example_pinyin": "Zhǐyào wǒ jiā māo kāixīn, jiājù huài le bù jiǎng bù jiǎng.",
+    "example_translation": "As long as my cat is happy, I don't care that the furniture's wrecked — not gonna get into it.",
+    "context": "Comes from a family-sitcom-style Douyin skit by creator 杨大牛, where the '奶奶' (grandma) character dotes on her grandson to a fault — feeding him questionable '剩饭' or dubious '进口食品' — and waves off any objection with '不讲不讲' (roughly, 'don't even, not discussing it'). The line caught on as shorthand for blind favouritism or refusing to justify a biased decision, applied well beyond the original grandma-and-grandson context.",
+    "category": "meme",
+    "date_added": "2026-08-16"
+  },
+  {
+    "id": "mingri-jianfei-jiao",
+    "hanzi": "明日减肥教",
+    "pinyin": "míngrì jiǎnféi jiào",
+    "literal": "tomorrow + lose weight + religion/cult",
+    "meaning": "A self-mocking mock-religion netizens 'founded' around the excuse 'eat today, diet tomorrow' (今天先吃，明天再减) — anointing anyone who embodies that eternal procrastination as its 'high priest'. Used to laugh at yourself (or a friend) for endlessly postponing a diet that never actually starts.",
+    "meaning_zh": "网络热梗，源自打工人对减肥屡战屡败的自嘲：'今天先吃，明天再减'被封为'教义'，谁把这句话展现得淋漓尽致，就被网友戏封'明日减肥教教主'。用来调侃自己或别人嘴上喊着减肥、行动上一拖再拖，永远是'明天开始'。",
+    "example": "我又是明日减肥教的忠实信徒，今天先吃，明天再减。",
+    "example_pinyin": "Wǒ yòu shì Míngrì Jiǎnféi Jiào de zhōngshí xìntú, jīntiān xiān chī, míngtiān zài jiǎn.",
+    "example_translation": "I'm a devout follower of the Diet-Tomorrow Cult again — eat today, diet tomorrow.",
+    "context": "Singer 张远 sighed '今天先吃，明天再减' (eat today, diet tomorrow) on camera during the variety show 《快乐老友记》, and the line's blunt honesty about diet-procrastination went viral. Netizens jokingly 'founded' the 明日减肥教 (Diet-Tomorrow Cult) with him as 教主 (high priest), piling on with spin-off jokes about his other on-air pseudo-science, like the '睡8.5小时能瘦8斤' (sleep 8.5 hours, lose 8 pounds) theory, dubbing him the '邪修减肥大法掌门人' (grandmaster of black-magic dieting).",
+    "category": "meme",
+    "date_added": "2026-08-16"
   }
 ]
