@@ -1384,5 +1384,47 @@
     "context": "The 3D rendering is a decade-old artwork (2014, artist known as 3Dalia) that sat in stock-image libraries under the label \"William Tell Penguin\" until Chinese users rediscovered it in free asset libraries in late 2024, made AI-animated dance clips of its wobbling strut, and set it to classical music — sending it viral around Mid-Autumn Festival 2025. Its clumsy walk paired with sunglasses and a tie reads as someone leaving a fancy function trying to look dignified, so netizens now caption it over their own moments of \"barely holding it together but performing composure.\"",
     "category": "meme",
     "date_added": "2026-08-17"
+  },
+  {
+    "id": "zhengtai-niuyao",
+    "hanzi": "正太扭腰",
+    "pinyin": "zhèngtài niǔyāo",
+    "literal": "cute-boy + twist-waist",
+    "meaning": "A dance-meme trend that swept Chinese social media in July–August 2026: a sharp, on-the-beat waist-twist move set to the song '左边画个虫虫', performed with a boyish, 'shota' (cute young male) energy. It started as one trainee's audition clip and snowballed into a full celebrity re-enactment wave.",
+    "meaning_zh": "2026年7、8月席卷中文互联网的舞蹈热梗：伴随歌曲《左边画个虫虫》做出利落卡点的扭腰动作，带着清纯少年感（'正太'气质）。最初是一位练习生考核视频里的动作，后来演变成明星们竞相模仿翻跳的全网热潮。",
+    "example": "陈伟霆最近也下场跳正太扭腰，全网都在模仿。",
+    "example_pinyin": "Chén Wěitíng zuìjìn yě xiàchǎng tiào zhèngtài niǔyāo, quánwǎng dōu zài mófǎng.",
+    "example_translation": "Chen Weiting jumped in and did the 'zhengtai waist-twist' too — the whole internet is copying it now.",
+    "context": "The move originated from TF家族 fourth-generation trainee 张奕然's performance in a 'Whiplash'-themed dance assessment: his crisp waist-twist paired with a fresh-faced, boyish look created a striking 'cute but sharp' contrast that fans clipped and set to a catchy BGM. Within weeks, established stars like 程潇, 陈伟霆 and 曾舜晞 were filming their own versions, turning it into one of summer 2026's biggest cross-platform dance memes.",
+    "category": "meme",
+    "date_added": "2026-08-18"
+  },
+  {
+    "id": "shijie-popolanlan-xiaomao-yuebu-yuelan",
+    "hanzi": "世界破破烂烂，小猫越补越烂",
+    "pinyin": "shìjiè pòpòlànlàn, xiǎomāo yuè bǔ yuè làn",
+    "literal": "world tattered-and-torn, little-cat the-more-patched the-more-tattered",
+    "meaning": "A twist on the earlier saying '世界破破烂烂，总有人在缝缝补补' ('the world's a mess, but someone's always patching it up'). This cat-owner version jokes that instead of fixing anything, your beloved cat just keeps wrecking the house — shredding curtains, knocking things over — and somehow you can't even be mad, because it's too cute. Used affectionately to describe a pet (or person) whose chaos you've simply made peace with.",
+    "meaning_zh": "改编自更早的网络用语'世界破破烂烂，总有人在缝缝补补'。养猫版说的是：猫咪不但不'缝补'，反而不断'拆家'——抓破窗帘、打翻东西，但主人因为太爱它，根本骂不出口。常用来形容对宠物（或某人）造成的麻烦已经全盘接受、甚至觉得可爱的心态。",
+    "example": "我家猫又把窗帘抓烂了，真是世界破破烂烂，小猫越补越烂。",
+    "example_pinyin": "Wǒ jiā māo yòu bǎ chuānglián zhuā làn le, zhēnshi shìjiè pòpòlànlàn, xiǎomāo yuè bǔ yuè làn.",
+    "example_translation": "My cat shredded the curtains again — truly, the world's falling apart and my cat's only making it worse.",
+    "context": "The original phrase '这个世界破破烂烂，总有人在缝缝补补' traces back to CSGO gaming culture, praising a teammate who selflessly carries the team through a losing round. Cat owners on Xiaohongshu and Weibo flipped the sentiment for pet content: instead of a heroic patcher, the cat is a gleeful destroyer, and the joke is the owner's helpless devotion despite the damage.",
+    "category": "meme",
+    "date_added": "2026-08-18"
+  },
+  {
+    "id": "dongshi-xiaopin",
+    "hanzi": "东施效颦",
+    "pinyin": "dōngshī xiàopín",
+    "literal": "Dongshi imitates [Xishi's] frown",
+    "meaning": "To blindly copy someone else's style or success without understanding what actually made it work, ending up looking worse than before you tried. From the Zhuangzi parable: the plain-looking Dongshi saw that the famous beauty Xishi looked charming even while clutching her chest and frowning in pain, so she copied the frown herself — only to look ridiculous rather than beautiful.",
+    "meaning_zh": "比喻盲目模仿别人，却不明白对方好看/成功的真正原因，结果适得其反、更加丑陋可笑。出自《庄子》寓言：丑女东施看到美女西施因病捂胸皱眉的样子很动人，便刻意模仿，结果反而吓跑了邻里。",
+    "example": "别人减肥成功是靠控制饮食，你天天喝代餐粉却照吃夜宵，真是东施效颦。",
+    "example_pinyin": "Biérén jiǎnféi chénggōng shì kào kòngzhì yǐnshí, nǐ tiāntiān hē dàicānfěn què zhào chī yèxiāo, zhēnshi dōngshī xiàopín.",
+    "example_translation": "Other people lost weight by actually controlling their diet — you drink meal-replacement powder but still eat late-night snacks; that's just a clumsy copy that misses the point.",
+    "context": "A classical chengyu that never left everyday use, and it's especially alive in comment sections today: netizens reach for it whenever a brand, influencer, or celebrity copies a viral trend (a dance, a marketing stunt, a rival's look) without grasping why the original worked, and the copy flops or looks awkward instead.",
+    "category": "chengyu",
+    "date_added": "2026-08-18"
   }
 ]
