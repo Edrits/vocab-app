@@ -1426,5 +1426,47 @@
     "context": "A classical chengyu that never left everyday use, and it's especially alive in comment sections today: netizens reach for it whenever a brand, influencer, or celebrity copies a viral trend (a dance, a marketing stunt, a rival's look) without grasping why the original worked, and the copy flops or looks awkward instead.",
     "category": "chengyu",
     "date_added": "2026-08-18"
+  },
+  {
+    "id": "dagongren-renchuanren",
+    "hanzi": "打工人人传人",
+    "pinyin": "dǎgōngrén rén chuán rén",
+    "literal": "worker person-to-person transmission",
+    "meaning": "A pun combining '打工人' (the 2020 viral self-deprecating term for 'worker/labourer') with '人传人' (the medical term for person-to-person disease transmission) — used to describe how the 打工人 identity and its self-mocking rituals ('早安打工人' etc.) spread virally, infecting one workplace after another until everyone was calling themselves a 打工人.",
+    "meaning_zh": "把\"打工人\"（2020年爆红的打工人自嘲梗）和\"人传人\"（医学术语，指疾病人传人）拼在一起的调侃说法，形容\"打工人\"这个称呼和\"早安打工人\"之类的语录像病毒一样在各行各业迅速蔓延、人人跟风自称\"打工人\"的现象。",
+    "example": "从工地到写字楼，这波'早安打工人'真的是打工人人传人，没人能幸免。",
+    "example_pinyin": "Cóng gōngdì dào xiězìlóu, zhè bō 'zǎo'ān dǎgōngrén' zhēn de shì dǎgōngrén rén chuán rén, méi rén néng xìngmiǎn.",
+    "example_translation": "From construction sites to office towers, this wave of 'morning, fellow worker' really has spread person-to-person — nobody's immune.",
+    "context": "打工人 exploded in September 2020 when streamer 抽象带篮子 posted a self-mocking 'morning, worker' video that office workers, delivery riders and everyone in between adopted as a shared identity. In 2026 the label got a new twist: netizens started calling its viral spread 人传人 — borrowing the epidemiological term for disease transmission — to joke about how fast the self-deprecating catchphrase and its rituals leapt from one workplace group chat to the next.",
+    "category": "meme",
+    "date_added": "2026-08-20"
+  },
+  {
+    "id": "yidao-gongwei-miaohui",
+    "hanzi": "已到工位秒回",
+    "pinyin": "yǐ dào gōngwèi miǎo huí",
+    "literal": "already arrived-at desk, instant reply",
+    "meaning": "A stock phrase workers post to a group chat or boss the moment they sit down: 'At my desk, replying instantly.' It signals 'I'm on the clock and reachable' — sometimes sincerely, sometimes as deadpan self-mockery for being tethered to messaging apps the second you arrive.",
+    "meaning_zh": "打工人一到工位就发的一句话，意思是\"我已经到岗，随时秒回消息\"。既可以是真心汇报自己进入工作状态，也可以是自嘲——调侃自己一坐下就要被工作消息\"绑架\"，摸鱼都不敢明目张胆。",
+    "example": "老板一早发消息，我立刻回了句'已到工位秒回'，其实心里在想今天摸鱼摸到几点。",
+    "example_pinyin": "Lǎobǎn yīzǎo fā xiāoxi, wǒ lìkè huíle jù 'yǐ dào gōngwèi miǎo huí', qíshí xīnlǐ zài xiǎng jīntiān mōyú mō dào jǐ diǎn.",
+    "example_translation": "The boss messaged first thing, and I instantly replied 'at my desk, replying instantly' — though secretly I was wondering how long I could slack off today.",
+    "context": "A 2026 workplace catchphrase that's part genuine status update, part inside joke: typing it out the second you arrive doubles as proof of diligence for managers and as dark humour among coworkers, who use it to describe being permanently on-call from the moment they cross the office threshold — even while quietly 摸鱼 (slacking off) between messages.",
+    "category": "slang",
+    "date_added": "2026-08-20"
+  },
+  {
+    "id": "zhongjiangle-doubao",
+    "hanzi": "中奖了",
+    "pinyin": "zhòngjiǎng le",
+    "literal": "won a prize",
+    "meaning": "Not literally winning anything — it's the catchphrase of a short-video genre where creators ask the AI chatbot 豆包 (Doubao) to generate a set of 'lucky numbers' on camera, styled like a 双色球 lottery draw, then react as if they've just won, purely for the suspense-and-reveal hook.",
+    "meaning_zh": "并不是真的中奖，而是一种短视频创作套路的口头禅：博主对着镜头让AI助手\"豆包\"随机生成一组\"幸运数字\"（模仿双色球开奖的形式），然后表演出中奖般的反应，用来制造悬念、吸引点击互动。",
+    "example": "博主又在直播间喊'中奖了中奖了'，其实就是豆包随便给了组数字。",
+    "example_pinyin": "Bózhǔ yòu zài zhíbōjiān hǎn 'zhòngjiǎng le zhòngjiǎng le', qíshí jiùshì Dòubāo suíbiàn gěile zǔ shùzì.",
+    "example_translation": "The streamer's yelling 'I won, I won!' again in the livestream — really it's just Doubao spitting out a random set of numbers.",
+    "context": "An August 2026 short-video trend built around ByteDance's AI assistant 豆包 (Doubao): creators ask it to spit out a run of 'lucky numbers' between 1 and 49, mimicking the format of a 双色球 lottery draw, then film their exaggerated 'I won!' reaction. It's pure content-creation theatre — nobody actually wins anything — playing on viewers' curiosity about luck and numbers to farm engagement.",
+    "category": "meme",
+    "date_added": "2026-08-20"
   }
 ]
