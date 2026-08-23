@@ -1468,5 +1468,47 @@
     "context": "An August 2026 short-video trend built around ByteDance's AI assistant 豆包 (Doubao): creators ask it to spit out a run of 'lucky numbers' between 1 and 49, mimicking the format of a 双色球 lottery draw, then film their exaggerated 'I won!' reaction. It's pure content-creation theatre — nobody actually wins anything — playing on viewers' curiosity about luck and numbers to farm engagement.",
     "category": "meme",
     "date_added": "2026-08-20"
+  },
+  {
+    "id": "bu-jichu",
+    "hanzi": "不基础",
+    "pinyin": "bù jīchǔ",
+    "literal": "not basic",
+    "meaning": "A mad-libs template phrase — \"[X] basic, [Y] not basic\" — used to point out a jarring, funny contrast between two things that are supposed to match (e.g. a plain top with a wild bottom, a modest salary with wild spending). Expanded from a fashion tip into an all-purpose \"unexpectedly extra\" joke format.",
+    "meaning_zh": "一种句式流行语，格式为\"XX基础，XX不基础\"，用来调侃两件本该匹配的事物之间出人意料的反差和不协调，比如\"上衣基础，下装不基础\"。后来被网友套用到生活各领域，表达\"意料之外的离谱反差\"。",
+    "example": "别看他工资基础，消费可一点不基础。",
+    "example_pinyin": "Bié kàn tā gōngzī jīchǔ, xiāofèi kě yìdiǎn bù jīchǔ.",
+    "example_translation": "Don't be fooled by his modest salary — his spending is anything but modest.",
+    "context": "Originated from a fashion blogger's styling tip: \"上身基础，下身就不基础\" (basic top, not-basic bottom) — pairing a plain blazer with wild, colour-clashing pieces below for contrast. Netizens loved the mismatched-but-it-works effect and started applying the \"X basic, Y not basic\" template everywhere — salary vs spending, a calm mind vs an insane exam question, and so on. It was named one of 2025's top ten internet buzzwords.",
+    "category": "slang",
+    "date_added": "2026-08-23"
+  },
+  {
+    "id": "wo-jiang-cizhi-zaijia-yanjiu",
+    "hanzi": "我将辞职在家研究",
+    "pinyin": "wǒ jiāng cízhí zàijiā yánjiū",
+    "literal": "I will resign, stay home, and study [it]",
+    "meaning": "A mock-serious catchphrase used when something someone said or did is so profound, absurd, or relatable that the only fitting response is joking about quitting your job to devote your life to studying it. Netizens slot in whatever sparked the reaction after 研究 (\"study\").",
+    "meaning_zh": "网络热梗句式，字面是\"我要辞职回家专门研究这段话/这件事\"，用来夸张地表达某句话或某件事让人深受触动、觉得意味深长，值得反复回味、深入研究。常用于评论区玩梗跟风。",
+    "example": "他这段话说得太通透了，我将辞职在家研究他。",
+    "example_pinyin": "Tā zhè duàn huà shuō de tài tōngtòu le, wǒ jiāng cízhí zàijiā yánjiū tā.",
+    "example_translation": "What he said was so enlightened, I'm going to quit my job and study him full-time.",
+    "context": "Sparked in February 2026 when singer 苏醒 (Su Xing), on the variety show 《快乐老友记》, gave an unexpectedly wise riff on self-acceptance — allowing yourself to be imperfect and make mistakes as part of being genuinely you. Netizens turned his sincerity into self-deprecating comedy: \"我将辞职在家研究苏醒\" (I'll quit my job to study Su Xing) went viral, and the template spread to any statement or person netizens find weirdly profound or funny.",
+    "category": "meme",
+    "date_added": "2026-08-23"
+  },
+  {
+    "id": "hang-bao-le",
+    "hanzi": "夯爆了",
+    "pinyin": "hāng bào le",
+    "literal": "pounded/thumping + burst/exploded",
+    "meaning": "An all-purpose superlative of praise — \"absolutely incredible,\" \"off the charts,\" \"smashed it\" — used for anything impressively good, from a meal to a performance to someone's whole vibe. Grittier and more dialect-flavoured than yyds.",
+    "meaning_zh": "万能夸赞类网络热词，意思是\"厉害到极点、好到极致\"，可以用来形容任何令人惊艳的人、事、物，比起\"yyds\"更接地气、更有方言味。",
+    "example": "这场演出真的夯爆了，全场都在尖叫。",
+    "example_pinyin": "Zhè chǎng yǎnchū zhēn de hāng bào le, quán chǎng dōu zài jiānjiào.",
+    "example_translation": "That show absolutely smashed it — the whole crowd was screaming.",
+    "context": "\"夯\" is a dialect word (rooted in Minnan speech) for \"hot, fierce, impressive,\" drawn from a slang five-tier ranking netizens use to rate anything: 夯 (top-tier) > 顶级 > 人上人 > NPC > 拉完了 (terrible). Paired with \"爆了\" for extra punch, it broke out via a cartoon character's catchphrase online and then exploded when the 2026 Spring Festival Gala and official state media started using it too, cementing it as the year's go-to compliment.",
+    "category": "slang",
+    "date_added": "2026-08-23"
   }
 ]
