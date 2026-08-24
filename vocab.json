@@ -1510,5 +1510,47 @@
     "context": "\"夯\" is a dialect word (rooted in Minnan speech) for \"hot, fierce, impressive,\" drawn from a slang five-tier ranking netizens use to rate anything: 夯 (top-tier) > 顶级 > 人上人 > NPC > 拉完了 (terrible). Paired with \"爆了\" for extra punch, it broke out via a cartoon character's catchphrase online and then exploded when the 2026 Spring Festival Gala and official state media started using it too, cementing it as the year's go-to compliment.",
     "category": "slang",
     "date_added": "2026-08-23"
+  },
+  {
+    "id": "niu-ma",
+    "hanzi": "牛马",
+    "pinyin": "niú mǎ",
+    "literal": "ox and horse",
+    "meaning": "Self-deprecating/critical term for oneself or others as an exploited, overworked labourer — treated like a beast of burden by one's job. Sharper and more bitter than 打工人 (fellow worker), implying real resentment at being worked to the bone for someone else's benefit.",
+    "meaning_zh": "指被工作压榨、像牲口一样被使唤的打工人，多用于自嘲或吐槽职场剥削，语气比“打工人”更愤懑、更强调被压榨感。",
+    "example": "加班到十一点，我真的是纯纯的城市牛马。",
+    "example_pinyin": "Jiābān dào shíyī diǎn, wǒ zhēn de shì chúnchún de chéngshì niúmǎ.",
+    "example_translation": "Working overtime until 11pm, I really am just a pure city ox-and-horse.",
+    "context": "The word took off after a livestreamer publicly scolded a big-spending fan for lavishing gifts on someone else's stream while grinding away for the money — calling him “纯纯牛马” (a pure ox-and-horse). It stuck as shorthand for anyone slogging through exploitative work, and by 2026 has largely eclipsed the older, gentler “打工人” as the go-to word for describing overwork, precisely because it carries more bitterness about being used up for someone else's benefit.",
+    "category": "slang",
+    "date_added": "2026-08-24"
+  },
+  {
+    "id": "wo-qu-bu-zao-shuo",
+    "hanzi": "我去，不早说",
+    "pinyin": "wǒ qù, bù zǎo shuō",
+    "literal": "whoa, [you] didn't say so earlier",
+    "meaning": "A sarcastic comment-section stock phrase: pretending to be outraged that someone withheld some \"crucial\" piece of information, when the information is actually completely obvious or irrelevant. Used to needle low-effort or redundant comments.",
+    "meaning_zh": "评论区常用的反讽公式梗，字面是“这么重要的事你怎么不早说”，实际是调侃对方说了句废话或人尽皆知的信息，带着一种配合演出的幽默感。",
+    "example": "评论说“多喝热水对身体好”，底下回复：我去，不早说。",
+    "example_pinyin": "Pínglùn shuō “duō hē rè shuǐ duì shēntǐ hǎo”, dǐxià huífù: wǒ qù, bù zǎo shuō.",
+    "example_translation": "A comment says \"drinking more hot water is good for you\" — the reply underneath: \"Whoa, you didn't say so earlier.\"",
+    "context": "The phrase traces back to a screenshot of a village group chat: a village head posted a notice about funeral arrangements worded ambiguously, and a villager named 周军 replied with the deadpan “我去，不早说”, as if he'd just received life-changing news. Screenshotted and passed around, it became the standard reply netizens now paste under obvious or filler comments — a way of \"playing along\" with a joke rather than genuinely complaining.",
+    "category": "meme",
+    "date_added": "2026-08-24"
+  },
+  {
+    "id": "zhen-mei-kong-pei-ni-nao-le",
+    "hanzi": "真没空陪你闹了",
+    "pinyin": "zhēn méi kòng péi nǐ nào le",
+    "literal": "[I] really don't have time to play around with you",
+    "meaning": "A dismissive kiss-off line — \"I genuinely don't have time for this nonsense\" — deployed by netizens, often mock-quoting a celebrity, to shut down drama, gossip, or a pointless argument.",
+    "meaning_zh": "用来表达“我没空搭理你这些无聊事”的怼人金句，网友常“引用”明星语气来终结八卦、争论或无意义的纠缠。",
+    "example": "又来问我有没有对象，真没空陪你闹了。",
+    "example_pinyin": "Yòu lái wèn wǒ yǒu méiyǒu duìxiàng, zhēn méi kòng péi nǐ nào le.",
+    "example_translation": "Asking me if I have a partner again — I really don't have time for this nonsense.",
+    "context": "Widely attributed to actress 赵丽颖, said amid gossip about on-set behaviour, the line detonated online as netizens turned amateur detective trying to work out who or what she meant. It was quickly recycled onto other celebrities caught up in drama — most notably actor 丁真, spawning \"丁真，我真没空陪你闹了\" — and now gets pasted under any petty online squabble as a way of theatrically refusing to engage.",
+    "category": "meme",
+    "date_added": "2026-08-24"
   }
 ]
