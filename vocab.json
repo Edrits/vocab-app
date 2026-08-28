@@ -11,7 +11,19 @@
     "example_translation": "Seeing that piece of news completely broke me.",
     "context": "Originally a gaming term (an enemy's defense being penetrated). Netizens repurposed it for emotional 'defenses', and it exploded across Weibo and Bilibili as the go-to way to say something hit you hard.",
     "category": "slang",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%A0%B4%E9%98%B2/7115620",
+        "note": "百度百科 · 破防（2021年网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/202107/29/WS610236eea310efa1bd66545a.html",
+        "note": "China Daily 语言点：网络流行语“破防”，如何翻译？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "tangping",
@@ -25,7 +37,19 @@
     "example_translation": "I can't keep grinding — I choose to lie flat.",
     "context": "A landmark 2021 movement among young Chinese pushing back against '996' overwork culture. Became a cultural lightning rod, even drawing state media commentary. Pairs directly with 内卷.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tang_ping",
+        "note": "Wikipedia · Tang ping (躺平)",
+        "lang": "en"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E8%BA%BA%E5%B9%B3",
+        "note": "Wiktionary · 躺平",
+        "lang": "en"
+      }
+    ]
   },
   {
     "id": "neijuan",
@@ -39,7 +63,19 @@
     "example_translation": "This industry is so involuted — working till midnight doesn't even help.",
     "context": "Borrowed from anthropology ('involution'), it went viral among students and white-collar workers to describe zero-sum rat-race competition. The verb form 卷 (juǎn) alone now means 'to compete obsessively'.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Neijuan",
+        "note": "Wikipedia · Neijuan (内卷)",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.qmul.ac.uk/sllf/modern-languages-and-cultures/mlc-blog/chinese-catchwords/news/items/involution-neijuan.html",
+        "note": "Queen Mary University of London · Chinese catchwords: 'Involution' (neijuan)",
+        "lang": "en"
+      }
+    ]
   },
   {
     "id": "yyds",
@@ -53,7 +89,19 @@
     "example_translation": "This hotpot place is the GOAT!",
     "context": "Started in esports/livestreaming fandom praising a legendary player, then became universal internet praise. A prime example of the pinyin-initial abbreviations (like xswl, nsdd) that dominate Chinese chat.",
     "category": "abbreviation",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/yyds/49981820",
+        "note": "百度百科 · yyds",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/202106/02/WS60b6ece8a31024ad0bac30b6.html",
+        "note": "China Daily 语言点：yyds什么意思？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "emo",
@@ -67,7 +115,19 @@
     "example_translation": "Listening to this song at midnight made me emo again.",
     "context": "Borrowed from the English 'emo' subculture but stripped to just mean 'sad/moody'. Peak usage is the late-night '网抑云' (a pun on NetEase Music) phenomenon of posting melancholy comments after dark.",
     "category": "slang",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/emo/59902748",
+        "note": "百度百科 · emo（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/sh/2021/10-11/9583344.shtml",
+        "note": "中国新闻网：满屏都是“我emo了”网友们到底在说些啥？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "xianyanbao",
@@ -81,7 +141,19 @@
     "example_translation": "The class clown is telling jokes again.",
     "context": "A regional dialect word that went nationwide in 2023 via short-video platforms. Spawned endless '显眼包' compilation videos of goofy pets, kids, and coworkers.",
     "category": "meme",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%98%BE%E7%9C%BC%E5%8C%85/63546651",
+        "note": "百度百科 · 显眼包（网络流行词）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_25584310",
+        "note": "澎湃新闻：“十大网络流行语”公布：显眼包、特种兵旅游等入选",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "citybucity",
@@ -95,7 +167,19 @@
     "example_translation": "Come hang out in Shanghai — pretty 'city', right?",
     "context": "Coined by an American travel vlogger ('保保熊') touring China in 2024. His half-English catchphrase went massively viral, and 'city' became an adjective for cosmopolitan/exciting. A rare English loanword used in a Chinese grammar pattern.",
     "category": "meme",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/city%E4%B8%8Dcity/64554712",
+        "note": "百度百科 · city不city",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.news.cn/world/20240717/a6ac1cb425464c95a350f475e4233878/c.html",
+        "note": "新华网：对话“保保熊”揭秘“City不City”背后的故事",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "nazale",
@@ -109,7 +193,19 @@
     "example_translation": "People say I'm slacking off — so what? As long as I'm happy.",
     "context": "A Northeastern-dialect flavored phrase that became the anthem of the '那咋了文学' (so-what literature) trend in 2024 — a relaxed, thick-skinned mindset of not letting others' judgments get to you.",
     "category": "slang",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E9%82%A3%E5%92%8B%E4%BA%86/64840090",
+        "note": "百度百科 · 那咋了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/967053514_121123872",
+        "note": "搜狐：网络热词“那咋了”，究竟想表达啥？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "songchigan",

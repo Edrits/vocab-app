@@ -71,14 +71,21 @@ You only ever need the *keys*, via the commands below.
   "context": "origin story: where it came from, which platform, why netizens use it",
   "category": "slang | social | meme | abbreviation | news | chengyu",
   "date_added": "YYYY-MM-DD",
-  "sources": ["https://… or a short citation, Mandarin or English", "…optional further sources…"]
+  "sources": [
+    { "url": "https://…", "note": "source name + what it is", "lang": "zh" }
+  ]
 }
 ```
-`sources` is a JSON **array of one or more non-empty strings** — the evidence behind the term
-and its example. Each string is a URL or a short reference/description, in **Mandarin or English**.
-Use the actual sources you verified the term against in step 4; if you leaned on several, list
-them all. Sourcing is never shown on the study card — it exists to keep entries verifiable and
-to be pulled out on export. `add_words.py` rejects any entry with an empty or missing `sources`.
+`sources` is a JSON **array of one or more objects**, each the evidence behind the term and its
+example. Every source object has three required fields:
+- `url` — an http(s) link to the evidence.
+- `note` — a short human citation (source name + what it is), in **Mandarin or English**.
+- `lang` — `"zh"` or `"en"`, the language of the source.
+
+Use the actual sources you verified the term against in step 4 — **copy the URL from a real search
+result, never construct or guess one.** If you leaned on several, list them all. Sourcing is never
+shown on the study card — it exists to keep entries verifiable and to be pulled out on export.
+`add_words.py` rejects any entry whose `sources` is missing or malformed.
 
 ## Quality bar
 - The `context` field is the point of the app — always explain the *origin/vibe*, not just the meaning.

@@ -27,11 +27,38 @@ REQUIRED = [
     "category", "date_added",
 ]
 CATEGORIES = {"slang", "social", "meme", "abbreviation", "news", "chengyu"}
+SOURCE_LANGS = {"zh", "en"}
 
 
 def fail(msg):
     print(f"ERROR: {msg}")
     sys.exit(1)
+
+
+def validate_sources(src, i):
+    """`sources` is a non-empty array of {url, note, lang} objects.
+
+    url  — an http(s) link to the evidence (required)
+    note — a short human citation: source name + what it is (required)
+    lang — "zh" or "en", the language of the source (required)
+
+    Shared by add_words.py (new entries) and backfill_sources.py (existing).
+    """
+    if not isinstance(src, list) or not src:
+        return [f"entry {i}: 'sources' must be a non-empty array of {{url, note, lang}} objects"]
+    errs = []
+    for j, s in enumerate(src, 1):
+        if not isinstance(s, dict):
+            errs.append(f"entry {i} source {j}: must be an object with url/note/lang")
+            continue
+        url, note, lang = s.get("url"), s.get("note"), s.get("lang")
+        if not isinstance(url, str) or not re.match(r"https?://\S", url.strip()):
+            errs.append(f"entry {i} source {j}: 'url' must be an http(s) link")
+        if not isinstance(note, str) or not note.strip():
+            errs.append(f"entry {i} source {j}: 'note' must be a non-empty string")
+        if lang not in SOURCE_LANGS:
+            errs.append(f"entry {i} source {j}: 'lang' must be 'zh' or 'en'")
+    return errs
 
 
 def norm(s):
@@ -44,12 +71,7 @@ def validate(entry, i):
         v = entry.get(field)
         if not isinstance(v, str) or not v.strip():
             errs.append(f"entry {i}: missing or empty '{field}'")
-    # sources: a non-empty array of non-empty strings (one or more citations).
-    src = entry.get("sources")
-    if not isinstance(src, list) or not src:
-        errs.append(f"entry {i}: 'sources' must be a non-empty array of citation strings")
-    elif not all(isinstance(s, str) and s.strip() for s in src):
-        errs.append(f"entry {i}: every item in 'sources' must be a non-empty string")
+    errs += validate_sources(entry.get("sources"), i)
     if errs:
         return errs
     if entry["category"] not in CATEGORIES:
