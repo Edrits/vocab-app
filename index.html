@@ -953,7 +953,16 @@
 
     // ---------- export ----------
     // Columns to export, in order. Edward will refine this list / structure later.
-    const EXPORT_COLUMNS = ['id','hanzi','pinyin','literal','meaning','meaning_zh','example','example_pinyin','example_translation','context','category','date_added'];
+    // `sources` is an array of {url, note, lang}; it's flattened per format below
+    // (one delimited cell in CSV, nested <source> elements in XML).
+    const EXPORT_COLUMNS = ['id','hanzi','pinyin','literal','meaning','meaning_zh','example','example_pinyin','example_translation','context','category','date_added','sources'];
+
+    // Flatten the sources array into a single CSV cell: "note — url (lang)" per
+    // source, joined by " | ". Empty string if none.
+    function sourcesToCsv(sources){
+      if (!Array.isArray(sources)) return '';
+      return sources.map(s => `${s.note||''} — ${s.url||''} (${s.lang||''})`).join(' | ');
+    }
 
     function currentExportRows(){
       // Export exactly what Browse is showing — current search, filter and sort all carry through.
@@ -986,12 +995,24 @@
       const stamp = new Date().toISOString().slice(0,10);
       if (format === 'csv'){
         const header = EXPORT_COLUMNS.join(',');
-        const body = rows.map(r => EXPORT_COLUMNS.map(k => csvCell(r[k])).join(',')).join('\r\n');
+        const body = rows.map(r => EXPORT_COLUMNS.map(k =>
+          csvCell(k === 'sources' ? sourcesToCsv(r.sources) : r[k])
+        ).join(',')).join('\r\n');
         // Prepend a UTF-8 BOM so Excel reads the hanzi correctly.
         downloadFile(`netizen-vocab-${stamp}.csv`, 'text/csv;charset=utf-8', '﻿' + header + '\r\n' + body);
       } else {
         const body = rows.map(r =>
-          '  <word>\n' + EXPORT_COLUMNS.map(k => `    <${k}>${xmlEscape(r[k])}</${k}>`).join('\n') + '\n  </word>'
+          '  <word>\n' + EXPORT_COLUMNS.map(k => {
+            if (k === 'sources'){
+              const items = (Array.isArray(r.sources) ? r.sources : []).map(s =>
+                `      <source lang="${xmlEscape(s.lang)}">\n` +
+                `        <url>${xmlEscape(s.url)}</url>\n` +
+                `        <note>${xmlEscape(s.note)}</note>\n` +
+                `      </source>`).join('\n');
+              return `    <sources>${items ? '\n' + items + '\n    ' : ''}</sources>`;
+            }
+            return `    <${k}>${xmlEscape(r[k])}</${k}>`;
+          }).join('\n') + '\n  </word>'
         ).join('\n');
         downloadFile(`netizen-vocab-${stamp}.xml`, 'application/xml;charset=utf-8',
           `<?xml version="1.0" encoding="UTF-8"?>\n<vocab exported="${stamp}" count="${rows.length}">\n${body}\n</vocab>\n`);
