@@ -43,6 +43,8 @@ You only ever need the *keys*, via the commands below.
    do not invent definitions. For meme entries specifically, dig up the real originating
    event/post/screenshot rather than guessing at a generic "meaning" — the fact pattern is
    the whole point. If unsure about a term, drop it rather than guess.
+   **Record the source(s) you used in the entry's `sources` array** (URLs or short citations,
+   Mandarin or English) — this is required, not optional.
 5. **Append via the script** — write your new entries (ALL fields below) as a JSON array
    to a scratch file *outside the repo* (e.g. `$TMPDIR/new_words.json`), then run:
    ```
@@ -68,13 +70,20 @@ You only ever need the *keys*, via the commands below.
   "example_translation": "English translation",
   "context": "origin story: where it came from, which platform, why netizens use it",
   "category": "slang | social | meme | abbreviation | news | chengyu",
-  "date_added": "YYYY-MM-DD"
+  "date_added": "YYYY-MM-DD",
+  "sources": ["https://… or a short citation, Mandarin or English", "…optional further sources…"]
 }
 ```
+`sources` is a JSON **array of one or more non-empty strings** — the evidence behind the term
+and its example. Each string is a URL or a short reference/description, in **Mandarin or English**.
+Use the actual sources you verified the term against in step 4; if you leaned on several, list
+them all. Sourcing is never shown on the study card — it exists to keep entries verifiable and
+to be pulled out on export. `add_words.py` rejects any entry with an empty or missing `sources`.
 
 ## Quality bar
 - The `context` field is the point of the app — always explain the *origin/vibe*, not just the meaning.
 - Keep examples short and idiomatic.
 - Accuracy over volume: 3 solid terms beat 5 shaky ones.
+- Every entry must carry at least one real `source` — no term ships unsourced.
 - For meme-category entries, `meaning` should read as fact (what's actually going on) rather
   than a fabricated dictionary sense — it's fine for the "definition" to just be the joke/story.

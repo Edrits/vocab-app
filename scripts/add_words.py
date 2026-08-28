@@ -19,6 +19,8 @@ import unicodedata
 from collections import Counter
 from pathlib import Path
 
+# String fields — every one required and non-empty. `sources` is handled
+# separately below because it is an array, not a string.
 REQUIRED = [
     "id", "hanzi", "pinyin", "literal", "meaning", "meaning_zh",
     "example", "example_pinyin", "example_translation", "context",
@@ -42,6 +44,12 @@ def validate(entry, i):
         v = entry.get(field)
         if not isinstance(v, str) or not v.strip():
             errs.append(f"entry {i}: missing or empty '{field}'")
+    # sources: a non-empty array of non-empty strings (one or more citations).
+    src = entry.get("sources")
+    if not isinstance(src, list) or not src:
+        errs.append(f"entry {i}: 'sources' must be a non-empty array of citation strings")
+    elif not all(isinstance(s, str) and s.strip() for s in src):
+        errs.append(f"entry {i}: every item in 'sources' must be a non-empty string")
     if errs:
         return errs
     if entry["category"] not in CATEGORIES:
