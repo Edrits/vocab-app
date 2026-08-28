@@ -219,7 +219,19 @@
     "example_translation": "She's so at ease in front of the camera.",
     "context": "Went viral from a 2022 post about a family staying calm after a travel mishap. Became an aspirational aesthetic on 小红书 (RED) — the coveted, effortless 'relaxed vibe' in fashion, lifestyle, and attitude.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%9D%BE%E5%BC%9B%E6%84%9F/63429625",
+        "note": "百度百科：松弛感（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20221014A03USR00",
+        "note": "腾讯新闻：诊断流行情绪：“松弛感”为什么被热议？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "juejuezi",
@@ -233,7 +245,19 @@
     "example_translation": "This makeup look is absolutely stunning!",
     "context": "Popularized by talent-show fan culture and 小红书 reviewers. The '子' suffix and reduplication give it a cutesy, exaggerated tone — a hallmark of a whole family of '-子' internet words.",
     "category": "slang",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%BB%9D%E7%BB%9D%E5%AD%90/57918720",
+        "note": "百度百科：绝绝子",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20220912A05IT400",
+        "note": "腾讯新闻：“万物皆可绝绝子”：网络用语的暴力逻辑",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "neihao",
@@ -247,7 +271,19 @@
     "example_translation": "Stop tormenting yourself over it — things really aren't that bad.",
     "context": "The inward twin of 内卷: where 内卷 is exhausting external competition, 内耗 is the exhausting war inside your own head. A dominant term in 2026 mental-health discourse on 小红书 and Weibo, and named an official word of the year.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97/58279336",
+        "note": "百度百科：精神内耗（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_21310242",
+        "note": "澎湃新闻：《咬文嚼字》发布2022年十大流行语，精神内耗、烟火气等入选",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "banwei",
@@ -261,7 +297,19 @@
     "example_translation": "Only half a year into the job and I already reek of the office grind.",
     "context": "Blew up as young workers joked about losing their pre-job glow. The flip side is '洗掉班味' (washing off the work-smell) — shedding that worn-down look on weekends and holidays. A wry cousin of 躺平 and 内卷.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%8F%AD%E5%91%B3/63515560",
+        "note": "百度百科：班味",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinawriter.com.cn/n1/2024/1213/c403994-40381439.html",
+        "note": "中国作家网：班味、city不city最流行",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "huorengan",
@@ -275,7 +323,19 @@
     "example_translation": "This blogger feels genuinely human — not like they're just 'on the clock.'",
     "context": "A 2026 buzzword pushing back against over-produced influencer and celebrity content. Its opposite is 营业 (yíngyè, lit. 'doing business') — performing a role for the camera. To have 活人感 is to feel refreshingly real.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%B4%BB%E4%BA%BA%E6%84%9F/67047876",
+        "note": "百度百科：活人感",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32085637",
+        "note": "澎湃新闻：谷子、苏超、活人感……哪个是令你印象深刻的“全民流行语”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "qingxujiazhi",
@@ -289,7 +349,19 @@
     "example_translation": "He's really good at giving emotional support — chatting with him is so healing.",
     "context": "Migrated from psychology and relationship advice into everyday dating and consumer talk. By 2026 it's a core yardstick young people use to judge partners, friendships, and even brands and fandoms.",
     "category": "social",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com.cn/sh/2024/01-02/10139264.shtml",
+        "note": "中国新闻网：流行语背后的情绪价值",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.mp.oeeee.com/a/BAAFRD000020231208885363.html",
+        "note": "南方都市报：从十大网络流行语中可以看到什么？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "saiwengshima",
@@ -303,7 +375,19 @@
     "example_translation": "Losing this job might be a blessing in disguise — maybe a better chance is on the way.",
     "context": "A classic chengyu from the Huainanzi: an old man's horse runs off (a loss), then returns with another horse (a gain), which leads to his son breaking a leg (bad), which then spares him from being drafted into war (good). Netizens still drop it in comment sections to console someone after a setback.",
     "category": "chengyu",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%A1%9E%E7%BF%81%E5%A4%B1%E9%A9%AC/541787",
+        "note": "百度百科：塞翁失马",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E5%A1%9E%E7%BF%81%E5%A4%B1%E9%A9%AC",
+        "note": "汉典：塞翁失马 词语的基本解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "moyu",
@@ -317,7 +401,19 @@
     "example_translation": "The boss is out, so everyone's slacking off.",
     "context": "From the idiom 浑水摸鱼 ('fishing in muddy waters'). Now the go-to word for skiving at work — a whole 摸鱼 culture of memes, payday-countdown apps, and strategic toilet breaks has grown around it.",
     "category": "slang",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%91%B8%E9%B1%BC/57233771",
+        "note": "百度百科：摸鱼（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E6%91%B8%E9%B1%BC",
+        "note": "萌娘百科：摸鱼",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "shesi",
@@ -331,7 +427,19 @@
     "example_translation": "I called the teacher by the wrong name and died of embarrassment on the spot.",
     "context": "Full form 社会性死亡. Fuels endless '社死现场' (social-death moment) threads on Weibo and RED where people swap their most cringeworthy public humiliations. Its opposite is 社牛, a fearless social butterfly.",
     "category": "slang",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E6%80%A7%E6%AD%BB%E4%BA%A1/22828245",
+        "note": "百度百科：社会性死亡",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E7%A4%BE%E4%BC%9A%E6%80%A7%E6%AD%BB%E4%BA%A1",
+        "note": "萌娘百科：社会性死亡",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "tezhongbinglvyou",
@@ -345,7 +453,19 @@
     "example_translation": "We did special-forces tourism this weekend — five cities in two days.",
     "context": "A craze among cash-strapped students: overnight trains, dawn starts, ticking off landmarks military-style. Named an official top-ten phrase and still the label for any punishing whirlwind trip.",
     "category": "social",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_25584310",
+        "note": "澎湃新闻：\"十大网络流行语\"公布：显眼包、特种兵旅游等入选",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.hanspub.org/journal/paperinformation?paperid=81159",
+        "note": "汉斯出版社《现代语言学》：网络流行语\"特种兵式旅游\"的意义构建与社会心理分析",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zuiti",
@@ -359,7 +479,19 @@
     "example_translation": "This blogger is totally my mouthpiece — they said exactly what I felt.",
     "context": "High praise for a commentator or netizen who nails a shared feeling perfectly. '互联网嘴替' (the internet's mouthpiece) is a badge of honor for anyone who voices what everyone's thinking.",
     "category": "slang",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%98%B4%E6%9B%BF/61910413",
+        "note": "百度百科：嘴替",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinawriter.com.cn/n1/2024/1216/c403994-40382887.html",
+        "note": "中国作家网：为什么这些词成了互联网\"嘴替\"",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ruhenzen",
@@ -373,7 +505,14 @@
     "example_translation": "Monday's here again… and what can you even do about it.",
     "context": "Grew from singer 单依纯's improvised, grammar-mangling reinterpretation of lyrics on stage, which netizens seized on. An official 2025 top-ten phrase, now tacked onto any complaint — Mondays, plan changes, bad luck — as a comically defeated sigh.",
     "category": "meme",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://finance.sina.com.cn/wm/2025-06-12/doc-inezupam8460052.shtml",
+        "note": "新浪财经：\"如何呢，又能怎\"是什么梗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "huabingchongji",
@@ -387,7 +526,19 @@
     "example_translation": "The boss is dangling empty promises again, saying we'll definitely get a raise at year-end.",
     "context": "A classic chengyu (from the Three Kingdoms era) that thrives online as the clipped verb 画饼 (huàbǐng) — now the standard word for a boss serving up grand, hollow promises to keep you working. A 成语 living a second life as office slang.",
     "category": "chengyu",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%94%BB%E9%A5%BC%E5%85%85%E9%A5%A5/1737240",
+        "note": "百度百科：画饼充饥（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E7%94%BB%E9%A5%BC%E5%85%85%E9%A5%A5",
+        "note": "汉典：画饼充饥的解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "xiexiu",
@@ -401,7 +552,19 @@
     "example_translation": "Marinating meat in bubble-tea-chain lemonade is my own unorthodox cooking hack.",
     "context": "Borrowed from cultivation-fantasy (修仙) novels, where 邪修 are practitioners who reject the orthodox path for faster, riskier power. 小红书 users repurposed it in 2025–2026 for real life: posts like '兴趣邪修' and '邪修做饭' went viral for cutting corners in delightfully weird ways that actually deliver results.",
     "category": "slang",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E9%82%AA%E4%BF%AE/66252313",
+        "note": "百度百科：邪修（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_31494086",
+        "note": "澎湃新闻：\"邪修\"走红：短平快的实用主义，\"向内转\"的苦中作乐",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ainilaoji",
@@ -415,7 +578,19 @@
     "example_translation": "Messed up again today — it's fine, love you old self, see you tomorrow.",
     "context": "Riffs on a League of Legends voice line, '爱你老妈，明天见' ('love you mum, see you tomorrow'), swapping in '老己'. It swept social media from late 2025 into 2026, with many hailing it as the year's kindest meme for reframing self-compassion without the usual self-help cheesiness.",
     "category": "meme",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32236263",
+        "note": "澎湃新闻：\"爱你老己\"：\"有史以来最好的梗\"，名副其实吗？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://opinion.southcn.com/node_e4f9db6b4d/c0cb168ccb.shtml",
+        "note": "南方网评：爱你老己，为啥是有史以来最好的梗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "cuipidagongren",
@@ -429,7 +604,19 @@
     "example_translation": "Worked until 2am and caught a cold the very next day — a textbook crispy-skinned office worker.",
     "context": "Extended from 2023's '脆皮大学生' (students with mysteriously fragile bodies) to the workplace. Part of the self-mocking 打工人 meme lineage — young workers joking about burnout by comparing themselves to a snack that crumbles under the slightest pressure.",
     "category": "social",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20240112A060R500",
+        "note": "腾讯新闻·流行语：\"脆皮\"映射当代年轻人的心理和身体状态",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/user-research/5937270.html",
+        "note": "人人都是产品经理：\"脆皮大学生\"一词走红，\"自嘲\"文化因何火爆出圈",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "jingshenzhuangtailianghao",
@@ -443,7 +630,14 @@
     "example_translation": "The essay's still unfinished, but the caption says 'mental state: great.'",
     "context": "Traces back to '很有精神' ('full of spirit'), a line from a 1969 Japanese war film that became an ironic meme in Chinese gaming and anime circles. By the 2020s it evolved into '精神状态良好' as a deadpan caption netizens slap on photos of their own chaos or mishaps.",
     "category": "meme",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%E8%89%AF%E5%A5%BD/63685291",
+        "note": "百度百科：精神状态良好",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "jingzijiyibei",
@@ -457,7 +651,19 @@
     "example_translation": "The project's finally done — cheers to myself first.",
     "context": "Named one of China's official top-ten internet buzzwords of 2025 by state media outlets including 中新网. It captures a shift away from needing outside validation: instead of waiting for a boss or friend to say 'well done,' people quietly raise a glass — real or imagined — to themselves after finishing something hard, using the phrase as gentle self-care in a culture that prizes constant productivity.",
     "category": "social",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20250913A07ASG00",
+        "note": "腾讯新闻：\"敬自己一杯\"为何刷屏？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.xhby.net/content/s693b9bf4e4b0819db6b36be2.html",
+        "note": "新华日报·交汇点：\"敬自己一杯\"等入选2025年度十大网络流行语",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "woyaoyanpai",
@@ -471,7 +677,19 @@
     "example_translation": "The check-in prize pool gave me the hidden item three times in a row — I demand a card check!",
     "context": "The line comes from a French gambler character's exaggerated, badly-accented Mandarin in the 1990 Stephen Chow film 'God of Gamblers II'. It resurfaced in early 2025 when players noticed an impossible run of matching cards in a game of Sanguosha (Three Kingdoms Kill), and someone spliced the old movie clip over the footage as a joke. It exploded into a catch-all meme for calling out anything absurdly convenient, racking up billions of views and even trending during the 2026 Lunar New Year TV gala.",
     "category": "meme",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%88%91%E8%A6%81%E9%AA%8C%E7%89%8C/67062554",
+        "note": "百度百科：我要验牌",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20260301A02X0300",
+        "note": "腾讯新闻：“我要验牌”，怎么就火了",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "kukuma",
@@ -485,7 +703,19 @@
     "example_translation": "Got yelled at by my boss again today — I'm basically a kūkūmǎ right now.",
     "context": "A factory-defect plush toy from Yiwu made ahead of the 2026 Year of the Horse: a stitching mistake gave it a downturned, sulky mouth instead of the standard cheerful smile. Photos of the 'defective' toy went viral because its grumpy little face felt more honest than the usual forced-cheerful mascots, and it became shorthand for rejecting mandatory positivity at work — you're allowed to look like you're having a bad day.",
     "category": "meme",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://www.news.cn/fortune/20260114/9ceae21b3342495f8f15546e8c32c347/c.html",
+        "note": "新华网：生活观察丨商品快反！“哭哭马”火了",
+        "lang": "zh"
+      },
+      {
+        "url": "http://sc.people.com.cn/n2/2026/0115/c345167-41473036.html",
+        "note": "人民网：年轻人为何爱上“哭哭马”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "bianjiegan",
@@ -499,7 +729,19 @@
     "example_translation": "Stop asking how much I earn — could you have some boundaries?",
     "context": "Named in Chinese social platforms' 2026 roundups of the year's defining terms (including 小红书's annual hot-words report), '边界感' tracks a broader shift toward asserting personal space against nosy relatives, oversharing coworkers, and boundary-crossing partners. It's commonly paired with related terms like '活人感' (feeling like a real, un-curated person) as part of a wave of vocabulary about protecting one's inner life from social pressure.",
     "category": "social",
-    "date_added": "2026-07-19"
+    "date_added": "2026-07-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%BE%B9%E7%95%8C%E6%84%9F/49816269",
+        "note": "百度百科：边界感（心理学名词）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zjnews.zjol.com.cn/zjxc/202401/t20240117_26587333.shtml",
+        "note": "浙江宣传：当年轻人开始寻求边界感",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "saibo-duizhang",
@@ -513,7 +755,19 @@
     "example_translation": "Last year he swore he'd never work overtime; today netizens \"cyber-reconciled\" him by digging up his old post about working late.",
     "context": "Coined after the 2025 US TikTok ban scare sent American users flooding onto Xiaohongshu (RedNote), where they and Chinese users started comparing rent, wages and daily life like two ledgers being checked against each other (对账 is literally what accountants do). It quickly gained a sharper second use: scrolling someone's own post history to catch them contradicting themselves. Named one of China's official top-10 buzzwords of 2025.",
     "category": "meme",
-    "date_added": "2026-07-20"
+    "date_added": "2026-07-20",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%B5%9B%E5%8D%9A%E5%AF%B9%E8%B4%A6/65320148",
+        "note": "百度百科：赛博对账",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.51ldb.com/shsldb/wt/content/019addc0fcb5c0010000dd82f3b39891.html",
+        "note": "劳动报：2025年“十大流行语”发布，“赛博对账”入选",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wai-juan",
@@ -527,7 +781,14 @@
     "example_translation": "Instead of racing each other to the bottom on price, why not go external and open up overseas markets instead.",
     "context": "Built as a direct mirror of 内卷 — swap 内 (inward) for 外 (outward), keep the \"rolling/curling\" image. It surfaced heavily in 2026 commentary on Chinese carmakers and manufacturers stuck in brutal price wars, with people urging firms to \"外卷\" — grow the whole pie abroad — instead of \"内卷\" against each other at home.",
     "category": "social",
-    "date_added": "2026-07-20"
+    "date_added": "2026-07-20",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%A4%96%E5%8D%B7/57085370",
+        "note": "百度百科：外卷",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "jiao-mao-shui",
@@ -541,7 +802,19 @@
     "example_translation": "I'd barely signed up for RedNote before someone told me to pay the cat tax, so I quickly posted a photo of my cat.",
     "context": "Went viral in January 2025 when the looming US TikTok ban sent American \"TikTok refugees\" flooding onto Xiaohongshu. Chinese users welcomed them by jokingly demanding a \"cat tax\" — a cute pet photo — before letting them settle in, turning it into a good-natured cross-cultural icebreaker that's still referenced whenever new foreign users show up.",
     "category": "meme",
-    "date_added": "2026-07-20"
+    "date_added": "2026-07-20",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20250117A08OP100",
+        "note": "腾讯新闻：外国人涌入小红书，为什么要先交“猫税”？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://fddi.fudan.edu.cn/ef/aa/c18965a716714/page.htm",
+        "note": "复旦发展研究院：小红书“交猫税”有何玄机？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ci-di-wu-yin-san-bai-liang",
@@ -555,7 +828,19 @@
     "example_translation": "He kept insisting \"I really didn't peek at her phone\" — which basically proved that he did.",
     "context": "From an old folk tale: a man buried silver, then worried people would suspect him, so he planted a sign reading \"there's no 300 taels of silver buried here.\" His neighbour Wang Er stole it and left his own sign saying \"your neighbour Wang Er didn't take it,\" giving himself away just as badly. Comment sections use it constantly to mock painfully unconvincing denials.",
     "category": "chengyu",
-    "date_added": "2026-07-20"
+    "date_added": "2026-07-20",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%AD%A4%E5%9C%B0%E6%97%A0%E9%93%B6%E4%B8%89%E7%99%BE%E4%B8%A4/820232",
+        "note": "百度百科：此地无银三百两（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E6%AD%A4%E5%9C%B0%E6%97%A0%E9%93%B6%E4%B8%89%E7%99%BE%E4%B8%A4",
+        "note": "汉典：此地无银三百两的解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhu-wo-po-ding",
@@ -569,7 +854,19 @@
     "example_translation": "The exam is tomorrow — brothers, help me break the cauldron!",
     "context": "The line Nezha and Ao Bing shout in the 2025 blockbuster animation 哪吒之魔童闹海 (Ne Zha 2) as they join forces to shatter the Tianyuan Ding, a cauldron symbolising their fated doom. Netizens adopted it as an all-purpose motivational battle cry against life's obstacles, and it made the National Language Resources Monitoring Centre's official top-10 netizen phrases of 2025.",
     "category": "meme",
-    "date_added": "2026-07-22"
+    "date_added": "2026-07-22",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%8A%A9%E6%88%91%E7%A0%B4%E9%BC%8E/67082236",
+        "note": "百度百科：助我破鼎",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_32162065",
+        "note": "澎湃新闻：两份“十大网络流行语”同日发布",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wo-de-shen-cai-hen-man-miao",
@@ -583,7 +880,19 @@
     "example_translation": "The boss asked if I'd finished the proposal? No idea — my figure is graceful.",
     "context": "Born in an April 2025 Taobao dress review: a shopper asked 'does this dress make hips look wide?' and another buyer replied 'no idea, my figure is graceful'. The gloriously useless answer simmered in fashion circles until January 2026, when actress Yang Mi's studio used it and it exploded into the meme of the new year, spawning endless 曼妙 variants.",
     "category": "meme",
-    "date_added": "2026-07-22"
+    "date_added": "2026-07-22",
+    "sources": [
+      {
+        "url": "https://view.inews.qq.com/a/20260122A06NLY00",
+        "note": "腾讯新闻：“曼妙”的诞生与失效，基于何种语言契约？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/981735218_121123872",
+        "note": "搜狐：“不知道，我的身材很曼妙”为何成为开年第一热梗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "yi-du-luan-hui",
@@ -597,7 +906,19 @@
     "example_translation": "I asked what he wanted for dinner and he replied 'the Earth is round' — pure read-and-reply-nonsense.",
     "context": "A riff on 已读不回 (read but never replied). Popularised by a Douyin video of a grandpa whose answers never matched his grandson's questions, it became shorthand for the young generation's coping style: rather than ghosting or arguing, defuse everything with a surreal one-liner. The 曼妙 meme is its crowning example.",
     "category": "slang",
-    "date_added": "2026-07-22"
+    "date_added": "2026-07-22",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E/64007343",
+        "note": "百度百科：已读乱回",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/sh/2024/02-25/10169315.shtml",
+        "note": "中国新闻网：“已读乱回”是年轻人隐晦的“撕考卷”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "yu-zhi-peng-you-quan",
@@ -611,7 +932,19 @@
     "example_translation": "She's still sitting on her May Day photos, posting one pre-made Moments update a week.",
     "context": "Borrowed from 预制菜 (pre-made meals, a controversial restaurant trend). Went viral in September 2024 as netizens admitted to stockpiling polished holiday photos and scheduling them out, and it still circulates in 2026 alongside spin-offs like 预制人生 ('pre-made life'). Half self-mockery about performing life online, half genuine social-media strategy.",
     "category": "social",
-    "date_added": "2026-07-22"
+    "date_added": "2026-07-22",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E9%A2%84%E5%88%B6%E6%9C%8B%E5%8F%8B%E5%9C%88/64943715",
+        "note": "百度百科：预制朋友圈",
+        "lang": "zh"
+      },
+      {
+        "url": "https://review.jschina.com.cn/tingjian/202409/t20240924_3503659.shtml",
+        "note": "中国江苏网：为什么不少人开始“预制”朋友圈",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "huo-ren-wei-si",
@@ -625,7 +958,19 @@
     "example_translation": "In Monday's meeting I was alive-but-slightly-dead, kept going only by coffee.",
     "context": "The gloomy twin of 活人感 ('alive-person energy', already in this deck). Blew up from late-2024 workplace discourse as young people described the 'faint death aura' of burnout — even novelist Yu Hua remarked it perfectly sums up the protagonist of Camus's The Outsider. 活 and 死 here work as adjectives on a sliding scale, so you can be more or less dead at your desk.",
     "category": "social",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20241108A04HFP00",
+        "note": "腾讯新闻：“活人微死”大流行：到底是谁杀死了我们的激情？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_30561911",
+        "note": "澎湃新闻：这种看似自由的生活态度，正在杀死你的“活人感”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "gao-chou-xiang",
@@ -639,7 +984,19 @@
     "example_translation": "He posts absurdist nonsense in the comments every day — nobody can tell what he's on about.",
     "context": "Traces back to 2015 game-streamer Li Gan, whose catchphrase 真是太抽象了 ('that's just too abstract') got endlessly remixed. It matured into 抽象文化: dissolving stress and current events into absurdist play. Made the official top-10 netizen words of 2024 as 搞抽象, and RedNote's 2026 hot-word list crowned the follow-up 抽象力 — 'abstract-ness' as a skill.",
     "category": "slang",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%90%9E%E6%8A%BD%E8%B1%A1/65206169",
+        "note": "百度百科：搞抽象",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20241017A02FJE00",
+        "note": "腾讯新闻：“搞抽象”，为何成为了一场狂欢？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "tong-wen-hua",
@@ -653,7 +1010,19 @@
     "example_translation": "She took her ita-bag to the anime convention, its clear pocket crammed with badges of her favourite character.",
     "context": "From Japanese 痛車 (itasha, 'painful car' — painful to the wallet and painfully conspicuous), which Chinese ACG fans extended to everything: 痛包, 痛衣, 痛墙. Long a niche two-dimensional (二次元) thing, it went mainstream on RedNote, making the platform's 2026 top-10 hot words as fans turned 'pain' into a social calling card.",
     "category": "social",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://www.jiemian.com/article/10556550.html",
+        "note": "界面新闻：二次元们的“痛文化”到底在玩些什么？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_28577194",
+        "note": "澎湃新闻：“入侵”三次元的“痛文化”，正在成为消费市场的新宠儿？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ye-gong-hao-long",
@@ -667,7 +1036,19 @@
     "example_translation": "You all clamoured for a sequel, then didn't go and watch it — isn't that Lord Ye loving dragons?",
     "context": "From a Han-dynasty fable: Lord Ye filled his house with dragon carvings and paintings, but when a real dragon dropped by to say thanks, he fled in terror. Netizens wheel it out in comment sections whenever an audience demands something then abandons it on arrival — 'you don't love the game, you love the idea of it' energy, a favourite in fandom and gaming discourse.",
     "category": "chengyu",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%8F%B6%E5%85%AC%E5%A5%BD%E9%BE%99/267922",
+        "note": "百度百科：叶公好龙（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zdic.net/hans/%E5%8F%B6%E5%85%AC%E5%A5%BD%E9%BE%99",
+        "note": "汉典：叶公好龙 词语解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "fa-feng-wenxue",
@@ -681,7 +1062,19 @@
     "example_translation": "The customer service rep was rude, so she fired off a wall of 'unhinged literature' and completely threw them off.",
     "context": "Emerged around 2020 on Douban forums, when a post beginning '我不发疯我说什么' (what else am I supposed to do if not go off) went viral for its chaotic, dramatic energy. It caught on as a way to vent stress or overwhelm rude strangers online — netizens now deploy a ready-made 'unhinged' paragraph instead of arguing normally.",
     "category": "meme",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%8F%91%E7%96%AF%E6%96%87%E5%AD%A6/59181255",
+        "note": "百度百科：发疯文学（网络流行词）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com/cul/2021/11-17/9610677.shtml",
+        "note": "中新网：废话文学、发疯文学……互联网文字游戏有多好玩",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "da-zi",
@@ -695,7 +1088,19 @@
     "example_translation": "I don't have a meal buddy, so I have to eat alone.",
     "context": "Took off in 2023 as young people, wary of the emotional labour and obligations of close friendships, started matching with strangers online purely for specific activities — 饭搭子 for meals, 逛展搭子 for exhibitions. It made 《咬文嚼字》's top-ten slang list that year and has stuck around as a low-commitment alternative to traditional friendship.",
     "category": "social",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%90%AD%E5%AD%90/62974309",
+        "note": "百度百科：搭子（网络热词）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_24417917",
+        "note": "澎湃新闻：“搭子关系”流行，年轻人的需求又变了？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wai-hao",
@@ -709,7 +1114,14 @@
     "example_translation": "Instead of stewing over it internally, might as well channel it outward — just go rewrite the proposal.",
     "context": "Coined as a direct mirror of 内耗, which had already saturated Chinese social media as shorthand for silent, self-directed burnout. 外耗 flipped the word outward and spread through Zhihu and Weibo discussions in 2026 about healthier (or at least funnier) ways to handle stress — redirect it into action, rather than letting it eat you from the inside.",
     "category": "social",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://www.zhihu.com/question/605242342/answer/3065252296",
+        "note": "知乎：继「精神内耗」之后「外耗」也火了，什么是「外耗」？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "diqiu-online",
@@ -723,7 +1135,19 @@
     "example_translation": "Don't even ask — Earth Online is under maintenance again today, nothing's going right.",
     "context": "A long-running internet framing (netizens trace casual use back well over a decade) that resurged hard in 2026 as young people leaned harder into gaming vocabulary to describe burnout: work is \"grinding,\" exams are \"story quests,\" and a rough patch is just bad server luck — never your fault, and never permanent.",
     "category": "meme",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%9C%B0%E7%90%83online/53889326",
+        "note": "百度百科：地球online（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20250918A07ZG800",
+        "note": "腾讯新闻：火爆全网！这届年轻人，把生活玩成了\"地球online\"在线游戏",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "fan-jingzhi",
@@ -737,7 +1161,19 @@
     "example_translation": "Anti-polish is trending on Xiaohongshu now — casual ugly snapshots actually outperform heavily edited photos.",
     "context": "Emerged in 2026 as Xiaohongshu users and bloggers reported aesthetic fatigue with the platform's trademark filtered, staged content. Creators found that rougher, more candid posts got better engagement, and 反精致 became the label for this shift away from curated perfection toward visible imperfection as the new marker of authenticity.",
     "category": "social",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://www.gmw.cn/xueshu/2024-01/09/content_37079295.htm",
+        "note": "光明网：当代年轻人\"反向消费\"的典型表现（对\"精致穷/假精致\"消费的反思）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_3652891",
+        "note": "澎湃新闻：年轻人为什么被\"假精致\"的生活掏空？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "sigua-tang",
@@ -751,7 +1187,19 @@
     "example_translation": "I told my mum I'm stressed and want to quit, and she said it's just liver heat and told me to drink luffa soup.",
     "context": "Went viral in 2025 from short-video creator @累子's family comedy sketches, where an on-screen parent responds to every real problem with the same deflection: \"drink some luffa soup for your liver.\" It stuck because so many viewers recognised the pattern from their own families — turning emotional or structural problems into food-therapy small talk — and it's remained in steady circulation into 2026.",
     "category": "meme",
-    "date_added": "2026-07-23"
+    "date_added": "2026-07-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%9D%E7%93%9C%E6%B1%A4/66743440",
+        "note": "百度百科：丝瓜汤（网络热梗）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.gmw.cn/2025-09/24/content_1304161477.htm",
+        "note": "光明网：火遍全网的\"丝瓜汤\"到底是啥？想喝就能喝吗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "di-shan-chou-shui-yu-zhiyin",
@@ -765,7 +1213,19 @@
     "example_translation": "None of the three of us are top students, but put us together and it's like low mountains meeting stinky water — kindred spirits.",
     "context": "Coined by fans of idol Song Yaxuan (宋亚轩) after he posted a nonsense string of sounds ('AEAEAEEOO') on Weibo and fans decoded it within 24 hours as a hum of the song 《恭喜发财》 — that instant, wordless mutual understanding got dubbed '低山臭水式脑电波同频'. Now used broadly online for any scrappy, unpolished but deeply in-sync friend group.",
     "category": "meme",
-    "date_added": "2026-07-26"
+    "date_added": "2026-07-26",
+    "sources": [
+      {
+        "url": "https://cj.sina.com.cn/articles/view/7879776328/1d5abd848068018se8",
+        "note": "新浪财经：\"低山臭水遇知音\"这个梗的具体出处和最初含义是什么？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-06/29/content_87656_3583933.htm",
+        "note": "今晚报数字报：低山臭水遇知音",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zuo-wan-nide-zuo-nide",
@@ -779,7 +1239,14 @@
     "example_translation": "No matter how much is on your plate, don't panic — finish what's yours, do your own thing.",
     "context": "From 鸡排哥 (Chicken Cutlet Bro), a street vendor in Jingdezhen who, amid the after-school rush at his stall, calmly told the crowd '做完你的做你的……这种场面，我还是在控制' (finish yours, do yours... I've still got this scene under control) in his thick local accent. His unbothered, self-assured delivery went viral, and netizens now quote the line to self-motivate or self-mock when swamped.",
     "category": "meme",
-    "date_added": "2026-07-26"
+    "date_added": "2026-07-26",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%81%9A%E5%AE%8C%E4%BD%A0%E7%9A%84%E5%81%9A%E4%BD%A0%E7%9A%84/66803072",
+        "note": "百度百科：做完你的做你的（源自景德镇\"鸡排哥\"）",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "cun-ka",
@@ -793,7 +1260,19 @@
     "example_translation": "I don't feel like fighting crowds at tourist spots this weekend, so I'm just going to sit at a village coffee shop out in the countryside all afternoon.",
     "context": "Took off after villages like Yucun (余村) in Anji County (安吉县), Zhejiang went viral for their scenic countryside cafés, drawing city dwellers for weekend day trips. It made 2025's top-ten internet buzzword list and is still widely used for the broader 'slow life, briefly' aesthetic that blends rural charm with city coffee culture.",
     "category": "social",
-    "date_added": "2026-07-26"
+    "date_added": "2026-07-26",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%9D%91%E5%92%96/67082248",
+        "note": "百度百科：村咖（乡村咖啡馆）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202506/t20250613_2595065.html",
+        "note": "武汉市农业农村局：\"村咖\"究竟卖的啥",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "mei-chi-de-ni-mi-shenme-mi",
@@ -807,7 +1286,14 @@
     "example_translation": "You haven't even seen a shadow of the bonus and you're still bragging in the group chat? What are you meowing about if there's nothing to eat?",
     "context": "2026年初爆火的猫咪梗：有人用“咪咪”声模仿小猫呼唤母猫的叫声逗猫，猫咪转头分心时食物被同伴叼走，气急败坏地“骂”人，网友用东北方言吐槽“没吃的你咪什么咪”，讽刺猫贪图关注却啥也没捞着。这句话迅速出圈，被用来调侃任何“瞎起哄却一无所获”的人或事。",
     "category": "meme",
-    "date_added": "2026-07-28"
+    "date_added": "2026-07-28",
+    "sources": [
+      {
+        "url": "https://cj.sina.com.cn/articles/view/7096020433/1a6f4add106801fhfu",
+        "note": "新浪财经：2026年网络热梗猫\"没吃的你咪什么咪\"爆火（东北话，讽刺无事张扬）",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "queren-wei-xx-renge",
@@ -821,7 +1307,19 @@
     "example_translation": "Printed out the itinerary before leaving and brought a backup plan too — confirmed J personality.",
     "context": "源自MBTI人格测试在国内网络的走红：网友把16型人格里的字母（如判断型的J、知觉型的P）当作性格标签玩梗，“确认为XX人格”成了万能句式，只要谁的行为符合某种刻板印象就会被网友“盖章认证”，衍生出无数自创人格标签用来抖机灵。",
     "category": "meme",
-    "date_added": "2026-07-28"
+    "date_added": "2026-07-28",
+    "sources": [
+      {
+        "url": "https://www.yzwb.net/news/wy/202604/t20260410_340712.html",
+        "note": "扬子晚报：\"确诊为傻乐者\"，SBTI人格测试刷屏朋友圈（MBTI式\"确认/确诊为XX人格\"梗）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://jsnews.jschina.com.cn/jsyw/202604/t20260410_s69d8f09be4b0639de44f5a0b.shtml",
+        "note": "中国江苏网：SBTI全网爆火，你去认领人格标签了么？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dong-huo",
@@ -835,7 +1333,19 @@
     "example_translation": "She dug out a Polaroid from three years ago to post on her fan forum again — netizens: there she goes posting frozen goods again.",
     "context": "2026年7月6日，艺人梓渝在生日直播中翻出珍藏多年的旧拍立得，被弹幕调侃是“冻货”，她当场反驳“这不是冻货，这是我的记忆！”还补了句“一个家里有一个冻货就行了”，梗迅速出圈，成为形容明星“压箱底旧料”的流行说法。",
     "category": "slang",
-    "date_added": "2026-07-28"
+    "date_added": "2026-07-28",
+    "sources": [
+      {
+        "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801xx5s.html",
+        "note": "新浪新闻：梓渝生日直播爆梗：一家只能有一个冻货（饭圈黑话，指积压的旧物料/旧图）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://ent.sina.cn/2026-07-07/detail-inifxxxc1583491.d.html",
+        "note": "新浪娱乐：梓渝生日直播爆梗：一家只能有一个冻货",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zi-xiang-mao-dun",
@@ -849,7 +1359,19 @@
     "example_translation": "One second you say you don't care about qualifications, the next you're looking down on someone for having a lower one — isn't that contradicting yourself?",
     "context": "源自《韩非子·难一》里卖矛又卖盾的商人，吹嘘矛无所不破、盾无坚不摧，被人问“以子之矛陷子之盾何如”当场语塞。这个两千多年前的寓言至今仍是评论区吐槽“双标”“说话前后不一”的高频成语，尤其常见于扒名人言论前后矛盾的截图对比帖。",
     "category": "chengyu",
-    "date_added": "2026-07-28"
+    "date_added": "2026-07-28",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%87%AA%E7%9B%B8%E7%9F%9B%E7%9B%BE/1417775",
+        "note": "百度百科：自相矛盾（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E7%9B%B8%E7%9F%9B%E7%9B%BE",
+        "note": "汉典：自相矛盾的解释、出处（《韩非子·难一》）",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "shui-ling-ling-de",
@@ -863,7 +1385,19 @@
     "example_translation": "I just straight-up blew my entire paycheck.",
     "context": "源自2024年韩国女团成员洪恩采接受采访时说的“我在中间显得水灵灵的”，被网友玩梗后延伸出“水灵灵地+动词”的句式，形容一件事发生得毫无征兆、直白坦率。2024年入选《咬文嚼字》年度十大流行语，到2026年仍在社交平台被广泛套用造句。",
     "category": "meme",
-    "date_added": "2026-07-29"
+    "date_added": "2026-07-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%B0%B4%E7%81%B5%E7%81%B5/64696900",
+        "note": "百度百科：水灵灵（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.gmw.cn/2025-01/06/content_37778830.htm",
+        "note": "光明网：“水灵灵地”：叠音表达增添生动感",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhong-cao",
@@ -877,7 +1411,19 @@
     "example_translation": "That influencer got me hooked on wanting a new lipstick again.",
     "context": "源自美妆论坛时代网友分享好物的说法，随小红书等“种草经济”平台兴起而成为全民热词，是理解当下网络消费文化绕不开的词，如今每次刷到心动好物都会说“被种草了”。",
     "category": "slang",
-    "date_added": "2026-07-29"
+    "date_added": "2026-07-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%A7%8D%E8%8D%89/280902",
+        "note": "百度百科：种草（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://culture.southcn.com/node_6ccd2f4666/d9cb3db307.shtml",
+        "note": "南方网：粤东野语｜“种草”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dan-ren",
@@ -891,7 +1437,19 @@
     "example_translation": "Don't expect her to get worked up — she's a textbook \"dàn person.\"",
     "context": "2024年前后由性格分类梗演变而来，与“浓人”相对，反映年轻人对情绪稳定、佛系生活方式的推崇，2026年仍是小红书等平台常见的自我贴标签方式。",
     "category": "social",
-    "date_added": "2026-07-29"
+    "date_added": "2026-07-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%B7%A1%E4%BA%BA%E5%92%8C%E6%B5%93%E4%BA%BA/67652003",
+        "note": "百度百科：淡人和浓人",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.news.cn/comments/20240321/1a999443790b4bb2995aec00ffac4d23/c.html",
+        "note": "新华网：“淡人”也可以充满生命力",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "nong-ren",
@@ -905,7 +1463,19 @@
     "example_translation": "I'm such a \"nóng person\" — the second something good happens I want to tell the whole world.",
     "context": "与“淡人”配套出现的性格标签梗，用来调侃自己或他人情绪外放、分享欲强的性格类型，常见于小红书等平台的人格分类讨论中。",
     "category": "social",
-    "date_added": "2026-07-29"
+    "date_added": "2026-07-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%B7%A1%E4%BA%BA%E5%92%8C%E6%B5%93%E4%BA%BA/67652003",
+        "note": "百度百科：淡人和浓人",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/detail/27705403",
+        "note": "澎湃新闻：谁是浓人，谁是淡人？社交标签与无法被定义的自我",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "suan-huang-gua",
@@ -919,7 +1489,19 @@
     "example_translation": "Don't ask me how much I've saved this year — I'm just a \"sour cucumber.\"",
     "context": "In January 2026, actress 闫学晶 dismissed online criticism of her lavish spending by calling her critics \"酸黄瓜\" — a garbled version of the idiom 酸葡萄 (\"sour grapes\"). The slip of the tongue went viral: rather than taking offence, netizens embraced \"酸黄瓜\" as a new self-deprecating label, claiming the identity themselves whenever joking about being broke, unremarkable, or quietly envious, turning an insult into shared comic relief.",
     "category": "slang",
-    "date_added": "2026-07-30"
+    "date_added": "2026-07-30",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20260107A06M2900",
+        "note": "腾讯新闻：宋晓峰直播遭酸黄瓜刷屏无奈中断",
+        "lang": "zh"
+      },
+      {
+        "url": "https://cj.sina.com.cn/articles/view/7096020377/1a6f4ad9901901dsm0",
+        "note": "新浪财经：闫学晶“闭麦”，2026年第一个热梗酸到了谁？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "nai-lv-bo",
@@ -933,7 +1515,19 @@
     "example_translation": "Stuck in traffic for three hours — feels like I still haven't escaped the \"nai lü bo.\"",
     "context": "A billboard for a product called 明绿液 (Míng Lǜ Yè) on a highway near Mingguang, Anhui, was misread by passing drivers as \"奶绿波\" because of the flowing calligraphy style. Bored travellers filmed themselves joking \"been driving all morning and still haven't gotten out of 奶绿波\", and the phrase went viral — eventually inspiring the local government to release actual \"奶绿波\" milk tea and mung bean cake products to ride the wave.",
     "category": "meme",
-    "date_added": "2026-07-30"
+    "date_added": "2026-07-30",
+    "sources": [
+      {
+        "url": "https://ah.ifeng.com/c/8rH1427qlrS",
+        "note": "凤凰网安徽：“明绿液”被错认成“奶绿波”，古井贡酒火速接梗推出同名奶茶",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.sohu.com/a/994256879_120252297",
+        "note": "搜狐网：“奶绿波”从网络梗变实体产品！安徽明光借势推出“新三件套”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhu-ti-xing",
@@ -947,7 +1541,19 @@
     "example_translation": "I've thought it through — I'm reclaiming my own subjectivity.",
     "context": "As Chinese social media users grew tired of self-optimisation and people-pleasing, \"主体性\" spread on 小红书 as a way to talk about resisting social conditioning and other people's judgement. Posts invoking the term often cite Sartre or Foucault, discussing why \"the more subjectivity you have, the more enemies you make\" — it was named one of Xiaohongshu's top ten hot words of 2026, alongside 活人感 and 边界感, as part of a wider mood of guarding one's inner life.",
     "category": "social",
-    "date_added": "2026-07-30"
+    "date_added": "2026-07-30",
+    "sources": [
+      {
+        "url": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=253168",
+        "note": "三联生活周刊：从来没为自己活过的年轻人，决定找回“主体性”",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.banyuetan.org/jrt/detail/20251211/1000200033134991765414621058513534_1.html",
+        "note": "半月谈：“心流时刻”找回主体性",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "long-xia",
@@ -961,7 +1567,19 @@
     "example_translation": "Don't bother me, I'm \"raising my lobster\" at home — gotta watch it run its tasks.",
     "context": "OpenClaw, an open-source AI agent tool, went viral in 2026 for its vivid red lobster-claw (\"Claw\") logo and branding, which plays on the literal meaning of \"claw.\" Developers and hobbyists who set it up and keep it running started calling the process \"养龙虾\" (raising a lobster) — half in-joke, half accurate description of the fussing, debugging, and monitoring involved in keeping an AI agent working reliably.",
     "category": "meme",
-    "date_added": "2026-07-30"
+    "date_added": "2026-07-30",
+    "sources": [
+      {
+        "url": "https://zhuanlan.zhihu.com/p/2014649773609739368",
+        "note": "知乎：一文看懂OpenClaw丨AI圈掀起了“养龙虾”风暴",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.53ai.com/news/Openclaw/2026031256120.html",
+        "note": "53AI：为什么使用OpenClaw叫做“养龙虾”？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ka-ji-ma",
@@ -975,7 +1593,14 @@
     "example_translation": "The second it hits 6pm, he turns into a \"kǎjímǎ\" — gone in a flash.",
     "context": "Emerged on Douyin in January 2026, riding the Year-of-the-Horse wave of workplace horse puns (alongside 脆皮打工人 and 哭哭马, already in the deck). 卡 (clock precisely) + 急 (anxious) + 马 (horse, the zodiac tie-in) captures the dread of being handed extra work right at knock-off time, part of a mock self-diagnosis trend where young workers jokingly \"confirm\" their own office-induced syndromes.",
     "category": "slang",
-    "date_added": "2026-08-04"
+    "date_added": "2026-08-04",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%8D%A1%E6%80%A5%E9%A9%AC/67270562",
+        "note": "百度百科《卡急马》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "bu-shufu-wenxue",
@@ -989,7 +1614,19 @@
     "example_translation": "At the time I thought I was just being sensitive, but I really was uncomfortable.",
     "context": "Kicked off when actor 王鹤棣 (Wang Hedi) used this phrasing on a variety show to describe how a past controversy had felt. Netizens turned his sentence into a reusable template, following earlier \"X文学\" genres like 废话文学 and 发疯文学 (also in the deck), and it quickly spread from celebrity gossip threads into everyday complaints about pushy bosses, awkward dates and thesis defences.",
     "category": "meme",
-    "date_added": "2026-08-04"
+    "date_added": "2026-08-04",
+    "sources": [
+      {
+        "url": "https://tidenews.com.cn/tmh_news.html?id=6a1d2dab437131000138fb3d",
+        "note": "潮新闻《\"不舒服文学\"刷屏全网：温柔表达背后，是当代年轻人的社交情绪突围》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5301858474137168.html",
+        "note": "新浪新闻《内娱不舒服文学来了》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "omg-ni-xiadao-wo-le",
@@ -1003,7 +1640,19 @@
     "example_translation": "That haircut is way too out there — OMG, you scared me.",
     "context": "From papi酱's July 2026 AI-composed single《生气了》(\"Angry\"), for which she wrote the lyrics while AI handled the composition and vocals. The flat, slightly unsettling AI delivery of \"Oh my god你吓到我了\" turned the line into an instant meme, spawning duets, remixes and reaction clips across Douyin and Bilibili.",
     "category": "meme",
-    "date_added": "2026-08-04"
+    "date_added": "2026-08-04",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/OMG%20%E4%BD%A0%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86/68165701",
+        "note": "百度百科《OMG 你吓到我了》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://ent.sina.cn/2026-07-19/detail-iniiiwih5035182.d.html?vt=4",
+        "note": "新浪娱乐《\"OMG你吓到我了\"歌词为何能成为短视频热门BGM？》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "shejiao-dianchi",
@@ -1017,7 +1666,14 @@
     "example_translation": "I've met three different groups of people today — my social battery is completely drained, I'm not seeing anyone tonight.",
     "context": "Borrowed from the English \"social battery\" concept and popularised on Xiaohongshu/Weibo as a self-diagnostic label. Spawned the related term 社交省电模式 (social power-saving mode) — deliberately cutting back on socialising to protect the last bit of \"charge\" — letting people decline plans without guilt.",
     "category": "slang",
-    "date_added": "2026-08-05"
+    "date_added": "2026-08-05",
+    "sources": [
+      {
+        "url": "https://tech.china.com/articles/20260721/202607211922417.html",
+        "note": "中华网《什么是社交电池？社交电池是什么梗？》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhijing-danmu",
@@ -1031,7 +1687,19 @@
     "example_translation": "The moment the blogger who stayed optimistic after losing a limb appeared, the whole screen filled with \"zhìjìng\" bullet comments.",
     "context": "Named Bilibili's 2025 Danmu of the Year, sent over 22.82 million times by more than 4.59 million users (80% Gen Z). Marks a shift in bullet-comment culture away from pure joking toward sincere, collective displays of respect for ordinary people's courage and kindness.",
     "category": "meme",
-    "date_added": "2026-08-05"
+    "date_added": "2026-08-05",
+    "sources": [
+      {
+        "url": "https://news.bjd.com.cn/2025/12/27/11489190.shtml",
+        "note": "京报网《B站2025年度弹幕：\"致敬\"，全年发送超2282万次》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://it.ithome.com/archiver/0/908/442.htm",
+        "note": "IT之家《B站2025年度弹幕公布：\"致敬\"被发送超2282万次，80%为00后》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ppt-yongdongji",
@@ -1045,7 +1713,19 @@
     "example_translation": "Another all-nighter revising the proposal — I'm basically a PPT perpetual-motion machine now.",
     "context": "Circulates in workplace-venting posts alongside lines like 与键盘签订灵魂契约 (\"signing a soul contract with my keyboard\"), letting young office workers turn overtime fatigue into a joke rather than a straight complaint — the same self-deprecating work-humour family as 班味 and 脆皮打工人 already in the deck.",
     "category": "slang",
-    "date_added": "2026-08-05"
+    "date_added": "2026-08-05",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_5058843",
+        "note": "澎湃新闻：PPT，职场终极魔王（PPT加班自嘲文化背景，非该短语专条）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://36kr.com/p/1723195555841",
+        "note": "36氪：“干活的累死累活，到头来干不过写PPT的”网友大呼过于真实（背景）",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wo-langjie-le-wo-lijie-le",
@@ -1059,7 +1739,19 @@
     "example_translation": "They changed the rules again?? I'm so \"浪姐\"-ed, I'm exhausted.",
     "context": "Born on Weibo during the chaotic fourth live round of 乘风2026 (Sisters Who Make Waves, season 7) in June 2026, after contestants pushed through illness and skin flare-ups from back-to-back rehearsals. Fans piled on with lines like \"以后别说我力竭了，换成我浪姐了\" (\"don't say 'I'm exhausted' anymore, say 'I 浪姐'd'\"), turning the show's own name into shorthand for exhausting-to-watch — aimed as much at the messy scoring and rule changes as at the performers' visible strain.",
     "category": "meme",
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-06-07/detail-iniaqtnn6310144.d.html?vt=4",
+        "note": "新浪娱乐《〈乘风2026〉引全网吐槽：观众为何直呼\"我浪姐了，我力竭了\"？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5307281693999675.html",
+        "note": "新浪新闻《我浪姐了，我力竭了》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "mao-meme",
@@ -1073,7 +1765,19 @@
     "example_translation": "My first reaction scrolling past a cat meme clip: how is this cat a better actor than me.",
     "context": "Traces back to Japanese cat-owner accounts dubbing dramatic \"storylines\" over everyday footage of their cats; Chinese creators reposted the clips and then remade the format locally, and by 2026 the #猫meme tag had racked up over 750 million views on Xiaohongshu alone. Its selling point is that the narrative itself is the joke — the cat IS the plot, not just a reaction caption — which is why fan-made variants (cats redubbed as anime characters, crossover \"duets\" between the two star cats) keep multiplying.",
     "category": "meme",
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%8C%ABmeme/64772196",
+        "note": "百度百科《猫meme》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/zh-hans/%E7%8C%ABMeme",
+        "note": "萌娘百科《猫Meme》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ai-shui",
@@ -1087,7 +1791,19 @@
     "example_translation": "My salary hasn't gone up, but the \"AI tax\" sure has.",
     "context": "Coined after the Weibo topic \"打工人三件套集体大涨价\" (\"office workers' three-piece set all rising in price together\") trended in August 2026, tying together separate price surges — laptops, budget phones, e-bikes — under one sarcastic banner blaming the AI boom's chip and component demand for squeezing ordinary consumers, even though none of the three products run AI hardware themselves.",
     "category": "news",
-    "date_added": "2026-08-06"
+    "date_added": "2026-08-06",
+    "sources": [
+      {
+        "url": "https://finance.sina.com.cn/wm/2026-07-01/doc-inifinus2899285.shtml",
+        "note": "新浪财经《我们要交AI税了》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.bjd.com.cn/2026/02/06/11568575.shtml",
+        "note": "京报网《为什么中国没有\"AI税\"》",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "gu-zi",
@@ -1101,7 +1817,14 @@
     "example_translation": "She spent her whole month's salary on the new merch drop — twenty badges alone.",
     "context": "\"谷子\"来自英文\"goods\"的音译，最早在ACG（动画、漫画、游戏）粉丝圈流行开来，用来统称官方或授权发售的角色周边商品，收藏者聚集形成的社群叫\"谷圈\"，价位从低到高常被戏称为\"普谷\"\"湖景谷\"\"海景谷\"。这股风气如今也蔓延到偶像饭圈，\"入谷\"就是开始收藏某个角色或偶像周边的意思。",
     "category": "slang",
-    "date_added": "2026-08-07"
+    "date_added": "2026-08-07",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%B0%B7%E5%AD%90/63627312",
+        "note": "百度百科：谷子（二次元领域的衍生概念）",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhongguo-chule-guozu-gailaidedoulaile",
@@ -1115,7 +1838,19 @@
     "example_translation": "When netizens saw the news that Ma Ning was refereeing the final, the comments filled up again with \"everything Chinese showed up at this World Cup except China's own team.\"",
     "context": "2026年世界杯扩军至48队，亚洲名额大增，但国足在18强赛小组第五出局，连续24年无缘正赛。与此同时，中国裁判、赞助商、制造业乃至潮玩IP却全方位\"出现\"在了世界杯赛场内外，于是网友总结出这句自嘲式流行语，既是对国足长期低迷的调侃，也带着几分身为\"世界工厂\"的复杂骄傲。",
     "category": "meme",
-    "date_added": "2026-08-07"
+    "date_added": "2026-08-07",
+    "sources": [
+      {
+        "url": "https://sports.ifeng.com/c/8tt7S6SC71a",
+        "note": "凤凰网体育：世界杯开幕！“中国除了国足，该来的都来了”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.163.com/dy/article/KVI4URIQ0525ECDQ.html",
+        "note": "网易：为什么说2026足球世界杯赛“除了中国男足，该来的都来了”？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "du-nai",
@@ -1129,7 +1864,19 @@
     "example_translation": "The commentator had just said he had this round locked in, then he immediately fed a kill — a total jinx.",
     "context": "\"奶\"最早是《魔兽世界》等游戏里对治疗/辅助职业的称呼，后引申为\"看好、力挺\"的意思；解说员夸某选手\"稳赢\"，对方却立刻失误翻盘，网友便把这种\"祝福变诅咒\"的效果戏称为\"毒奶\"。如今也常用于追星、考试、比赛预测等日常场合，比如夸朋友\"这次肯定过\"，结果对方没过，就会被调侃\"你毒奶他了\"。",
     "category": "slang",
-    "date_added": "2026-08-07"
+    "date_added": "2026-08-07",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%AF%92%E5%A5%B6/22206633",
+        "note": "百度百科：毒奶",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.dongqiudi.com/article/1325443.html",
+        "note": "懂球帝：毒奶的前世今生：兴起于电竞，也出圈足球",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dalishenbei-lou-qi",
@@ -1143,7 +1890,19 @@
     "example_translation": "They rehearsed the official opening ceremony for the better part of a year, and then the trophy deflated on stage — instant public humiliation.",
     "context": "Happened live during the 2026 FIFA World Cup's Toronto opening ceremony in June: the giant inflatable trophy's support casing failed and the pump couldn't hold pressure, so it crumpled in front of a global audience. Clips spread fast on Weibo and Douyin, and \"大力神杯漏气\" became shorthand netizens use for any grand, over-produced event that collapses into farce.",
     "category": "meme",
-    "date_added": "2026-08-08"
+    "date_added": "2026-08-08",
+    "sources": [
+      {
+        "url": "https://k.sina.cn/article_7879995911_1d5af320706801y1dg.html",
+        "note": "新浪体育：加拿大世界杯开幕式翻车：大力神杯漏气、看台空荡",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.163.com/dy/article/KV9R43940556HCRZ.html",
+        "note": "网易：12米大力神杯漏气，加拿大世界杯开幕式大型翻车",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ge-si-pei-wu",
@@ -1157,7 +1916,19 @@
     "example_translation": "They agreed on 4 mu of land for 400rmb, then after the harvest insisted it was actually over 5 mu and demanded more money — classic \"harvest four, compensate five.\"",
     "context": "Originated from a May 2026 dispute in Hubei: a young Henan couple who'd taken out a loan to buy a combine harvester travelled to cut wheat for a farmer who first quoted the field at 5 mu, they settled on 4 mu for 400rmb, but after the harvest she claimed it was actually 5.2 mu and refused to pay unless they compensated her for \"spilled grain.\" The story went viral for exposing a common exploitation pattern against migrant harvest workers, and \"割四赔五\" stuck as the name for that pattern.",
     "category": "meme",
-    "date_added": "2026-08-08"
+    "date_added": "2026-08-08",
+    "sources": [
+      {
+        "url": "https://tech.china.com/articles/20260724/202607241925349.html",
+        "note": "中华网：割四赔五是什么意思？割四赔五是什么梗？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.china.com/socialgd/10000169/20260603/49527991.html",
+        "note": "中华网：割四赔五乱象，一起纠纷演变成一场危机",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhu-zhi-liao",
@@ -1171,7 +1942,19 @@
     "example_translation": "The launch-event copywriting is so over the top you could score the whole thing with bamboo-cicada sound effects.",
     "context": "The toy's \"wow-wow\" buzz got paired online with parody captions mimicking Huawei exec Richard Yu's (\"余承东\") signature hyperbolic launch-event claims (e.g. calling a car \"the best SUV under 10 million rmb\"), turning it into a running joke about inflated product-launch hype. It escalated into a minor scandal in early August 2026 when creators reported their videos or listings being taken down, though Huawei's HarmonyOS Intelligent Mobility Alliance publicly denied filing any complaints.",
     "category": "meme",
-    "date_added": "2026-08-08"
+    "date_added": "2026-08-08",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%AB%B9%E7%9F%A5%E4%BA%86/68400411",
+        "note": "百度百科：竹知了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://cbgc.scol.com.cn/news/7824342",
+        "note": "川观新闻：几块钱的竹知了卖断货，这个千年老玩具凭什么火遍全网？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wuhen-chehui",
@@ -1185,7 +1968,14 @@
     "example_translation": "I recalled the message I mistyped and used traceless-recall to delete the notice on my side too, but the other person can still see \"the other party recalled a message\" — completely useless.",
     "context": "WeChat rolled this out in version 8.0.76 (July 2026): long-press the grey \"you recalled a message\" bubble to delete it from your own chat history. It immediately drew backlash for being one-sided — deleting your own copy does nothing to stop the recipient from seeing the recall notice on their end. Netizens split into two camps: office workers glad to tidy up their own screenshots, and everyone else mocking it as fake \"traceless-ness\" and demanding a real two-way version. The gap between the feature's name and what it actually does made it an instant target for the chengyu [[yan-er-dao-ling]].",
     "category": "news",
-    "date_added": "2026-08-09"
+    "date_added": "2026-08-09",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20260724A07UJD00",
+        "note": "腾讯新闻：微信新版本新增单方无痕撤回功能 可删除撤回提示",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "yan-er-dao-ling",
@@ -1199,7 +1989,19 @@
     "example_translation": "You deleted the recall notice, but the other person can still see it just the same — isn't that basically a modern-day \"covering your ears while stealing a bell\"?",
     "context": "An ancient Warring States-era fable (recorded in the Lüshi Chunqiu) about a thief who covers his own ears while stealing a bell, thinking that since he can't hear it ring, nobody else will either. It's a fixture of netizen commentary for any half-measure that only fools the person doing it — most recently revived in July 2026 to mock WeChat's one-sided [[wuhen-chehui]] feature, since scrubbing the notice from your own screen does nothing to stop the other person from seeing it.",
     "category": "chengyu",
-    "date_added": "2026-08-09"
+    "date_added": "2026-08-09",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%8E%A9%E8%80%B3%E7%9B%97%E9%93%83/1734518",
+        "note": "百度百科：掩耳盗铃（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%8E%A9%E8%80%B3%E7%9B%9C%E9%88%B4",
+        "note": "维基百科：掩耳盗铃",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "qu-dongbei-bishu-shibai",
@@ -1213,7 +2015,19 @@
     "example_translation": "I'd booked a flight to Harbin to escape the heat, but it hit nearly 35°C there too — a proper \"failed to escape the heat by going to the Northeast.\"",
     "context": "In late July/early August 2026 an unusually stubborn subtropical high pushed record heat into Northeast China, a region Chinese tourists normally flee to in summer. Some areas there ran hotter than Guangdong in the deep south, and air-conditioner sales in Liaoning reportedly jumped over 200% year-on-year as locals scrambled to cope. Netizens turned the irony into a stock phrase, \"去X避暑失败\" (\"failed to escape the heat by going to X\"), used specifically for the Northeast this summer as the usual heat-refuge stopped being one.",
     "category": "meme",
-    "date_added": "2026-08-09"
+    "date_added": "2026-08-09",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20260804A0C6BY00",
+        "note": "腾讯新闻：“去东北避暑失败”“东北热过广东”，为何今年东北这么热？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.china.com/socialgd/10000169/20260729/49640779.html",
+        "note": "中华网：热！网友去东北避暑失败？ 北方同样“热如蒸笼”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "doubao-xing-renge",
@@ -1227,7 +2041,19 @@
     "example_translation": "He's a classic \"Doubao-type personality\" — the moment you say he's wrong he apologises, then shows up late again next time.",
     "context": "Named after 豆包 (Doubao), ByteDance's AI chatbot, whose conversational style — instantly agreeable, quick to say sorry when corrected, but not really adjusting its underlying behaviour — became a recognisable pattern. Netizens started applying the label to coworkers and friends who \"handle\" conflict the same way: high emotional-value charm to smooth things over rather than actually engaging with the criticism. It has spread especially in workplace contexts as a semi-affectionate, semi-exasperated description of people who've perfected \"attitude good, behaviour unchanged.\"",
     "category": "social",
-    "date_added": "2026-08-10"
+    "date_added": "2026-08-10",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%9E%8B%E4%BA%BA%E6%A0%BC/67657506",
+        "note": "百度百科 —「豆包型人格」",
+        "lang": "zh"
+      },
+      {
+        "url": "https://dzb.henandaily.cn/html5/2026-05/08/content_18_1791851.htm",
+        "note": "河南日报 —「豆包型人格」成热梗 读懂背后的期待",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "bao-de",
@@ -1241,7 +2067,19 @@
     "example_translation": "Showing up on time tomorrow? Guaranteed!",
     "context": "Traces back to a gaming livestreamer nicknamed Coke — when fans jokingly pretended not to recognise him, commenters would reply \"包变脸的\" (\"guaranteed he'll change his tune\"), using 包 the way some regional dialects use it to mean \"for sure.\" The shorthand \"包的\" broke out of that fandom bubble into general use, prized for sounding punchier and more confident than a plain \"肯定\" or \"好的.\"",
     "category": "slang",
-    "date_added": "2026-08-10"
+    "date_added": "2026-08-10",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%8C%85%E7%9A%84/64579611",
+        "note": "百度百科 —「包的」",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/840524331_121924583",
+        "note": "搜狐网 —「包的」火遍网络：如何从地方方言演变成年轻人的新流行语",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "chengwei-zhongguoren",
@@ -1255,7 +2093,19 @@
     "example_translation": "Lately loads of foreign creators have been posting their \"becoming Chinese\" challenge — cooking congee and drinking hot water every day.",
     "context": "Started when a Chinese-American creator posted tips like drinking hot water and avoiding cold food to stay healthy, jokingly telling followers \"starting tomorrow, you're becoming Chinese.\" The video racked up millions of views and spawned a wave of imitators worldwide who began daily check-ins of habits like hot soup, cotton slippers, and red scarves for luck — framed not as mockery but as genuine admiration for what they saw as practical Eastern wellness wisdom, making it 2026's first big cross-border meme out of China.",
     "category": "meme",
-    "date_added": "2026-08-10"
+    "date_added": "2026-08-10",
+    "sources": [
+      {
+        "url": "https://news.bjd.com.cn/2026/02/25/11599416.shtml",
+        "note": "京报网 — 当全世界都在努力「成为中国人」",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.guancha.cn/XiaoPeng/2026_02_22_807688.shtml",
+        "note": "观察者网 — 欧美青年想「成为中国人」？老外狂欢，华裔委屈",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "suan-niao",
@@ -1269,7 +2119,19 @@
     "example_translation": "Stop stressing about it — go squeeze a suan niao, let it go, let it go.",
     "context": "Wuhan native Li Mangguo made the first one from a sprouted garlic bulb to cheer up his wife after an argument, riffing on the Wuhan dialect phrase 算了 (\"suàn le\", let it go) sounding like 蒜鸟 (\"suàn niǎo\", garlic bird). The garlic-head design nods to the classic garnish on Wuhan hot-dry noodles. It went viral on Douyin and Xiaohongshu through 2025, sold over 100,000 units, spawned sibling dialect plushies, and became a fixture of Wuhan tourist shops and gift shelves — still circulating as a byword for \"chill out\" going into 2026.",
     "category": "meme",
-    "date_added": "2026-08-13"
+    "date_added": "2026-08-13",
+    "sources": [
+      {
+        "url": "https://www.wuhan.gov.cn/zjwh/whly/202605/t20260523_2768096.shtml",
+        "note": "武汉市人民政府 — 玩转方言梗，「蒜鸟」家族火成顶流",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20241212A00Z6500",
+        "note": "腾讯新闻 —「蒜鸟」被称为「武汉和平鸟」，表情包和玩偶走红",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dai-ru-gan",
@@ -1283,7 +2145,14 @@
     "example_translation": "This first-person cooking video has such strong immersion, I feel like I just ate after watching it.",
     "context": "Named by Xiaohongshu's 2026 \"top ten hot words\" data report as one of the platform's defining content trends: POV clips, ASMR sound design and first-person narration exploded in popularity because viewers were chasing the feeling of being physically present in a scene rather than watching from outside. Douyin's \"immersive\" (沉浸式) tag alone has racked up billions of views, and 代入感 became the shorthand critics and creators use for why this style of content performs so well.",
     "category": "social",
-    "date_added": "2026-08-13"
+    "date_added": "2026-08-13",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%BB%A3%E5%85%A5%E6%84%9F/1051271",
+        "note": "百度百科 —「代入感」",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "rou-ruan-li",
@@ -1297,7 +2166,14 @@
     "example_translation": "She never confronts people head-on, but she always gets things done — that's 柔软力 (the strength of softness).",
     "context": "One of Xiaohongshu's 2026 \"top ten hot words\", surfacing alongside 活人感 and 边界感 as part of a broader shift toward self-care and interiority: users increasingly frame emotional gentleness — being soft rather than combative — as a deliberate strength rather than a weakness, in contrast to older \"hustle culture\" ideals of toughness and grinding through.",
     "category": "social",
-    "date_added": "2026-08-13"
+    "date_added": "2026-08-13",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20240328A022G300",
+        "note": "腾讯新闻 — 人生建议：千万不要忽视柔软的力量",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "lang-lang-shan",
@@ -1311,7 +2187,19 @@
     "example_translation": "Working overtime until 10pm every day, I really just want to escape this grind.",
     "context": "From the 2023 animated short 《小妖怪的夏天》 (part of the anthology series 中国奇谭), where a small pig-demon toils under an exploitative demon boss in a place called 浪浪山, dreaming of leaving. His line to his mother, 我想离开浪浪山, struck a nerve with overworked young professionals who saw their own 996 lives in his. A 2025 spin-off film (《浪浪山小妖怪》) revived the phrase, and 浪浪山 became one of the most-cited 网络流行语 of 2025–2026 — shorthand for any grinding circumstance, work or hometown, that you long to escape.",
     "category": "social",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://m.gmw.cn/2025-08/17/content_1304113204.htm",
+        "note": "光明网 —「浪浪山」有什么隐喻？小妖怪为啥没有名字？制片人回应来了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_21592898",
+        "note": "澎湃新闻 —《中国奇谭》：成年人都是浪浪山的小妖？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ya-gou-zao-de",
@@ -1325,7 +2213,14 @@
     "example_translation": "Riding motorbikes, racing cars — you're really out here being wild.",
     "context": "丫 is old Beijing street slang for 'you' (short for the coarser 丫头养的), softened by familiarity into a rough-and-tumble stand-in for 这家伙. 燥 originally meant 'agitated/restless' and, via rock and street culture, came to mean 'hyped, showy, over-the-top'. Short-video creators paired the two into 丫够燥的 in reaction videos and comment sections, and it caught on nationwide in the first half of 2026 as an all-purpose reaction to anyone being extra.",
     "category": "slang",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%AB%E5%A4%9F%E7%87%A5%E7%9A%84/67863218",
+        "note": "百度百科 —「丫够燥的」",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "xiang-shang-tan-qi",
@@ -1339,7 +2234,19 @@
     "example_translation": "When you're feeling down, don't just sigh with your head bowed — try sighing upward instead, apparently it actually works.",
     "context": "The technique traces to psychology's 'facial feedback hypothesis' — that posture and breathing can shape emotion rather than just express it. It spread from a livestreamer demonstrating it in May 2026, got a boost when a celebrity posted about it in June, and exploded in July as short-video creators set their upward sighs to sentimental pop songs, turning a breathing tip into a full-blown decompression meme.",
     "category": "social",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://m.tech.china.com/articles/20260727/202607271926655.html",
+        "note": "中华网 — 叹气要往上叹是什么意思？叹气要往上叹是什么梗？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5301469914071242.html",
+        "note": "新浪新闻 — 向上叹气是自愈",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhongguo-ren-neng-fei",
@@ -1353,7 +2260,19 @@
     "example_translation": "Passed the interview! Chinese people can fly!",
     "context": "Rapper 揽佬 sang the hook in his Huizhou-accented Mandarin over a Memphis-style trap beat sampling 'Summertime', on a livestream. It stayed niche until 29 July 2026, when 《国防时报》 used it as BGM for a military-themed short video that racked up 110,000+ full-screen views — the moment it broke out. Netizens then set the hook to everything from rocket launches to rock climbing to video-game highlight reels, cementing it as August 2026's biggest earworm meme.",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E/68419251",
+        "note": "百度百科：中国人能飞",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.guancha.cn/culture/2026_08_06_826400.shtml",
+        "note": "观察者网：新潮观鱼——“中国人能飞”为什么火了？一篇看懂最新梗",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "luobo-zhijin-mao",
@@ -1367,7 +2286,19 @@
     "example_translation": "This whole thing is basically carrot-or-tissue — just pick one blindly, you'll get praised either way.",
     "context": "The format started with a cat named 大开门 in a pet-training video from late 2025, where the owner held up a carrot and a tissue and let the cat 'choose' by reading its owner's tone and face rather than actually distinguishing the objects — every choice got a '真棒!' (so good!). It became one of 2026's first big viral memes, and creators started applying the same 'impossible choice, guaranteed praise' structure to send up all kinds of situations, especially ones that stereotype people as unable to tell superficially similar things apart.",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32325443",
+        "note": "澎湃新闻：“萝卜纸巾猫”爆火——“察言观色”的我们，渴望“真棒”的肯定",
+        "lang": "zh"
+      },
+      {
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-24/doc-inhcxiyz5643249.shtml",
+        "note": "新浪财经：“萝卜纸巾猫”怎么成了年底最热的梗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ke-zhou-qiu-jian",
@@ -1381,7 +2312,19 @@
     "example_translation": "It's a different era now and you're still managing the new team with old methods — isn't that just marking the boat to find the sword?",
     "context": "One of the oldest fables in the Chinese school curriculum (from 《吕氏春秋·察今》), but it stays alive in comment sections precisely because it's such a compact put-down: people reach for it whenever someone applies an outdated rulebook — a manager's playbook, an investor's old thesis, a parent's fixed idea of 'how things are done' — to a situation that has since changed underneath them.",
     "category": "chengyu",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%88%BB%E8%88%9F%E6%B1%82%E5%89%91/758755",
+        "note": "百度百科：刻舟求剑（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E5%88%BB%E8%88%9F%E6%B1%82%E5%89%91",
+        "note": "汉典：刻舟求剑的解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ma-jiaqi",
@@ -1395,7 +2338,19 @@
     "example_translation": "National Day is almost here — repost this Ma Jiaqi, and you're guaranteed a holiday in the Year of the Horse!",
     "context": "Started in January 2026 when idol 马嘉祺 (of 时代少年团) posted a wistful 'I want to hold onto this holiday' message as New Year's break ended — a feeling that instantly resonated with exhausted workers. Fans built the homophone pun (嘉祺/假期) into a lucky charm, and it spread past fandom circles into general office culture as a tongue-in-cheek way to manifest time off, especially fitting since 2026 is the Year of the Horse (马年) and his surname is also 马.",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "http://k.sina.com.cn/article_7879776328_1d5abd848068018q4u.html",
+        "note": "新浪新闻：马嘉祺的“马假期”梗对粉丝和普通网友产生了哪些具体影响？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://ent.sina.cn/2026-02-13/detail-inhmrnzr3300168.d.html",
+        "note": "新浪娱乐：娱乐圈艺人化解并玩转网友恶搞——马嘉祺“马假期”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "yidairen-jiangshirou",
@@ -1409,7 +2364,19 @@
     "example_translation": "Don't laugh at my mum's cured pork — that expired yogurt in your fridge is your generation's zombie meat too.",
     "context": "The phrase surfaced in July 2026 alongside a wave of social posts and news pieces comparing what different generations let go bad in their freezers — a parent's meat frozen for years next to a twenty-something's abandoned oat milk and takeout leftovers. It works as gentle intergenerational ribbing rather than real criticism: the joke isn't that older people hoard and younger people don't, it's that everyone has a version of the same habit.",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://ent.china.com/movie/newszh/11005281/20260702/49584834.html",
+        "note": "中华网：一代人有一代人的僵尸肉",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.cn/article_7879922980_1d5ae152406801hbyu.html",
+        "note": "新浪新闻：爆火！一代人有一代人的僵尸肉到底是什么梗",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "bu-jiang-bu-jiang",
@@ -1423,7 +2390,14 @@
     "example_translation": "As long as my cat is happy, I don't care that the furniture's wrecked — not gonna get into it.",
     "context": "Comes from a family-sitcom-style Douyin skit by creator 杨大牛, where the '奶奶' (grandma) character dotes on her grandson to a fault — feeding him questionable '剩饭' or dubious '进口食品' — and waves off any objection with '不讲不讲' (roughly, 'don't even, not discussing it'). The line caught on as shorthand for blind favouritism or refusing to justify a biased decision, applied well beyond the original grandma-and-grandson context.",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://pl999.com/meme/99/",
+        "note": "野火词典：不讲不讲是什么网络用语",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "mingri-jianfei-jiao",
@@ -1437,7 +2411,19 @@
     "example_translation": "I'm a devout follower of the Diet-Tomorrow Cult again — eat today, diet tomorrow.",
     "context": "Singer 张远 sighed '今天先吃，明天再减' (eat today, diet tomorrow) on camera during the variety show 《快乐老友记》, and the line's blunt honesty about diet-procrastination went viral. Netizens jokingly 'founded' the 明日减肥教 (Diet-Tomorrow Cult) with him as 教主 (high priest), piling on with spin-off jokes about his other on-air pseudo-science, like the '睡8.5小时能瘦8斤' (sleep 8.5 hours, lose 8 pounds) theory, dubbing him the '邪修减肥大法掌门人' (grandmaster of black-magic dieting).",
     "category": "meme",
-    "date_added": "2026-08-16"
+    "date_added": "2026-08-16",
+    "sources": [
+      {
+        "url": "https://m.huxiu.com/article/360647.html",
+        "note": "虎嗅网：“明天减肥”，只要动了念头，今天就开始长胖",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_24138103",
+        "note": "澎湃新闻·湃客：有多少减肥博主们，正靠暴饮暴食出人头地",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "ni-yi-ji-ku",
@@ -1451,7 +2437,19 @@
     "example_translation": "Stop struggling — you're already cracking.",
     "context": "Born from two gaming subcultures colliding: a Naruto mobile-game streamer's catchphrase \"你已疾苦\" got punned into \"你已急哭\" to mock opponents losing their cool, while a separate meme — an AI-generated \"alien aim\" avatar popular with Call of Duty Mobile players — became clan-icon culture in late 2025. A player active in both scenes mashed the caption onto the alien face, and the combo image exploded across gaming Discords and Douyin in 2026, spinning off variants like \"你没急吧\" and getting slapped on merch by brands chasing the joke's speed.",
     "category": "meme",
-    "date_added": "2026-08-17"
+    "date_added": "2026-08-17",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%BD%A0%E5%B7%B2%E6%80%A5%E5%93%AD/67471358",
+        "note": "百度百科：你已急哭",
+        "lang": "zh"
+      },
+      {
+        "url": "https://view.inews.qq.com/a/20260117A03XJ300",
+        "note": "腾讯新闻：诡异的“你已急哭”外星人表情包，到底把多少人急哭了？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "cong-cong-rong-rong-you-ren-you-yu",
@@ -1465,7 +2463,19 @@
     "example_translation": "This week's deadline was supposed to be calm and easy — instead it's a frantic scramble.",
     "context": "Taiwanese legislator 王世坚 (Wang Shih-chien) used the line during a fiery legislative floor grilling in October 2025, contrasting how a colleague's handling of an issue should have looked versus the shambles it actually was. Clip creators set his indignant delivery and desk-slapping to music, turning it into a viral song nicknamed \"没出息\"; the phrase then detached from politics entirely and became a general-purpose template netizens paste over their own disasters — exam week, house-moving, a group project.",
     "category": "meme",
-    "date_added": "2026-08-17"
+    "date_added": "2026-08-17",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%B2%A1%E5%87%BA%E6%81%AF/66828608",
+        "note": "百度百科：没出息（网络热词）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/wy/202510/t20251026_281659.html",
+        "note": "扬子晚报：微观察——“本来应该从从容容、游刃有余”，神曲《没出息》为啥火遍两岸",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "gao-ya-qi-e",
@@ -1479,7 +2489,19 @@
     "example_translation": "My boss suddenly called on me to speak — on the outside I was the elegant penguin, on the inside I was panicking.",
     "context": "The 3D rendering is a decade-old artwork (2014, artist known as 3Dalia) that sat in stock-image libraries under the label \"William Tell Penguin\" until Chinese users rediscovered it in free asset libraries in late 2024, made AI-animated dance clips of its wobbling strut, and set it to classical music — sending it viral around Mid-Autumn Festival 2025. Its clumsy walk paired with sunglasses and a tie reads as someone leaving a fancy function trying to look dignified, so netizens now caption it over their own moments of \"barely holding it together but performing composure.\"",
     "category": "meme",
-    "date_added": "2026-08-17"
+    "date_added": "2026-08-17",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_31938563",
+        "note": "澎湃新闻：最近爆火的“高雅人士”企鹅表情包，究竟什么来头？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20251111A05RTN00",
+        "note": "腾讯新闻：火爆全网的高雅人士企鹅，到底什么来头？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhengtai-niuyao",
@@ -1493,7 +2515,19 @@
     "example_translation": "Chen Weiting jumped in and did the 'zhengtai waist-twist' too — the whole internet is copying it now.",
     "context": "The move originated from TF家族 fourth-generation trainee 张奕然's performance in a 'Whiplash'-themed dance assessment: his crisp waist-twist paired with a fresh-faced, boyish look created a striking 'cute but sharp' contrast that fans clipped and set to a catchy BGM. Within weeks, established stars like 程潇, 陈伟霆 and 曾舜晞 were filming their own versions, turning it into one of summer 2026's biggest cross-platform dance memes.",
     "category": "meme",
-    "date_added": "2026-08-18"
+    "date_added": "2026-08-18",
+    "sources": [
+      {
+        "url": "https://m.tech.china.com/articles/20260729/202607291928708.html",
+        "note": "中华网：正太扭腰是什么意思？正太扭腰是什么梗？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.cn/article_7880068330_1d5b04cea06801brps.html",
+        "note": "新浪娱乐：正太扭腰这个梗最早是怎么流行起来的",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "shijie-popolanlan-xiaomao-yuebu-yuelan",
@@ -1507,7 +2541,19 @@
     "example_translation": "My cat shredded the curtains again — truly, the world's falling apart and my cat's only making it worse.",
     "context": "The original phrase '这个世界破破烂烂，总有人在缝缝补补' traces back to CSGO gaming culture, praising a teammate who selflessly carries the team through a losing round. Cat owners on Xiaohongshu and Weibo flipped the sentiment for pet content: instead of a heroic patcher, the cat is a gleeful destroyer, and the joke is the owner's helpless devotion despite the damage.",
     "category": "meme",
-    "date_added": "2026-08-18"
+    "date_added": "2026-08-18",
+    "sources": [
+      {
+        "url": "https://view.inews.qq.com/a/20240430A0419V00",
+        "note": "腾讯新闻：世界破破烂烂，小猫咪越补越烂……",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.163.com/dy/article/J1OJP0T105521W5I.html",
+        "note": "网易：世界破破烂烂，小猫越补越烂",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dongshi-xiaopin",
@@ -1521,7 +2567,19 @@
     "example_translation": "Other people lost weight by actually controlling their diet — you drink meal-replacement powder but still eat late-night snacks; that's just a clumsy copy that misses the point.",
     "context": "A classical chengyu that never left everyday use, and it's especially alive in comment sections today: netizens reach for it whenever a brand, influencer, or celebrity copies a viral trend (a dance, a marketing stunt, a rival's look) without grasping why the original worked, and the copy flops or looks awkward instead.",
     "category": "chengyu",
-    "date_added": "2026-08-18"
+    "date_added": "2026-08-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%9C%E6%96%BD%E6%95%88%E9%A2%A6/232075",
+        "note": "百度百科：东施效颦（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zdic.net/hans/%E4%B8%9C%E6%96%BD%E6%95%88%E9%A2%A6",
+        "note": "汉典：东施效颦的解释",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "dagongren-renchuanren",
@@ -1535,7 +2593,19 @@
     "example_translation": "From construction sites to office towers, this wave of 'morning, fellow worker' really has spread person-to-person — nobody's immune.",
     "context": "打工人 exploded in September 2020 when streamer 抽象带篮子 posted a self-mocking 'morning, worker' video that office workers, delivery riders and everyone in between adopted as a shared identity. In 2026 the label got a new twist: netizens started calling its viral spread 人传人 — borrowing the epidemiological term for disease transmission — to joke about how fast the self-deprecating catchphrase and its rituals leapt from one workplace group chat to the next.",
     "category": "meme",
-    "date_added": "2026-08-20"
+    "date_added": "2026-08-20",
+    "sources": [
+      {
+        "url": "https://tech.china.com/articles/20260819/202608191944582.html",
+        "note": "中华网：打工人人传人是什么意思？打工人人传人是什么梗？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E6%89%93%E5%B7%A5%E4%BA%BA/54050409",
+        "note": "百度百科：打工人",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "yidao-gongwei-miaohui",
@@ -1549,7 +2619,19 @@
     "example_translation": "The boss messaged first thing, and I instantly replied 'at my desk, replying instantly' — though secretly I was wondering how long I could slack off today.",
     "context": "A 2026 workplace catchphrase that's part genuine status update, part inside joke: typing it out the second you arrive doubles as proof of diligence for managers and as dark humour among coworkers, who use it to describe being permanently on-call from the moment they cross the office threshold — even while quietly 摸鱼 (slacking off) between messages.",
     "category": "slang",
-    "date_added": "2026-08-20"
+    "date_added": "2026-08-20",
+    "sources": [
+      {
+        "url": "https://www.sina.cn/news/detail/5315817462828862.html",
+        "note": "新浪新闻：“已到工位消息秒回”是当代打工人心照不宣的摸鱼暗号",
+        "lang": "zh"
+      },
+      {
+        "url": "https://cj.sina.com.cn/articles/view/7879776326/1d5abd84606801abio",
+        "note": "新浪财经：已到工位秒回消息话术适用于哪些场景？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhongjiangle-doubao",
@@ -1563,7 +2645,14 @@
     "example_translation": "The streamer's yelling 'I won, I won!' again in the livestream — really it's just Doubao spitting out a random set of numbers.",
     "context": "An August 2026 short-video trend built around ByteDance's AI assistant 豆包 (Doubao): creators ask it to spit out a run of 'lucky numbers' between 1 and 49, mimicking the format of a 双色球 lottery draw, then film their exaggerated 'I won!' reaction. It's pure content-creation theatre — nobody actually wins anything — playing on viewers' curiosity about luck and numbers to farm engagement.",
     "category": "meme",
-    "date_added": "2026-08-20"
+    "date_added": "2026-08-20",
+    "sources": [
+      {
+        "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801pfqa.html",
+        "note": "新浪新闻：网络热梗“中奖了”火了，发什么数字？跟什么梗？豆包创作者灵感大揭秘",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "bu-jichu",
@@ -1577,7 +2666,19 @@
     "example_translation": "Don't be fooled by his modest salary — his spending is anything but modest.",
     "context": "Originated from a fashion blogger's styling tip: \"上身基础，下身就不基础\" (basic top, not-basic bottom) — pairing a plain blazer with wild, colour-clashing pieces below for contrast. Netizens loved the mismatched-but-it-works effect and started applying the \"X basic, Y not basic\" template everywhere — salary vs spending, a calm mind vs an insane exam question, and so on. It was named one of 2025's top ten internet buzzwords.",
     "category": "slang",
-    "date_added": "2026-08-23"
+    "date_added": "2026-08-23",
+    "sources": [
+      {
+        "url": "https://style.cctv.com/2025/09/05/ARTIcQzNfcaMWw6MChYqNSIO250905.shtml",
+        "note": "央视网时尚：上身基础，下身就不基础",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20250829A08EK200",
+        "note": "腾讯新闻：上身基础，下身就不基础",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wo-jiang-cizhi-zaijia-yanjiu",
@@ -1591,7 +2692,19 @@
     "example_translation": "What he said was so enlightened, I'm going to quit my job and study him full-time.",
     "context": "Sparked in February 2026 when singer 苏醒 (Su Xing), on the variety show 《快乐老友记》, gave an unexpectedly wise riff on self-acceptance — allowing yourself to be imperfect and make mistakes as part of being genuinely you. Netizens turned his sincerity into self-deprecating comedy: \"我将辞职在家研究苏醒\" (I'll quit my job to study Su Xing) went viral, and the template spread to any statement or person netizens find weirdly profound or funny.",
     "category": "meme",
-    "date_added": "2026-08-23"
+    "date_added": "2026-08-23",
+    "sources": [
+      {
+        "url": "https://c.m.163.com/news/a/KLH93CE90556BNMX.html",
+        "note": "网易新闻：“我将辞职在家研究苏醒这段话”走红，解锁自嘲式通透",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.cn/article_7879776328_1d5abd848068018hbs.html",
+        "note": "新浪娱乐：苏醒的这段发言为什么会引发‘我将辞职在家研究’这样的网络热梗？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "hang-bao-le",
@@ -1605,7 +2718,19 @@
     "example_translation": "That show absolutely smashed it — the whole crowd was screaming.",
     "context": "\"夯\" is a dialect word (rooted in Minnan speech) for \"hot, fierce, impressive,\" drawn from a slang five-tier ranking netizens use to rate anything: 夯 (top-tier) > 顶级 > 人上人 > NPC > 拉完了 (terrible). Paired with \"爆了\" for extra punch, it broke out via a cartoon character's catchphrase online and then exploded when the 2026 Spring Festival Gala and official state media started using it too, cementing it as the year's go-to compliment.",
     "category": "slang",
-    "date_added": "2026-08-23"
+    "date_added": "2026-08-23",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%A4%AF%E7%88%86%E4%BA%86/67185894",
+        "note": "百度百科：夯爆了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://moment.rednet.cn/content/646047/66/15785019.html",
+        "note": "红网时刻：“夯爆了”刷屏，年轻人不止是玩梗狂欢",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "niu-ma",
@@ -1619,7 +2744,19 @@
     "example_translation": "Working overtime until 11pm, I really am just a pure city ox-and-horse.",
     "context": "The word took off after a livestreamer publicly scolded a big-spending fan for lavishing gifts on someone else's stream while grinding away for the money — calling him “纯纯牛马” (a pure ox-and-horse). It stuck as shorthand for anyone slogging through exploitative work, and by 2026 has largely eclipsed the older, gentler “打工人” as the go-to word for describing overwork, precisely because it carries more bitterness about being used up for someone else's benefit.",
     "category": "slang",
-    "date_added": "2026-08-24"
+    "date_added": "2026-08-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%89%9B%E9%A9%AC/56246003",
+        "note": "百度百科：牛马（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-cn/%E7%89%9B%E9%A6%AC",
+        "note": "维基百科：牛马",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "wo-qu-bu-zao-shuo",
@@ -1633,7 +2770,19 @@
     "example_translation": "A comment says \"drinking more hot water is good for you\" — the reply underneath: \"Whoa, you didn't say so earlier.\"",
     "context": "The phrase traces back to a screenshot of a village group chat: a village head posted a notice about funeral arrangements worded ambiguously, and a villager named 周军 replied with the deadpan “我去，不早说”, as if he'd just received life-changing news. Screenshotted and passed around, it became the standard reply netizens now paste under obvious or filler comments — a way of \"playing along\" with a joke rather than genuinely complaining.",
     "category": "meme",
-    "date_added": "2026-08-24"
+    "date_added": "2026-08-24",
+    "sources": [
+      {
+        "url": "https://tieba.baidu.com/p/10725328628",
+        "note": "百度贴吧 热梗百科：我去，不早说",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.danmuxiu.cn/3308.html",
+        "note": "弹幕秀：我去不早说是什么梗",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "zhen-mei-kong-pei-ni-nao-le",
@@ -1647,7 +2796,14 @@
     "example_translation": "Asking me if I have a partner again — I really don't have time for this nonsense.",
     "context": "Widely attributed to actress 赵丽颖, said amid gossip about on-set behaviour, the line detonated online as netizens turned amateur detective trying to work out who or what she meant. It was quickly recycled onto other celebrities caught up in drama — most notably actor 丁真, spawning \"丁真，我真没空陪你闹了\" — and now gets pasted under any petty online squabble as a way of theatrically refusing to engage.",
     "category": "meme",
-    "date_added": "2026-08-24"
+    "date_added": "2026-08-24",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/887763548_122146905",
+        "note": "搜狐：赵丽颖“我真没空陪你闹啦”，这背后故事有点“上头”",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "fushu-meme",
@@ -1661,7 +2817,19 @@
     "example_translation": "The boss @-mentioned me in the group chat again — I've already switched to possum mode.",
     "context": "Originated from a candid overseas photo of an opossum that snuck indoors and froze upright, hands folded, staring out a window when discovered. Chinese netizens personified it around the English phrase 'play possum' — an animal whose entire survival strategy is pretending to be dead when threatened. It exploded on Xiaohongshu (80M+ views) and Bilibili from mid-2026 onward as the perfect stand-in for 打工人 exhaustion: you can't literally collapse at your desk, but spiritually you already have.",
     "category": "meme",
-    "date_added": "2026-08-25"
+    "date_added": "2026-08-25",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%B4%9F%E9%BC%A0%E8%A1%A8%E6%83%85%E5%8C%85/67819988",
+        "note": "百度百科：负鼠表情包",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.ycwb.com/ikimvknthj/content_54149948.htm",
+        "note": "羊城晚报金羊网：2026年最火表情包出现了，是一种比“躺平”更彻底的姿态",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "sui-cheng-xiang",
@@ -1675,7 +2843,19 @@
     "example_translation": "Who'd have thought — this time I slacked off and the boss didn't even notice.",
     "context": "From a January 2026 interview clip of singer 乌兰图雅 (Wulan Tuya), already known online for a string of earlier mishearing memes tied to her accent (e.g. 躲汉子). Her line '谁承想，这反而给了我一些鼓励' got subtitled by amused netizens as '随橙想，这反耳给了我一些古力' — nonsense syllables that somehow still land as sincere. She leaned into it herself, later recording a navigation-app voice pack using the line '可是随橙想呢' ('but whatever you think'), which cemented it as an affectionate meme rather than mockery.",
     "category": "meme",
-    "date_added": "2026-08-25"
+    "date_added": "2026-08-25",
+    "sources": [
+      {
+        "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801g19c.html",
+        "note": "新浪新闻：乌兰图雅的“随橙想呢”梗是怎么来的？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20260128A02DPI00",
+        "note": "腾讯新闻：再度翻红的乌兰图雅，成了新的网络抽象圣体",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "fangguo-wo-gei-ni-qiangpi",
@@ -1689,7 +2869,14 @@
     "example_translation": "Don't kill me — spare me and I'll give you a weapon skin!",
     "context": "Actor 张凌赫 (Zhang Linghe), known for a controlled, serious on-screen image, competed in a celebrity exhibition match of 无畏契约 (Valorant) on 8 February 2026 under this in-game name. The joke plea landed precisely because it clashed with his usual persona; clips of him saying it mid-match spread fast, with fans and other creators borrowing the line and its username format for their own comic effect.",
     "category": "meme",
-    "date_added": "2026-08-25"
+    "date_added": "2026-08-25",
+    "sources": [
+      {
+        "url": "https://k.sina.cn/article_7879776328_1d5abd8480680184rg.html",
+        "note": "新浪新闻：张凌赫的《无畏契约》游戏ID“放过我给你枪皮”有什么含义？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "niu-lai",
@@ -1703,7 +2890,19 @@
     "example_translation": "To get a bit of good luck, he specially bought a ticket to go watch 'Niu Lai'.",
     "context": "《牛来》is an 86-minute 3D animated film directed by a mother and son (the production company started life as a home-renovation crew) that released 5 August 2026 with zero marketing and near-zero box office (¥7,352). On 14 August the low number itself trended, and stock market investors — noting 牛来 is a homophone for '牛市来' ('the bull market's here') — started buying tickets as a good-luck ritual, sending box office into the millions within days. Its rough, dreamlike CG (models clipping through each other, birds flying strangely) earned it the label '抽象电影' (abstract film), and it became a nationwide participatory meme: cinema-screen bootleg clips, fan-made posters, and jokes about watching it for luck rather than plot.",
     "category": "meme",
-    "date_added": "2026-08-28"
+    "date_added": "2026-08-28",
+    "sources": [
+      {
+        "url": "https://zh.wikipedia.org/wiki/%E7%89%9B%E6%9D%A5",
+        "note": "维基百科：牛来",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.cn/article_7879776328_1d5abd848068024neg.html",
+        "note": "新浪财经：动画电影《牛来》上映10天票房仅7700元，为何被股民当作“牛市来”玄学祈福？",
+        "lang": "zh"
+      }
+    ]
   },
   {
     "id": "jiajiao-dagongren",
@@ -1717,6 +2916,13 @@
     "example_translation": "Don't ask me whether I'm grinding or not — I'm a 45-degree worker, stuck in the middle and unable to move either way.",
     "context": "Coined collectively by workplace-venting bloggers on Douyin, Xiaohongshu and Weibo around May 2026, with no single viral source video. It reframes the older 内卷 (grinding) vs 躺平 (lying flat) binary as a geometry joke: most workers aren't fully at either extreme, they're stuck at the 'included angle' in between, torn between doom-scrolling 'if you don't hustle you'll be replaced' content and 'seize the day' content, while real constraints — mortgages, ageing parents, stalled careers — keep them from moving either way. It marks a shift from earlier, simpler 打工人 (worker) self-pity memes toward naming the structural bind itself.",
     "category": "slang",
-    "date_added": "2026-08-28"
+    "date_added": "2026-08-28",
+    "sources": [
+      {
+        "url": "https://m.tech.china.com/articles/20260723/202607231924271.html",
+        "note": "中华网：夹角打工人是什么梗？夹角打工人是什么意思？",
+        "lang": "zh"
+      }
+    ]
   }
 ]
