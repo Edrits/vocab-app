@@ -1594,5 +1594,33 @@
     "context": "Actor 张凌赫 (Zhang Linghe), known for a controlled, serious on-screen image, competed in a celebrity exhibition match of 无畏契约 (Valorant) on 8 February 2026 under this in-game name. The joke plea landed precisely because it clashed with his usual persona; clips of him saying it mid-match spread fast, with fans and other creators borrowing the line and its username format for their own comic effect.",
     "category": "meme",
     "date_added": "2026-08-25"
+  },
+  {
+    "id": "niu-lai",
+    "hanzi": "牛来",
+    "pinyin": "Niú Lái",
+    "literal": "cow / comes — homophone for 牛市来 (bull market's here)",
+    "meaning": "The title of a scrappy, home-made 3D animated film that flopped at release, then went viral for the opposite reason: because 牛来 sounds like 牛市来 (\"the bull market has arrived\"), stock traders started buying tickets as a lucky charm, and its janky animation turned it into a shared 'abstract cinema' inside joke.",
+    "meaning_zh": "一部由母子二人手搓五年制作的国产3D动画电影，上映后票房惨淡，却因片名谐音'牛市来'被股民当作讨彩头的吉利符号疯狂买票，加上画面粗糙、穿模等'抽象'特效，让它变成全网玩梗、二创狂欢的现象级话题。",
+    "example": "为了讨个好彩头，他专门买票去看了《牛来》。",
+    "example_pinyin": "Wèile tǎo ge hǎo cǎitóu, tā zhuānmén mǎi piào qù kànle 《Niú Lái》.",
+    "example_translation": "To get a bit of good luck, he specially bought a ticket to go watch 'Niu Lai'.",
+    "context": "《牛来》is an 86-minute 3D animated film directed by a mother and son (the production company started life as a home-renovation crew) that released 5 August 2026 with zero marketing and near-zero box office (¥7,352). On 14 August the low number itself trended, and stock market investors — noting 牛来 is a homophone for '牛市来' ('the bull market's here') — started buying tickets as a good-luck ritual, sending box office into the millions within days. Its rough, dreamlike CG (models clipping through each other, birds flying strangely) earned it the label '抽象电影' (abstract film), and it became a nationwide participatory meme: cinema-screen bootleg clips, fan-made posters, and jokes about watching it for luck rather than plot.",
+    "category": "meme",
+    "date_added": "2026-08-28"
+  },
+  {
+    "id": "jiajiao-dagongren",
+    "hanzi": "夹角打工人",
+    "pinyin": "jiājiǎo dǎgōngrén",
+    "literal": "included-angle / working person",
+    "meaning": "A 2026 workplace self-deprecating label for someone stuck at the '45-degree angle' between 0° (full 躺平/lying flat) and 90° (full 内卷/grinding) — too worn out to hustle hard, too anxious about rent and ageing parents to fully give up.",
+    "meaning_zh": "2026年职场自嘲词，用几何角度打比方：0°是完全躺平，90°是拼命内卷，'夹角打工人'就是卡在中间的45°——卷不动也躺不平，被'不卷就被淘汰'和'及时行乐'两种声音反复拉扯。",
+    "example": "别问我卷不卷，我就是个夹角打工人，卡在中间动不了。",
+    "example_pinyin": "Bié wèn wǒ juǎn bu juǎn, wǒ jiùshì ge jiājiǎo dǎgōngrén, kǎ zài zhōngjiān dòng bu liǎo.",
+    "example_translation": "Don't ask me whether I'm grinding or not — I'm a 45-degree worker, stuck in the middle and unable to move either way.",
+    "context": "Coined collectively by workplace-venting bloggers on Douyin, Xiaohongshu and Weibo around May 2026, with no single viral source video. It reframes the older 内卷 (grinding) vs 躺平 (lying flat) binary as a geometry joke: most workers aren't fully at either extreme, they're stuck at the 'included angle' in between, torn between doom-scrolling 'if you don't hustle you'll be replaced' content and 'seize the day' content, while real constraints — mortgages, ageing parents, stalled careers — keep them from moving either way. It marks a shift from earlier, simpler 打工人 (worker) self-pity memes toward naming the structural bind itself.",
+    "category": "slang",
+    "date_added": "2026-08-28"
   }
 ]
