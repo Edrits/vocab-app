@@ -3,190 +3,283 @@
     "title": "然 combos",
     "subtitle": "The 然 family sorted out — the ones that look alike and mean different things.",
     "groups": [
-      { "id": "linking",     "label": "连接 · Joining ideas" },
-      { "id": "expectation", "label": "意外 · Against expectation" },
-      { "id": "still",       "label": "依旧 · Still the same" },
-      { "id": "sudden",      "label": "突发 · All of a sudden" },
-      { "id": "manner",      "label": "状态 · States and manner" }
+      {
+        "id": "linking",
+        "label": "连接 · Joining ideas"
+      },
+      {
+        "id": "expectation",
+        "label": "意外 · Against expectation"
+      },
+      {
+        "id": "still",
+        "label": "依旧 · Still the same"
+      },
+      {
+        "id": "sudden",
+        "label": "突发 · All of a sudden"
+      },
+      {
+        "id": "manner",
+        "label": "状态 · States and manner"
+      }
     ],
     "items": [
       {
-        "hanzi": "虽然", "pinyin": "suīrán", "gloss": "although, even though", "group": "linking",
+        "hanzi": "虽然",
+        "pinyin": "suīrán",
+        "gloss": "although, even though",
+        "group": "linking",
         "note": "Concedes a fact you are about to push back against. Chinese keeps both halves — 虽然 in the first clause, 但是 or 可是 in the second — where English drops one of them.",
         "example": "虽然很累，但是我还是把作业写完了。",
         "example_pinyin": "Suīrán hěn lèi, dànshì wǒ háishi bǎ zuòyè xiě wán le.",
         "example_translation": "Although I was shattered, I still finished the homework."
       },
       {
-        "hanzi": "既然", "pinyin": "jìrán", "gloss": "since, given that", "group": "linking",
+        "hanzi": "既然",
+        "pinyin": "jìrán",
+        "gloss": "since, given that",
+        "group": "linking",
         "note": "The mirror of 虽然. 虽然 concedes a fact and then argues against it; 既然 takes a fact as settled and draws a conclusion from it, usually with 就 in the second clause.",
         "example": "既然你不舒服，就早点回家吧。",
         "example_pinyin": "Jìrán nǐ bù shūfu, jiù zǎodiǎn huí jiā ba.",
         "example_translation": "Since you're not feeling well, go home early."
       },
       {
-        "hanzi": "然后", "pinyin": "ránhòu", "gloss": "then, after that", "group": "linking",
+        "hanzi": "然后",
+        "pinyin": "ránhòu",
+        "gloss": "then, after that",
+        "group": "linking",
         "note": "Puts events in time order. In actual speech it is also the great filler — people string whole stories together on 然后…然后…, much like English \"and then\".",
         "example": "我先去买菜，然后回家做饭。",
         "example_pinyin": "Wǒ xiān qù mǎi cài, ránhòu huí jiā zuò fàn.",
         "example_translation": "I'll do the shopping first, then go home and cook."
       },
       {
-        "hanzi": "然而", "pinyin": "rán'ér", "gloss": "however, and yet", "group": "linking",
+        "hanzi": "然而",
+        "pinyin": "rán'ér",
+        "gloss": "however, and yet",
+        "group": "linking",
         "note": "The written cousin of 但是. Fine in an essay or a news piece; saying it out loud over dinner sounds like you are reading from a script.",
         "example": "他很努力，然而结果并不理想。",
         "example_pinyin": "Tā hěn nǔlì, rán'ér jiéguǒ bìng bù lǐxiǎng.",
         "example_translation": "He worked hard; the result, however, was disappointing."
       },
       {
-        "hanzi": "不然", "pinyin": "bùrán", "gloss": "otherwise, or else", "group": "linking",
+        "hanzi": "不然",
+        "pinyin": "bùrán",
+        "gloss": "otherwise, or else",
+        "group": "linking",
         "note": "Sets up the consequence of not doing the thing. Usually a warning.",
         "example": "快走吧，不然就迟到了。",
         "example_pinyin": "Kuài zǒu ba, bùrán jiù chídào le.",
         "example_translation": "Get a move on, or we'll be late."
       },
       {
-        "hanzi": "要不然", "pinyin": "yàobùrán", "gloss": "or else, or alternatively", "group": "linking",
+        "hanzi": "要不然",
+        "pinyin": "yàobùrán",
+        "gloss": "or else, or alternatively",
+        "group": "linking",
         "note": "Softer and chattier than 不然, and it can open a suggestion rather than a threat — closer to \"or we could just…\".",
         "example": "要不然我们改天再去？",
         "example_pinyin": "Yàobùrán wǒmen gǎitiān zài qù?",
         "example_translation": "Or shall we just go another day?"
       },
       {
-        "hanzi": "当然", "pinyin": "dāngrán", "gloss": "of course, naturally", "group": "linking",
+        "hanzi": "当然",
+        "pinyin": "dāngrán",
+        "gloss": "of course, naturally",
+        "group": "linking",
         "note": "Agreement with no hesitation in it. On its own, 当然 answers a question the way \"of course\" does in English.",
         "example": "当然可以，你随时来。",
         "example_pinyin": "Dāngrán kěyǐ, nǐ suíshí lái.",
         "example_translation": "Of course — come round whenever."
       },
       {
-        "hanzi": "果然", "pinyin": "guǒrán", "gloss": "sure enough, just as expected", "group": "expectation",
+        "hanzi": "果然",
+        "pinyin": "guǒrán",
+        "gloss": "sure enough, just as expected",
+        "group": "expectation",
         "note": "Confirms a prediction: you called it, and it happened. The exact opposite of 竟然 and 居然, which mark the thing you did not see coming.",
         "example": "我就说他会迟到，果然又迟到了。",
         "example_pinyin": "Wǒ jiù shuō tā huì chídào, guǒrán yòu chídào le.",
         "example_translation": "I said he'd be late, and sure enough he was late again."
       },
       {
-        "hanzi": "竟然", "pinyin": "jìngrán", "gloss": "unexpectedly, actually", "group": "expectation",
+        "hanzi": "竟然",
+        "pinyin": "jìngrán",
+        "gloss": "unexpectedly, actually",
+        "group": "expectation",
         "note": "Marks something contrary to what you assumed, often with a note of disapproval. Very close to 居然 — 竟然 leans slightly more written and slightly cooler.",
         "example": "他竟然一句话都没说就走了。",
         "example_pinyin": "Tā jìngrán yí jù huà dōu méi shuō jiù zǒu le.",
         "example_translation": "He actually left without saying a single word."
       },
       {
-        "hanzi": "居然", "pinyin": "jūrán", "gloss": "of all things, actually", "group": "expectation",
+        "hanzi": "居然",
+        "pinyin": "jūrán",
+        "gloss": "of all things, actually",
+        "group": "expectation",
         "note": "The stronger, more spoken twin of 竟然. Carries real surprise — either admiration or outrage, depending on tone.",
         "example": "这么难的题他居然做出来了。",
         "example_pinyin": "Zhème nán de tí tā jūrán zuò chūlái le.",
         "example_translation": "He actually solved it — a problem that hard!"
       },
       {
-        "hanzi": "显然", "pinyin": "xiǎnrán", "gloss": "obviously, evidently", "group": "expectation",
+        "hanzi": "显然",
+        "pinyin": "xiǎnrán",
+        "gloss": "obviously, evidently",
+        "group": "expectation",
         "note": "Says the evidence makes something plain. It is about what anyone can see, not about how sure you personally feel — that is 肯定.",
         "example": "他显然还没准备好。",
         "example_pinyin": "Tā xiǎnrán hái méi zhǔnbèi hǎo.",
         "example_translation": "He's clearly not ready yet."
       },
       {
-        "hanzi": "必然", "pinyin": "bìrán", "gloss": "inevitably, bound to", "group": "expectation",
+        "hanzi": "必然",
+        "pinyin": "bìrán",
+        "gloss": "inevitably, bound to",
+        "group": "expectation",
         "note": "Formal and a bit weighty — commentary and argument rather than conversation, where you would just say 一定.",
         "example": "这种做法必然会失败。",
         "example_pinyin": "Zhè zhǒng zuòfǎ bìrán huì shībài.",
         "example_translation": "An approach like that is bound to fail."
       },
       {
-        "hanzi": "偶然", "pinyin": "ǒurán", "gloss": "by chance, accidental", "group": "expectation",
+        "hanzi": "偶然",
+        "pinyin": "ǒurán",
+        "gloss": "by chance, accidental",
+        "group": "expectation",
         "note": "Worth keeping apart from 偶尔. 偶尔 is about frequency (\"now and then\"); 偶然 is about cause (\"as it happened, by chance\").",
         "example": "我们是在一次会议上偶然认识的。",
         "example_pinyin": "Wǒmen shì zài yí cì huìyì shàng ǒurán rènshi de.",
         "example_translation": "We met by chance at a conference."
       },
       {
-        "hanzi": "依然", "pinyin": "yīrán", "gloss": "still, as before", "group": "still",
+        "hanzi": "依然",
+        "pinyin": "yīrán",
+        "gloss": "still, as before",
+        "group": "still",
         "note": "Same job as 仍然, but with a touch of feeling to it — the sense that time has passed and something has held on regardless.",
         "example": "十年过去了，这家店依然开着。",
         "example_pinyin": "Shí nián guòqù le, zhè jiā diàn yīrán kāizhe.",
         "example_translation": "Ten years on, the shop is still open."
       },
       {
-        "hanzi": "仍然", "pinyin": "réngrán", "gloss": "still, nevertheless", "group": "still",
+        "hanzi": "仍然",
+        "pinyin": "réngrán",
+        "gloss": "still, nevertheless",
+        "group": "still",
         "note": "The neutral, factual one. Reports that a state has not changed, without any warmth attached.",
         "example": "问题仍然没有解决。",
         "example_pinyin": "Wèntí réngrán méiyǒu jiějué.",
         "example_translation": "The problem still hasn't been resolved."
       },
       {
-        "hanzi": "突然", "pinyin": "tūrán", "gloss": "suddenly, sudden", "group": "sudden",
+        "hanzi": "突然",
+        "pinyin": "tūrán",
+        "gloss": "suddenly, sudden",
+        "group": "sudden",
         "note": "The everyday one, and the only one here that also works as an adjective — 很突然, 太突然了 are all fine.",
         "example": "他突然站起来走了。",
         "example_pinyin": "Tā tūrán zhàn qǐlái zǒu le.",
         "example_translation": "He suddenly stood up and left."
       },
       {
-        "hanzi": "忽然", "pinyin": "hūrán", "gloss": "suddenly, all at once", "group": "sudden",
+        "hanzi": "忽然",
+        "pinyin": "hūrán",
+        "gloss": "suddenly, all at once",
+        "group": "sudden",
         "note": "Adverb only — 很忽然 is not a thing. Otherwise interchangeable with 突然 before a verb.",
         "example": "天忽然下起了大雨。",
         "example_pinyin": "Tiān hūrán xià qǐ le dàyǔ.",
         "example_translation": "All at once it started pouring."
       },
       {
-        "hanzi": "猛然", "pinyin": "měngrán", "gloss": "abruptly, with force", "group": "sudden",
+        "hanzi": "猛然",
+        "pinyin": "měngrán",
+        "gloss": "abruptly, with force",
+        "group": "sudden",
         "note": "Sudden *and* forceful. Use it for a physical jerk of movement rather than for news arriving out of nowhere.",
         "example": "他猛然回头，吓了我一跳。",
         "example_pinyin": "Tā měngrán huítóu, xià le wǒ yí tiào.",
         "example_translation": "He whipped round and gave me a fright."
       },
       {
-        "hanzi": "自然", "pinyin": "zìrán", "gloss": "natural, naturally", "group": "manner",
+        "hanzi": "自然",
+        "pinyin": "zìrán",
+        "gloss": "natural, naturally",
+        "group": "manner",
         "note": "Doubles as the noun \"nature\". As a manner word it means unforced — the opposite of stiff or performed, which is why it sits close to 松弛感.",
         "example": "放松点，表现得自然一点。",
         "example_pinyin": "Fàngsōng diǎn, biǎoxiàn de zìrán yìdiǎn.",
         "example_translation": "Relax a bit — act more naturally."
       },
       {
-        "hanzi": "全然", "pinyin": "quánrán", "gloss": "completely, utterly", "group": "manner",
+        "hanzi": "全然",
+        "pinyin": "quánrán",
+        "gloss": "completely, utterly",
+        "group": "manner",
         "note": "Almost always followed by a negative — 全然不顾, 全然不知. Rarely used to intensify anything positive.",
         "example": "他全然不顾别人的感受。",
         "example_pinyin": "Tā quánrán búgù biérén de gǎnshòu.",
         "example_translation": "He pays absolutely no regard to how anyone else feels."
       },
       {
-        "hanzi": "茫然", "pinyin": "mángrán", "gloss": "blank, at a loss", "group": "manner",
+        "hanzi": "茫然",
+        "pinyin": "mángrán",
+        "gloss": "blank, at a loss",
+        "group": "manner",
         "note": "The look on your face when nothing has landed. Often 一脸茫然 — \"a face full of blank\".",
         "example": "听完他的解释，我还是一脸茫然。",
         "example_pinyin": "Tīng wán tā de jiěshì, wǒ háishi yì liǎn mángrán.",
         "example_translation": "After his explanation I was still completely blank."
       },
       {
-        "hanzi": "恍然", "pinyin": "huǎngrán", "gloss": "in a flash of realisation", "group": "manner",
+        "hanzi": "恍然",
+        "pinyin": "huǎngrán",
+        "gloss": "in a flash of realisation",
+        "group": "manner",
         "note": "Almost never stands alone — you will meet it as 恍然大悟, the moment the penny drops.",
         "example": "经他一说，我恍然大悟。",
         "example_pinyin": "Jīng tā yì shuō, wǒ huǎngrán dàwù.",
         "example_translation": "One remark from him and it all clicked."
       },
       {
-        "hanzi": "释然", "pinyin": "shìrán", "gloss": "relieved, at peace with it", "group": "manner",
+        "hanzi": "释然",
+        "pinyin": "shìrán",
+        "gloss": "relieved, at peace with it",
+        "group": "manner",
         "note": "Not relief from danger but relief from a knot in your head — you have finally made peace with something that was nagging.",
         "example": "想通之后，他终于释然了。",
         "example_pinyin": "Xiǎng tōng zhīhòu, tā zhōngyú shìrán le.",
         "example_translation": "Once he'd worked it through, he finally felt at peace with it."
       },
       {
-        "hanzi": "淡然", "pinyin": "dànrán", "gloss": "unruffled, indifferent", "group": "manner",
+        "hanzi": "淡然",
+        "pinyin": "dànrán",
+        "gloss": "unruffled, indifferent",
+        "group": "manner",
         "note": "Taking something calmly, almost coolly. The temperament behind 松弛感 — praise or an insult depending on what you stayed calm about.",
         "example": "面对批评，她显得很淡然。",
         "example_pinyin": "Miàn duì pīpíng, tā xiǎnde hěn dànrán.",
         "example_translation": "She took the criticism completely in her stride."
       },
       {
-        "hanzi": "坦然", "pinyin": "tǎnrán", "gloss": "calm and unashamed", "group": "manner",
+        "hanzi": "坦然",
+        "pinyin": "tǎnrán",
+        "gloss": "calm and unashamed",
+        "group": "manner",
         "note": "Composed because you have nothing to hide. 淡然 is not minding; 坦然 is facing it squarely.",
         "example": "他坦然承认了自己的错误。",
         "example_pinyin": "Tā tǎnrán chéngrèn le zìjǐ de cuòwù.",
         "example_translation": "He owned up to his mistake without flinching."
       },
       {
-        "hanzi": "截然", "pinyin": "jiérán", "gloss": "sharply, diametrically", "group": "manner",
+        "hanzi": "截然",
+        "pinyin": "jiérán",
+        "gloss": "sharply, diametrically",
+        "group": "manner",
         "note": "Lives in two set phrases: 截然不同 (completely different) and 截然相反 (the exact opposite). Rarely seen anywhere else.",
         "example": "两个人的性格截然不同。",
         "example_pinyin": "Liǎng gè rén de xìnggé jiérán bùtóng.",
@@ -198,187 +291,532 @@
     "title": "口头禅 · Utterance glossary",
     "subtitle": "The connective tissue of real speech — what people actually say to start, join and close what they're saying.",
     "groups": [
-      { "id": "opening",  "label": "开口 · Getting started" },
-      { "id": "linking",  "label": "接话 · Keeping it going" },
-      { "id": "reacting", "label": "反应 · Reacting" },
-      { "id": "hedging",  "label": "缓冲 · Softening it" },
-      { "id": "closing",  "label": "收尾 · Wrapping up" }
+      {
+        "id": "opening",
+        "label": "开口 · Getting started"
+      },
+      {
+        "id": "linking",
+        "label": "接话 · Keeping it going"
+      },
+      {
+        "id": "reacting",
+        "label": "反应 · Reacting"
+      },
+      {
+        "id": "hedging",
+        "label": "缓冲 · Softening it"
+      },
+      {
+        "id": "closing",
+        "label": "收尾 · Wrapping up"
+      }
     ],
     "items": [
       {
-        "hanzi": "那什么", "pinyin": "nà shénme", "gloss": "um…, that thing, you know", "group": "opening",
+        "hanzi": "那什么",
+        "pinyin": "nà shénme",
+        "gloss": "um…, that thing, you know",
+        "group": "opening",
         "note": "Pure hesitation noise — buys you a second while you find the word, or eases into something slightly awkward. One of the most common things you'll hear and one of the last things textbooks teach.",
         "example": "那什么…我先走了啊。",
         "example_pinyin": "Nà shénme… wǒ xiān zǒu le a.",
         "example_translation": "Um… I'm going to head off."
       },
       {
-        "hanzi": "我跟你说", "pinyin": "wǒ gēn nǐ shuō", "gloss": "let me tell you, listen", "group": "opening",
+        "hanzi": "我跟你说",
+        "pinyin": "wǒ gēn nǐ shuō",
+        "gloss": "let me tell you, listen",
+        "group": "opening",
         "note": "Flags that something worth hearing is coming and claims the floor for a moment. Warm rather than bossy between friends.",
         "example": "我跟你说，这家店真的绝了。",
         "example_pinyin": "Wǒ gēn nǐ shuō, zhè jiā diàn zhēn de jué le.",
         "example_translation": "Listen, this place is unreal."
       },
       {
-        "hanzi": "说真的", "pinyin": "shuō zhēn de", "gloss": "seriously though, honestly", "group": "opening",
+        "hanzi": "说真的",
+        "pinyin": "shuō zhēn de",
+        "gloss": "seriously though, honestly",
+        "group": "opening",
         "note": "Drops out of joking register into something sincere. Often follows a run of banter to signal the joking has stopped.",
         "example": "说真的，你该休息了。",
         "example_pinyin": "Shuō zhēn de, nǐ gāi xiūxi le.",
         "example_translation": "Seriously though, you need to rest."
       },
       {
-        "hanzi": "其实吧", "pinyin": "qíshí ba", "gloss": "actually…, the thing is", "group": "opening",
+        "hanzi": "其实吧",
+        "pinyin": "qíshí ba",
+        "gloss": "actually…, the thing is",
+        "group": "opening",
         "note": "Opens a mild disagreement. The 吧 is doing the work — it turns a flat correction into something tentative and much easier to take.",
         "example": "其实吧，我觉得没那么严重。",
         "example_pinyin": "Qíshí ba, wǒ juéde méi nàme yánzhòng.",
         "example_translation": "Actually, I don't think it's that bad."
       },
       {
-        "hanzi": "然后呢", "pinyin": "ránhòu ne", "gloss": "and then? / and your point is?", "group": "linking",
+        "hanzi": "然后呢",
+        "pinyin": "ránhòu ne",
+        "gloss": "and then? / and your point is?",
+        "group": "linking",
         "note": "As a question it keeps someone's story moving. Said flat, with the stress landing on 呢, it turns sarcastic — \"and so what?\"",
         "example": "——他就直接走了。——然后呢？",
         "example_pinyin": "—Tā jiù zhíjiē zǒu le. —Ránhòu ne?",
         "example_translation": "\"And he just walked off.\" \"And then?\""
       },
       {
-        "hanzi": "就是说", "pinyin": "jiùshì shuō", "gloss": "I mean, so basically", "group": "linking",
+        "hanzi": "就是说",
+        "pinyin": "jiùshì shuō",
+        "gloss": "I mean, so basically",
+        "group": "linking",
         "note": "Restates what was just said, either to check you've understood or to put your own point more plainly. 也就是说 is the slightly fuller version.",
         "example": "就是说，你今天来不了了？",
         "example_pinyin": "Jiùshì shuō, nǐ jīntiān lái bu liǎo le?",
         "example_translation": "So basically, you can't make it today?"
       },
       {
-        "hanzi": "怎么说呢", "pinyin": "zěnme shuō ne", "gloss": "how do I put this…", "group": "linking",
+        "hanzi": "怎么说呢",
+        "pinyin": "zěnme shuō ne",
+        "gloss": "how do I put this…",
+        "group": "linking",
         "note": "Buys thinking time before something delicate, and warns the listener that what's coming is complicated or unwelcome.",
         "example": "怎么说呢，这事儿有点复杂。",
         "example_pinyin": "Zěnme shuō ne, zhè shìr yǒudiǎn fùzá.",
         "example_translation": "How do I put this — it's a bit complicated."
       },
       {
-        "hanzi": "话说回来", "pinyin": "huàshuō huílái", "gloss": "then again, that said", "group": "linking",
+        "hanzi": "话说回来",
+        "pinyin": "huàshuō huílái",
+        "gloss": "then again, that said",
+        "group": "linking",
         "note": "Pivots back towards the other side of an argument, usually to be fair to someone you have just been criticising.",
         "example": "话说回来，他也不容易。",
         "example_pinyin": "Huàshuō huílái, tā yě bù róngyì.",
         "example_translation": "Then again, he hasn't had it easy either."
       },
       {
-        "hanzi": "反正", "pinyin": "fǎnzhèng", "gloss": "anyway, either way", "group": "linking",
+        "hanzi": "反正",
+        "pinyin": "fǎnzhèng",
+        "gloss": "anyway, either way",
+        "group": "linking",
         "note": "Waves away the detail and cuts to what holds regardless. Can sound breezy or slightly stroppy depending on tone.",
         "example": "反正我不去，你们玩得开心。",
         "example_pinyin": "Fǎnzhèng wǒ bú qù, nǐmen wán de kāixīn.",
         "example_translation": "Anyway, I'm not going — have fun without me."
       },
       {
-        "hanzi": "结果呢", "pinyin": "jiéguǒ ne", "gloss": "and the upshot was…", "group": "linking",
+        "hanzi": "结果呢",
+        "pinyin": "jiéguǒ ne",
+        "gloss": "and the upshot was…",
+        "group": "linking",
         "note": "Sets up the punchline of an anecdote. The 呢 holds a beat of suspense before you deliver it.",
         "example": "我等了两个小时，结果呢，他忘了。",
         "example_pinyin": "Wǒ děng le liǎng gè xiǎoshí, jiéguǒ ne, tā wàng le.",
         "example_translation": "I waited two hours and — get this — he'd forgotten."
       },
       {
-        "hanzi": "说白了", "pinyin": "shuōbáile", "gloss": "put bluntly, stripped down", "group": "linking",
+        "hanzi": "说白了",
+        "pinyin": "shuōbáile",
+        "gloss": "put bluntly, stripped down",
+        "group": "linking",
         "note": "Announces that you are about to drop the polite framing and name the real issue.",
         "example": "说白了，就是钱的问题。",
         "example_pinyin": "Shuōbáile, jiùshì qián de wèntí.",
         "example_translation": "Put bluntly, it comes down to money."
       },
       {
-        "hanzi": "得了吧", "pinyin": "déle ba", "gloss": "come off it, give over", "group": "reacting",
+        "hanzi": "得了吧",
+        "pinyin": "déle ba",
+        "gloss": "come off it, give over",
+        "group": "reacting",
         "note": "Friendly disbelief — you don't buy what someone just said. Fine with mates, sharp with a stranger.",
         "example": "得了吧，你上次也这么说。",
         "example_pinyin": "Déle ba, nǐ shàng cì yě zhème shuō.",
         "example_translation": "Come off it, you said that last time too."
       },
       {
-        "hanzi": "可不是嘛", "pinyin": "kě bùshì ma", "gloss": "exactly! tell me about it", "group": "reacting",
+        "hanzi": "可不是嘛",
+        "pinyin": "kě bùshì ma",
+        "gloss": "exactly! tell me about it",
+        "group": "reacting",
         "note": "Looks like a negative and means the opposite — wholehearted agreement. A rhetorical \"isn't that just the truth\".",
         "example": "——今年太热了。——可不是嘛！",
         "example_pinyin": "—Jīnnián tài rè le. —Kě bùshì ma!",
         "example_translation": "\"It's been so hot this year.\" \"Tell me about it!\""
       },
       {
-        "hanzi": "你别说", "pinyin": "nǐ bié shuō", "gloss": "you know what, actually…", "group": "reacting",
+        "hanzi": "你别说",
+        "pinyin": "nǐ bié shuō",
+        "gloss": "you know what, actually…",
+        "group": "reacting",
         "note": "Despite meaning \"don't say\", it concedes that someone has a point — usually one you didn't expect to agree with.",
         "example": "你别说，这么一改还真好看。",
         "example_pinyin": "Nǐ bié shuō, zhème yì gǎi hái zhēn hǎokàn.",
         "example_translation": "You know what, it actually does look better like that."
       },
       {
-        "hanzi": "不至于吧", "pinyin": "bù zhìyú ba", "gloss": "surely not, that's a bit much", "group": "reacting",
+        "hanzi": "不至于吧",
+        "pinyin": "bù zhìyú ba",
+        "gloss": "surely not, that's a bit much",
+        "group": "reacting",
         "note": "Pushes back on an overreaction — you think someone is taking it further than the situation warrants.",
         "example": "不至于吧，有那么夸张吗？",
         "example_pinyin": "Bù zhìyú ba, yǒu nàme kuāzhāng ma?",
         "example_translation": "Surely not — is it really that dramatic?"
       },
       {
-        "hanzi": "你懂的", "pinyin": "nǐ dǒng de", "gloss": "you know what I mean", "group": "reacting",
+        "hanzi": "你懂的",
+        "pinyin": "nǐ dǒng de",
+        "gloss": "you know what I mean",
+        "group": "reacting",
         "note": "A knowing wink that skips the explanation, usually because saying it outright would be indiscreet.",
         "example": "他为什么升职，你懂的。",
         "example_pinyin": "Tā wèishéme shēngzhí, nǐ dǒng de.",
         "example_translation": "Why he got promoted — well, you know."
       },
       {
-        "hanzi": "我寻思", "pinyin": "wǒ xúnsi", "gloss": "I reckon, way I see it", "group": "reacting",
+        "hanzi": "我寻思",
+        "pinyin": "wǒ xúnsi",
+        "gloss": "I reckon, way I see it",
+        "group": "reacting",
         "note": "Northern and folksy. Went meme-ish online, so younger speakers often use it with a knowing grin rather than straight.",
         "example": "我寻思这事儿不太对啊。",
         "example_pinyin": "Wǒ xúnsi zhè shìr bú tài duì a.",
         "example_translation": "Way I see it, something's off here."
       },
       {
-        "hanzi": "那可不", "pinyin": "nà kě bù", "gloss": "too right, you bet", "group": "reacting",
+        "hanzi": "那可不",
+        "pinyin": "nà kě bù",
+        "gloss": "too right, you bet",
+        "group": "reacting",
         "note": "Another northern emphatic yes that is shaped like a no. Punchier and more regional than 可不是嘛.",
         "example": "——他厨艺不错。——那可不！",
         "example_pinyin": "—Tā chúyì búcuò. —Nà kě bù!",
         "example_translation": "\"He's a decent cook.\" \"Too right he is!\""
       },
       {
-        "hanzi": "有点那个", "pinyin": "yǒudiǎn nàge", "gloss": "a bit… you know", "group": "hedging",
+        "hanzi": "有点那个",
+        "pinyin": "yǒudiǎn nàge",
+        "gloss": "a bit… you know",
+        "group": "hedging",
         "note": "The polite dodge. 那个 stands in for the word that would be rude to say — a bit much, a bit off, a bit odd.",
         "example": "他说话有点那个，你别介意。",
         "example_pinyin": "Tā shuōhuà yǒudiǎn nàge, nǐ bié jièyì.",
         "example_translation": "He's a bit… you know, when he talks. Don't take it to heart."
       },
       {
-        "hanzi": "不是我说", "pinyin": "bùshì wǒ shuō", "gloss": "not that I'm one to talk, but", "group": "hedging",
+        "hanzi": "不是我说",
+        "pinyin": "bùshì wǒ shuō",
+        "gloss": "not that I'm one to talk, but",
+        "group": "hedging",
         "note": "A pre-apology bolted onto criticism you fully intend to deliver anyway.",
         "example": "不是我说，你这字也太潦草了。",
         "example_pinyin": "Bùshì wǒ shuō, nǐ zhè zì yě tài liáocǎo le.",
         "example_translation": "Not that I'm one to talk, but your handwriting is a disgrace."
       },
       {
-        "hanzi": "我觉得吧", "pinyin": "wǒ juéde ba", "gloss": "I feel like…, personally", "group": "hedging",
+        "hanzi": "我觉得吧",
+        "pinyin": "wǒ juéde ba",
+        "gloss": "I feel like…, personally",
+        "group": "hedging",
         "note": "The 吧 turns a firm opinion into a tentative one, leaving room for the other person to disagree without a row.",
         "example": "我觉得吧，还是再等等比较好。",
         "example_pinyin": "Wǒ juéde ba, háishi zài děngdeng bǐjiào hǎo.",
         "example_translation": "Personally, I'd rather we waited a bit longer."
       },
       {
-        "hanzi": "算了", "pinyin": "suànle", "gloss": "forget it, never mind", "group": "closing",
+        "hanzi": "算了",
+        "pinyin": "suànle",
+        "gloss": "forget it, never mind",
+        "group": "closing",
         "note": "Drops the matter — sometimes generous, sometimes resigned, occasionally passive-aggressive. Tone decides which.",
         "example": "算了，不说这个了。",
         "example_pinyin": "Suànle, bù shuō zhège le.",
         "example_translation": "Never mind, let's drop it."
       },
       {
-        "hanzi": "行吧", "pinyin": "xíng ba", "gloss": "fine, whatever", "group": "closing",
+        "hanzi": "行吧",
+        "pinyin": "xíng ba",
+        "gloss": "fine, whatever",
+        "group": "closing",
         "note": "Reluctant acceptance. 行 alone is a clean yes; adding 吧 makes it an audible sigh.",
         "example": "行吧，那就听你的。",
         "example_pinyin": "Xíng ba, nà jiù tīng nǐ de.",
         "example_translation": "Fine, we'll do it your way then."
       },
       {
-        "hanzi": "就这样吧", "pinyin": "jiù zhèyàng ba", "gloss": "let's leave it there", "group": "closing",
+        "hanzi": "就这样吧",
+        "pinyin": "jiù zhèyàng ba",
+        "gloss": "let's leave it there",
+        "group": "closing",
         "note": "The standard way to wind up a call or a thread without anything being wrong.",
         "example": "那就这样吧，回头再聊。",
         "example_pinyin": "Nà jiù zhèyàng ba, huítóu zài liáo.",
         "example_translation": "Let's leave it there — talk soon."
       },
       {
-        "hanzi": "差不多得了", "pinyin": "chàbuduō déle", "gloss": "that's enough now, knock it off", "group": "closing",
+        "hanzi": "差不多得了",
+        "pinyin": "chàbuduō déle",
+        "gloss": "that's enough now, knock it off",
+        "group": "closing",
         "note": "Tells someone they have taken it far enough. Blunt but not vicious — the register of an exasperated friend.",
         "example": "差不多得了啊，别闹了。",
         "example_pinyin": "Chàbuduō déle a, bié nào le.",
         "example_translation": "All right, that's enough — pack it in."
+      },
+      {
+        "hanzi": "对了",
+        "pinyin": "duìle",
+        "gloss": "oh, by the way; that reminds me",
+        "group": "linking",
+        "note": "A standalone tag that flags a sudden topic switch — you've just remembered something unrelated. Nothing to do with 对 'correct' on its own; the 了 turns it into a pivot. More spontaneous than 话说回来, which swings back to an earlier point on purpose.",
+        "example": "对了，你上次说的那本书叫什么来着？",
+        "example_pinyin": "Duìle, nǐ shàng cì shuō de nà běn shū jiào shénme láizhe?",
+        "example_translation": "Oh, by the way — what was that book you mentioned last time called?",
+        "sources": [
+          {
+            "url": "https://image.hanspub.org/Html/25-2910890_40621.htm",
+            "note": "汉斯出版社论文《“对了”与By the Way的话语标记功能比较》",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你听我说",
+        "pinyin": "nǐ tīng wǒ shuō",
+        "gloss": "hear me out; let me explain",
+        "group": "opening",
+        "note": "Claims the floor, usually a bit defensively — you're worried you'll be misread and want a clear run to explain. Where 我跟你说 warmly opens a bit of news, 你听我说 is more 'wait, let me get this out', often after being interrupted or doubted.",
+        "example": "你听我说，不是你想的那样。",
+        "example_pinyin": "Nǐ tīng wǒ shuō, bú shì nǐ xiǎng de nàyàng.",
+        "example_translation": "Hear me out — it's not what you think.",
+        "sources": [
+          {
+            "url": "https://zhuanlan.zhihu.com/p/110882357",
+            "note": "知乎《从口头禅看一个人的性格》— 分析“你听我说/先听我说”",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "别提了",
+        "pinyin": "bié tí le",
+        "gloss": "ugh, don't even ask; don't get me started",
+        "group": "reacting",
+        "note": "Answers a question by flagging that the subject is a sore one — disappointment or exasperation, not an actual refusal to talk. Almost always followed by the very story you said not to bring up. Compare 算了 (let it drop, and mean it).",
+        "example": "——面试怎么样？——别提了，一言难尽。",
+        "example_pinyin": "—Miànshì zěnmeyàng? —Bié tí le, yìyán-nánjìn.",
+        "example_translation": "\"How'd the interview go?\" \"Ugh, don't ask — it's a long story.\"",
+        "sources": [
+          {
+            "url": "https://cn.hujiang.com/new/p362077/",
+            "note": "沪江《每日一句 Chinese Colloquial Phrases——别提了》",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "也就是说",
+        "pinyin": "yě jiùshì shuō",
+        "gloss": "in other words; so what that means is",
+        "group": "linking",
+        "note": "Draws the logical upshot of what was just said, restating it more plainly — 'so basically…'. The 也 leans it towards a conclusion you're deriving, where the barer 就是说 (already here) just re-labels or checks understanding.",
+        "example": "他没回消息，也就是说他不同意呗。",
+        "example_pinyin": "Tā méi huí xiāoxi, yě jiùshì shuō tā bù tóngyì bei.",
+        "example_translation": "He didn't reply — so basically that's a no.",
+        "sources": [
+          {
+            "url": "https://zh.hinative.com/questions/535190",
+            "note": "HiNative 母语者对比“也就是/也就是说”的解答",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "这么说吧",
+        "pinyin": "zhème shuō ba",
+        "gloss": "let me put it this way",
+        "group": "linking",
+        "note": "Buys a beat and signals you're about to reframe something into a simpler or blunter version — often before an analogy or a verdict. Where 怎么说呢 stalls because the thing is hard to phrase, 这么说吧 means you've settled on how to phrase it.",
+        "example": "这么说吧，这价钱你再等等只会更贵。",
+        "example_pinyin": "Zhème shuō ba, zhè jiàqián nǐ zài děngděng zhǐ huì gèng guì.",
+        "example_translation": "Let me put it this way — wait any longer and this price only goes up.",
+        "sources": [
+          {
+            "url": "https://context.reverso.net/翻译/中文-英语/这么说吧",
+            "note": "Reverso Context 真实语料“这么说吧”双语例句",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "完了",
+        "pinyin": "wánle",
+        "gloss": "and then; and next (also: oh no)",
+        "group": "linking",
+        "note": "As a narrative connector it just means 'and then', stringing a story along like 然后 — heard constantly in northern speech. Said sharply on its own (完了完了) it flips to 'we're done for / oh no'. Tone and context tell the two apart.",
+        "example": "我刚到公司完了发现忘带电脑了。",
+        "example_pinyin": "Wǒ gāng dào gōngsī wánle fāxiàn wàng dài diànnǎo le.",
+        "example_translation": "I'd just got to the office and then realised I'd left my laptop at home.",
+        "sources": [
+          {
+            "url": "https://www.zhihu.com/question/67117146",
+            "note": "知乎《东北话里的「完了」是什么意思，该如何使用？》",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "真的假的",
+        "pinyin": "zhēn de jiǎ de",
+        "gloss": "for real? no way?",
+        "group": "reacting",
+        "note": "A backchannel that keeps someone talking while registering surprise — 'seriously?!'. Rarely a genuine question about truth; mostly social lubricant showing you're gripped. Warmer and more involved than a flat 真的吗.",
+        "example": "——他俩下个月结婚。——真的假的？！",
+        "example_pinyin": "—Tā liǎ xià gè yuè jiéhūn. —Zhēn de jiǎ de?!",
+        "example_translation": "\"The two of them are getting married next month.\" \"For real?!\"",
+        "sources": [
+          {
+            "url": "https://baike.baidu.com/item/%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84/63560364",
+            "note": "百度百科“真的假的”词条",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不会吧",
+        "pinyin": "bù huì ba",
+        "gloss": "no way; you're kidding",
+        "group": "reacting",
+        "note": "Disbelief that something so bad or unlikely could be true — 'surely not'. Doubled up (不会吧不会吧) it turns sarcastic and needling online, feigning shock at someone for effect, so mind the tone. Compare 真的假的, neutral surprise without the edge.",
+        "example": "不会吧，这都能抢不到票？",
+        "example_pinyin": "Bù huì ba, zhè dōu néng qiǎng bú dào piào?",
+        "example_translation": "No way — you couldn't even get tickets for this?",
+        "sources": [
+          {
+            "url": "https://zh.moegirl.org.cn/不会吧(网络用语)",
+            "note": "萌娘百科“不会吧(网络用语)”— 含“不会吧不会吧”阴阳怪气用法",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我去",
+        "pinyin": "wǒ qù",
+        "gloss": "whoa; oh my god (mild)",
+        "group": "reacting",
+        "note": "An all-purpose exclamation of shock, awe or mild dismay — a cleaned-up stand-in for the ruder 我靠. Not aimed at anyone and not really swearing, just a release valve. Fits admiration as easily as annoyance, depending on tone.",
+        "example": "我去，这也太夸张了吧！",
+        "example_pinyin": "Wǒ qù, zhè yě tài kuāzhāng le ba!",
+        "example_translation": "Whoa — that's completely over the top!",
+        "sources": [
+          {
+            "url": "https://baike.sogou.com/v9905859.htm",
+            "note": "搜狗百科“我去(网络用语)”词条",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不是",
+        "pinyin": "bùshì",
+        "gloss": "wait, hold on; hang on but",
+        "group": "reacting",
+        "note": "Sentence-initial 不是 isn't negating anything — it flags an objection or a 'hang on, that's not right' before you push back. A very common spoken opener for disagreement or disbelief; the thing you're contradicting comes right after.",
+        "example": "不是，你怎么现在才说？",
+        "example_pinyin": "Bùshì, nǐ zěnme xiànzài cái shuō?",
+        "example_translation": "Hang on — why are you only telling me now?",
+        "sources": [
+          {
+            "url": "https://www.sinoss.net/upload/resources/file/2024/09/06/37599.pdf",
+            "note": "《话语标记“不是”“没有”的对比研究综述》(仝佳芸)",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不好说",
+        "pinyin": "bù hǎo shuō",
+        "gloss": "hard to say; couldn't tell you",
+        "group": "hedging",
+        "note": "Dodges a verdict — either you genuinely can't judge, or you'd rather not commit on something sensitive. Mind the word order: 不好说 is 'hard to say', 说不好 is 'can't say it well', 不说好 is 'won't say' — three different things.",
+        "example": "——今年能涨工资吗？——不好说啊。",
+        "example_pinyin": "—Jīnnián néng zhǎng gōngzī ma? —Bù hǎo shuō a.",
+        "example_translation": "\"Will pay go up this year?\" \"Hard to say, honestly.\"",
+        "sources": [
+          {
+            "url": "https://zh.hinative.com/questions/11346612",
+            "note": "HiNative “不好说”是什么意思 — 母语者解答",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "看情况",
+        "pinyin": "kàn qíngkuàng",
+        "gloss": "depends; we'll see",
+        "group": "hedging",
+        "note": "The classic non-commitment — often 看情况吧, leaving the door open without a yes or no. Genuinely 'it depends how things go', but also a gentle way to decline without saying no. Softer and vaguer than 再说吧, which just pushes the decision to later.",
+        "example": "——周末一起爬山？——看情况吧，看天气。",
+        "example_pinyin": "—Zhōumò yìqǐ páshān? —Kàn qíngkuàng ba, kàn tiānqì.",
+        "example_translation": "\"Hiking together at the weekend?\" \"We'll see — depends on the weather.\"",
+        "sources": [
+          {
+            "url": "https://hinative.com/questions/18712304",
+            "note": "HiNative “看情况吧”含义解答",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "先这样",
+        "pinyin": "xiān zhèyàng",
+        "gloss": "let's leave it there for now",
+        "group": "closing",
+        "note": "Winds a call or chat down without anything being wrong — 'that'll do for now, more later'. The 先 quietly promises this isn't the end, only a pause, which softens the goodbye. Compare 就这样吧, a touch more final.",
+        "example": "那先这样啊，我这边还有点事。",
+        "example_pinyin": "Nà xiān zhèyàng a, wǒ zhè biān hái yǒudiǎn shì.",
+        "example_translation": "Let's leave it there for now — I've got a couple of things on.",
+        "sources": [
+          {
+            "url": "https://zhuanlan.zhihu.com/p/27280941",
+            "note": "知乎《微信聊天时如何礼貌地结束聊天？》",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "打住",
+        "pinyin": "dǎzhù",
+        "gloss": "stop right there; let's drop it",
+        "group": "closing",
+        "note": "Cuts a topic off — sometimes stopping yourself before you overshare, sometimes waving someone off a subject you'd rather not touch. Blunter than 算了; it halts the talk mid-track rather than letting a matter quietly fade.",
+        "example": "打住打住，这话题咱不聊了。",
+        "example_pinyin": "Dǎzhù dǎzhù, zhè huàtí zán bù liáo le.",
+        "example_translation": "Stop right there — we're not getting into this one.",
+        "sources": [
+          {
+            "url": "https://baike.baidu.com/item/%E6%89%93%E4%BD%8F/9753018",
+            "note": "百度百科“打住”词条（含口语用法）",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "得嘞",
+        "pinyin": "dé lei",
+        "gloss": "righto; will do",
+        "group": "closing",
+        "note": "A cheerful, breezy 'okay, done' with old-Beijing flavour. Accepts a request or wraps things up with an easy, obliging tone where a plain 好的 would be more neutral or formal. Marks the speaker as northern, and warmly casual.",
+        "example": "——这事儿就交给你了。——得嘞，您放心。",
+        "example_pinyin": "—Zhè shìr jiù jiāo gěi nǐ le. —Dé lei, nín fàngxīn.",
+        "example_translation": "\"I'll leave this one to you.\" \"Righto — don't you worry.\"",
+        "sources": [
+          {
+            "url": "https://hinative.com/questions/18965119",
+            "note": "HiNative “得嘞”表示肯定的语气解答",
+            "lang": "zh"
+          }
+        ]
       }
     ]
   }
