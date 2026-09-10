@@ -163,6 +163,40 @@
     .item.open .item-body { display: block; animation: fade .2s ease; }
     .item.open .item-meaning { display: none; }
 
+    /* sidebar: reference material, kept out of the daily study flow */
+    .tab-spacer { flex: 1; }
+    .tab-more { font-size: 15px; line-height: 1; }
+    .scrim {
+      position: fixed; inset: 0; background: rgba(0,0,0,.35); z-index: 40;
+      opacity: 0; pointer-events: none; transition: opacity .2s ease;
+    }
+    .scrim.open { opacity: 1; pointer-events: auto; }
+    .sidebar {
+      position: fixed; top: 0; right: 0; bottom: 0; width: min(82vw, 310px); z-index: 41;
+      background: var(--paper); border-left: 1px solid var(--line); box-shadow: var(--shadow);
+      display: flex; flex-direction: column; gap: 8px; padding: 18px 14px; overflow-y: auto;
+      transform: translateX(105%); transition: transform .22s ease;
+    }
+    .sidebar.open { transform: translateX(0); }
+    .sb-head { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); font-weight: 700; padding: 0 4px 4px; }
+    .sb-item {
+      display: flex; flex-direction: column; gap: 4px; text-align: left; cursor: pointer;
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+      padding: 13px 14px; font-family: inherit; color: var(--ink);
+    }
+    .sb-item.active { border-color: var(--red); background: color-mix(in srgb, var(--red) 8%, var(--card)); }
+    .sb-hz { font-size: 18px; font-weight: 700; }
+    .sb-sub { font-size: 12px; color: var(--muted); line-height: 1.45; }
+    .sb-foot { margin-top: auto; font-size: 11px; color: var(--muted); line-height: 1.5; padding: 12px 4px 0; }
+
+    /* reference lists */
+    .ref-head { margin-bottom: 12px; }
+    .ref-title { font-size: 21px; font-weight: 700; }
+    .ref-sub { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.5; }
+    .ref-group { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); font-weight: 700; margin: 18px 0 8px; padding: 0 2px; }
+    .ref-gloss { font-size: 14px; color: var(--ink); opacity: .85; margin-top: 5px; line-height: 1.45; }
+    .ref-note { font-size: 14px; line-height: 1.6; }
+
     /* quiz */
     .q-progress { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; text-align: center; }
     .q-card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); padding: 24px 20px; text-align: center; margin-bottom: 14px; }
@@ -271,7 +305,23 @@
     <button class="tab" data-mode="quiz">Quiz</button>
     <button class="tab" data-mode="browse">Browse</button>
     <button class="tab" data-mode="me">Me</button>
+    <span class="tab-spacer"></span>
+    <button class="tab tab-more" id="moreBtn" aria-haspopup="true" aria-expanded="false" title="Reference" aria-label="Reference">☰</button>
   </nav>
+
+  <div class="scrim" id="scrim"></div>
+  <aside class="sidebar" id="sidebar" aria-label="Reference">
+    <div class="sb-head">参考 · Reference</div>
+    <button class="sb-item" data-mode="ran">
+      <span class="sb-hz">然 combos</span>
+      <span class="sb-sub">The 然 family sorted out — the ones that look alike and mean different things.</span>
+    </button>
+    <button class="sb-item" data-mode="talk">
+      <span class="sb-hz">口头禅</span>
+      <span class="sb-sub">Utterance glossary — what people actually say to start, join and close what they’re saying.</span>
+    </button>
+    <div class="sb-foot">Reference only. Nothing here enters your review queue or touches your streak.</div>
+  </aside>
 
   <div class="progress-bar" id="progressWrap"><div class="progress-fill" id="progress"></div></div>
 
@@ -294,6 +344,11 @@
     let deck = [], queue = [], current = null, showingBack = false;
     let mode = 'study';
     let sortBy = 'new', filterCat = 'all', searchText = '';
+    // Reference modes live in reference.json, apart from vocab.json: they are
+    // read-only lists that never enter the review queue, and the daily fetch
+    // doesn't own them. Maps a nav mode -> its collection in that file.
+    const REF_MODES = { ran:'ran', talk:'utterances' };
+    let reference = null, refSearch = '';
 
     // ---------- SRS (SM-2 style) ----------
     function loadJSON(key, fallback){ try { return JSON.parse(localStorage.getItem(key)) || fallback; } catch { return fallback; } }
@@ -580,12 +635,16 @@
         : `<b>${dueCards().length + Math.min(freshCards().length, quotaLeft())}</b> today`;
       else if (mode === 'quiz') line1 = `<b>${meta.xp}</b> XP`;
       else if (mode === 'browse') line1 = `<b>${deck.filter(passesFilter).length}</b> shown`;
+      else if (REF_MODES[mode]) line1 = `<b>${reference ? reference[REF_MODES[mode]].items.length : 0}</b> entries`;
       else line1 = `<b>${meta.xp}</b> XP`;
       document.getElementById('stats').innerHTML = line1 + '<br>' + line2;
     }
 
     // ---------- render: study ----------
-    function render(){ ({study:renderStudy, quiz:renderQuiz, browse:renderBrowse, me:renderMe})[mode](); }
+    function render(){
+      if (REF_MODES[mode]) return renderReference(REF_MODES[mode]);
+      ({study:renderStudy, quiz:renderQuiz, browse:renderBrowse, me:renderMe})[mode]();
+    }
 
     let session = null; // {size, reviewed, introduced} — null = show dashboard
 
@@ -1020,6 +1079,75 @@
       toast(`Exported ${rows.length} word${rows.length===1?'':'s'} as ${format.toUpperCase()} ⬇`);
     }
 
+    // ---------- render: reference (然 combos, utterance glossary) ----------
+    function loadReference(){
+      if (reference) return Promise.resolve(reference);
+      return fetch('reference.json?_=' + Date.now())
+        .then(r => r.json()).then(d => { reference = d; return d; });
+    }
+    function renderReference(key){
+      const main = document.getElementById('main');
+      main.className = 'browse';
+      document.getElementById('grades').classList.add('hidden');
+      document.getElementById('progressWrap').classList.add('hidden');
+
+      if (!reference){
+        main.innerHTML = '<div class="wrap"><div class="empty"><p>Loading…</p></div></div>';
+        loadReference().then(render).catch(err => {
+          main.innerHTML = '<div class="wrap"><div class="empty"><h2>Couldn\'t load the reference</h2><p>' + err + '</p></div></div>';
+        });
+        return;
+      }
+
+      const set = reference[key];
+      const q = refSearch.trim().toLowerCase();
+      const shown = set.items.filter(it =>
+        !q || [it.hanzi, it.pinyin, it.gloss, it.note].join(' ').toLowerCase().includes(q));
+
+      const sections = set.groups.map(g => {
+        const rows = shown.filter(it => it.group === g.id).map(it => `
+          <div class="item">
+            <div class="item-head">
+              <span class="item-hanzi">${it.hanzi}</span>
+              <span class="item-py">${tonePinyin(it.pinyin)}</span>
+              <span class="item-spacer"></span>
+              ${speakBtn(it.hanzi, true)}
+            </div>
+            <div class="ref-gloss">${it.gloss}</div>
+            <div class="item-body">
+              <div class="row"><div class="label">How it’s used</div><div class="ref-note">${it.note}</div></div>
+              <div class="row"><div class="label">Example</div><div class="ex-zh">${it.example}${speakBtn(it.example, true)}</div><div class="ex-py">${tonePinyin(it.example_pinyin)}</div><div class="ex-en">${it.example_translation}</div></div>
+            </div>
+          </div>`).join('');
+        return rows ? `<div class="ref-group">${g.label}</div><div class="list">${rows}</div>` : '';
+      }).join('');
+
+      main.innerHTML = `<div class="wrap">
+        <div class="ref-head">
+          <div class="ref-title">${set.title}</div>
+          <div class="ref-sub">${set.subtitle}</div>
+        </div>
+        <div class="toolbar">
+          <input class="search" id="refSearch" type="search" placeholder="搜索 · search these entries" value="${refSearch.replace(/"/g,'&quot;')}">
+        </div>
+        ${sections || '<div class="empty">Nothing matches.</div>'}
+      </div>`;
+
+      const search = document.getElementById('refSearch');
+      search.addEventListener('input', e => {
+        refSearch = e.target.value;
+        const pos = search.selectionStart;
+        renderReference(key);
+        const s2 = document.getElementById('refSearch');
+        s2.focus(); s2.setSelectionRange(pos,pos);
+      });
+      main.querySelectorAll('.item').forEach(it => it.addEventListener('click', e => {
+        if (!e.target.closest('.speak')) it.classList.toggle('open');
+      }));
+      document.getElementById('footer').textContent = `${set.items.length} entries · reference only, not reviewed`;
+      updateStats();
+    }
+
     // ---------- render: me ----------
     function renderMe(){
       const main = document.getElementById('main');
@@ -1184,11 +1312,28 @@
     function setMode(m){
       mode = m;
       document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.mode===m));
+      document.querySelectorAll('.sb-item').forEach(b => b.classList.toggle('active', b.dataset.mode===m));
+      document.getElementById('moreBtn').classList.toggle('active', !!REF_MODES[m]);
       if (m === 'study'){ buildQueue(); }
       if (m !== 'quiz') quiz = null;
+      refSearch = ''; // each mode opens on a fresh, unfiltered list
       render();
     }
-    document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => setMode(t.dataset.mode)));
+
+    // ---------- sidebar ----------
+    function toggleSidebar(open){
+      document.getElementById('sidebar').classList.toggle('open', open);
+      document.getElementById('scrim').classList.toggle('open', open);
+      document.getElementById('moreBtn').setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    document.getElementById('moreBtn').addEventListener('click', () =>
+      toggleSidebar(!document.getElementById('sidebar').classList.contains('open')));
+    document.getElementById('scrim').addEventListener('click', () => toggleSidebar(false));
+    document.querySelectorAll('.sb-item').forEach(b =>
+      b.addEventListener('click', () => { toggleSidebar(false); setMode(b.dataset.mode); }));
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') toggleSidebar(false); });
+    // [data-mode] only — the reference drawer button shares the .tab class but is not a mode
+    document.querySelectorAll('.tab[data-mode]').forEach(t => t.addEventListener('click', () => setMode(t.dataset.mode)));
     document.getElementById('grades').addEventListener('click', e => {
       const btn = e.target.closest('.grade'); if (btn) doGrade(parseInt(btn.dataset.q,10));
     });
