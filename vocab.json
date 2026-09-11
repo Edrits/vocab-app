@@ -3169,5 +3169,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "jiakang-ge",
+    "hanzi": "甲亢哥",
+    "pinyin": "jiǎkàng gē",
+    "literal": "hyperthyroidism + brother/guy",
+    "meaning": "Chinese nickname for American livestreamer iShowSpeed (Darren Watkins Jr.), coined because his manic, exaggerated on-camera reactions resemble the hyperactivity of hyperthyroid disease. Now also used more generally to tease anyone acting wildly over-the-top in front of a camera.",
+    "meaning_zh": "中国网友给美国主播iShowSpeed（达伦·沃特金斯）起的外号，因为他直播时夸张亢奋的反应像甲状腺功能亢进（甲亢）发作；现在也被用来调侃任何在镜头前情绪特别激动、上蹿下跳的人。",
+    "example": "他一看到自己抽到SSR就开始满屋子跑，跟甲亢哥附体一样。",
+    "example_pinyin": "Tā yí kàndào zìjǐ chōudào SSR jiù kāishǐ mǎn wū pǎo, gēn Jiǎkàng Gē fùtǐ yíyàng.",
+    "example_translation": "The moment he pulled an SSR he started running around the room like he'd been possessed by Jiǎkàng Gē.",
+    "context": "外号源自2022年他反应大张伟《阳光彩虹小白马》的视频，因表情肢体太夸张、像甲亢发作而被中国网友起了这个名字。2025年4月他来华直播中国行后彻底破圈，2026年世界杯期间又和\"退钱哥\"互动喊话，8月还因直播中手机掉进海里被中国网友玩梗刷屏。",
+    "category": "meme",
+    "date_added": "2026-09-11",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com/sh/2025/04-04/10394468.shtml",
+        "note": "中新网：\"甲亢哥\"中国行火了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.adquan.com/detail/0-360410",
+        "note": "广告门：甲亢哥直播手机掉海里，网友玩梗",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "tuiqian-ge",
+    "hanzi": "退钱哥",
+    "pinyin": "tuìqián gē",
+    "literal": "refund/return money + brother/guy",
+    "meaning": "Nickname for Chinese football fan He Sheng, caught on a live TV mic in 2016 shouting \"Refund!\" at reporters after the men's national team lost to Syria. Now used as a stock reaction for furious, disappointed fans who feel they deserve their money back.",
+    "meaning_zh": "中国球迷何胜的外号。2016年国足客场0比1负于叙利亚后，他在直播镜头前对记者喊出\"对得起我们吗？退钱！\"，瞬间走红；现在常被用来调侃任何觉得自己\"看了场寂寞\"、想讨回票钱的失望观众。",
+    "example": "这场比赛踢得也太拉了，我都想学退钱哥喊一句\"退钱\"了。",
+    "example_pinyin": "Zhè chǎng bǐsài tī de yě tài lā le, wǒ dōu xiǎng xué Tuìqián Gē hǎn yī jù \"tuì qián\" le.",
+    "example_translation": "This match was so bad I wanted to channel Refund Bro and yell \"Refund!\"",
+    "context": "2016年十强赛国足客场负于叙利亚后，何胜的直播喊话被记者话筒直接收音、来不及切镜头，视频瞬间传遍全网。2026年美加墨世界杯期间，他自费到现场为国足助威，还与美国主播\"甲亢哥\"直播互动学\"退钱\"梗，让这个老梗又火了一轮。",
+    "category": "meme",
+    "date_added": "2026-09-11",
+    "sources": [
+      {
+        "url": "https://www.163.com/dy/article/L38L1E5S053469LG.html",
+        "note": "网易：对话\"退钱哥\"何胜",
+        "lang": "zh"
+      },
+      {
+        "url": "https://sports.sina.cn/2026-07-07/detail-inifykny8431076.d.html",
+        "note": "新浪体育：退钱哥何胜2026世界杯为国足应援",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "kaixue-ji-kaixi",
+    "hanzi": "开学即开席",
+    "pinyin": "kāixué jí kāixí",
+    "literal": "start school = start banquet",
+    "meaning": "A joke about how manic Chinese university back-to-school weeks have become — nonstop reunion dinners, hotpot, BBQ, milk tea runs and club-recruitment treats — so packed with eating that it looks less like term starting and more like a wedding banquet.",
+    "meaning_zh": "调侃现在大学开学场面太热闹，新生报到、老同学重逢、社团招新全变成了聚餐局，火锅、烧烤、日料、奶茶轮番上阵，热闹得分不清到底是开学还是办酒席。",
+    "example": "我们宿舍这两天天天有饭局，真是应了那句\"开学即开席\"。",
+    "example_pinyin": "Wǒmen sùshè zhè liǎng tiān tiāntiān yǒu fànjú, zhēnshi yìngle nà jù \"kāixué jí kāixí\".",
+    "example_translation": "Our dorm's had a group dinner every single day this week — living proof that \"term starting is basically a banquet starting.\"",
+    "context": "2026年9月开学季，微博话题#这到底是开学还是开席#火了，网友晒出各校迎新现场：锣鼓横幅、摊位福利、聚餐接龙，调侃大学新生\"第一天约饭，第二天吃席，第三天已经找不到空闲的肚子了\"。",
+    "category": "social",
+    "date_added": "2026-09-11",
+    "sources": [
+      {
+        "url": "https://www.sina.cn/news/detail/5340140484432295.html",
+        "note": "新浪：#这到底是开学还是开席#话题",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5340133092231351.html",
+        "note": "新浪：开学即开席",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gpt-zha-le",
+    "hanzi": "GPT炸了",
+    "pinyin": "GPT zhà le",
+    "literal": "GPT + exploded/blew up + (particle)",
+    "meaning": "A joking phrase for when an AI service like ChatGPT goes down or glitches en masse — especially funny when it happens right as the company is busy hyping how powerful the model is.",
+    "meaning_zh": "调侃ChatGPT等AI服务突然大面积宕机、卡顿或报错的说法，常用在厂商刚吹完模型多强、结果服务反而先崩了的场合，形成反差笑点。",
+    "example": "官方刚宣布进入AGI时代，结果GPT炸了，网友：这就是传说中的AGI（艰难）时代吧。",
+    "example_pinyin": "Guānfāng gāng xuānbù jìnrù AGI shídài, jiéguǒ GPT zhà le, wǎngyǒu: zhè jiùshì chuánshuō zhōng de AGI (jiānnán) shídài ba.",
+    "example_translation": "They'd just announced we'd entered the AGI era, and then GPT crashed — netizens joked, \"guess this is the legendary Age of Great Inconvenience.\"",
+    "context": "2026年9月3日OpenAI发布GPT-6（\"Astra\"），总裁Greg Brockman宣称\"我们可能已经实现AGI\"；当晚ChatGPT、Claude、Grok等却同时出现大面积异常，中文AI社区网友纷纷刷\"GPT炸了\"\"我的GPT要挺住啊\"，调侃AGI宣言和服务器崩溃同时发生的反差。",
+    "category": "meme",
+    "date_added": "2026-09-11",
+    "sources": [
+      {
+        "url": "https://linux.do/t/topic/2851463",
+        "note": "LINUX DO论坛：gpt炸了，难道说是GPT6",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5339362237874351.html",
+        "note": "新浪：2026年9月4日科技热搜汇总",
+        "lang": "zh"
+      }
+    ]
   }
 ]
