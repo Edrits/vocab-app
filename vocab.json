@@ -3273,5 +3273,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "zheng-bang",
+    "hanzi": "蒸蚌",
+    "pinyin": "zhēng bàng",
+    "literal": "steamed clam (a mishearing of 真棒 \"really great\")",
+    "meaning": "A homophone-mishearing meme: netizens misheard \"真棒\" (zhēn bàng, \"awesome!\") as \"蒸蚌\" (zhēng bàng, \"steamed clam\") in a viral cat video, and now use 蒸蚌 itself as a goofy, endearing way to say \"amazing!\"",
+    "meaning_zh": "\"蒸蚌\"是\"真棒\"的空耳谐音梗，源自一只靠瞎蒙讨主人欢心的猫。网友现在直接用\"蒸蚌\"代替\"真棒\"来夸奖，带一种憨萌荒诞的语气。",
+    "example": "你这波操作蒸蚌！",
+    "example_pinyin": "Nǐ zhè bō cāozuò zhēng bàng!",
+    "example_translation": "That move of yours is amazing!",
+    "context": "Originates from Douyin pet blogger 超级无敌大开门's cat-training videos: she lays out items like a carrot and a tissue and asks her three-coloured cat \"大开门\" to touch the right one, rewarding a correct guess with an enthusiastic \"真棒!\" (zhēn bàng). When the clips spread to Weibo, commenters joked they misheard \"真棒\" as \"蒸蚌\" (steamed clam) over the cat's confused face, and the nonsense phrase itself went viral at the end of 2025 as the \"萝卜纸巾猫\" (carrot-tissue cat) meme — even celebrities like Zhou Shen (周深) picked up the pun.",
+    "category": "meme",
+    "date_added": "2026-09-14",
+    "sources": [
+      {
+        "url": "https://zhuanlan.zhihu.com/p/1989708344206844339",
+        "note": "知乎《2025最后一个爆梗，「萝卜纸巾猫」究竟「真棒」在哪？》— origin explainer",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32325443",
+        "note": "澎湃新闻《「萝卜纸巾猫」爆火》— news coverage of the meme's spread",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "danzi-fei-dudu",
+    "hanzi": "你的胆子真是肥嘟嘟的啊",
+    "pinyin": "nǐ de dǎnzi zhēnshi féi dūdū de a",
+    "literal": "your guts are really plump-and-chubby, huh",
+    "meaning": "A cutesy way of calling someone out for being bold or overstepping — takes the blunt insult \"胆子真肥\" (\"you've got some nerve\") and softens it with the babytalk reduplication \"肥嘟嘟\" (chubby-wubby), so it reads as an adorable, teasing scolding rather than a real one. Used between friends or fans and idols.",
+    "meaning_zh": "把\"胆子真肥\"这种指责用软萌的叠词\"肥嘟嘟\"包装，变成一种\"狠话软说\"的撒娇式吐槽，多用于朋友间互怼或粉丝调侃偶像。",
+    "example": "敢在我地盘抢单，你胆子真是肥嘟嘟的啊！",
+    "example_pinyin": "Gǎn zài wǒ dìpán qiǎng dān, nǐ dǎnzi zhēnshi féi dūdū de a!",
+    "example_translation": "Daring to swipe an order on my turf — you've got some nerve!",
+    "context": "From a fictional dialogue skit about a Meituan delivery rider nicknamed \"骑手王李东\": a customer asks him to bring cigarettes along with a delivery, he refuses, then agrees once a ¥100 tip is offered — at which point an uninvolved shop owner butts in offering to deliver it himself, and the rider claps back with this line. It spread paired with Meituan's round yellow kangaroo mascot as an avatar/meme, the soft-round shape reinforcing the \"fierce words, said adorably\" contrast, and went viral across the platform in August 2026.",
+    "category": "meme",
+    "date_added": "2026-09-14",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-08-23/detail-iniphhax0720267.d.html",
+        "note": "新浪娱乐《美团骑手梗「你的胆子真是肥嘟嘟」》— origin and usage explainer",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.com.cn/article_7879922980_1d5ae152406801k2aw.html",
+        "note": "新浪新闻《这个梗的原始出处是什么？》— traces the fictional dialogue source",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ye-sheng-gou-nai",
+    "hanzi": "野生狗奶",
+    "pinyin": "yěshēng gǒunǎi",
+    "literal": "wild dog milk",
+    "meaning": "A fictional prank product from a joke video — a fake \"milk\" with an absurd ingredient list and a printed shelf life of \"永久\" (permanent) — that netizens have turned into shorthand for \"eternal\" or \"never-ending,\" as in jokes about things that supposedly outlast time itself.",
+    "meaning_zh": "一款恶搞短视频里虚构的整蛊产品，包装上写着\"保质期：永久\"，被网友玩成了\"永恒\"\"万古长存\"的代名词，常用来夸张地形容某样东西不会过期、永远不变。",
+    "example": "这个手机用了八年还能开机，属于是野生狗奶级别的耐用了。",
+    "example_pinyin": "Zhè ge shǒujī yòng le bā nián hái néng kāijī, shǔyú shì yěshēng gǒunǎi jíbié de nàiyòng le.",
+    "example_translation": "This phone still turns on after eight years — it's wild-dog-milk level durable.",
+    "context": "From a July 2026 prank video by blogger 吴川才子招茂才 (his \"粤西特供\" series), who deadpan-introduces a fake product called \"野生狗奶\" with a nonsense ingredient list (literally printing \"配料：表\" — \"ingredients: table\" — as a joke) and a shelf life listed as \"永久\" (permanent). Netizens ran with the \"permanent\" gag, coining lines like \"万物皆有落幕，唯有狗奶万古长存\" (everything ends, but dog milk lasts forever) and \"时间征服宇宙，却征服不了野生狗奶\" (time conquers the universe but not wild dog milk), and the phrase spread as a stand-in for anything jokingly indestructible or eternal.",
+    "category": "meme",
+    "date_added": "2026-09-14",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/1062778865_122827109",
+        "note": "搜狐《全网爆火「野生狗奶」玩梗出圈》— origin and food-safety-law angle",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E9%87%8E%E7%94%9F%E7%8B%97%E5%A5%B6/68477037",
+        "note": "百度百科《野生狗奶》— reference entry on the meme",
+        "lang": "zh"
+      }
+    ]
   }
 ]
