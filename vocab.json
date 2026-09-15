@@ -3351,5 +3351,119 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "feng-rong",
+    "hanzi": "丰容",
+    "pinyin": "fēngróng",
+    "literal": "enrich + contain/hold",
+    "meaning": "Borrowed from zoo husbandry (environmental enrichment for captive animals — giving them stimulation so they don't develop stereotypic behaviours from boredom). Young people now use it self-deprecatingly to mean actively enriching their own dull, repetitive routine — a walk, a hobby, a treat — as a way of fighting burnout, as if giving themselves the same care a zookeeper gives a caged animal.",
+    "meaning_zh": "原是动物园饲养学术语，指通过增加刺激和环境变化，让圈养动物表现自然行为、改善身心状态，防止出现刻板行为。年轻人借用这个词自嘲地形容给自己单调重复的生活“加料”——找点新鲜事、小乐趣，对抗班味和精神内耗，就像饲养员给动物做丰容一样。",
+    "example": "周末去公园遛了一圈，给自己丰容一下，不然真要班味上脑了。",
+    "example_pinyin": "Zhōumò qù gōngyuán liù le yī quān, gěi zìjǐ fēngróng yīxià, bùrán zhēn yào bānwèi shàngnǎo le.",
+    "example_translation": "I took a walk in the park this weekend to enrich myself a bit — otherwise the office funk was really going to my head.",
+    "context": "丰容 (\"enrichment\") is a 1998 zoo-husbandry concept for stimulating captive animals so they don't develop boredom-driven stereotypic behaviour. It surfaced on Xiaohongshu's 2026 \"top ten words\" list after young office workers started applying it to themselves — comparing their own repetitive 996 routines to a zoo enclosure, and using 丰容 as shorthand for deliberately building novelty and self-care into their week.",
+    "category": "slang",
+    "date_added": "2026-09-15",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%B0%E5%AE%B9/18096494",
+        "note": "百度百科「丰容（动物园术语）」词条，原始定义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.wsdsocial.com/zh-cn/article/Top%2010%20Hot%20Words%20on%20Xiaohongshu",
+        "note": "解读小红书2026「十大热词」文章，收录「丰容」的引申用法",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lai-cai",
+    "hanzi": "来财",
+    "pinyin": "lái cái",
+    "literal": "come + fortune/wealth",
+    "meaning": "A good-luck exclamation — \"may fortune come!\" — that exploded via the 2024 viral rap song 《八方来财》(\"Fortune from all directions\") by Cantonese rapper 揽佬. People now chant or type it before an exam, interview, or gacha pull for luck, and it spawned a template \"来X\" (来offer, 来分, i.e. \"may the offer/grade come\").",
+    "meaning_zh": "源自说唱歌手“揽佬”2024年的洗脑神曲《八方来财》，歌词朗朗上口，网友把它当祈福口头禅——考试前、面试前、抽卡前喊一句“来财”，图个好运，后来衍生出“来offer”“来分”等万能句式。2025年入选年度十大网络流行语。",
+    "example": "明天面试，来财来财，祝我上岸！",
+    "example_pinyin": "Míngtiān miànshì, lái cái lái cái, zhù wǒ shàng'àn!",
+    "example_translation": "Interview tomorrow — come fortune, come fortune, wish me luck landing it!",
+    "context": "《八方来财》 was released by rapper 揽佬 in August 2024, blending Cantonese folk motifs with Memphis rap and lyrics mocking people who beg the gods for money while cutting corners. It went viral in early 2025, racking up over 10 billion plays and getting sung by grandparents and toddlers alike; by December 2025 the state-run language monitoring centre had named 来财 one of the year's ten defining slang terms.",
+    "category": "meme",
+    "date_added": "2026-09-15",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/871054437_121924583",
+        "note": "搜狐文章《八方来财》怎么火的？从草根神曲到百亿播放的背后故事",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2/64808014",
+        "note": "百度百科「八方来财（2024年揽佬演唱的歌曲）」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.news.cn/book/20251212/83e4aed3aff145959bf5a06243280302/c.html",
+        "note": "新华网：2025年度十大网络流行语发布，来财入选",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lao-sou-xi-wan-tong",
+    "hanzi": "老叟戏顽童",
+    "pinyin": "lǎosǒu xì wántóng",
+    "literal": "old man + toy with/tease + naughty + child",
+    "meaning": "Describes a veteran or expert effortlessly toying with a far weaker opponent in a game, match, or esports round — a vivider, more mock-classical replacement for the older, blunter gaming slang \"炸鱼\" (netting fish, i.e. stomping newbies). Used self-deprecatingly by the loser or admiringly by onlookers.",
+    "meaning_zh": "形容高手对新手形成碾压级的实力差距，轻松愉快地“戏耍”对手，多见于游戏、棋类、电竞解说和体育比赛场景，是“炸鱼”一词更生动、更有画面感的新说法，带调侃意味。",
+    "example": "这局大神带我这个萌新，纯纯老叟戏顽童。",
+    "example_pinyin": "Zhè jú dàshén dài wǒ zhège méngxīn, chúnchún lǎosǒu xì wántóng.",
+    "example_translation": "That pro carried me, a total noob, this round — a pure case of the old man toying with the kid.",
+    "context": "The phrase spread through gaming and esports communities across titles (黑神话：悟空, tank/MOBA matches, Go-themed anime clips) in 2026 as a wittier stand-in for \"炸鱼\", with Bilibili explainer videos (\"梗百科\") and a Baidu Baike entry cementing it as this year's go-to term for a lopsided stomp.",
+    "category": "meme",
+    "date_added": "2026-09-15",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%80%81%E5%8F%9F%E6%88%8F%E9%A1%BD%E7%AB%A5/68640148",
+        "note": "百度百科「老叟戏顽童」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/1065497391_121124835",
+        "note": "搜狐文章：明明是「炸鱼」，怎么现在都叫「老叟戏顽童」？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dianzi-cangshu-zheng",
+    "hanzi": "电子仓鼠症",
+    "pinyin": "diànzǐ cāngshǔ zhèng",
+    "literal": "electronic/digital + hamster + -syndrome",
+    "meaning": "\"Digital hoarding syndrome\" — compulsively bookmarking, favouriting, or downloading articles, tutorials, and games and never actually opening them, like a hamster stuffing its cheeks with food it never eats. Often driven by FOMO and the illusion that \"saved = learned\".",
+    "meaning_zh": "形容像仓鼠囤粮一样疯狂收藏文章、教程、游戏等数字内容却从不打开、不消费的行为——“收藏即学会”的错觉，本质是一种数字囤积症，常源于错失恐惧症（FOMO）。",
+    "example": "我收藏夹里三千篇干货一篇没看完，典型电子仓鼠症晚期。",
+    "example_pinyin": "Wǒ shōucángjiā lǐ sānqiān piān gānhuò yī piān méi kàn wán, diǎnxíng diànzǐ cāngshǔzhèng wǎnqī.",
+    "example_translation": "I've got three thousand \"must-read\" articles saved and haven't finished a single one — textbook late-stage digital hoarding syndrome.",
+    "context": "Grew out of years of \"数字囤积/电子囤积症\" (digital hoarding) discourse — Steam gamers' \"喜加一\" habit of grabbing every free game and never playing it is often cited as a sub-case — and crystallised recently into the punchier \"电子仓鼠(症)\" label, now a stock self-deprecating tag for anyone whose bookmarks folder outpaces their reading.",
+    "category": "slang",
+    "date_added": "2026-09-15",
+    "sources": [
+      {
+        "url": "https://sspai.com/post/68990",
+        "note": "少数派文章《「数字仓鼠症」：我们怎么样在数字世界存储另一个自己？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.dancihu.com/liuxingyu/d12920.html",
+        "note": "单词乎「电子仓鼠症」网络流行语词条释义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://na.ifeng.com/c/8nmffhIC4YD",
+        "note": "凤凰网文章《收藏=会了？你可能确诊「电子仓鼠症」》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
