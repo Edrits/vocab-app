@@ -3465,5 +3465,104 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "jingshen-xiaban",
+    "hanzi": "精神下班",
+    "pinyin": "jīngshén xiàbān",
+    "literal": "spirit/mentally + clock off work",
+    "meaning": "Being physically at your desk but mentally checked out — doing the bare minimum because your mind has already \"clocked off\", even though your body is still at work. An extension of the older 摸鱼 (fish-slacking) idea, but about mental disengagement rather than sneaking in side activities.",
+    "meaning_zh": "指人身体还在工位上，但精神已经\"下班\"了，只完成最低限度的工作量。是\"摸鱼\"概念在心理层面的延伸，强调的是内心的抽离而非偷偷摸鱼。",
+    "example": "开完那个没完没了的会，我整个人精神下班了，剩下的工作全靠惯性。",
+    "example_pinyin": "Kāiwán nà ge méiwánméiliǎo de huì, wǒ zhěnggè rén jīngshén xiàbān le, shèngxià de gōngzuò quán kào guànxìng.",
+    "example_translation": "After that endless meeting I mentally clocked out — the rest of my work is just running on autopilot.",
+    "context": "One of Digitaling's top 30 internet buzzwords for H1 2026. It captures a burnout-adjacent mood among office workers who no longer bother hiding their disengagement — a step beyond 摸鱼 (covert slacking) into open, low-effort presenteeism.",
+    "category": "social",
+    "date_added": "2026-09-16",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英 (Digitaling) 广告行业媒体：《2026上半年网络热词TOP30》，精神下班列第12位",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "beng-zhu",
+    "hanzi": "绷住",
+    "pinyin": "bēng zhù",
+    "literal": "stretched taut + hold",
+    "meaning": "\"Hold it together\" — telling yourself (or someone else) to keep a straight face and not crack up laughing or break down crying, in the face of something absurd, cringe, or overwhelming.",
+    "meaning_zh": "形容在离谱、搞笑或令人崩溃的场面前，努力忍住不笑或不崩溃。是老梗\"蚌埠住了\"（绷不住了）的反向用法——从\"绷不住\"变成一句要绷住的自我提醒。",
+    "example": "他一本正经地念错了自己的名字，我们全场绷住没笑出声。",
+    "example_pinyin": "Tā yī běnzhèngjīng de niàn cuò le zìjǐ de míngzi, wǒmen quánchǎng bēngzhù méi xiào chū shēng.",
+    "example_translation": "He solemnly mispronounced his own name, and somehow the whole room held it together without laughing.",
+    "context": "A 2026 offshoot of the older pun \"蚌埠住了\" (Bengbu city + 绷不住了 \"can't hold it together\"), which broke out of 抗压背锅吧-style forums and 二创 comment sections around 2020. \"绷住\" flips the collapsed version back into an imperative, and has spawned its own mini-vocabulary: 难绷 (hard to hold it together), 老绷家 (a chronic can't-keep-a-straight-face type), 轻松绷住 (holding it together with ease).",
+    "category": "slang",
+    "date_added": "2026-09-16",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英 (Digitaling)：《2026上半年网络热词TOP30》，绷住列第16位，注明其与\"蚌埠住了\"的关系",
+        "lang": "zh"
+      },
+      {
+        "url": "https://hizdm.net/hot-stem/bengbuzhule.html",
+        "note": "大妈词典：\"蚌埠住了\"词条，解释其谐音来源与流行过程",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "qingmei-niuma",
+    "hanzi": "青梅牛马",
+    "pinyin": "qīngméi niúmǎ",
+    "literal": "green plum (from 青梅竹马, childhood sweethearts) + ox and horse (from 牛马, an overworked employee)",
+    "meaning": "Your \"work spouse\" from your very first job — the cohort of colleagues you started out clueless with, bonded through all-nighters and shared complaints about clients, before everyone scattered to different companies. A mashup of 青梅竹马 (childhood sweethearts, literally \"green plums and bamboo horse\") and 牛马 (ox-and-horse, slang for an exploited, overworked employee).",
+    "meaning_zh": "指第一份工作时一起入职、一起从校园菜鸟熬成职场\"牛马\"的同事，戏称为\"职场发小\"。化用成语\"青梅竹马\"，把纯真的儿时情谊置换成职场共患难的战友情。",
+    "example": "我俩是当年一起被公司骗进来的青梅牛马，现在虽然各奔东西，但还是每周吐槽老板。",
+    "example_pinyin": "Wǒ liǎ shì dāngnián yīqǐ bèi gōngsī piàn jìnlái de qīngméi niúmǎ, xiànzài suīrán gè bèn dōngxī, dànshì háishì měi zhōu tǔcáo lǎobǎn.",
+    "example_translation": "The two of us are \"work-spouse\" first-jobbers who got suckered into the same company together — we've scattered to different jobs since, but we still trade boss complaints every week.",
+    "category": "social",
+    "date_added": "2026-09-16",
+    "context": "One of Digitaling's top 30 internet buzzwords for H1 2026. It reworks the classic 成语 青梅竹马 to name the nostalgic bond with the first cohort of coworkers who suffered through entry-level grunt work alongside you.",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20251222A06OYA00",
+        "note": "腾讯新闻：《那年一起进银行的\"青梅牛马\"，你身边还剩几个？》，专题解释该词含义与职场关系",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英 (Digitaling)：《2026上半年网络热词TOP30》，青梅牛马列第3位",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ni-jiushi-zhuzhiwen",
+    "hanzi": "你就是朱之文",
+    "pinyin": "nǐ jiù shì Zhū Zhīwén",
+    "literal": "you are exactly [name: Zhu Zhiwen]",
+    "meaning": "A meme quoting Heze (菏泽) livestreamer 李雪花 (Li Xuehua), who snapped a thickly-accented \"你就是朱之文，这两年不火了，要画面来了是吧？\" (\"You're Zhu Zhiwen — not popular these past couple years, so now you want some camera time?\") at a fan spamming her comment section with the name \"朱之文\". Her over-the-top cadence went viral; in comment sections, nailing an impression of her tone now earns you \"你就是朱之文\" as the top compliment, and the line is also used more loosely as a deadpan way to call out someone chasing attention.",
+    "meaning_zh": "源自菏泽主播李雪花在直播中怒怼刷屏粉丝的方言原声：\"你就是朱之文，这两年不火了，要画面来了是吧？\"，因口音魔性而走红。现常用于评论区——谁模仿她的语气模仿得最像，就会被夸\"你就是朱之文\"，也被泛用来戏谑地指某人在博关注、蹭热度。",
+    "example": "你这鬼畜配音剪得也太像了吧，你就是朱之文！",
+    "example_pinyin": "Nǐ zhè guǐchù pèiyīn jiǎn de yě tài xiàng le ba, nǐ jiù shì Zhū Zhīwén!",
+    "example_translation": "Your parody dub nails her accent so perfectly — you ARE Zhu Zhiwen!",
+    "context": "In March 2026, Heze livestreamer 李雪花 fired off this dialect-heavy line at a comment-spammer, and the clip's cadence spawned thousands of parody dubs and impressions across short-video platforms. Real-life folk singer 朱之文 (nicknamed 大衣哥, \"Brother Overcoat\"), a grassroots star discovered on CCTV's 星光大道 talent show, had his name unwittingly loaned to the meme; he responded good-naturedly, saying he's just an ordinary person who got lucky.",
+    "category": "meme",
+    "date_added": "2026-09-16",
+    "sources": [
+      {
+        "url": "https://view.inews.qq.com/a/20260323A02TI100",
+        "note": "腾讯新闻：《\"你就是朱之文\"成为网络热梗：朱之文本人回应得很淡然》，梗的起源与传播过程",
+        "lang": "zh"
+      },
+      {
+        "url": "https://view.inews.qq.com/a/20260329A034DP00",
+        "note": "腾讯新闻：《大衣哥回应\"你就是朱之文\"热梗：被封南天门大将军确有其事》，朱之文本人回应报道",
+        "lang": "zh"
+      }
+    ]
   }
 ]
