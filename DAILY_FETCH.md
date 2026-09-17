@@ -3,8 +3,12 @@
 This is the task the scheduled agent runs each morning to grow `vocab.json`.
 
 ## Goal
-Find 3–5 **fresh, genuinely-trending** Chinese netizen terms and append them to `vocab.json`,
-never duplicating a term already in the file.
+Add up to 3–5 Chinese netizen terms that are **genuinely useful and likely to last** — words a
+learner will still meet in a year — and append them to `vocab.json`, never duplicating a term
+already in the file. Favour the **durable core** over the merely fresh: it is fine to add fewer,
+or to backfill an enduring term the deck has somehow missed, rather than reach for something
+fleeting to hit a number. **Does this belong? (the endurance bar)** below is now the main filter —
+apply it to everything before it goes in.
 
 ## Token discipline (important — the database grows daily)
 Never read `vocab.json` into context and never hand-edit it. It gains ~4 entries a day;
@@ -21,12 +25,16 @@ You only ever need the *keys*, via the commands below.
    ```
    python3 -c "import json, collections; print(collections.Counter(e['category'] for e in json.load(open('vocab.json'))))"
    ```
-2. **Search** current Chinese internet trends. Rotate across sources so results stay varied:
+2. **Search** for candidates. Rotate across sources so results stay varied:
    - Weibo hot search (微博热搜), Douyin / RedNote (小红书) trending, Bilibili
-   - "中国 网络流行语 <current month/year>", "trending Chinese internet slang <year>"
-   - current-news and meme terms netizens are actually using this week
-3. **Select** 3–5 terms that are (a) not already in the deck, (b) genuinely in use — not
-   textbook words, (c) explainable with real cultural context. Prefer a mix of categories.
+   - 年度网络流行语 / word-of-the-year lists (国家语言资源监测与研究中心, 《咬文嚼字》, 小红书年度热词) —
+     these are already filtered for endurance, so they're a better hunting ground than raw hot-search
+   - **established terms that are everywhere but the deck simply hasn't got yet** — backfilling the
+     durable core is as valuable as catching something new
+   - only then, this week's genuinely-spreading new terms — and hold them to the endurance bar below
+3. **Select** terms that are (a) not already in the deck, (b) genuinely in use — not textbook
+   words, (c) explainable with real cultural context, and (d) **likely to endure** (see the bar
+   below). Prefer a mix of categories, and lead with the solid, established core.
    - **Chengyu rule:** include roughly **one classic chengyu (成语) per ~10 new words added**.
      Prefer chengyu that still circulate in online/comment culture, and in the `context`
      field note how netizens actually use it. Use category `chengyu`. Don't force one into
@@ -39,6 +47,9 @@ You only ever need the *keys*, via the commands below.
      a meaning that isn't really there. Instead, go find out the actual facts/event/post behind
      it and write `meaning`/`context` as reporting: what's actually happening, why it's funny
      or resonant, where it originated. Use category `meme` for these rather than `slang`.
+     **But raise the bar for memes now:** only add one that has genuinely **spread and stuck**
+     (across platforms, over weeks — not days). A one-off joke confined to one community, or this
+     week's format, is a reference, not vocabulary — skip it (see the endurance bar).
 4. For each term, **verify meaning/usage** against at least one source before writing it —
    do not invent definitions. For meme entries specifically, dig up the real originating
    event/post/screenshot rather than guessing at a generic "meaning" — the fact pattern is
@@ -55,6 +66,31 @@ You only ever need the *keys*, via the commands below.
    your scratch file and re-run — never edit `vocab.json` directly.
 6. Commit `vocab.json` with a message like `vocab: add N terms (YYYY-MM-DD)` and push
    (push = deploy via GitHub Pages).
+
+## Does this belong? (the endurance bar)
+The deck is meant to be **solid vocabulary**, not a museum of dead memes. The hard part is telling
+real 网络用语 — a word people keep reaching for — from a passing reference (a streamer's slip, one
+game forum's in-joke) that will be gone in a month. Weigh these before adding anything:
+
+**Signs it will LAST — add it:**
+- **Fills a real gap** — names a feeling, situation or social type people keep needing to describe
+  (内卷, 躺平, 情绪价值, 松弛感, 班味). A concept, not a punchline.
+- **Used productively** — people apply it to new situations and combine it, not just quote the original.
+- **Crossed over** — seen well beyond its origin community; ideally picked up by mainstream media or a
+  year-end 流行语 list.
+- **Already has some age** — surviving a few months is the best predictor of surviving a year. A proven
+  term beats one that's merely new.
+
+**Signs it's EPHEMERAL — skip it, or wait:**
+- **You can't explain it without retelling the origin event** — that's a reference, not a word.
+- **Tied to one incident / video / person**, funny only if you've seen the clip.
+- **Stuck in one niche** — a single game's forum, one fandom — with no sign of spreading.
+- **This week's format** that next week's will replace.
+
+**The decision:** default to the enduring core. A niche or very fresh term goes in **only if** it both
+fills a genuine gap **and** shows real signs of spreading and sticking. If you're unsure, **leave it out
+and revisit later** — if it endures it'll still be there next month, and if it died you never needed it.
+Two rock-solid words (or one) beat a batch padded with three that won't outlive the quarter.
 
 ## Entry schema (every field required)
 ```json
@@ -90,7 +126,8 @@ shown on the study card — it exists to keep entries verifiable and to be pulle
 ## Quality bar
 - The `context` field is the point of the app — always explain the *origin/vibe*, not just the meaning.
 - Keep examples short and idiomatic.
-- Accuracy over volume: 3 solid terms beat 5 shaky ones.
+- Accuracy over volume: 3 solid terms beat 5 shaky ones. **Durability over novelty**: a proven word
+  beats a buzzy one, and adding just 1–2 (or backfilling the enduring core) beats padding with fads.
 - Every entry must carry at least one real `source` — no term ships unsourced.
 - For meme-category entries, `meaning` should read as fact (what's actually going on) rather
   than a fabricated dictionary sense — it's fine for the "definition" to just be the joke/story.
