@@ -81,6 +81,11 @@ def validate(entry, i, group_ids):
         if re.search(r"[a-zA-Zü]\d", entry[f]):
             errs.append(f"entry {i} ({entry['hanzi']}): '{f}' looks like tone numbers — "
                         f"use tone marks (ā á ǎ à)")
+    # `blend` is optional — a note on how the characters slur together in fast
+    # speech. If present it must be a non-empty string.
+    b = entry.get("blend")
+    if b is not None and (not isinstance(b, str) or not b.strip()):
+        errs.append(f"entry {i} ({entry['hanzi']}): 'blend' must be a non-empty string if present")
     return errs
 
 

@@ -1102,7 +1102,7 @@
       const set = reference[key];
       const q = refSearch.trim().toLowerCase();
       const shown = set.items.filter(it =>
-        !q || [it.hanzi, it.pinyin, it.gloss, it.note].join(' ').toLowerCase().includes(q));
+        !q || [it.hanzi, it.pinyin, it.gloss, it.note, it.blend || ''].join(' ').toLowerCase().includes(q));
 
       const sections = set.groups.map(g => {
         const rows = shown.filter(it => it.group === g.id).map(it => `
@@ -1116,6 +1116,7 @@
             <div class="ref-gloss">${it.gloss}</div>
             <div class="item-body">
               <div class="row"><div class="label">How it’s used</div><div class="ref-note">${it.note}</div></div>
+              ${it.blend ? `<div class="row"><div class="label">Said fast</div><div class="ref-note">${it.blend}</div></div>` : ''}
               <div class="row"><div class="label">Example</div><div class="ex-zh">${it.example}${speakBtn(it.example, true)}</div><div class="ex-py">${tonePinyin(it.example_pinyin)}</div><div class="ex-en">${it.example_translation}</div></div>
             </div>
           </div>`).join('');

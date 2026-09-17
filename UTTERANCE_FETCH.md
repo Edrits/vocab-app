@@ -111,15 +111,29 @@ and push (push to `main` = deploy via GitHub Pages).
   "example": "a natural utterance or mini-exchange in Chinese (—A —B is ideal)",
   "example_pinyin": "example pinyin with tone marks",
   "example_translation": "idiomatic English translation",
+  "blend": "OPTIONAL — how the characters slur together in fast speech (see below)",
   "sources": [
     { "url": "https://…", "note": "where it's really used — clip / thread / 〈口〉 entry", "lang": "zh" }
   ]
 }
 ```
-The `group` values map to the five sections in order — `opening` (开口 · Getting started),
+The `group` values map to the sections in order — `opening` (开口 · Getting started),
 `linking` (接话 · Keeping it going), `reacting` (反应 · Reacting), `hedging` (缓冲 ·
-Softening it), `closing` (收尾 · Wrapping up). Pick the section by the phrase's
-conversational *function*.
+Softening it), `closing` (收尾 · Wrapping up), `frame` (句式 · Spoken frames) and
+`fast` (连读 · Said fast). Pick the section by the phrase's conversational *function*.
+
+- **`frame`** is for spoken sentence patterns with a slot — 怎么也……不, 再……也……,
+  说什么也……, 爱……不……. Write the `hanzi` with `……` marking the gap, and put a filled
+  example in `example`. These carry emphasis/attitude a textbook frame (无论…都) doesn't.
+- **`fast`** is for words that *are* a run-together contraction — 酱紫 (这样子), 不造
+  (不知道), 甭 (不用), 咋 (怎么). The blend is the point, so spell out the parent phrase.
+
+## The optional `blend` field
+Set `blend` when a phrase is habitually **slurred in quick speech** so it doesn't sound like
+its written form — e.g. 那什么 → 'nàshém', 怎么也 → 'zěm-yě'. Keep it one short line, and
+give the approximate run-together sound. It renders as a distinct "Said fast" row in the app,
+and it's searchable. Leave it off when there's nothing notable — most entries won't need it;
+it's exactly what learners miss when they can read a phrase but can't catch it in the wild.
 
 ## Quality bar
 - **The `note` is the product.** Write pragmatics, not a dictionary gloss: the situation,

@@ -289,7 +289,7 @@
   },
   "utterances": {
     "title": "口头禅 · Utterance glossary",
-    "subtitle": "The connective tissue of real speech — what people actually say to start, join and close what they're saying.",
+    "subtitle": "The connective tissue of real speech — the fillers, tags, frames and quick-speech blends people actually use to start, join and close what they're saying.",
     "groups": [
       {
         "id": "opening",
@@ -310,6 +310,14 @@
       {
         "id": "closing",
         "label": "收尾 · Wrapping up"
+      },
+      {
+        "id": "frame",
+        "label": "句式 · Spoken frames"
+      },
+      {
+        "id": "fast",
+        "label": "连读 · Said fast"
       }
     ],
     "items": [
@@ -321,7 +329,8 @@
         "note": "Pure hesitation noise — buys you a second while you find the word, or eases into something slightly awkward. One of the most common things you'll hear and one of the last things textbooks teach.",
         "example": "那什么…我先走了啊。",
         "example_pinyin": "Nà shénme… wǒ xiān zǒu le a.",
-        "example_translation": "Um… I'm going to head off."
+        "example_translation": "Um… I'm going to head off.",
+        "blend": "什么 blurs to a light 'shém' — it comes out 'nàshém' while you stall."
       },
       {
         "hanzi": "我跟你说",
@@ -561,7 +570,8 @@
         "note": "Tells someone they have taken it far enough. Blunt but not vicious — the register of an exasperated friend.",
         "example": "差不多得了啊，别闹了。",
         "example_pinyin": "Chàbuduō déle a, bié nào le.",
-        "example_translation": "All right, that's enough — pack it in."
+        "example_translation": "All right, that's enough — pack it in.",
+        "blend": "差不多 gets clipped to 'chàbduo' at speed."
       },
       {
         "hanzi": "对了",
@@ -814,6 +824,166 @@
           {
             "url": "https://hinative.com/questions/18965119",
             "note": "HiNative “得嘞”表示肯定的语气解答",
+            "lang": "zh"
+          }
+        ],
+        "blend": "得 clipped, 嘞 light — a quick 'délei'."
+      },
+      {
+        "hanzi": "怎么也……不",
+        "pinyin": "zěnme yě … bù",
+        "gloss": "no matter how hard, still can't/won't",
+        "group": "frame",
+        "note": "An emphatic 'try as I might, I still can't'. 怎么 here isn't a real 'how?' — paired with 也 it means 'by any means', and the tail almost always goes negative (想不起来, 睡不着, 不肯). More personal and frustrated than the textbook 无论怎么…都.",
+        "blend": "怎么 flattens to 'zěm' at speed — comes out 'zěm-yě'.",
+        "example": "这名字我怎么也想不起来了。",
+        "example_pinyin": "Zhè míngzi wǒ zěnme yě xiǎng bù qǐlái le.",
+        "example_translation": "I just can't remember this name for the life of me.",
+        "sources": [
+          {
+            "url": "https://baike.baidu.com/item/%E6%80%8E%E4%B9%88/6052012",
+            "note": "百度百科“怎么”词条 — 任指用法“怎么…也/都”",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "再……也……",
+        "pinyin": "zài … yě …",
+        "gloss": "no matter how (much), still…",
+        "group": "frame",
+        "note": "A concessive 'even at the extreme, the outcome holds': 再 + adjective/verb sets the extreme, 也 delivers the unchanged result. The everyday spoken cousin of 即使…也 / 无论…都, and far more common in speech.",
+        "example": "再贵也得买，孩子要用。",
+        "example_pinyin": "Zài guì yě děi mǎi, háizi yào yòng.",
+        "example_translation": "However pricey it is, I've got to buy it — the kid needs it.",
+        "sources": [
+          {
+            "url": "https://zh.hinative.com/questions/12251113",
+            "note": "HiNative 母语者解释“再…也…”(no matter how) 用法",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说什么也……",
+        "pinyin": "shuō shénme yě …",
+        "gloss": "no matter what, absolutely (won't/will)",
+        "group": "frame",
+        "note": "Plants a flag — whatever anyone says, this is settled. Almost always negative (说什么也不去 = wild horses couldn't drag me). The 什么 isn't a real question; it means 'whatever'. Compare 死活, which is even more stubborn.",
+        "blend": "说什么 runs together to 'shuō-shém' in the heat of it.",
+        "example": "太累了，下次说什么也不来了。",
+        "example_pinyin": "Tài lèi le, xià cì shuō shénme yě bù lái le.",
+        "example_translation": "That was exhausting — next time nothing on earth gets me here.",
+        "sources": [
+          {
+            "url": "https://zh.hinative.com/questions/7317724",
+            "note": "HiNative “说什么也…”是什么意思 — 母语者解答",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "爱……不……",
+        "pinyin": "ài … bù …",
+        "gloss": "…or don't — suit yourself (dismissive)",
+        "group": "frame",
+        "note": "Northern and prickly: 爱去不去 = 'go or don't, see if I care'. Looks like free choice but it's exasperation — you actually want them to, and you're done arguing. Never neutral, whatever the tone. Casual and a bit rude; not for strangers or writing.",
+        "example": "爱去不去，随你。",
+        "example_pinyin": "Ài qù bù qù, suí nǐ.",
+        "example_translation": "Go or don't — up to you (huffily).",
+        "sources": [
+          {
+            "url": "https://www.zhihu.com/question/322553510/answer/671700060",
+            "note": "知乎《「爱X不X」是什么用法？》答主解析",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "死活",
+        "pinyin": "sǐhuó",
+        "gloss": "flatly, stubbornly (won't / insists)",
+        "group": "frame",
+        "note": "As an adverb 死活 drops the life-and-death sense and means 'no matter what' — 死活不肯 (flat-out refuses), 死活要去 (dead set on going). Physical and stubborn, often a bit exasperated at the other person's obstinacy. Stronger than 怎么也.",
+        "example": "劝了半天，他死活不答应。",
+        "example_pinyin": "Quàn le bàntiān, tā sǐhuó bù dāying.",
+        "example_translation": "I spent ages talking him round — he flat-out refused.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E6%AD%BB%E6%B4%BB",
+            "note": "汉典“死活”词条 — 副词义“无论如何”",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "酱紫",
+        "pinyin": "jiàngzǐ",
+        "gloss": "= 这样子; like this / so",
+        "group": "fast",
+        "note": "这样子 (zhèyàngzi) run together fast collapses to 酱紫. Started as a Fujian/Taiwan-accent slur, now a playful net-and-speech shorthand — 表酱紫 = 别这样子 ('don't be like that'). Cutesy; not for anything formal.",
+        "blend": "这样子 (zhèyàngzi) said quickly → 酱紫; 不要这样子 → 表酱紫.",
+        "example": "哦～原来是酱紫啊！",
+        "example_pinyin": "Ó ~ yuánlái shì jiàngzǐ a!",
+        "example_translation": "Ohh, so that's how it is!",
+        "sources": [
+          {
+            "url": "https://baike.baidu.com/item/%E9%85%B1%E7%B4%AB/3822516",
+            "note": "百度百科“酱紫”— 这样子的方言连读谐音",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不造",
+        "pinyin": "bú zào",
+        "gloss": "= 不知道; dunno",
+        "group": "fast",
+        "note": "知道 (zhīdào) squashed into one syllable 'zào', so 不知道 → 不造. A 2014 Taiwanese-accent-style net blend, still used for a breezy, cutesy 'dunno'. 造 on its own = 知道.",
+        "blend": "知道 (zhīdào) run together → 'zào'; 不知道 → 不造.",
+        "example": "别问我，我也不造。",
+        "example_pinyin": "Bié wèn wǒ, wǒ yě bú zào.",
+        "example_translation": "Don't ask me — I dunno either.",
+        "sources": [
+          {
+            "url": "https://baike.baidu.com/item/%E4%B8%8D%E9%80%A0/23307443",
+            "note": "百度百科“不造”(网络流行语) — 不知道的连读",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "甭",
+        "pinyin": "béng",
+        "gloss": "= 不用; needn't, don't bother",
+        "group": "fast",
+        "note": "不用 (búyòng) fused into one character and one syllable — you can see 不 stacked over 用. Northern and very common: 甭管 (never you mind), 甭提了 (don't even go there), 您甭客气. The classic case of two characters blending into one.",
+        "blend": "不用 (bú yòng) → béng, written 甭 (不 above 用).",
+        "example": "这事儿你甭管，我来。",
+        "example_pinyin": "Zhè shìr nǐ béng guǎn, wǒ lái.",
+        "example_translation": "Don't you worry about this one — I've got it.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E7%94%AD",
+            "note": "汉典“甭”— “不用”的合音字",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "咋",
+        "pinyin": "zǎ",
+        "gloss": "= 怎么 / 怎么样; how, why, what's up",
+        "group": "fast",
+        "note": "A northern (and Wu) contraction standing in for 怎么/怎么样 — 咋办 (what do we do), 咋了 (what's up / what happened), 咋回事. Marks you as northern and casual; historically a run-together of 做啥. Compare 啥 = 什么.",
+        "blend": "does the work of 怎么/做啥 in one clipped syllable, 'zǎ'.",
+        "example": "咋了？出啥事了？",
+        "example_pinyin": "Zǎ le? Chū shá shì le?",
+        "example_translation": "What's up? Something happen?",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E5%92%8B",
+            "note": "汉典“咋”— 方言“怎；怎么”，做啥的连读",
             "lang": "zh"
           }
         ]
