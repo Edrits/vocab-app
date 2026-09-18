@@ -3564,5 +3564,104 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "da-gong-ren",
+    "hanzi": "打工人",
+    "pinyin": "dǎgōngrén",
+    "literal": "work-for-someone person",
+    "meaning": "A self-deprecating-but-proud label workers use for themselves, blue-collar and white-collar alike — resigned to the daily grind but refusing to feel ashamed of it. It largely replaced the earlier, more defeated '社畜' (corporate livestock, borrowed from Japanese): darkly funny, but with a stubborn dignity underneath.",
+    "meaning_zh": "打工人是劳动者对自己的一种自嘲又带点骄傲的称呼——认清了打工的辛苦和现实，却依然苦中作乐、不卑不亢。不论体力劳动者还是白领，只要在'打工'，都可以自称打工人。",
+    "example": "早安，打工人！新的一天又要开始搬砖了。",
+    "example_pinyin": "Zǎo'ān, dǎgōngrén! Xīn de yì tiān yòu yào kāishǐ bānzhuān le.",
+    "example_translation": "Morning, fellow worker! Another day of grinding begins.",
+    "context": "Broke out in October 2020 from short videos by streamer 抽象带篮子, whose catchphrase '早安，打工人' turned into a nationwide meme almost overnight. It's still the default way Chinese social media refers to anyone with a job, and gave rise to a whole family of compounds already in this deck (脆皮打工人, 打工人人传人, 青梅牛马).",
+    "category": "social",
+    "date_added": "2026-09-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%89%93%E5%B7%A5%E4%BA%BA/54050409",
+        "note": "百度百科「打工人（网络热词）」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.jiemian.com/article/5170659.html",
+        "note": "界面新闻《“打工人”这个梗是怎么火起来的？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bai-lan",
+    "hanzi": "摆烂",
+    "pinyin": "bǎilàn",
+    "literal": "lay out (to) rot",
+    "meaning": "To stop trying to fix a bad situation and just let it get worse — a step past 躺平 (lying flat, doing the minimum) into deliberately doing nothing and accepting the fallout. Roughly: 佛系 (not caring) < 躺平 (giving up effort) < 摆烂 (actively giving up).",
+    "meaning_zh": "事情已经没法往好的方向发展了，索性不再采取措施补救，任由它继续往坏的方向走，比'躺平'程度更深一层：佛系—躺平—摆烂，一个比一个'放弃'。",
+    "example": "反正这个季度目标肯定完不成了，摆烂了，不改PPT了。",
+    "example_pinyin": "Fǎnzhèng zhège jìdù mùbiāo kěndìng wánchéng bùliǎo le, bǎilàn le, bù gǎi PPT le.",
+    "example_translation": "This quarter's target isn't happening anyway — I'm done trying, not touching the slide deck again.",
+    "context": "Borrowed from NBA commentary, where a team out of playoff contention 摆烂 (tanks) — loses on purpose to secure a better draft pick next year. Chinese esports fans adopted it around 2021 for teams that give up mid-match, then it spread to everyday life for anyone consciously abandoning a losing effort instead of struggling on.",
+    "category": "social",
+    "date_added": "2026-09-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%91%86%E7%83%82%E6%96%87%E5%AD%A6/60880132",
+        "note": "百度百科「摆烂文学」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/534035740_121124209",
+        "note": "搜狐《年轻人常说的「摆烂」是什么意思？这个词怎么突然就火了？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "fan-er-sai-wen-xue",
+    "hanzi": "凡尔赛文学",
+    "pinyin": "Fán'ěrsài wénxué",
+    "literal": "Versailles literature",
+    "meaning": "A humblebragging style: dressing up a boast as a complaint or an offhand remark, often via a fake self-deprecating question you then answer yourself, or by quoting someone else's praise of you. Now also a verb — 'you're so 凡尔赛' calls someone out for doing it.",
+    "meaning_zh": "在社交平台上用看似平淡、甚至带点抱怨的语气，不经意间炫耀自己的优越条件——'先抑后扬、明贬暗褒'，有时自问自答，或借他人之口夸自己，简称'凡学'。",
+    "example": "老公非要送我这个爱马仕，我说真的用不着，他还生气了，愁死我了。",
+    "example_pinyin": "Lǎogōng fēi yào sòng wǒ zhège Àimǎshì, wǒ shuō zhēn de yòngbuzháo, tā hái shēngqì le, chóu sǐ wǒ le.",
+    "example_translation": "My husband insisted on buying me this Hermès bag — I told him I really didn't need it and now he's upset. What a headache.",
+    "context": "Named in 2020 after 《凡尔赛玫瑰》(The Rose of Versailles), a Japanese manga about the extravagant French aristocracy. Weibo blogger 小奶球 systematised the format — self-deprecating opener, backhanded reveal, borrowed third-person praise — into a genre nicknamed '凡学', and it's remained one of the most durable labels for a specific flavour of social-media boasting.",
+    "category": "slang",
+    "date_added": "2026-09-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%87%A1%E5%B0%94%E8%B5%9B%E6%96%87%E5%AD%A6/54290433",
+        "note": "百度百科「凡尔赛文学」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/cul/2020/11-28/9349477.shtml",
+        "note": "中新网《“凡尔赛文学”火了！这是什么梗？调侃还是炫耀》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hua-she-tian-zu",
+    "hanzi": "画蛇添足",
+    "pinyin": "huàshétiānzú",
+    "literal": "draw snake add feet",
+    "meaning": "To ruin something good by adding an unnecessary extra touch. A stock comment-section putdown for over-engineering, a needless sequel or update, or a plot twist that spoils a perfectly good story.",
+    "meaning_zh": "比喻做了多余的事，反而把原本好好的东西弄糟了。网友常用来吐槽画蛇添足式的改版、续集或剧情反转。",
+    "example": "这次改版本来挺好的，非要加个新手引导弹窗，纯属画蛇添足。",
+    "example_pinyin": "Zhè cì gǎibǎn běnlái tǐng hǎo de, fēi yào jiā ge xīnshǒu yǐndǎo dàn chuāng, chúnshǔ huàshétiānzú.",
+    "example_translation": "This update was fine as it was — they just had to add a tutorial popup. Completely unnecessary.",
+    "context": "From a Warring States-era story in 《战国策》: several men raced to finish drawing a snake first to win a jug of wine; the winner, with time to spare, kept going and added feet to his snake — and lost the bet, since a snake has no feet. Still a common way to call out anything that was fine until someone 'improved' it.",
+    "category": "chengyu",
+    "date_added": "2026-09-18",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%94%BB%E8%9B%87%E6%B7%BB%E8%B6%B3/463357",
+        "note": "百度百科「画蛇添足」词条",
+        "lang": "zh"
+      }
+    ]
   }
 ]
