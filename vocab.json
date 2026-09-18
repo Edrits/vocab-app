@@ -1202,32 +1202,6 @@
     ]
   },
   {
-    "id": "di-shan-chou-shui-yu-zhiyin",
-    "hanzi": "低山臭水遇知音",
-    "pinyin": "dī shān chòu shuǐ yù zhī yīn",
-    "literal": "low mountain, stinky water, meet a bosom friend",
-    "meaning": "A self-deprecating parody of the classic idiom 高山流水遇知音 (high mountains, flowing water, meeting a kindred spirit — used for a profound meeting of true friends). Swaps 'high' for 'low' and 'flowing' for 'stinky' to describe a group of ordinary, flawed people who just click — imperfect friends who somehow vibe perfectly.",
-    "meaning_zh": "由成语「高山流水遇知音」改编而来的自嘲版网络热词，把「高山」换成「低山」、「流水」换成「臭水」，用来调侃一群人虽然都不算优秀、各有缺点，却莫名合拍、彼此理解，形成独特的默契。",
-    "example": "我们仨谁也不是学霸，凑一起就是低山臭水遇知音。",
-    "example_pinyin": "Wǒmen sā shéi yě bú shì xuébà, còu yìqǐ jiùshì dī shān chòu shuǐ yù zhī yīn.",
-    "example_translation": "None of the three of us are top students, but put us together and it's like low mountains meeting stinky water — kindred spirits.",
-    "context": "Coined by fans of idol Song Yaxuan (宋亚轩) after he posted a nonsense string of sounds ('AEAEAEEOO') on Weibo and fans decoded it within 24 hours as a hum of the song 《恭喜发财》 — that instant, wordless mutual understanding got dubbed '低山臭水式脑电波同频'. Now used broadly online for any scrappy, unpolished but deeply in-sync friend group.",
-    "category": "meme",
-    "date_added": "2026-07-26",
-    "sources": [
-      {
-        "url": "https://cj.sina.com.cn/articles/view/7879776328/1d5abd848068018se8",
-        "note": "新浪财经：\"低山臭水遇知音\"这个梗的具体出处和最初含义是什么？",
-        "lang": "zh"
-      },
-      {
-        "url": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-06/29/content_87656_3583933.htm",
-        "note": "今晚报数字报：低山臭水遇知音",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "zuo-wan-nide-zuo-nide",
     "hanzi": "做完你的，做你的",
     "pinyin": "zuò wán nǐ de, zuò nǐ de",
@@ -1275,27 +1249,6 @@
     ]
   },
   {
-    "id": "mei-chi-de-ni-mi-shenme-mi",
-    "hanzi": "没吃的你咪什么咪",
-    "pinyin": "méi chī de nǐ mī shénme mī",
-    "literal": "no food-DE you meow what meow",
-    "meaning": "A Dongbei-dialect jab at someone making noise for nothing: from a meme where a person lures a cat with kitten-calling \"mī mī\" sounds, the distracted cat loses its food to another cat, then furiously \"scolds\" everyone — prompting the retort \"if there's nothing to eat, what are you meowing about?\" Used to mock someone who hypes something up, gets played, and then complains with nothing to show for it.",
-    "meaning_zh": "用东北话吐槽“瞎叫唤却没捞到好处”的人。梗源自网友用“咪咪”声逗猫，猫分心时食物被同伴叼走，气得炸毛乱叫，被调侃“没吃的你咪什么咪”。现多用来讽刺人白忙活、被忽悠还抱怨的情形。",
-    "example": "你连奖金影子都没摸到还在群里吹？没吃的你咪什么咪啊。",
-    "example_pinyin": "Nǐ lián jiǎngjīn yǐngzi dōu méi mō dào hái zài qún lǐ chuī? Méi chī de nǐ mī shénme mī a.",
-    "example_translation": "You haven't even seen a shadow of the bonus and you're still bragging in the group chat? What are you meowing about if there's nothing to eat?",
-    "context": "2026年初爆火的猫咪梗：有人用“咪咪”声模仿小猫呼唤母猫的叫声逗猫，猫咪转头分心时食物被同伴叼走，气急败坏地“骂”人，网友用东北方言吐槽“没吃的你咪什么咪”，讽刺猫贪图关注却啥也没捞着。这句话迅速出圈，被用来调侃任何“瞎起哄却一无所获”的人或事。",
-    "category": "meme",
-    "date_added": "2026-07-28",
-    "sources": [
-      {
-        "url": "https://cj.sina.com.cn/articles/view/7096020433/1a6f4add106801fhfu",
-        "note": "新浪财经：2026年网络热梗猫\"没吃的你咪什么咪\"爆火（东北话，讽刺无事张扬）",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "queren-wei-xx-renge",
     "hanzi": "确认为XX人格",
     "pinyin": "quèrèn wéi XX réngé",
@@ -1317,32 +1270,6 @@
       {
         "url": "https://jsnews.jschina.com.cn/jsyw/202604/t20260410_s69d8f09be4b0639de44f5a0b.shtml",
         "note": "中国江苏网：SBTI全网爆火，你去认领人格标签了么？",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "dong-huo",
-    "hanzi": "冻货",
-    "pinyin": "dòng huò",
-    "literal": "frozen goods",
-    "meaning": "Fan-culture slang for old, previously unreleased photos, videos, or behind-the-scenes clips of a celebrity that suddenly get \"defrosted\" and posted long after they were taken — like food that's been sitting in the freezer. Used teasingly or in mock self-defence.",
-    "meaning_zh": "粉丝圈用语，指明星存了很久（几个月甚至几年）才拿出来发的旧照片、旧视频、拍立得等物料，就像冷冻食品放很久才解冻拿出来一样，可以是调侃也可以是撒娇式辩解。",
-    "example": "她又翻出三年前的拍立得发超话，网友：又在发冻货了。",
-    "example_pinyin": "Tā yòu fānchū sān nián qián de pāilìdé fā chāohuà, wǎngyǒu: yòu zài fā dònghuò le.",
-    "example_translation": "She dug out a Polaroid from three years ago to post on her fan forum again — netizens: there she goes posting frozen goods again.",
-    "context": "2026年7月6日，艺人梓渝在生日直播中翻出珍藏多年的旧拍立得，被弹幕调侃是“冻货”，她当场反驳“这不是冻货，这是我的记忆！”还补了句“一个家里有一个冻货就行了”，梗迅速出圈，成为形容明星“压箱底旧料”的流行说法。",
-    "category": "slang",
-    "date_added": "2026-07-28",
-    "sources": [
-      {
-        "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801xx5s.html",
-        "note": "新浪新闻：梓渝生日直播爆梗：一家只能有一个冻货（饭圈黑话，指积压的旧物料/旧图）",
-        "lang": "zh"
-      },
-      {
-        "url": "https://ent.sina.cn/2026-07-07/detail-inifxxxc1583491.d.html",
-        "note": "新浪娱乐：梓渝生日直播爆梗：一家只能有一个冻货",
         "lang": "zh"
       }
     ]
@@ -1499,32 +1426,6 @@
       {
         "url": "https://cj.sina.com.cn/articles/view/7096020377/1a6f4ad9901901dsm0",
         "note": "新浪财经：闫学晶“闭麦”，2026年第一个热梗酸到了谁？",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "nai-lv-bo",
-    "hanzi": "奶绿波",
-    "pinyin": "nǎi lǜ bō",
-    "literal": "milk + green + wave (a mishearing of a billboard's real name)",
-    "meaning": "A nonsense phrase born from netizens misreading a highway billboard, now used as a stand-in for 'stuck in an endless, faintly absurd situation' — the joke is the sound itself, not any real meaning.",
-    "meaning_zh": "源自网友把高速公路广告牌上“明绿液”三个字看错、读成“奶绿波”的乌龙梗，后来常被用来调侃自己陷入某种没完没了、有点荒诞好笑的处境，比如堵在路上很久走不出去。",
-    "example": "堵了三个小时，感觉还没走出奶绿波。",
-    "example_pinyin": "Dǔ le sān gè xiǎoshí, gǎnjué hái méi zǒuchū nǎi lǜ bō.",
-    "example_translation": "Stuck in traffic for three hours — feels like I still haven't escaped the \"nai lü bo.\"",
-    "context": "A billboard for a product called 明绿液 (Míng Lǜ Yè) on a highway near Mingguang, Anhui, was misread by passing drivers as \"奶绿波\" because of the flowing calligraphy style. Bored travellers filmed themselves joking \"been driving all morning and still haven't gotten out of 奶绿波\", and the phrase went viral — eventually inspiring the local government to release actual \"奶绿波\" milk tea and mung bean cake products to ride the wave.",
-    "category": "meme",
-    "date_added": "2026-07-30",
-    "sources": [
-      {
-        "url": "https://ah.ifeng.com/c/8rH1427qlrS",
-        "note": "凤凰网安徽：“明绿液”被错认成“奶绿波”，古井贡酒火速接梗推出同名奶茶",
-        "lang": "zh"
-      },
-      {
-        "url": "https://m.sohu.com/a/994256879_120252297",
-        "note": "搜狐网：“奶绿波”从网络梗变实体产品！安徽明光借势推出“新三件套”",
         "lang": "zh"
       }
     ]
@@ -1702,58 +1603,6 @@
     ]
   },
   {
-    "id": "ppt-yongdongji",
-    "hanzi": "PPT永动机",
-    "pinyin": "PPT yǒngdòngjī",
-    "literal": "PPT + perpetual motion machine",
-    "meaning": "A self-mocking term office workers use for themselves during late-night overtime — comparing themselves to a \"perpetual motion machine\" that keeps churning out slide decks without ever running out of energy, however exhausted they actually are.",
-    "meaning_zh": "打工人自嘲加班到深夜的说法——把自己比作一台不知疲倦、持续产出PPT的“永动机”，实际上是在委婉吐槽过度加班的职场文化。",
-    "example": "又要通宵改方案了，我现在就是一台PPT永动机。",
-    "example_pinyin": "Yòu yào tōngxiāo gǎi fāng'àn le, wǒ xiànzài jiùshì yī tái PPT yǒngdòngjī.",
-    "example_translation": "Another all-nighter revising the proposal — I'm basically a PPT perpetual-motion machine now.",
-    "context": "Circulates in workplace-venting posts alongside lines like 与键盘签订灵魂契约 (\"signing a soul contract with my keyboard\"), letting young office workers turn overtime fatigue into a joke rather than a straight complaint — the same self-deprecating work-humour family as 班味 and 脆皮打工人 already in the deck.",
-    "category": "slang",
-    "date_added": "2026-08-05",
-    "sources": [
-      {
-        "url": "https://www.thepaper.cn/newsDetail_forward_5058843",
-        "note": "澎湃新闻：PPT，职场终极魔王（PPT加班自嘲文化背景，非该短语专条）",
-        "lang": "zh"
-      },
-      {
-        "url": "https://36kr.com/p/1723195555841",
-        "note": "36氪：“干活的累死累活，到头来干不过写PPT的”网友大呼过于真实（背景）",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "wo-langjie-le-wo-lijie-le",
-    "hanzi": "我浪姐了，我力竭了",
-    "pinyin": "Wǒ làngjiě le, wǒ lìjié le",
-    "literal": "I \"Sisters-Riding-the-Wind\"-ed, I'm exhausted",
-    "meaning": "Not really a portable expression — it's a one-off pun catchphrase from June 2026, born during a live episode of the variety show 乘风2026 (Sisters Who Make Waves, season 7). Netizens swapped the show's nickname 浪姐 into the verb slot of \"我力竭了\" (I'm exhausted) to sarcastically mean \"watching this show wore me out,\" describing both the visibly exhausted contestants and the fatigued audience.",
-    "meaning_zh": "并非通用词，而是2026年6月《乘风2026》（浪姐7）四公直播期间走红的谐音梗。网友把节目昵称“浪姐”当动词用，替换进“我力竭了”里，调侃“看这节目真的很力竭”，一语双关，既指参赛姐姐们体力透支，也指观众追综追得心累。",
-    "example": "又双叒改赛制？我浪姐了，我力竭了。",
-    "example_pinyin": "Yòu shuāng ruò gǎi sàizhì? Wǒ làngjiě le, wǒ lìjié le.",
-    "example_translation": "They changed the rules again?? I'm so \"浪姐\"-ed, I'm exhausted.",
-    "context": "Born on Weibo during the chaotic fourth live round of 乘风2026 (Sisters Who Make Waves, season 7) in June 2026, after contestants pushed through illness and skin flare-ups from back-to-back rehearsals. Fans piled on with lines like \"以后别说我力竭了，换成我浪姐了\" (\"don't say 'I'm exhausted' anymore, say 'I 浪姐'd'\"), turning the show's own name into shorthand for exhausting-to-watch — aimed as much at the messy scoring and rule changes as at the performers' visible strain.",
-    "category": "meme",
-    "date_added": "2026-08-06",
-    "sources": [
-      {
-        "url": "https://ent.sina.cn/2026-06-07/detail-iniaqtnn6310144.d.html?vt=4",
-        "note": "新浪娱乐《〈乘风2026〉引全网吐槽：观众为何直呼\"我浪姐了，我力竭了\"？》",
-        "lang": "zh"
-      },
-      {
-        "url": "https://www.sina.cn/news/detail/5307281693999675.html",
-        "note": "新浪新闻《我浪姐了，我力竭了》",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "mao-meme",
     "hanzi": "猫meme",
     "pinyin": "Māo meme",
@@ -1827,32 +1676,6 @@
     ]
   },
   {
-    "id": "zhongguo-chule-guozu-gailaidedoulaile",
-    "hanzi": "中国除了国足，该来的都来了",
-    "pinyin": "Zhōngguó chúle guózú, gāi lái de dōu lái le",
-    "literal": "China — except the national football team, everyone who should have come, came",
-    "meaning": "The running joke of the 2026 World Cup: every possible Chinese presence showed up at the tournament — referees, sponsors, manufacturing, even the toy brand Labubu as FIFA's official collectible partner — except China's own men's football team, which missed qualifying for a 24th straight year.",
-    "meaning_zh": "这是网友对2026年美加墨世界杯的调侃：赛场内外几乎全是\"中国元素\"——中国裁判马宁执法比赛，联想、海信、蒙牛等中国品牌冠名赞助，义乌供应了七成周边商品，泡泡玛特的Labubu还成了世界杯官方潮玩——唯独中国男足自己连续24年无缘世界杯正赛，成了这场盛会里最大的\"缺席者\"。",
-    "example": "网友刷到马宁执法决赛的新闻，评论区又刷起了\"中国除了国足，该来的都来了\"。",
-    "example_pinyin": "Wǎngyǒu shuā dào Mǎ Níng zhífǎ juésài de xīnwén, pínglùnqū yòu shuā qǐ le \"Zhōngguó chúle guózú, gāi lái de dōu lái le\".",
-    "example_translation": "When netizens saw the news that Ma Ning was refereeing the final, the comments filled up again with \"everything Chinese showed up at this World Cup except China's own team.\"",
-    "context": "2026年世界杯扩军至48队，亚洲名额大增，但国足在18强赛小组第五出局，连续24年无缘正赛。与此同时，中国裁判、赞助商、制造业乃至潮玩IP却全方位\"出现\"在了世界杯赛场内外，于是网友总结出这句自嘲式流行语，既是对国足长期低迷的调侃，也带着几分身为\"世界工厂\"的复杂骄傲。",
-    "category": "meme",
-    "date_added": "2026-08-07",
-    "sources": [
-      {
-        "url": "https://sports.ifeng.com/c/8tt7S6SC71a",
-        "note": "凤凰网体育：世界杯开幕！“中国除了国足，该来的都来了”",
-        "lang": "zh"
-      },
-      {
-        "url": "https://www.163.com/dy/article/KVI4URIQ0525ECDQ.html",
-        "note": "网易：为什么说2026足球世界杯赛“除了中国男足，该来的都来了”？",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "du-nai",
     "hanzi": "毒奶",
     "pinyin": "dú nǎi",
@@ -1879,32 +1702,6 @@
     ]
   },
   {
-    "id": "dalishenbei-lou-qi",
-    "hanzi": "大力神杯漏气",
-    "pinyin": "Dàlìshénbēi lòu qì",
-    "literal": "Hercules Cup leaks air",
-    "meaning": "Refers to the inflatable 12-metre replica of the World Cup trophy (大力神杯, the \"Hercules Cup\") that visibly deflated and collapsed on stage during the 2026 World Cup's Canada-leg opening ceremony in Toronto, when its air pump failed mid-ascent. Netizens instantly turned the flop into a running joke, calling the show \"the most abstract opening ceremony in history\" and photoshopping the sagging trophy into memes.",
-    "meaning_zh": "指2026年世界杯多伦多开幕式上，一座12米高的充气版大力神杯道具在升起过程中因充气设备故障而当众漏气瘪塌的事故。网友迅速把这场翻车做成梗图，调侃这是\"史上最抽象的开幕式\"。",
-    "example": "官方开幕式排练了大半年，结果大力神杯漏气，直接社死。",
-    "example_pinyin": "Guānfāng kāimùshì páiliànle dà bàn nián, jiéguǒ Dàlìshénbēi lòu qì, zhíjiē shèsǐ.",
-    "example_translation": "They rehearsed the official opening ceremony for the better part of a year, and then the trophy deflated on stage — instant public humiliation.",
-    "context": "Happened live during the 2026 FIFA World Cup's Toronto opening ceremony in June: the giant inflatable trophy's support casing failed and the pump couldn't hold pressure, so it crumpled in front of a global audience. Clips spread fast on Weibo and Douyin, and \"大力神杯漏气\" became shorthand netizens use for any grand, over-produced event that collapses into farce.",
-    "category": "meme",
-    "date_added": "2026-08-08",
-    "sources": [
-      {
-        "url": "https://k.sina.cn/article_7879995911_1d5af320706801y1dg.html",
-        "note": "新浪体育：加拿大世界杯开幕式翻车：大力神杯漏气、看台空荡",
-        "lang": "zh"
-      },
-      {
-        "url": "https://www.163.com/dy/article/KV9R43940556HCRZ.html",
-        "note": "网易：12米大力神杯漏气，加拿大世界杯开幕式大型翻车",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "ge-si-pei-wu",
     "hanzi": "割四赔五",
     "pinyin": "Gē sì péi wǔ",
@@ -1926,32 +1723,6 @@
       {
         "url": "https://news.china.com/socialgd/10000169/20260603/49527991.html",
         "note": "中华网：割四赔五乱象，一起纠纷演变成一场危机",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "zhu-zhi-liao",
-    "hanzi": "竹知了",
-    "pinyin": "zhú zhīliǎo",
-    "literal": "bamboo cicada",
-    "meaning": "A traditional Chinese kids' toy — a bamboo tube on a string that you spin to make a droning \"wow-wow\" cicada-like buzz — that briefly became a viral parody prop in August 2026. Netizens noticed its sound resembled the audience's exaggerated \"wow\" gasps at a Huawei-backed 问界 (AITO) car launch, and started captioning videos of it with the launch's famous catchphrase \"1000万以内最好的\" (\"the best thing under 10 million rmb\"), mocking marketing hype. Rumours that sellers were reported and delisted turned it into a bigger controversy about censorship before Huawei's camp denied ever filing a complaint.",
-    "meaning_zh": "一种传统儿童玩具——一根系着绳子的竹筒，快速转动棍子就能发出类似夏天知了鸣叫的\"哇哇\"声。2026年8月，网友发现这声音很像问界新车发布会上观众席爆发的惊叹声，于是配上余承东\"1000万以内最好的\"式文案玩梗调侃发布会营销话术。后来又传出商品被投诉下架，一度演变成关于言论审查的争议，直至鸿蒙智行方面否认曾投诉。",
-    "example": "这发布会文案也太夸张了，都能配一整套竹知了BGM了。",
-    "example_pinyin": "Zhè fābùhuì wénàn yě tài kuāzhāng le, dōu néng pèi yī zhěngtào zhú zhīliǎo BGM le.",
-    "example_translation": "The launch-event copywriting is so over the top you could score the whole thing with bamboo-cicada sound effects.",
-    "context": "The toy's \"wow-wow\" buzz got paired online with parody captions mimicking Huawei exec Richard Yu's (\"余承东\") signature hyperbolic launch-event claims (e.g. calling a car \"the best SUV under 10 million rmb\"), turning it into a running joke about inflated product-launch hype. It escalated into a minor scandal in early August 2026 when creators reported their videos or listings being taken down, though Huawei's HarmonyOS Intelligent Mobility Alliance publicly denied filing any complaints.",
-    "category": "meme",
-    "date_added": "2026-08-08",
-    "sources": [
-      {
-        "url": "https://baike.baidu.com/item/%E7%AB%B9%E7%9F%A5%E4%BA%86/68400411",
-        "note": "百度百科：竹知了",
-        "lang": "zh"
-      },
-      {
-        "url": "https://cbgc.scol.com.cn/news/7824342",
-        "note": "川观新闻：几块钱的竹知了卖断货，这个千年老玩具凭什么火遍全网？",
         "lang": "zh"
       }
     ]
@@ -1999,32 +1770,6 @@
       {
         "url": "https://zh.wikipedia.org/zh-hans/%E6%8E%A9%E8%80%B3%E7%9B%9C%E9%88%B4",
         "note": "维基百科：掩耳盗铃",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "qu-dongbei-bishu-shibai",
-    "hanzi": "去东北避暑失败",
-    "pinyin": "qù Dōngběi bìshǔ shībài",
-    "literal": "go Northeast escape-heat fail",
-    "meaning": "\"Failed to escape the heat by going to Northeast China\" — the running joke/complaint of August 2026, when Northeast China, normally the go-to summer-escape region, got hit by record-breaking heat itself, at times running hotter than Guangdong down south.",
-    "meaning_zh": "指2026年8月这轮反常高温里，本该凉爽避暑的中国东北反而热到破纪录，气温一度比广东还高，让原本计划去东北避暑的网友大呼\"失败\"。",
-    "example": "本来订了去哈尔滨的机票避暑，结果那边气温直逼35度，真是去东北避暑失败了。",
-    "example_pinyin": "Běnlái dìng le qù Hā'ěrbīn de jīpiào bìshǔ, jiéguǒ nàbiān qìwēn zhí bī sānshíwǔ dù, zhēnshi qù Dōngběi bìshǔ shībài le.",
-    "example_translation": "I'd booked a flight to Harbin to escape the heat, but it hit nearly 35°C there too — a proper \"failed to escape the heat by going to the Northeast.\"",
-    "context": "In late July/early August 2026 an unusually stubborn subtropical high pushed record heat into Northeast China, a region Chinese tourists normally flee to in summer. Some areas there ran hotter than Guangdong in the deep south, and air-conditioner sales in Liaoning reportedly jumped over 200% year-on-year as locals scrambled to cope. Netizens turned the irony into a stock phrase, \"去X避暑失败\" (\"failed to escape the heat by going to X\"), used specifically for the Northeast this summer as the usual heat-refuge stopped being one.",
-    "category": "meme",
-    "date_added": "2026-08-09",
-    "sources": [
-      {
-        "url": "https://news.qq.com/rain/a/20260804A0C6BY00",
-        "note": "腾讯新闻：“去东北避暑失败”“东北热过广东”，为何今年东北这么热？",
-        "lang": "zh"
-      },
-      {
-        "url": "https://news.china.com/socialgd/10000169/20260729/49640779.html",
-        "note": "中华网：热！网友去东北避暑失败？ 北方同样“热如蒸笼”",
         "lang": "zh"
       }
     ]
@@ -2608,27 +2353,6 @@
     ]
   },
   {
-    "id": "zhongjiangle-doubao",
-    "hanzi": "中奖了",
-    "pinyin": "zhòngjiǎng le",
-    "literal": "won a prize",
-    "meaning": "Not literally winning anything — it's the catchphrase of a short-video genre where creators ask the AI chatbot 豆包 (Doubao) to generate a set of 'lucky numbers' on camera, styled like a 双色球 lottery draw, then react as if they've just won, purely for the suspense-and-reveal hook.",
-    "meaning_zh": "并不是真的中奖，而是一种短视频创作套路的口头禅：博主对着镜头让AI助手\"豆包\"随机生成一组\"幸运数字\"（模仿双色球开奖的形式），然后表演出中奖般的反应，用来制造悬念、吸引点击互动。",
-    "example": "博主又在直播间喊'中奖了中奖了'，其实就是豆包随便给了组数字。",
-    "example_pinyin": "Bózhǔ yòu zài zhíbōjiān hǎn 'zhòngjiǎng le zhòngjiǎng le', qíshí jiùshì Dòubāo suíbiàn gěile zǔ shùzì.",
-    "example_translation": "The streamer's yelling 'I won, I won!' again in the livestream — really it's just Doubao spitting out a random set of numbers.",
-    "context": "An August 2026 short-video trend built around ByteDance's AI assistant 豆包 (Doubao): creators ask it to spit out a run of 'lucky numbers' between 1 and 49, mimicking the format of a 双色球 lottery draw, then film their exaggerated 'I won!' reaction. It's pure content-creation theatre — nobody actually wins anything — playing on viewers' curiosity about luck and numbers to farm engagement.",
-    "category": "meme",
-    "date_added": "2026-08-20",
-    "sources": [
-      {
-        "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801pfqa.html",
-        "note": "新浪新闻：网络热梗“中奖了”火了，发什么数字？跟什么梗？豆包创作者灵感大揭秘",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "bu-jichu",
     "hanzi": "不基础",
     "pinyin": "bù jīchǔ",
@@ -2806,53 +2530,6 @@
     ]
   },
   {
-    "id": "sui-cheng-xiang",
-    "hanzi": "随橙想",
-    "pinyin": "suí chéng xiǎng",
-    "literal": "follow + orange + think (a mishearing of 谁承想, 'who would have thought')",
-    "meaning": "A meme born from singer Wulan Tuya's (乌兰图雅) distinctive Inner Mongolian-accented Mandarin. In a January 2026 interview she said '谁承想，这反而给了我一些鼓励' ('who'd have thought, it actually gave me some encouragement'), but her pronunciation made 谁承想 sound like 随橙想, and 反而/鼓励 sound like 反耳/古力. The mishearing was too charming to let go of, and 随橙想 (often as '可是随橙想呢') is now used as a singsong, jokey way to say 'who'd have guessed' or 'who knows'.",
-    "meaning_zh": "源自歌手乌兰图雅带内蒙古口音的普通话。2026年1月的一次采访中，她说'谁承想，这反而给了我一些鼓励'，但她的口音让'谁承想'听起来像'随橙想'，'反而''鼓励'听起来像'反耳''古力'。这个可爱的口误被网友玩梗传播开来，'随橙想'（以及'可是随橙想呢'）现在被用来俏皮地表达'没想到''谁知道呢'。",
-    "example": "随橙想呢，这次摸鱼居然没被老板发现。",
-    "example_pinyin": "Suí chéng xiǎng ne, zhè cì mōyú jūrán méi bèi lǎobǎn fāxiàn.",
-    "example_translation": "Who'd have thought — this time I slacked off and the boss didn't even notice.",
-    "context": "From a January 2026 interview clip of singer 乌兰图雅 (Wulan Tuya), already known online for a string of earlier mishearing memes tied to her accent (e.g. 躲汉子). Her line '谁承想，这反而给了我一些鼓励' got subtitled by amused netizens as '随橙想，这反耳给了我一些古力' — nonsense syllables that somehow still land as sincere. She leaned into it herself, later recording a navigation-app voice pack using the line '可是随橙想呢' ('but whatever you think'), which cemented it as an affectionate meme rather than mockery.",
-    "category": "meme",
-    "date_added": "2026-08-25",
-    "sources": [
-      {
-        "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801g19c.html",
-        "note": "新浪新闻：乌兰图雅的“随橙想呢”梗是怎么来的？",
-        "lang": "zh"
-      },
-      {
-        "url": "https://news.qq.com/rain/a/20260128A02DPI00",
-        "note": "腾讯新闻：再度翻红的乌兰图雅，成了新的网络抽象圣体",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "fangguo-wo-gei-ni-qiangpi",
-    "hanzi": "放过我给你枪皮",
-    "pinyin": "fàngguò wǒ gěi nǐ qiāng pí",
-    "literal": "spare me, [I'll] give you a gun skin",
-    "meaning": "The in-game name actor Zhang Linghe (张凌赫) used during a February 2026 celebrity exhibition match of the tactical shooter 无畏契约 (Valorant) — 'spare me, I'll give you a weapon skin'. The deadpan mock-pleading tone paired with gamer slang (枪皮 = a cosmetic weapon skin) landed as unexpectedly funny given his usually serious, clean-cut image, and clips of him using it went viral, spawning fan edits and copycat usernames.",
-    "meaning_zh": "演员张凌赫2026年2月参加电竞游戏《无畏契约》明星表演赛时使用的游戏ID——'放过我给你枪皮'。用求饶的语气配上'枪皮'（武器皮肤）这种游戏黑话，反差感十足，因为和他平时严肃的形象很不搭，意外爆红，衍生出大量粉丝二创和模仿改名。",
-    "example": "别杀我，放过我给你枪皮！",
-    "example_pinyin": "Bié shā wǒ, fàngguò wǒ gěi nǐ qiāng pí!",
-    "example_translation": "Don't kill me — spare me and I'll give you a weapon skin!",
-    "context": "Actor 张凌赫 (Zhang Linghe), known for a controlled, serious on-screen image, competed in a celebrity exhibition match of 无畏契约 (Valorant) on 8 February 2026 under this in-game name. The joke plea landed precisely because it clashed with his usual persona; clips of him saying it mid-match spread fast, with fans and other creators borrowing the line and its username format for their own comic effect.",
-    "category": "meme",
-    "date_added": "2026-08-25",
-    "sources": [
-      {
-        "url": "https://k.sina.cn/article_7879776328_1d5abd8480680184rg.html",
-        "note": "新浪新闻：张凌赫的《无畏契约》游戏ID“放过我给你枪皮”有什么含义？",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "niu-lai",
     "hanzi": "牛来",
     "pinyin": "Niú Lái",
@@ -2926,126 +2603,6 @@
     ]
   },
   {
-    "id": "fan-zhendong-zhen-yan-le-relie",
-    "hanzi": "樊振东真演了《热烈》",
-    "pinyin": "Fán Zhèndōng zhēn yǎn le \"Rèliè\"",
-    "literal": "Fan Zhendong really acted in [the film] Blazing",
-    "meaning": "A joke claiming Olympic table-tennis champion Fan Zhendong secretly starred in the dance film 《热烈》(\"Blazing\"). It's pure fabrication: netizens spliced his intense expressions from the Paris Olympics men's singles final together with the film's street-dance training footage, creating the illusion he'd \"crossed over\" into acting. Now also used more generally to say someone's effort or expression looked so dramatic it could be a movie scene.",
-    "meaning_zh": "网友把樊振东在巴黎奥运会男单决赛中的拼搏镜头，与电影《热烈》里街舞少年训练的片段交错剪辑，制造出\"奥运冠军其实客串演了这部电影\"的搞笑错觉——其实他从未参演。现在也被用来调侃某人拼劲十足、\"戏感\"拉满的样子。",
-    "example": "你打游戏这么拼，简直像樊振东真演了《热烈》。",
-    "example_pinyin": "Nǐ dǎ yóuxì zhème pīn, jiǎnzhí xiàng Fán Zhèndōng zhēn yǎn le \"Rèliè\".",
-    "example_translation": "You're going so hard at this game, it's like you actually starred in Blazing.",
-    "context": "2026年8月23日前后在微博、抖音爆火：网友将樊振东在巴黎奥运会男单决赛的拼搏瞬间，与电影《热烈》（黄渤、王一博主演，讲街舞少年逆袭追梦）的训练镜头交错剪辑，营造\"跨界出演\"的幽默错觉，相关话题阅读量超10亿次，成为当年暑期档最大的\"黑马\"梗。",
-    "category": "meme",
-    "date_added": "2026-08-30",
-    "sources": [
-      {
-        "url": "https://k.sina.cn/article_7879996207_1d5af332f06801f928.html",
-        "note": "新浪娱乐：《樊振东真演了《热烈》？奥运冠军成暑期档最大黑马》",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "a-fu-diu-niu",
-    "hanzi": "阿伏丢牛",
-    "pinyin": "Ā fú diū niú",
-    "literal": "a made-up, meaningless transliterated name",
-    "meaning": "The fictional \"wife\" character invented by livestreamer 哪吒哥 (\"Brother Nezha\") — a long-haired woman who always dances with her back to the camera in his virtual background. He spins absurd storylines around her: she owns mansions and yachts, she heroically saves him whenever he's in danger, she does backflips, splits into clones, fights off aliens. The name itself means nothing — it's deliberately nonsensical. Now used to refer to any obviously fake, over-the-top \"abstract\"-humour bit someone has made up.",
-    "meaning_zh": "主播\"哪吒哥\"直播间虚拟背景里一个始终背对镜头跳舞的长发女性形象，被他随口取名\"阿伏丢牛\"并自封为\"老婆\"，名字本身没有实际含义，纯属荒诞捏造。围绕她编出各种离谱剧情：住别墅开游艇、危难时刻舍命相救、倒立、分身、大战外星人等，是\"抽象\"荒诞幽默的代表作。",
-    "example": "别问了，那就是他直播间瞎编的阿伏丢牛，别当真。",
-    "example_pinyin": "Bié wèn le, nà jiùshì tā zhíbōjiān xiā biān de Āfúdiūniú, bié dàngzhēn.",
-    "example_translation": "Don't ask — that's just the made-up \"Afu Diuniu\" from his livestream, don't take it seriously.",
-    "context": "2026年8月，主打\"抽象\"风格的连麦主播\"哪吒哥\"在直播间虚拟背景里放了一个背对镜头跳舞的长发女生形象，随口取名\"阿伏丢牛\"并称她是自己的\"老婆\"兼\"救命恩人\"，配上倒立、分身、打外星人等荒诞剧情，短短几天全网播放量超3亿，连海外网友都在玩，成为当月现象级抽象梗。",
-    "category": "meme",
-    "date_added": "2026-08-30",
-    "sources": [
-      {
-        "url": "https://news.qq.com/rain/a/20260821V0E5UF00",
-        "note": "腾讯新闻：《\"阿伏丢牛\"到底什么梗？短短几天播放超3亿，连老外都在玩》",
-        "lang": "zh"
-      },
-      {
-        "url": "https://baike.baidu.com/item/%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B/68500417",
-        "note": "百度百科词条「阿伏丢牛」",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "sui-cheng-xiang-ne",
-    "hanzi": "随橙想呢",
-    "pinyin": "suí chéng xiǎng ne",
-    "literal": "\"随\" (follow) + \"橙\" (orange, homophone of 承) + \"想\" (think) + \"呢\" — a slurred pun on 谁承想呢 (\"who would've thought\")",
-    "meaning": "A meme phrase born from a mispronunciation, not a fixed piece of vocabulary. Singer Ulan Tuya (乌兰图雅), speaking in her heavy Inner Mongolian accent in an old interview clip, slurred 谁承想呢 (\"who would've thought\") into something that sounds like 随橙想呢. The clip resurfaced when she performed the line live on the variety show 《乘风2026》 in early 2026, and it exploded: netizens turned it into remixes, dubs, and stickers, now dropping it into any story with a wildly unexpected twist.",
-    "meaning_zh": "这不是一个有固定含义的词，而是一个口误梗。歌手乌兰图雅口音浓重，在早年一段采访片段里把\"谁承想呢\"说成了听起来像\"随橙想呢\"的口误。2026年初她在综艺《乘风2026》舞台上主动复现这句话，片段爆火，网友把它做成鬼畜、方言配音和表情包，现在常被用来调侃\"没想到会这样\"的意外剧情。",
-    "example": "这操作也太抽象了，随橙想呢！",
-    "example_pinyin": "Zhè cāozuò yě tài chōuxiàng le, suí chéng xiǎng ne!",
-    "example_translation": "This move is way too absurd — who would've thought!",
-    "context": "Started as an accidental accent slip in an old Ulan Tuya interview, went dormant, then was revived when she leaned into it herself on 《乘风2026》 (Sisters Who Make Waves 2026) with her deadpan \"grassroots singer\" persona — turning a mocked mispronunciation into a self-aware bit that fans now imitate on Douyin.",
-    "category": "meme",
-    "date_added": "2026-08-31",
-    "sources": [
-      {
-        "url": "https://news.qq.com/rain/a/20260116V05R3J00",
-        "note": "腾讯新闻 — 乌兰图雅“随橙想呢”梗溯源与走红经过",
-        "lang": "zh"
-      },
-      {
-        "url": "http://k.sina.com.cn/article_7879776328_1d5abd84806801g19c.html",
-        "note": "新浪新闻 — 解释“随橙想呢”是“谁承想呢”的口音谐音变形",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "dongwu-bian-gaogenxie",
-    "hanzi": "当动物可以变幻成高跟鞋",
-    "pinyin": "dāng dòngwù kěyǐ biànhuàn chéng gāogēnxié",
-    "literal": "when animals can transform into high heels",
-    "meaning": "Not a word with a stable sense — a specific AI-art trend that hit Weibo on 29-30 August 2026. Users fed animals (phoenix, peacock, fox, cat, deer) into AI image generators, turning fur, feathers and silhouettes into high-heel designs. The phoenix version, nicknamed 圣兽 (\"sacred beast\"), was crowned the best for how its tail feathers translated into the shoe. The hashtag racked up hundreds of millions of views within a day, alongside a side debate about whether the aesthetic trivialises animals.",
-    "meaning_zh": "不是一个有固定含义的词，而是2026年8月29-30日席卷微博的一场AI图片创作热潮：网友用AI绘图工具把凤凰、孔雀、狐狸、猫、鹿等动物的毛发纹理和身形轮廓\"变幻\"成高跟鞋设计，其中凤凰款因尾羽效果最惊艳被封为\"圣兽\"。话题一天内阅读量破亿，同时也引发了关于这种审美是否消费动物的争论。",
-    "example": "微博这两天全在刷\"当动物可以变幻成高跟鞋\"，凤凰那款直接封神。",
-    "example_pinyin": "Wēibó zhè liǎng tiān quán zài shuā \"dāng dòngwù kěyǐ biànhuàn chéng gāogēnxié\", fènghuáng nà kuǎn zhíjiē fēngshén.",
-    "example_translation": "Weibo's been flooded with 'when animals turn into high heels' the past two days — the phoenix design got crowned an instant classic.",
-    "context": "A purely grassroots AI-art fad: no brand or celebrity started it, just netizens experimenting with image generators and racing to out-do each other's animal-to-shoe designs, then arguing in the comments over whether it's clever design or a slightly uncomfortable animal-ethics joke.",
-    "category": "meme",
-    "date_added": "2026-08-31",
-    "sources": [
-      {
-        "url": "https://k.sina.com.cn/article_7879776328_1d5abd8480680284ve.html",
-        "note": "新浪新闻 — “当动物可以变幻成高跟鞋”凤凰高跟鞋AI热潮报道，2026年8月30日",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "ni-mei-qiangdao-zenme-lai",
-    "hanzi": "你没抢到你是怎么来的",
-    "pinyin": "nǐ méi qiǎng dào nǐ shì zěnme lái de",
-    "literal": "you didn't grab [a ticket], [so] how did you get here",
-    "meaning": "An unscripted one-liner from singer Wang Junkai (王俊凯) that went viral, not a reusable idiom in the strict sense. At his own concert on 30-31 August 2026, a fan called out \"same, I didn't get a ticket either!\" — and Wang Junkai, confused, blurted \"you didn't get one, so how did you get here?\" The clip blew up for its unscripted, deadpan charm, and because it highlighted just how brutal ticket-grabbing was: roughly 3 million people competing for 16,000 tickets, gone in seconds. Netizens now riff on the line to call out anyone claiming to have something they supposedly failed to get.",
-    "meaning_zh": "不是一个有固定含义的成语，而是一句因走红而被玩梗的临场吐槽。2026年8月30-31日，王俊凯在自己的演唱会上和粉丝互动，一名粉丝说\"太巧了，我也没抢到票\"，王俊凯一脸疑惑地反问\"你没抢到你是怎么来的\"。这段没有剧本的对话因其松弛真实而走红，也侧面反映了演唱会门票\"一票难求\"的现状——约300万人抢1.6万张票，几秒内售罄。网友现在常用这句话调侃别人\"说自己没有却又在场\"的矛盾。",
-    "example": "\"你不也没抢到票吗？\"\"……你没抢到你是怎么来的？\"",
-    "example_pinyin": "\"Nǐ bù yě méi qiǎng dào piào ma?\" \"...Nǐ méi qiǎng dào nǐ shì zěnme lái de?\"",
-    "example_translation": "\"Didn't you also fail to get a ticket?\" \"...Then how did you get here?\"",
-    "context": "Born from a genuinely spontaneous, off-script exchange at Wang Junkai's Chongqing concert — the fan's joke and his confused comeback captured on video, then dissected and re-shared because it doubled as a comment on absurd ticket-scalping odds.",
-    "category": "meme",
-    "date_added": "2026-08-31",
-    "sources": [
-      {
-        "url": "https://ent.sina.cn/2026-08-31/detail-iniqcrzm9461581.d.html?vt=4",
-        "note": "新浪娱乐 — 王俊凯自曝没抢到票，反问粉丝“你怎么来的”",
-        "lang": "zh"
-      },
-      {
-        "url": "https://cj.sina.com.cn/articles/view/7879776328/1d5abd848068025uxg?froms=ggmp",
-        "note": "新浪财经 — 王俊凯演唱会抢票数据（300万人抢1.6万张票）",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "zui-jia-zhuang-tai",
     "hanzi": "最佳状态",
     "pinyin": "zuì jiā zhuàng tài",
@@ -3062,32 +2619,6 @@
       {
         "url": "https://m.gmw.cn/2026-05/08/content_1304448482.htm",
         "note": "光明网：为嘛三十年前的“最佳状态”旧梗又火了",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "chen-sicheng-zai-jia-li-qi-ku-le",
-    "hanzi": "陈思诚在家里气哭了",
-    "pinyin": "Chén Sīchéng zài jiā lǐ qì kū le",
-    "literal": "Chen Sicheng cried at home out of anger",
-    "meaning": "A made-up, tongue-in-cheek headline netizens invented after actor Wang Baoqiang got zero of 101 votes for Best Actor at the 2026 Baihua Awards, for a film directed by Chen Sicheng. Nobody confirmed Chen actually cried — it's pure fan-fiction — but the fake-sympathy scenario captured the collective disbelief at the shock 0-vote result and became a bigger talking point than the awards themselves. Now used generically to flag a result so lopsided or unfair it beggars belief.",
-    "meaning_zh": "2026年第38届百花奖最佳男主角评选中，王宝强意外获得0票，网友由此编造出的段子式热搜——脑补导演陈思诚在家看到结果气得哭了，其实并无实据，纯属网友自娱自乐的调侃。现在常被借用来形容离谱到让人无语的结果。",
-    "example": "裁判这判罚也太离谱了，陈思诚看了都要在家里气哭了。",
-    "example_pinyin": "Cáipàn zhè pànfá yě tài lípǔ le, Chén Sīchéng kàn le dōu yào zài jiā lǐ qì kū le.",
-    "example_translation": "That ref's call was so absurd, even Chen Sicheng would be crying at home over it.",
-    "context": "On 10 August 2026, results for Best Actor at the 38th Baihua Film Awards showed Wang Baoqiang — a beloved grassroots-actor icon, nominated for 唐探1900 (dir. Chen Sicheng) — with 0 of 101 audience-jury votes, while co-star Liu Haoran got just 1. The result read as the industry snubbing a popular everyman actor; netizens mass-produced the joke that director Chen Sicheng must be at home crying with rage on his behalf, and the fictional headline #陈思诚在家里气哭了# itself trended.",
-    "category": "meme",
-    "date_added": "2026-09-01",
-    "sources": [
-      {
-        "url": "https://news.qq.com/rain/a/20260811A00DHN00?ptag=ima",
-        "note": "腾讯新闻：王宝强百花奖获0票引发热议！喜剧演员获奖难，导演陈思诚气哭了",
-        "lang": "zh"
-      },
-      {
-        "url": "https://ent.sina.cn/2026-08-13/detail-inincnuu4810769.d.html?oid=.dmoi&vt=4",
-        "note": "新浪娱乐：王宝强百花奖0票，陈思诚气哭成梗",
         "lang": "zh"
       }
     ]
@@ -3244,58 +2775,6 @@
       {
         "url": "https://m.thepaper.cn/newsDetail_forward_32325443",
         "note": "澎湃新闻《「萝卜纸巾猫」爆火》— news coverage of the meme's spread",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "danzi-fei-dudu",
-    "hanzi": "你的胆子真是肥嘟嘟的啊",
-    "pinyin": "nǐ de dǎnzi zhēnshi féi dūdū de a",
-    "literal": "your guts are really plump-and-chubby, huh",
-    "meaning": "A cutesy way of calling someone out for being bold or overstepping — takes the blunt insult \"胆子真肥\" (\"you've got some nerve\") and softens it with the babytalk reduplication \"肥嘟嘟\" (chubby-wubby), so it reads as an adorable, teasing scolding rather than a real one. Used between friends or fans and idols.",
-    "meaning_zh": "把\"胆子真肥\"这种指责用软萌的叠词\"肥嘟嘟\"包装，变成一种\"狠话软说\"的撒娇式吐槽，多用于朋友间互怼或粉丝调侃偶像。",
-    "example": "敢在我地盘抢单，你胆子真是肥嘟嘟的啊！",
-    "example_pinyin": "Gǎn zài wǒ dìpán qiǎng dān, nǐ dǎnzi zhēnshi féi dūdū de a!",
-    "example_translation": "Daring to swipe an order on my turf — you've got some nerve!",
-    "context": "From a fictional dialogue skit about a Meituan delivery rider nicknamed \"骑手王李东\": a customer asks him to bring cigarettes along with a delivery, he refuses, then agrees once a ¥100 tip is offered — at which point an uninvolved shop owner butts in offering to deliver it himself, and the rider claps back with this line. It spread paired with Meituan's round yellow kangaroo mascot as an avatar/meme, the soft-round shape reinforcing the \"fierce words, said adorably\" contrast, and went viral across the platform in August 2026.",
-    "category": "meme",
-    "date_added": "2026-09-14",
-    "sources": [
-      {
-        "url": "https://ent.sina.cn/2026-08-23/detail-iniphhax0720267.d.html",
-        "note": "新浪娱乐《美团骑手梗「你的胆子真是肥嘟嘟」》— origin and usage explainer",
-        "lang": "zh"
-      },
-      {
-        "url": "https://k.sina.com.cn/article_7879922980_1d5ae152406801k2aw.html",
-        "note": "新浪新闻《这个梗的原始出处是什么？》— traces the fictional dialogue source",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "ye-sheng-gou-nai",
-    "hanzi": "野生狗奶",
-    "pinyin": "yěshēng gǒunǎi",
-    "literal": "wild dog milk",
-    "meaning": "A fictional prank product from a joke video — a fake \"milk\" with an absurd ingredient list and a printed shelf life of \"永久\" (permanent) — that netizens have turned into shorthand for \"eternal\" or \"never-ending,\" as in jokes about things that supposedly outlast time itself.",
-    "meaning_zh": "一款恶搞短视频里虚构的整蛊产品，包装上写着\"保质期：永久\"，被网友玩成了\"永恒\"\"万古长存\"的代名词，常用来夸张地形容某样东西不会过期、永远不变。",
-    "example": "这个手机用了八年还能开机，属于是野生狗奶级别的耐用了。",
-    "example_pinyin": "Zhè ge shǒujī yòng le bā nián hái néng kāijī, shǔyú shì yěshēng gǒunǎi jíbié de nàiyòng le.",
-    "example_translation": "This phone still turns on after eight years — it's wild-dog-milk level durable.",
-    "context": "From a July 2026 prank video by blogger 吴川才子招茂才 (his \"粤西特供\" series), who deadpan-introduces a fake product called \"野生狗奶\" with a nonsense ingredient list (literally printing \"配料：表\" — \"ingredients: table\" — as a joke) and a shelf life listed as \"永久\" (permanent). Netizens ran with the \"permanent\" gag, coining lines like \"万物皆有落幕，唯有狗奶万古长存\" (everything ends, but dog milk lasts forever) and \"时间征服宇宙，却征服不了野生狗奶\" (time conquers the universe but not wild dog milk), and the phrase spread as a stand-in for anything jokingly indestructible or eternal.",
-    "category": "meme",
-    "date_added": "2026-09-14",
-    "sources": [
-      {
-        "url": "https://www.sohu.com/a/1062778865_122827109",
-        "note": "搜狐《全网爆火「野生狗奶」玩梗出圈》— origin and food-safety-law angle",
-        "lang": "zh"
-      },
-      {
-        "url": "https://baike.baidu.com/item/%E9%87%8E%E7%94%9F%E7%8B%97%E5%A5%B6/68477037",
-        "note": "百度百科《野生狗奶》— reference entry on the meme",
         "lang": "zh"
       }
     ]
@@ -3483,32 +2962,6 @@
       {
         "url": "https://www.digitaling.com/articles/1561293.html",
         "note": "数英 (Digitaling)：《2026上半年网络热词TOP30》，青梅牛马列第3位",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "ni-jiushi-zhuzhiwen",
-    "hanzi": "你就是朱之文",
-    "pinyin": "nǐ jiù shì Zhū Zhīwén",
-    "literal": "you are exactly [name: Zhu Zhiwen]",
-    "meaning": "A meme quoting Heze (菏泽) livestreamer 李雪花 (Li Xuehua), who snapped a thickly-accented \"你就是朱之文，这两年不火了，要画面来了是吧？\" (\"You're Zhu Zhiwen — not popular these past couple years, so now you want some camera time?\") at a fan spamming her comment section with the name \"朱之文\". Her over-the-top cadence went viral; in comment sections, nailing an impression of her tone now earns you \"你就是朱之文\" as the top compliment, and the line is also used more loosely as a deadpan way to call out someone chasing attention.",
-    "meaning_zh": "源自菏泽主播李雪花在直播中怒怼刷屏粉丝的方言原声：\"你就是朱之文，这两年不火了，要画面来了是吧？\"，因口音魔性而走红。现常用于评论区——谁模仿她的语气模仿得最像，就会被夸\"你就是朱之文\"，也被泛用来戏谑地指某人在博关注、蹭热度。",
-    "example": "你这鬼畜配音剪得也太像了吧，你就是朱之文！",
-    "example_pinyin": "Nǐ zhè guǐchù pèiyīn jiǎn de yě tài xiàng le ba, nǐ jiù shì Zhū Zhīwén!",
-    "example_translation": "Your parody dub nails her accent so perfectly — you ARE Zhu Zhiwen!",
-    "context": "In March 2026, Heze livestreamer 李雪花 fired off this dialect-heavy line at a comment-spammer, and the clip's cadence spawned thousands of parody dubs and impressions across short-video platforms. Real-life folk singer 朱之文 (nicknamed 大衣哥, \"Brother Overcoat\"), a grassroots star discovered on CCTV's 星光大道 talent show, had his name unwittingly loaned to the meme; he responded good-naturedly, saying he's just an ordinary person who got lucky.",
-    "category": "meme",
-    "date_added": "2026-09-16",
-    "sources": [
-      {
-        "url": "https://view.inews.qq.com/a/20260323A02TI100",
-        "note": "腾讯新闻：《\"你就是朱之文\"成为网络热梗：朱之文本人回应得很淡然》，梗的起源与传播过程",
-        "lang": "zh"
-      },
-      {
-        "url": "https://view.inews.qq.com/a/20260329A034DP00",
-        "note": "腾讯新闻：《大衣哥回应\"你就是朱之文\"热梗：被封南天门大将军确有其事》，朱之文本人回应报道",
         "lang": "zh"
       }
     ]
