@@ -2504,32 +2504,6 @@
     ]
   },
   {
-    "id": "zhengtai-niuyao",
-    "hanzi": "正太扭腰",
-    "pinyin": "zhèngtài niǔyāo",
-    "literal": "cute-boy + twist-waist",
-    "meaning": "A dance-meme trend that swept Chinese social media in July–August 2026: a sharp, on-the-beat waist-twist move set to the song '左边画个虫虫', performed with a boyish, 'shota' (cute young male) energy. It started as one trainee's audition clip and snowballed into a full celebrity re-enactment wave.",
-    "meaning_zh": "2026年7、8月席卷中文互联网的舞蹈热梗：伴随歌曲《左边画个虫虫》做出利落卡点的扭腰动作，带着清纯少年感（'正太'气质）。最初是一位练习生考核视频里的动作，后来演变成明星们竞相模仿翻跳的全网热潮。",
-    "example": "陈伟霆最近也下场跳正太扭腰，全网都在模仿。",
-    "example_pinyin": "Chén Wěitíng zuìjìn yě xiàchǎng tiào zhèngtài niǔyāo, quánwǎng dōu zài mófǎng.",
-    "example_translation": "Chen Weiting jumped in and did the 'zhengtai waist-twist' too — the whole internet is copying it now.",
-    "context": "The move originated from TF家族 fourth-generation trainee 张奕然's performance in a 'Whiplash'-themed dance assessment: his crisp waist-twist paired with a fresh-faced, boyish look created a striking 'cute but sharp' contrast that fans clipped and set to a catchy BGM. Within weeks, established stars like 程潇, 陈伟霆 and 曾舜晞 were filming their own versions, turning it into one of summer 2026's biggest cross-platform dance memes.",
-    "category": "meme",
-    "date_added": "2026-08-18",
-    "sources": [
-      {
-        "url": "https://m.tech.china.com/articles/20260729/202607291928708.html",
-        "note": "中华网：正太扭腰是什么意思？正太扭腰是什么梗？",
-        "lang": "zh"
-      },
-      {
-        "url": "https://k.sina.cn/article_7880068330_1d5b04cea06801brps.html",
-        "note": "新浪娱乐：正太扭腰这个梗最早是怎么流行起来的",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
     "id": "shijie-popolanlan-xiaomao-yuebu-yuelan",
     "hanzi": "世界破破烂烂，小猫越补越烂",
     "pinyin": "shìjiè pòpòlànlàn, xiǎomāo yuè bǔ yuè làn",
@@ -3140,32 +3114,6 @@
       {
         "url": "https://www.woshipm.com/it/6259897.html",
         "note": "人人都是产品经理：主理人贬值史",
-        "lang": "zh"
-      }
-    ]
-  },
-  {
-    "id": "he-yi-wei",
-    "hanzi": "何意味",
-    "pinyin": "hé yì wèi",
-    "literal": "pseudo-Japanese for \"what meaning\"",
-    "meaning": "A faux-Japanese interjection — a garbled version of the Japanese \"何の意味\" — that Chinese netizens use to voice bewildered, mildly sarcastic confusion at something absurd or incomprehensible. Closer in tone to \"...what is that even supposed to mean?\" than a real question. Reportedly leaves actual Japanese speakers confused, since it isn't natural Japanese.",
-    "meaning_zh": "源自日语“何の意味”，被网友讹用简化成“何意味”，用来表达对某件离谱、看不懂的事情的困惑和轻微吐槽，语气介于“这是什么意思”和“这什么鬼”之间，常用在B站、抖音的吐槽评论区。",
-    "example": "他半夜给我发了张自拍配文“何意味”，我是真没看懂。",
-    "example_pinyin": "Tā bànyè gěi wǒ fā le zhāng zìpāi pèi wén \"hé yì wèi\", wǒ shì zhēn méi kàndǒng.",
-    "example_translation": "He sent me a selfie at 2am captioned \"何意味\" — I genuinely didn't get it.",
-    "context": "Picked up from meme stickers tied to the mobile game 魔女的审判 (Magical Girl Witch's Trial), which borrowed the Japanese phrase 何の意味 (\"what meaning\"). Spread as a deadpan reaction caption on Bilibili and Douyin comment sections. Ranked #6 on the official 2025 top-10 internet buzzwords list.",
-    "category": "slang",
-    "date_added": "2026-09-01",
-    "sources": [
-      {
-        "url": "https://baike.baidu.com/item/%E4%BD%95%E6%84%8F%E5%91%B3/67113317",
-        "note": "百度百科：何意味",
-        "lang": "zh"
-      },
-      {
-        "url": "https://news.qq.com/rain/a/20251230A03AP800",
-        "note": "腾讯新闻：2025中国互联网哈哈榜之1：十大网络流行语",
         "lang": "zh"
       }
     ]
