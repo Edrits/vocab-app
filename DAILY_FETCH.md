@@ -91,6 +91,29 @@ game forum's in-joke) that will be gone in a month. Weigh these before adding an
 fills a genuine gap **and** shows real signs of spreading and sticking. If you're unsure, **leave it out
 and revisit later** — if it endures it'll still be there next month, and if it died you never needed it.
 Two rock-solid words (or one) beat a batch padded with three that won't outlive the quarter.
+(The one deliberate exception is the **of-the-moment lane** below — notable, time-stamped items kept
+for documentary value rather than reuse.)
+
+## The "of the moment" lane (category `news`)
+One deliberate **exception** to the endurance bar: genuinely **notable, of-their-time** items — a real
+event, product, or shift — worth recording for **documentary value** even though nobody will "use" them
+as vocabulary in a year. 养龙虾 (the rise of the OpenClaw AI agent), AI税, 无痕撤回 live here. The point
+isn't reuse; it's that knowing it is real cultural literacy about the period — the kind of thing a
+thoughtful year-in-review would mention.
+
+**The notability test — add it only if:**
+- it marks a **real event / product / phenomenon that genuinely mattered** (scale, impact, or a real
+  shift), not just a passing gag;
+- **knowing it tells you something true about now** — tech, society, politics, a platform change;
+- ideally it **named a category or became a lasting handle/nickname** people recognise (养龙虾, 甲亢哥,
+  退钱哥) or was widely reported well beyond the moment.
+
+**Still skip the disposable** — a one-off joke, a single mishap, one streamer's in-joke. Those failed
+the endurance bar and don't clear this one either; the difference is *significance*, not recency.
+
+**Use category `news`** (it renders as "Of the moment" in the app) and **cap the volume** — at most about
+one per batch, a couple a week. This is a spice, not a staple: the deck stays mostly durable vocabulary.
+Time-stamp it clearly in `context` — what happened, when, and why it mattered.
 
 ## Entry schema (every field required)
 ```json
