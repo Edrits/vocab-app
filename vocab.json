@@ -3168,5 +3168,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ba-cao",
+    "hanzi": "拔草",
+    "pinyin": "bácǎo",
+    "literal": "to pull [up] grass",
+    "meaning": "The resolution to 种草 (having a craving \"planted\" in you): either finally buying the thing and satisfying the itch, or deciding it's not worth it and killing the desire outright. Context tells you which — \"拔草了\" after gushing about a product means \"bought it\"; after a bad review, it means \"talked myself out of it\".",
+    "meaning_zh": "“种草”的收尾动作：要么终于买了，把心里种下的购买欲“拔”掉（欲望被满足），要么发现东西没那么好，直接打消购买念头（欲望被消除）。具体是哪种要看上下文——种草时满心期待说“拔草了”通常是买到手了，看了差评后说“拔草了”则是决定不买了。",
+    "example": "看了三个测评之后，我把这个空气炸锅拔草了，不买了。",
+    "example_pinyin": "Kànle sān gè cèpíng zhīhòu, wǒ bǎ zhège kōngqì zháguō bácǎo le, bù mǎi le.",
+    "example_translation": "After watching three reviews, I've talked myself out of that air fryer — not buying it.",
+    "context": "The mirror image of 种草 (\"planting grass\", catching a purchase urge), born in the same beauty-forum-turned-Xiaohongshu recommendation culture. Because 拔草 covers both \"bought it, itch scratched\" and \"decided against it, itch gone\", it only makes sense read alongside whatever came before — which is exactly how netizens use the pair as shorthand for the whole arc of an online purchase decision.",
+    "category": "slang",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/226959644_331495",
+        "note": "搜狐《网络种草是什么意思？网络拔草是什么梗？种草和拔草有什么区别》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/302539914",
+        "note": "知乎问答《拔草的意思？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "an-li",
+    "hanzi": "安利",
+    "pinyin": "ānlì",
+    "literal": "Amway (brand name, repurposed)",
+    "meaning": "To recommend something with real enthusiasm — a show, a snack, an idol, an app — the way an Amway salesperson pitches a product. \"给你安利一下\" (let me put this on you) is the standard opener before someone gushes about their latest obsession.",
+    "meaning_zh": "指热情、真诚地向别人推荐某样东西（剧、零食、爱豆、app等），带有安利传销式推销的那种“逢人就安利”劲头。“给你安利一下”是网友开始安利前的经典开场白。",
+    "example": "求安利！最近有什么好嗑的剧吗？",
+    "example_pinyin": "Qiú ānlì! Zuìjìn yǒu shénme hǎo kē de jù ma?",
+    "example_translation": "Recommendations wanted! Any good dramas to binge lately?",
+    "context": "Borrowed from 安利 (Amway), the American direct-sales company whose door-to-door, friend-recruits-friend pitching style became a byword for enthusiastic, slightly relentless recommending. Chinese internet forums adopted it in the 2010s as a neutral-to-affectionate verb — \"安利\" someone something is a compliment to both the recommender's taste and the thing itself, unlike the pushiness of the original MLM sense.",
+    "category": "slang",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://news.cngold.org/wllxy/c6607305.html",
+        "note": "金投网《“安利”是什么意思-网络流行语》",
+        "lang": "zh"
+      },
+      {
+        "url": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/language/columns/v0m20b/stories/WS5caed3f2a3104842260b5a6d.html",
+        "note": "中国日报双语新闻《每日一词：安利》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bi-lei",
+    "hanzi": "避雷",
+    "pinyin": "bìléi",
+    "literal": "avoid thunder(mine)",
+    "meaning": "A warning to steer clear of a bad product, restaurant, hotel, or experience — the opposite of 种草/安利. A \"避雷帖\" (avoid-the-mine post) shares a disappointing purchase so others don't fall into the same trap.",
+    "meaning_zh": "提醒别人不要踩坑，是“种草”“安利”的反义词。“避雷帖”就是分享自己踩雷（买到/遇到不好的东西）的经历，帮别人避开同样的坑。",
+    "example": "这家民宿真的要避雷，图片和实物完全对不上。",
+    "example_pinyin": "Zhè jiā mínsù zhēn de yào bìléi, túpiàn hé shíwù wánquán duì bú shàng.",
+    "example_translation": "Steer clear of this homestay — nothing like the photos.",
+    "context": "Grew up alongside 种草 as its counterweight on review-heavy platforms like Xiaohongshu and Dianping, giving shoppers a way to warn each other off a \"雷\" (landmine/dud) rather than just praise good finds. It's since become such a fixture of consumer-review culture that commentators now note its overuse — some 避雷帖 have drifted from genuine warnings into outrage bait or, ironically, a tactic for extracting freebies from brands.",
+    "category": "slang",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20241029A02SS100",
+        "note": "腾讯新闻《曾经能帮大忙的避雷贴，如今却活成了网友最讨厌的样子》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_27957476",
+        "note": "澎湃新闻·湃客《全网都是的“避雷帖”，藏着多少坑？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "duo-shou",
+    "hanzi": "剁手",
+    "pinyin": "duòshǒu",
+    "literal": "to chop off [one's] hand",
+    "meaning": "Self-mocking shorthand for compulsive online shopping — \"chopping off your own hand\" so you can't click \"buy\" again. Someone who overspends on shopping festivals like 双十一 (Double Eleven) is a member of the 剁手党 (\"hand-chopping party\").",
+    "meaning_zh": "自嘲式网购失控用语——网购剁手，意思是把自己乱买东西的手“剁掉”，好让自己不能再乱买。热衷网购、尤其是在双十一等购物节疯狂下单的人被称为“剁手党”。",
+    "example": "双十一购物车清空了，感觉自己又要剁手了。",
+    "example_pinyin": "Shuāng shíyī gòuwùchē qīngkōng le, gǎnjué zìjǐ yòu yào duòshǒu le.",
+    "example_translation": "Cleared out my Double Eleven cart — feels like I'm about to go broke shopping again.",
+    "context": "Often traced to Jin Yong's novel 《射雕英雄传》, where the beggar-hero 洪七公 cuts off his own finger to break a bad habit; netizens repurposed the image for shopaholics as Chinese e-commerce and shopping festivals like 双十一 (Singles' Day) took off in the early 2010s. \"剁手党\" made 《咬文嚼字》's 2015 top-ten catchphrases list and has stayed durable ever since as the standard self-deprecating label for post-spree regret.",
+    "category": "slang",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%89%81%E6%89%8B%E6%97%8F/3888206",
+        "note": "百度百科「剁手族」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_1409138",
+        "note": "澎湃新闻《剁手党、网红入选“十大流行语”，“然并卵”为什么落选？》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
