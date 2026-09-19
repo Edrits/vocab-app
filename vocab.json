@@ -3064,5 +3064,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "su-chao",
+    "hanzi": "苏超",
+    "pinyin": "Sū Chāo",
+    "literal": "Su(zhou/Jiangsu) super [league]",
+    "meaning": "Shorthand for the Jiangsu Province City Football League (江苏省城市足球联赛), a mixed pro/amateur tournament between Jiangsu's 13 cities that turned into a nationwide sensation in 2025. \"苏超\" now stands for the whole cultural phenomenon — the matches, the city-rivalry trash talk, the memes — not just the sport itself.",
+    "meaning_zh": "\"江苏省城市足球联赛\"的简称，2025年爆红的全民现象级赛事。江苏13个地级市组队踢球，票价低、直播免费，把地域间互怼的\"散装江苏\"文化变成了全国津津乐道的网络热梗，\"苏超\"也从赛事名称变成了这场全民狂欢的代称。",
+    "example": "这周末苏超又开赛了，南京和常州这对老对手又要在评论区打起来了。",
+    "example_pinyin": "Zhè zhōumò Sū Chāo yòu kāisài le, Nánjīng hé Chángzhōu zhè duì lǎo duìshǒu yòu yào zài pínglùnqū dǎ qǐlái le.",
+    "example_translation": "Su Chao kicks off again this weekend — Nanjing and Changzhou, old rivals, are about to go at it in the comments again.",
+    "context": "Officially the 江苏省城市足球联赛, launched in 2025 as a low-stakes tournament mixing professional and amateur players from Jiangsu's 13 cities. It went viral not for the football but for the memes: cities roasting each other's history and stereotypes (\"散装江苏\", Jiangsu's running joke about its own lack of unity), Changzhou's early losing streak spawning a bit where netizens jokingly \"remove strokes\" from the city's name, and local government social-media accounts joining the trash-talk themselves. Named one of 2025's top ten catchphrases by language magazine 《咬文嚼字》.",
+    "category": "news",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://www.21jingji.com/article/20251202/herald/e90fa8acd9298d788133314ff3059625.html",
+        "note": "21经济网《咬文嚼字》发布2025年十大流行语——苏超上榜",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.news.cn/sports/20250613/8edc57e72ad748d7bbbfdca8a4f15d88/c.html",
+        "note": "新华网《拆解现象级话题“苏超”热的底层逻辑》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ju-shen-zhi-neng",
+    "hanzi": "具身智能",
+    "pinyin": "jùshēn zhìnéng",
+    "literal": "possess-body intelligence",
+    "meaning": "\"Embodied intelligence\": AI with a physical body — a humanoid robot, say — that learns by sensing and acting in the real world, as opposed to \"disembodied\" AI like a chatbot that only processes text. It's become the go-to term whenever people talk about humanoid robots, robot dogs, or the current robotics boom.",
+    "meaning_zh": "指拥有物理身体、能通过与真实环境互动来感知、学习和行动的人工智能（比如人形机器人），区别于像DeepSeek、豆包这类只能处理文字、没有实体的\"离身智能\"。2025年被写入政府工作报告，成为讨论机器人和AI产业时绕不开的关键词。",
+    "example": "现在满大街都在聊具身智能，人形机器人送外卖都算不上新闻了。",
+    "example_pinyin": "Xiànzài mǎn dàjiē dōu zài liáo jùshēn zhìnéng, rénxíng jīqìrén sòng wàimài dōu suàn bu shàng xīnwén le.",
+    "example_translation": "Everyone's talking about embodied intelligence these days — a humanoid robot delivering takeout isn't even news anymore.",
+    "context": "A robotics research term, not originally netizen slang, that broke into everyday conversation in 2025 as viral humanoid-robot demos multiplied and the phrase was written into China's government work report as a priority future industry alongside biomanufacturing and quantum tech. Named one of 2025's top ten catchphrases by 《咬文嚼字》, marking the year \"robots with bodies\" became ordinary dinner-table conversation rather than science fiction.",
+    "category": "social",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://www.21jingji.com/article/20251202/herald/e90fa8acd9298d788133314ff3059625.html",
+        "note": "21经济网《咬文嚼字》发布2025年十大流行语——具身智能上榜",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.news.cn/finance/20251023/b743d45528a14473867f73c398397924/c.html",
+        "note": "新华网《什么是“具身智能”? 和人形机器人有什么关系？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shu-zi-you-min",
+    "hanzi": "数字游民",
+    "pinyin": "shùzì yóumín",
+    "literal": "digital nomad-people",
+    "meaning": "\"Digital nomad\" — someone who works entirely online and isn't tied to a fixed office, so they work from wherever: a different city, a café, a co-living space abroad. Names the lifestyle of chasing geographic freedom instead of a desk.",
+    "meaning_zh": "指完全依靠互联网远程赚取收入、不受固定办公地点束缚的人群，常在不同城市甚至国家之间流动办公，追求工作与生活的动态平衡，是一种类似\"游牧民\"的生活状态。",
+    "example": "他辞职去大理当数字游民了，白天写代码，晚上去洱海边发呆。",
+    "example_pinyin": "Tā cízhí qù Dàlǐ dāng shùzì yóumín le, báitiān xiě dàimǎ, wǎnshàng qù Ěrhǎi biān fādāi.",
+    "example_translation": "He quit his job to become a digital nomad in Dali — coding by day, staring at the lake by night.",
+    "context": "Translated from the English \"digital nomad\" (a term coined in the 1990s), but only became everyday Chinese vocabulary as remote work normalised post-2020 and nomad hubs sprang up in places like Dali and Chiang Mai. Named one of 2025's top ten catchphrases by 《咬文嚼字》, cited as reflecting how AI-era work is decoupling from fixed offices and hours.",
+    "category": "social",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://www.21jingji.com/article/20251202/herald/e90fa8acd9298d788133314ff3059625.html",
+        "note": "21经济网《咬文嚼字》发布2025年十大流行语——数字游民上榜",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91",
+        "note": "维基百科「数字游民」词条",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "kong-yi-ji-de-chang-shan",
+    "hanzi": "孔乙己的长衫",
+    "pinyin": "Kǒng Yǐjǐ de chángshān",
+    "literal": "Kong Yiji's long gown",
+    "meaning": "A metaphor for graduates who feel too \"educated\" to take a manual or low-status job, but whose degree doesn't get them a well-paid white-collar one either — stuck refusing to \"take off the long gown\" of their credentials even as it holds them back. Used both sympathetically (describing the real bind) and as self-deprecating humour by young jobseekers themselves.",
+    "meaning_zh": "源自鲁迅小说《孔乙己》，比喻当代年轻人把学历当作身份象征，即使找不到匹配学历的工作，也放不下面子去做体力活或\"低端\"工作，像穷酸秀才孔乙己脱不下那件象征读书人身份的长衫一样。常用于讨论就业焦虑，也被年轻人自嘲使用。",
+    "example": "读了四年新闻系，现在送外卖，总觉得脱不下这件孔乙己的长衫。",
+    "example_pinyin": "Dúle sì nián xīnwén xì, xiànzài sòng wàimài, zǒng juéde tuō bù xià zhè jiàn Kǒng Yǐjǐ de chángshān.",
+    "example_translation": "Four years of journalism school, and now I'm delivering takeout — I can't quite bring myself to take off this Kong Yiji long gown.",
+    "context": "Sparked in March 2023 when a CCTV commentary piece urging graduates to \"take off the long gown\" and accept ordinary jobs went viral, drawing a backlash from young jobseekers who felt it blamed them for a tight labour market rather than the market itself. Kong Yiji, from Lu Xun's 1919 short story, is a failed scholar too proud to give up his gentry-class gown even in poverty. Still a standard reference three years on whenever Chinese media or netizens discuss graduate underemployment.",
+    "category": "social",
+    "date_added": "2026-09-19",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%AD%94%E4%B9%99%E5%B7%B1%E7%9A%84%E9%95%BF%E8%A1%AB/62781557",
+        "note": "百度百科「孔乙己的长衫」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/652250711_121448078",
+        "note": "搜狐【梗研究】《\"脱下了孔乙己的长衫\"是什么梗？》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
