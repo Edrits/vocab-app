@@ -3391,5 +3391,119 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "i-ren-e-ren",
+    "hanzi": "i人 / e人",
+    "pinyin": "i rén / e rén",
+    "literal": "I (introvert) person / E (extrovert) person",
+    "meaning": "Introvert / extrovert, borrowed from MBTI letters. A lighter, jokier way to describe your social energy and boundaries than the plain words 内向/外向 — used for self-labelling ('I'm a hardcore i人, don't make me talk at the party'), matchmaking-style small talk, and memes about i人 hiding and e人 dragging them out.",
+    "meaning_zh": "源自MBTI人格测试：i人指内向型的人，e人指外向型的人。比“内向”“外向”更轻松俏皮，常用来给自己贴标签、说明社交边界，或调侃i人怕社交、e人热情过头。",
+    "example": "我是纯纯的i人，聚会让我坐角落就行，别让我自我介绍。",
+    "example_pinyin": "Wǒ shì chúnchún de i rén, jùhuì ràng wǒ zuò jiǎoluò jiù xíng, bié ràng wǒ zìwǒ jièshào.",
+    "example_translation": "I'm a total introvert — just let me sit in the corner at the party, don't make me introduce myself.",
+    "context": "MBTI personality tests swept Korean and then Chinese social media around 2022, and the first letter (I/E) broke out of the test into everyday speech. By 2023 '你是i人还是e人？' had become a standard icebreaker, and it spawned a whole genre of memes (i人 hiding in lifts to avoid neighbours, e人 befriending the delivery rider). Mainstream outlets from The Paper to the Ministry of Education's student site have written it up. It endures because it names a real, constantly needed distinction in a playful, low-stakes way, and it combines productively (i人狂喜, e人社交, 装e的i人).",
+    "category": "social",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/i%E4%BA%BAe%E4%BA%BA/63015686",
+        "note": "百度百科：i人e人（网络用语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_24912052",
+        "note": "澎湃新闻：“你是i人还是e人？”成开场白，如何正确理解人格？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://dxs.moe.gov.cn/zx/a/xl_xlyz_xlzs/240520/1885801.shtml",
+        "note": "中国大学生在线：E人还是I人？做自己！",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhen-xiang",
+    "hanzi": "真香",
+    "pinyin": "zhēn xiāng",
+    "literal": "really fragrant / tastes so good",
+    "meaning": "Used when someone swears they'll never do or like something, then happily does exactly that — a sweet, self-mocking U-turn. Unlike 打脸 (humiliating face-slap), 真香 stresses that the reversal turned out to be enjoyable. Often extended as 真香定律 ('the law of 真香').",
+    "meaning_zh": "形容一个人先信誓旦旦说绝不做某事，后来却自己打脸、做了相反的事，而且还很享受。比“打脸”更强调态度反转后的愉悦感，也叫“真香定律”。",
+    "example": "说好再也不买盲盒了，结果新系列一出……真香。",
+    "example_pinyin": "Shuō hǎo zài yě bù mǎi mánghé le, jiéguǒ xīn xìliè yì chū……zhēn xiāng.",
+    "example_translation": "I swore I'd never buy another blind box, then the new series came out… so worth it, honestly.",
+    "context": "From Hunan TV's reality show 《变形记》 (2014): city teenager 王境泽, sent to live with a rural family, declared he'd rather starve to death than eat a single thing of theirs — and was filmed hours later tucking into fried rice saying 'mm, 真香'. The clip went viral as a meme around 2018 and has since detached from its origin: it now covers any cheerful reversal, from products to people to games. Banyuetan (半月谈) wrote about it as a lasting cultural shorthand, and it's one of the most durable memes of the late-2010s internet.",
+    "category": "meme",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%9C%9F%E9%A6%99/22700736",
+        "note": "百度百科：真香（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.banyuetan.org/wh/detail/20191107/1000200033136031573093480594062068_1.html",
+        "note": "半月谈：“真香”里的反转与新生",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "she-kong",
+    "hanzi": "社恐",
+    "pinyin": "shè kǒng",
+    "literal": "social + fear (short for 社交恐惧症)",
+    "meaning": "Originally short for social anxiety disorder, but online it's a casual, self-deprecating label for disliking or dreading social interaction — making phone calls, greeting neighbours, forced small talk at gatherings. Often less about fear than about refusing pointless socialising. Its opposite is 社牛 (social butterfly).",
+    "meaning_zh": "“社交恐惧症”的简称，原是心理学名词。网络上泛化为年轻人对自己害怕、逃避社交状态的调侃，比如不敢打电话、怕在电梯遇到熟人，也常表示不愿进行无效社交。反义为“社牛”。",
+    "example": "作为资深社恐，外卖我都备注“放门口，别敲门”。",
+    "example_pinyin": "Zuòwéi zīshēn shèkǒng, wàimài wǒ dōu bèizhù “fàng ménkǒu, bié qiāo mén”.",
+    "example_translation": "As a seasoned social-phobe, I always add a note on my takeaway orders: 'leave it at the door, don't knock'.",
+    "context": "The clinical term 社交恐惧症 got shortened and turned into a lifestyle label on Weibo and Douban from the late 2010s, peaking around 2021–22 when state media (Guangming Daily, People's Daily Health, China News) ran pieces asking 'are you really 社恐?' and warning that it had become a catch-all excuse. It paired off with 社牛 and 社死 (already in the deck) into a whole 社X family, and sits naturally alongside i人. Durable because it names an everyday feeling in a word everyone recognises.",
+    "category": "social",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "http://www.chinanews.com.cn/sh/2022/04-07/9722164.shtml",
+        "note": "中新网：社恐是个筐，不想做的事都往里装？究竟什么是社恐",
+        "lang": "zh"
+      },
+      {
+        "url": "https://epaper.gmw.cn/gmrb/html/2021-10/24/nw.D110000gmrb_20211024_1-06.htm",
+        "note": "光明日报：你，真的“社恐”吗",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/202109/09/WS6139abd1a310efa1bd66e68b.html",
+        "note": "China Daily: how to say 社恐 in English",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "qi-ren-you-tian",
+    "hanzi": "杞人忧天",
+    "pinyin": "qǐ rén yōu tiān",
+    "literal": "a man of Qi worries (that) the sky (will fall)",
+    "meaning": "Needless, groundless worry; fretting over things that will never happen. Online it's a gentle put-down for overthinking or catastrophising, and a self-aware tag for anxious 内耗 spirals.",
+    "meaning_zh": "比喻不必要的、毫无根据的忧虑。网上常用来劝人别想太多，或自嘲自己过度焦虑、精神内耗。",
+    "example": "还没面试就担心试用期被开，你这纯属杞人忧天。",
+    "example_pinyin": "Hái méi miànshì jiù dānxīn shìyòngqī bèi kāi, nǐ zhè chúnshǔ qǐ rén yōu tiān.",
+    "example_translation": "You haven't even had the interview and you're already worried about being sacked in probation — that's pure needless worrying.",
+    "context": "From the Daoist text 《列子·天瑞》: a man from the state of Qi was so afraid the sky would collapse and the earth give way that he couldn't eat or sleep, until a friend explained the sky is just accumulated air and the earth just packed soil. In comment sections it pairs naturally with modern anxiety vocabulary like 内耗 and 精神状态 — someone posts a worst-case spiral and replies say 杞人忧天 or 别杞人忧天了. Occasionally used positively to defend foresight ('this isn't 杞人忧天, it's 忧患意识').",
+    "category": "chengyu",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%9E%E4%BA%BA%E5%BF%A7%E5%A4%A9",
+        "note": "维基百科：杞人忧天",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.gushiwen.cn/shiwenv_db9c5e1ca3f2.aspx",
+        "note": "古诗文网：《列子·杞人忧天》原文、翻译",
+        "lang": "zh"
+      }
+    ]
   }
 ]
