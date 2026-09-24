@@ -3272,5 +3272,124 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ning-meng-jing",
+    "hanzi": "柠檬精",
+    "pinyin": "níngméng jīng",
+    "literal": "lemon + spirit/demon (a lemon that has become a sprite)",
+    "meaning": "Someone eaten up with envy — 'sour' like a lemon at others' looks, money, relationships or luck. Once a jibe at others, it's now mostly used self-deprecatingly: 'I'm such a lemon' = I'm jealous (but in a joking, admiring way). Spawns 我酸了 ('I've gone sour') and 酸了酸了.",
+    "meaning_zh": "形容爱嫉妒、看到别人好就心里“酸溜溜”的人。最初用来嘲讽别人，后来贬义淡化，多用于自嘲，表达对别人外貌、财富、感情等方面的羡慕，常与“我酸了”连用。",
+    "example": "看到室友的男朋友又送花，我这个柠檬精酸了一整晚。",
+    "example_pinyin": "Kàndào shìyǒu de nánpéngyou yòu sòng huā, wǒ zhège níngméng jīng suānle yī zhěng wǎn.",
+    "example_translation": "Seeing my flatmate's boyfriend bring her flowers again, lemon-sprite me stayed sour all evening.",
+    "context": "Chinese has long used 吃醋 / 酸 ('eating vinegar', 'sour') for jealousy; 柠檬精 updates the metaphor. It started in esports fan circles, then exploded in January 2019 via a Weibo post listing 'the four essences of humankind: 鸽子精 (the flake), 柠檬精, 复读机 (the parrot) and 真香怪 (the U-turner)'. Lemon emoji 🍋 and 'lemon tree' memes followed, and it was named one of the 国家语言资源监测与研究中心's top ten internet terms of 2019. Its survival owes to the shift from insult to cheerful self-mockery.",
+    "category": "slang",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%9F%A0%E6%AA%AC%E7%B2%BE/23270565",
+        "note": "百度百科：柠檬精（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/883417770_267471",
+        "note": "搜狐：“柠檬精”流行语解码——羡慕与自嘲心理",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dian-zi-zha-cai",
+    "hanzi": "电子榨菜",
+    "pinyin": "diànzǐ zhàcài",
+    "literal": "electronic + pickled mustard tuber (the cheap relish eaten with rice)",
+    "meaning": "The video, drama or clip you put on to eat a meal with — background viewing that 'helps the rice go down', the way zhacai does. Typical examples: film-recap channels, mukbangs, carpet-cleaning videos, or rewatching 甄嬛传 / 武林外传 for the hundredth time.",
+    "meaning_zh": "指吃饭时看的视频、剧集或文章，像榨菜一样“下饭”。常见的有影视解说、吃播、洗地毯视频、反复重温的经典剧（如《甄嬛传》《武林外传》）等，不找个合适的看就吃不香。",
+    "example": "外卖到了，快帮我找个电子榨菜，没视频我吃不下饭。",
+    "example_pinyin": "Wàimài dào le, kuài bāng wǒ zhǎo gè diànzǐ zhàcài, méi shìpín wǒ chī bù xià fàn.",
+    "example_translation": "The takeaway's here — quick, find me something to watch; I can't eat without a video on.",
+    "context": "榨菜 is the humble salty pickle that makes plain rice palatable, so '电子' + 榨菜 names the screen equivalent. The term spread through 2022 among young people eating alone at desks or in flats, and became a talking point about solo dining and attention (media pieces asked whether an 'efficiency tyranny' makes people unable to just eat). It was named one of the 2022 中国媒体十大流行语 announced by the Ministry of Education and 国家语委, and fed a whole '电子XX' pattern (电子宠物, 电子木鱼…).",
+    "category": "social",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C/62063038",
+        "note": "百度百科：电子榨菜词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.jiemian.com/article/8545079.html",
+        "note": "界面新闻：效率暴政催生“电子榨菜”",
+        "lang": "zh"
+      },
+      {
+        "url": "http://politics.people.com.cn/n1/2023/0109/c1001-32602236.html",
+        "note": "人民网：年度热词，生动记录社会生活",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lian-ai-nao",
+    "hanzi": "恋爱脑",
+    "pinyin": "liàn'ài nǎo",
+    "literal": "romance + brain",
+    "meaning": "A love-obsessed mindset: someone who, once in a relationship, puts the partner above everything — career, friends, self-respect — and will make any sacrifice or excuse for them. Used as a criticism, a warning to friends ('don't be so 恋爱脑'), or self-mockingly.",
+    "meaning_zh": "一种“爱情至上”的思维模式，指一谈恋爱就把全部精力和心思放在对方身上，为了感情不惜放弃事业、朋友甚至底线的人。多用于批评或劝诫，也可用来自嘲。",
+    "example": "他为了女朋友连offer都不要了，真是恋爱脑晚期。",
+    "example_pinyin": "Tā wèile nǚpéngyou lián offer dōu bù yào le, zhēn shì liàn'ài nǎo wǎnqī.",
+    "example_translation": "He turned down a job offer for his girlfriend — terminal case of love-brain.",
+    "context": "Took off around 2019–2022 on Weibo, Douyin and 小红书, where the hashtag has hundreds of millions of reads and Douyin videos on it tens of billions of views. It became the go-to label in drama fandom (heroines who give up everything for the male lead) and in relationship advice, and spawned a whole 'anti-恋爱脑' genre: warnings, 'cure your love-brain' courses and even businesses built on it. It sits in the same family as 边界感 and 情绪价值 — young people auditing what a relationship should cost them.",
+    "category": "social",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%81%8B%E7%88%B1%E8%84%91/22067582",
+        "note": "百度百科：恋爱脑（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.ce.cn/culture/gd/202307/17/t20230717_38634211.shtml",
+        "note": "中国经济网：“恋爱脑”是病，得治？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://hb.dzwww.com/p/p1ZsHEA2x6.html?f=00000v&r=phHZ",
+        "note": "海报新闻：反“恋爱脑”为何火遍全网",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhi-shang-tan-bing",
+    "hanzi": "纸上谈兵",
+    "pinyin": "zhǐ shàng tán bīng",
+    "literal": "on paper + discuss + warfare",
+    "meaning": "All theory, no practice — talking a great game from books or plans but unable to deliver when it counts. Used of armchair experts, untested plans, and people who've never actually done the thing.",
+    "meaning_zh": "在纸面上谈论用兵打仗，比喻空谈理论，不能解决实际问题，或只会照搬书本、不懂变通。",
+    "example": "评论区一堆人纸上谈兵，真让他们上场估计第一轮就被淘汰。",
+    "example_pinyin": "Pínglùnqū yī duī rén zhǐ shàng tán bīng, zhēn ràng tāmen shàngchǎng gūjì dì-yī lún jiù bèi táotài.",
+    "example_translation": "The comments are full of armchair generals — put them on the pitch and they'd be out in round one.",
+    "context": "From the story of Zhao Kuo (赵括) in 《史记·廉颇蔺相如列传》: son of the famous Zhao general Zhao She, he could out-argue even his father on military texts, but when he replaced Lian Po as commander he followed the books rigidly and led Zhao to catastrophic defeat by Qin at Changping (260 BC). Sima Qian never wrote the four characters themselves — the chengyu crystallised much later, around the Ming–Qing. Online it's a stock put-down for comment-section experts (键盘侠), 'strategy' threads and 攻略 that collapse on contact with reality, often paired with 实践出真知.",
+    "category": "chengyu",
+    "date_added": "2026-09-24",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/%E7%BA%B8%E4%B8%8A%E8%B0%88%E5%85%B5",
+        "note": "汉典：纸上谈兵词条解释",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E7%BA%B8%E4%B8%8A%E8%B0%88%E5%85%B5/85581",
+        "note": "百度百科：纸上谈兵（成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.lingoace.com/zh/blog/Idiom-Story-Chapter6%22On-Paper-Soldiers%22-cn/",
+        "note": "LingoAce：纸上谈兵典故见于《史记·廉颇蔺相如列传》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
