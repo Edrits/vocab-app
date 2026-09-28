@@ -3505,5 +3505,114 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chi-gua",
+    "hanzi": "吃瓜",
+    "pinyin": "chī guā",
+    "literal": "eat · melon (originally melon seeds)",
+    "meaning": "To watch a scandal or drama unfold as a bystander without getting involved — the online equivalent of grabbing popcorn. The spectator is a 吃瓜群众 ('melon-eating masses'), and the gossip itself becomes the 瓜: 有瓜 (there's gossip), 大瓜 (a huge scandal), 瓜保熟吗? (is this gossip legit?).",
+    "meaning_zh": "指在网上围观热点事件、八卦或他人纠纷，只看热闹、不发表意见也不参与，类似英语里的“吃爆米花看戏”。围观者叫“吃瓜群众”，八卦本身则被称为“瓜”，如“有大瓜”“这瓜保熟吗”。",
+    "example": "他俩又在评论区吵起来了，我先搬个小板凳吃瓜。",
+    "example_pinyin": "Tā liǎ yòu zài pínglùnqū chǎo qǐlái le, wǒ xiān bān gè xiǎo bǎndèng chī guā.",
+    "example_translation": "Those two are at it again in the comments — I'm pulling up a stool to watch the drama.",
+    "context": "Grew out of forum culture, where a post would fill up with onlookers chatting idly beneath it; people began calling them 不明真相的吃瓜群众 ('the melon-eating masses who don't know the truth'), a riff on the stock news phrase 不明真相的群众. The 瓜 was originally melon seeds (瓜子), the classic snack of theatre audiences, but the emoji and memes soon turned it into watermelon. 吃瓜群众 made 《咬文嚼字》's top-ten buzzwords for 2016 and the Ministry of Education's 2016 top-ten internet terms, and a decade on it's thoroughly mainstream — every celebrity scandal on Weibo hot search is 'a melon'.",
+    "category": "slang",
+    "date_added": "2026-09-28",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%90%83%E7%93%9C%E7%BE%A4%E4%BC%97/19902553",
+        "note": "百度百科「吃瓜群众」词条：含义与论坛起源",
+        "lang": "zh"
+      },
+      {
+        "url": "https://china.zjol.com.cn/ktx/201707/t20170719_4590737.shtml",
+        "note": "浙江在线：官方发布2016十大网络用语，吃瓜群众入选",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "fo-xi",
+    "hanzi": "佛系",
+    "pinyin": "fó xì",
+    "literal": "Buddha · type/style",
+    "meaning": "Zen-like and unbothered: not competing, not striving, taking whatever comes. Attaches to anything — 佛系青年 (chilled-out youth), 佛系追星 (a fan who doesn't fight in fandom wars), 佛系考研 (sitting a postgrad exam without stressing). Can be a sincere life stance or a self-mocking cover for having given up.",
+    "meaning_zh": "形容一种不争不抢、不苛求、看淡一切、随遇而安的生活态度，“都行、可以、没关系”。常作前缀构词，如“佛系青年”“佛系追星”“佛系养娃”，既可真心表示心态平和，也常带自嘲意味。",
+    "example": "这次比赛我就佛系参加，拿不拿奖都无所谓。",
+    "example_pinyin": "Zhè cì bǐsài wǒ jiù fóxì cānjiā, ná bù ná jiǎng dōu wúsuǒwèi.",
+    "example_translation": "I'm doing this competition the zen way — prize or no prize, I don't mind.",
+    "context": "Borrowed from a 2014 Japanese magazine feature on 佛系男子 (\"Buddha-type men\" who prefer their own company to dating). The Chinese version exploded in December 2017 when an article about 佛系青年 swept WeChat Moments, and it made 《咬文嚼字》's top-ten buzzwords for 2018. It's the older sibling of 躺平 and 摆烂: commentators read all three as young people's response to exhausting competition, but 佛系 is the gentlest of the three — serene rather than defeated.",
+    "category": "social",
+    "date_added": "2026-09-28",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%BD%9B%E7%B3%BB/22257892",
+        "note": "百度百科「佛系」词条：含义与日本杂志起源",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.rmzxw.com.cn/c/2018-12-07/2235926.shtml",
+        "note": "人民政协网：话说流行语“佛系”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.rmlt.com.cn/2019/0115/537416.shtml",
+        "note": "人民论坛网：“佛系”现象缘何而生",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xia-tou",
+    "hanzi": "下头",
+    "pinyin": "xià tóu",
+    "literal": "down · head (opposite of 上头, 'going to your head')",
+    "meaning": "A total turn-off; the moment someone or something kills the mood and your enthusiasm drains away. Most often used of cringe behaviour in dating — a 下头男 / 下头女 is someone whose words or actions instantly put you off — but works for any buzzkill.",
+    "meaning_zh": "指某人或某事让人扫兴、反感、瞬间失去好感，情绪从兴奋“降温”。是“上头”（令人兴奋、着迷）的反义词。常用于约会、感情场景，如“下头男”“太下头了”。",
+    "example": "约会时他一直在炫自己的车，真的好下头。",
+    "example_pinyin": "Yuēhuì shí tā yīzhí zài xuàn zìjǐ de chē, zhēn de hǎo xiàtóu.",
+    "example_translation": "He kept showing off about his car the whole date — such a turn-off.",
+    "context": "Formed by simple analogy from 上头, the slang for being hooked or giddy (like alcohol going to your head): if 上头 is the rush, 下头 is the comedown. Baidu Baike traces its spread to a late-2019 social-media post by actor Li Xian (李现); it took off on Weibo and Xiaohongshu in dating talk, spawning 下头男 and endless '下头行为大赏' lists of red-flag behaviour. Now an everyday word for 'ick'.",
+    "category": "slang",
+    "date_added": "2026-09-28",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%8B%E5%A4%B4/59141587",
+        "note": "百度百科「下头（网络用语）」词条：含义与出处",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%8B%E5%A4%B4%E7%94%B7/59870148",
+        "note": "百度百科「下头男」词条",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gua-tian-li-xia",
+    "hanzi": "瓜田李下",
+    "pinyin": "guā tián lǐ xià",
+    "literal": "melon field · plum tree beneath",
+    "meaning": "A situation that invites suspicion, where it's wise to steer clear even if you're innocent. Used to say someone should avoid the appearance of impropriety — e.g. an official, a judge, or a celebrity seen in compromising circumstances.",
+    "meaning_zh": "比喻容易引起嫌疑的场合或处境。提醒人即使清白，也应主动避嫌，不要置身于容易被人误会的环境中。",
+    "example": "他是评委，又跟选手单独吃饭，瓜田李下，难免被人议论。",
+    "example_pinyin": "Tā shì píngwěi, yòu gēn xuǎnshǒu dāndú chīfàn, guātián-lǐxià, nánmiǎn bèi rén yìlùn.",
+    "example_translation": "He's a judge and he went to dinner alone with a contestant — that's asking for suspicion, so of course people are talking.",
+    "context": "From the ancient ballad 《君子行》 (often attributed to Cao Zhi): 瓜田不纳履，李下不整冠 — 'in a melon field, don't stoop to fix your shoe; under a plum tree, don't raise your hand to straighten your hat', lest you look like a thief. Online it pairs naturally with 吃瓜: when a scandal breaks, comment sections split between the 吃瓜群众 and those scolding the person involved for not knowing to 避嫌 in a 瓜田李下 situation.",
+    "category": "chengyu",
+    "date_added": "2026-09-28",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/%E7%93%9C%E7%94%B0%E6%9D%8E%E4%B8%8B",
+        "note": "汉典「瓜田李下」词语解释",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E7%93%9C%E7%94%B0%E4%B8%8D%E7%BA%B3%E5%B1%A5%EF%BC%8C%E6%9D%8E%E4%B8%8B%E4%B8%8D%E6%95%B4%E5%86%A0/4324311",
+        "note": "百度百科「瓜田不纳履，李下不整冠」：出自《君子行》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
