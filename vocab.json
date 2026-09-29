@@ -3614,5 +3614,119 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "gang-jing",
+    "hanzi": "杠精",
+    "pinyin": "gàng jīng",
+    "literal": "抬杠 argue-for-the-sake-of-it + 精 spirit/demon",
+    "meaning": "A compulsive contrarian: someone who contradicts whatever you say just to argue, ignoring facts. Used to call out nitpickers in comment sections.",
+    "meaning_zh": "指无论别人说什么都要唱反调、为了抬杠而抬杠的人，不关心事实对错，只图反驳的快感。贬义。",
+    "example": "别理他，他就是个杠精，你说天是蓝的他都要反驳。",
+    "example_pinyin": "Bié lǐ tā, tā jiù shì gè gàngjīng, nǐ shuō tiān shì lán de tā dōu yào fǎnbó.",
+    "example_translation": "Ignore him — he's a born contrarian; say the sky is blue and he'll argue.",
+    "context": "From 抬杠 (to bicker) plus 精 (as in a demon that has 'become a spirit'). It took off in 2018 via a viral comic in which a contrarian is told he can't meet his girlfriend's mum because '杠精不配拥有母亲'. Named one of 《咬文嚼字》's ten buzzwords of 2018 and on the national language centre's top-ten internet terms list that year; now a permanent fixture of comment-section fights.",
+    "category": "slang",
+    "date_added": "2026-09-29",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E6%9D%A0%E7%B2%BE",
+        "note": "萌娘百科：杠精词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://wap.ycwb.com/2018-12/21/content_30159017.htm",
+        "note": "金羊网：2018年十大网络用语发布（锦鲤、杠精、skr等上榜）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/202101/12/WS5ffd5c4ca31024ad0baa2184.html",
+        "note": "China Daily language: how to say 键盘侠、喷子、杠精 in English",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "gong-ju-ren",
+    "hanzi": "工具人",
+    "pinyin": "gōng jù rén",
+    "literal": "tool person",
+    "meaning": "Someone who is used by others as a tool — always on call, doing the favours and the grunt work, but never treated as an equal. Often self-deprecating ('I'm just the office tool').",
+    "meaning_zh": "指对他人随叫随到、任劳任怨地付出，却始终得不到平等对待、只被当作工具使唤的人。常用于自嘲。",
+    "example": "每次搬家都叫我，我就是他们的工具人。",
+    "example_pinyin": "Měi cì bānjiā dōu jiào wǒ, wǒ jiù shì tāmen de gōngjùrén.",
+    "example_translation": "They call me every time they move house — I'm just their human tool.",
+    "context": "Spread to the mainland from Taiwanese internet usage, originally describing the 'backup' admirer a woman calls on for favours with no romance in return; gamers also used it for the teammate who draws fire so others can score. Broadened to workplaces and friendships, and named one of 《青年文摘》's ten internet buzzwords of 2020 alongside 打工人.",
+    "category": "social",
+    "date_added": "2026-09-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%B7%A5%E5%85%B7%E4%BA%BA/23642884",
+        "note": "百度百科：工具人（网络流行语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://moment.rednet.cn/content/2020/11/10/8575517.html",
+        "note": "红网：2020中国十大热词（打工人、尾款人、工具人等）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xswl",
+    "hanzi": "xswl",
+    "pinyin": "xiào sǐ wǒ le",
+    "literal": "笑死我了 laugh-die-me-(particle), pinyin initials",
+    "meaning": "'I'm dying of laughter' — the Chinese LOL/LMAO, typed as the initials of 笑死我了.",
+    "meaning_zh": "“笑死我了”的拼音首字母缩写，表示某事非常好笑，相当于英文的LOL。",
+    "example": "他那个表情包xswl，我截图了。",
+    "example_pinyin": "Tā nàge biǎoqíngbāo xiàosǐwǒle, wǒ jiétú le.",
+    "example_translation": "That meme of his — LMAO, I screenshotted it.",
+    "context": "One of the pinyin-initial abbreviations that grew out of fan-circle (饭圈) chat around 2018, where abbreviations let fans talk quickly and a little cryptically. Along with yyds and dbq it became standard 00后 shorthand, covered by mainstream outlets as youth 'code', and is still everywhere in danmu and comments.",
+    "category": "abbreviation",
+    "date_added": "2026-09-29",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/xswl/20214238",
+        "note": "百度百科：xswl词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://china.zjol.com.cn/ktx/201810/t20181030_8615439.shtml",
+        "note": "浙江在线：“你连dbq都不知道？xswl”——00后的“黑话”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/202408/08/WS66b491a7a3104e74fddb91d7.html",
+        "note": "China Daily: eight internet expressions, incl. xswl",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "zhi-lu-wei-ma",
+    "hanzi": "指鹿为马",
+    "pinyin": "zhǐ lù wéi mǎ",
+    "literal": "point at a deer, call it a horse",
+    "meaning": "To deliberately call black white; to twist the facts and force others to go along with it. Online, used for blatant gaslighting or spin.",
+    "meaning_zh": "比喻故意颠倒黑白、混淆是非，并逼迫别人附和。网上常用来讽刺睁眼说瞎话、强行洗白。",
+    "example": "证据都摆在这儿了，他还在指鹿为马。",
+    "example_pinyin": "Zhèngjù dōu bǎi zài zhèr le, tā hái zài zhǐ lù wéi mǎ.",
+    "example_translation": "The evidence is right here and he's still calling a deer a horse.",
+    "context": "From 《史记·秦始皇本纪》: the eunuch Zhao Gao presented a deer to the Second Emperor of Qin as a horse, then quietly punished the courtiers who said 'deer' — a loyalty test to see who dared contradict him. Netizens reach for it when a brand, official or influencer insists on an obviously false version of events, and it pairs naturally with modern words like PUA and 洗白.",
+    "category": "chengyu",
+    "date_added": "2026-09-29",
+    "sources": [
+      {
+        "url": "https://m.gushiwen.cn/shiwenv_33ec8811f217.aspx",
+        "note": "古诗文网：《史记》指鹿为马原文、翻译及赏析",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.kekeshici.com/shicidiangu/gudaishicidiangu/5683.html",
+        "note": "可可诗词网：典故“指鹿为马”的出处、意思和举例",
+        "lang": "zh"
+      }
+    ]
   }
 ]
