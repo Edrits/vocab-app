@@ -3728,5 +3728,124 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "xiao-zhen-zuo-ti-jia",
+    "hanzi": "小镇做题家",
+    "pinyin": "xiǎozhèn zuòtíjiā",
+    "literal": "small town · doing-exam-questions · expert",
+    "meaning": "A young person from a small town or county who got into a good university by grinding through exams, but who feels they lack the connections, confidence and wider horizons of big-city peers. Used self-mockingly, and about a whole class of strivers.",
+    "meaning_zh": "指出身小城镇、埋头苦读、擅长应试，但缺乏视野、人脉和资源的青年学子。多用于自嘲，也用来讨论寒门学子的处境。",
+    "example": "我就是个小镇做题家，除了考试什么都不会。",
+    "example_pinyin": "Wǒ jiù shì gè xiǎozhèn zuòtíjiā, chúle kǎoshì shénme dōu bú huì.",
+    "example_translation": "I'm just a small-town exam grinder — apart from taking tests, I can't do anything.",
+    "context": "Born in 2020 in the Douban group 985废物引进计划 ('985 losers' recruitment programme'), where students at China's elite 985 universities described themselves as failures once they found exam skills didn't translate into social capital. 做题家 ('question-solving expert') became 小镇做题家, and it ended up on the 2022 list of top ten internet buzzwords. People's Daily and others weighed in, arguing whether it was self-pity or a fair critique of how unequal opportunity is — which is exactly why it has lasted.",
+    "category": "social",
+    "date_added": "2026-09-30",
+    "sources": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%81%9A%E9%A2%98%E5%AE%B6",
+        "note": "维基百科「做题家」词条：起源与含义",
+        "lang": "zh"
+      },
+      {
+        "url": "http://opinion.people.com.cn/n1/2022/1115/c447715-32566508.html",
+        "note": "人民网评论《“小镇做题家”亦不平凡》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/baijiahao_19013109",
+        "note": "澎湃新闻：“小镇做题家”上热搜",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "po-quan",
+    "hanzi": "破圈",
+    "pinyin": "pòquān",
+    "literal": "break · circle",
+    "meaning": "To break out of a niche: a person, work, brand or subculture gets noticed and accepted by the general public far beyond its original fanbase. Close cousin of 出圈.",
+    "meaning_zh": "指某人、某作品或某种文化突破原本的小圈子，被更广泛的大众接受和认可。由饭圈用语“出圈”演变而来。",
+    "example": "这部国产动画彻底破圈了，连我爸妈都在看。",
+    "example_pinyin": "Zhè bù guóchǎn dònghuà chèdǐ pòquān le, lián wǒ bàmā dōu zài kàn.",
+    "example_translation": "This Chinese animated film has totally broken out of its niche — even my parents are watching it.",
+    "context": "Grew out of 出圈, a fandom term from around 2018 for an idol becoming known beyond their fans. From 2020 onwards 破圈 spread into mainstream media and marketing-speak, where it now describes anything going mainstream — a Bilibili creator, a regional dish, a traditional craft. Very productive: 破圈之作, 破圈传播, 实现破圈.",
+    "category": "slang",
+    "date_added": "2026-09-30",
+    "sources": [
+      {
+        "url": "https://wiki.mbalib.com/wiki/%E7%A0%B4%E5%9C%88",
+        "note": "MBA智库百科「破圈」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20230219A01II200",
+        "note": "腾讯新闻：人人都在说的“破圈”，到底啥意思",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E5%87%BA%E5%9C%88/22956271",
+        "note": "百度百科「出圈」词条：源于饭圈",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "run-emigrate",
+    "hanzi": "润",
+    "pinyin": "rùn",
+    "literal": "'run' (pun on the English word; normally 'moist / to enrich')",
+    "meaning": "To get out: emigrate, or leave a bad situation for good. 润学 ('run-ology') is the half-joking study of how to move abroad.",
+    "meaning_zh": "取英文 run 的谐音，指跑路、离开，尤指移民出国。由此衍生出“润学”，指研究如何出国移民的学问。",
+    "example": "工作太卷了，他已经在研究怎么润了。",
+    "example_pinyin": "Gōngzuò tài juǎn le, tā yǐjīng zài yánjiū zěnme rùn le.",
+    "example_translation": "Work is such a rat race that he's already researching how to get out of the country.",
+    "context": "润 is pronounced rùn, which sounds like English 'run'. Gamers used 'run' for retreating in PUBG, and it caught on in forums (with 'run去北欧' — run to Scandinavia) before blowing up in 2022, when many young people talked about emigrating. Zhihu, Douban and Baidu filled up with 润学 groups and guides. It is sensitive in some contexts, but everyone understands it, and it also turns up in lighter uses like 下班就润 ('clock off and bolt').",
+    "category": "slang",
+    "date_added": "2026-09-30",
+    "sources": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hans/%E6%B6%A6%E5%AD%A6",
+        "note": "维基百科「润学」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.colips.org/conferences/clsw2023/proceedings/papers/142.pdf",
+        "note": "CLSW 2023 论文《网络流行语“润”的使用及融合研究》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "da-call",
+    "hanzi": "打call",
+    "pinyin": "dǎ call",
+    "literal": "do · call (Japanese idol-concert cheering)",
+    "meaning": "To cheer someone on, show loud support for or endorse a person or thing. Often 为…打call ('cheer for …').",
+    "meaning_zh": "源自日本偶像演唱会的应援方式，指为某人或某事加油、支持、点赞。常见用法“为……打call”。",
+    "example": "为今天加班的所有打工人打call！",
+    "example_pinyin": "Wèi jīntiān jiābān de suǒyǒu dǎgōngrén dǎ call!",
+    "example_translation": "Here's a shout-out to every worker pulling overtime today!",
+    "context": "Comes from Japanese idol culture, where fans at live shows perform 'calls': rhythmic chants, jumps and glow-stick waving. Chinese otaku borrowed it, added 打 to match fan verbs like 打榜/打歌, and in 2017 it went mainstream and was named one of 《咬文嚼字》's top ten buzzwords of the year. It now works for any enthusiastic support, from brands to friends.",
+    "category": "slang",
+    "date_added": "2026-09-30",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%89%93call/22064311",
+        "note": "百度百科「打call」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/42069.html",
+        "note": "《咬文嚼字》2017年度十大流行语",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E6%89%93call",
+        "note": "萌娘百科「打call」词条：日本应援文化起源",
+        "lang": "zh"
+      }
+    ]
   }
 ]
