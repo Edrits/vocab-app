@@ -3847,5 +3847,114 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "shang-an",
+    "hanzi": "上岸",
+    "pinyin": "shàng àn",
+    "literal": "go up + shore → reach dry land",
+    "meaning": "To finally pass a gruelling competitive exam — above all the civil-service exam (考公) or postgraduate entrance exam (考研) — and land a stable place; by extension, to reach any hard-won goal and be 'safe' (paying off debts, losing weight, getting into a relationship).",
+    "meaning_zh": "指通过考公、考编、考研等竞争激烈的考试，成功被录取、进入体制或理想院校；后泛指经过努力终于达成目标、脱离困境，如还清债务、减肥成功、脱单等。",
+    "example": "熬了三年，他终于考公上岸了。",
+    "example_pinyin": "Áo le sān nián, tā zhōngyú kǎo gōng shàng àn le.",
+    "example_translation": "After slogging away for three years, he finally passed the civil-service exam and made it ashore.",
+    "context": "The image plays off 下海 ('going into the sea'), the 1980s–90s phrase for quitting a state job to try your luck in business. If the market is the sea, then the secure 'iron rice bowl' of the state system is dry land — so passing the exam to get in is 'climbing ashore'. As youth unemployment rose and exam applications hit records, 上岸 became the standard word in exam-prep circles on Xiaohongshu, Bilibili and WeChat, spawning set phrases like 考研上岸 and the joke '上岸第一剑，先斩意中人' (first thing after making it ashore: dump the person you were with). It has since generalised to any goal reached after a long struggle.",
+    "category": "social",
+    "date_added": "2026-10-01",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%8A%E5%B2%B8/65594905",
+        "note": "百度百科：上岸（网络用语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20250104A01TMG00",
+        "note": "腾讯新闻评论：《“上岸”，是“站点”而非终点》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E5%89%91%EF%BC%8C%E5%85%88%E6%96%A9%E6%84%8F%E4%B8%AD%E4%BA%BA/62065520",
+        "note": "百度百科：上岸第一剑，先斩意中人",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zheng-huo",
+    "hanzi": "整活",
+    "pinyin": "zhěng huó",
+    "literal": "do / fix up + a turn, an act",
+    "meaning": "To pull off a stunt or bit purely for entertainment value — doing something wacky, creative or absurd to get a laugh. As a noun (整活儿) it's the stunt itself; 整个活 = 'let's do a bit'.",
+    "meaning_zh": "指为了节目效果故意搞点花样、做出出人意料或搞笑的举动；也可作名词，指这种表演或花活儿。常说“整个活”“又在整活”。",
+    "example": "毕业典礼上，他穿着恐龙服上台拨穗，全场都笑疯了，太会整活了。",
+    "example_pinyin": "Bìyè diǎnlǐ shang, tā chuānzhe kǒnglóng fú shàng tái bō suì, quán chǎng dōu xiào fēng le, tài huì zhěng huó le.",
+    "example_translation": "At graduation he went up to have his tassel turned wearing a dinosaur costume — the whole hall was in stitches. What a showman.",
+    "context": "From north-eastern (东北) dialect, where 整 is an all-purpose verb ('do, make, get'). On Kuaishou livestreams around 2019, north-eastern streamers would announce '给大家整个活儿!' ('let me do a little act for you all!') before a stunt; it spread to Douyin and Bilibili as the standard label for anything done for laughs, and appeared on 2022 year-end slang lists. Commenters now praise creators with '会整活' and groan at stale bits with '整活失败'.",
+    "category": "slang",
+    "date_added": "2026-10-01",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%95%B4%E6%B4%BB/24190213",
+        "note": "百度百科：整活 词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/313786129",
+        "note": "知乎问答：整活是什么意思？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yao-yao-ling-xian",
+    "hanzi": "遥遥领先",
+    "pinyin": "yáoyáo lǐngxiān",
+    "literal": "far, far + in the lead",
+    "meaning": "'Miles ahead' — originally Huawei's boast, now used half-proudly, half-mockingly to hype anything as unbeatable, or to tease over-the-top marketing claims.",
+    "meaning_zh": "原为华为余承东在发布会上的口头禅，形容产品远超同行；网友借来既表达对国产科技的自豪，也用来调侃夸张的宣传话术，或戏称任何东西“遥遥领先”。",
+    "example": "我这次期末成绩在宿舍里遥遥领先——毕竟其他人都挂科了。",
+    "example_pinyin": "Wǒ zhè cì qīmò chéngjì zài sùshè lǐ yáoyáo lǐngxiān — bìjìng qítā rén dōu guà kē le.",
+    "example_translation": "My exam results were miles ahead of everyone in the dorm — mind you, everyone else failed.",
+    "context": "Huawei executive Richard Yu (余承东) said 遥遥领先 some 14 times at the Mate 40 launch in October 2020 and kept repeating it at later phone and car launches. When the Mate 60 Pro appeared in August 2023 with a domestically made chip despite US sanctions, short-video remixes turned the phrase into a national meme, part pride, part parody of launch-event bluster. It made Sanlian Lifeweek's top memes and 《语言文字周报》's ten internet buzzwords of 2023 and is still the default jokey caption for any bold 'we're the best' claim.",
+    "category": "meme",
+    "date_added": "2026-10-01",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88/63435070",
+        "note": "百度百科：遥遥领先（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://wiki.yglsr.com/2023/09/225/",
+        "note": "梗语百科：遥遥领先",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dui-niu-tan-qin",
+    "hanzi": "对牛弹琴",
+    "pinyin": "duì niú tán qín",
+    "literal": "to + ox + play + zither",
+    "meaning": "Playing the lute to a cow — wasting your words on someone who can't or won't understand; also used to criticise a speaker for not considering their audience.",
+    "meaning_zh": "比喻对不懂道理的人讲道理、对不懂风雅的人谈风雅，白费口舌；也用来讥讽说话不看对象。",
+    "example": "跟杠精讲逻辑，简直是对牛弹琴。",
+    "example_pinyin": "Gēn gàngjīng jiǎng luójí, jiǎnzhí shì duì niú tán qín.",
+    "example_translation": "Trying to reason with a troll is like playing the lute to a cow.",
+    "context": "From the Han-dynasty 《理惑论》 attributed to 牟融: the musician 公明仪 played a refined tune to an ox, which kept grazing; only when he imitated mosquitoes and a calf's lowing did it prick up its ears. The original moral was arguably about adapting to your audience, but today it's mostly a put-down. Online it's a staple of comment-section fights, where people sign off from pointless arguments with '不跟你对牛弹琴了', and it pairs naturally with deck words like 杠精 and 已读乱回.",
+    "category": "chengyu",
+    "date_added": "2026-10-01",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4/3490",
+        "note": "百度百科：对牛弹琴（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E5%AF%B9%E7%89%9B%E5%BC%B9%E7%90%B4",
+        "note": "汉典：对牛弹琴 词语解释",
+        "lang": "zh"
+      }
+    ]
   }
 ]
