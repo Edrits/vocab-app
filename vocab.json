@@ -3956,5 +3956,114 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ying-kong",
+    "hanzi": "硬控",
+    "pinyin": "yìng kòng",
+    "literal": "hard + control",
+    "meaning": "To grip someone's attention so completely they can't look away or move on — usually said of a song, a video, a face or a snack that has you hooked ('I got hard-controlled by this for an hour'). Can also mean to dominate a situation.",
+    "meaning_zh": "原指游戏中让对方角色无法操作的强制控制效果，现泛指某事物对人有极强的吸引力，让人移不开视线、停不下来，常用被动式“被……硬控了”；也可表示主导、掌控某个局面。",
+    "example": "这首歌把我硬控了一整个下午，单曲循环停不下来。",
+    "example_pinyin": "Zhè shǒu gē bǎ wǒ yìng kòng le yī zhěng gè xiàwǔ, dānqǔ xúnhuán tíng bù xiàlái.",
+    "example_translation": "This song had me completely hooked all afternoon — I couldn't stop putting it on repeat.",
+    "context": "Gamer jargon from MOBA titles like League of Legends and Honor of Kings (王者荣耀), where 'hard control' means stuns, freezes and knock-ups that leave your opponent's character unable to act. In 2024 it broke out of gaming into everyday chat: people were '硬控' by short dramas, cute pets, a dish, an athlete. It made 《咬文嚼字》's 2024 Top Ten Buzzwords and even placed fifth in Taiwan's 2024 words of the year — a classic example of game slang crossing over.",
+    "category": "slang",
+    "date_added": "2026-10-02",
+    "sources": [
+      {
+        "url": "https://ci.cn/zwkt/kywkt/9c4318ab-9096-4560-80d8-bf91e9157db1",
+        "note": "中国网信网/语文刊物转载《咬文嚼字》2024年第12期：“硬控”源自游戏术语，用法分析",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.hubeidaily.net/pc/c_3398609.html",
+        "note": "湖北日报：《咬文嚼字》公布2024年十大流行语（含硬控）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huaxia.com/c/2024/12/27/1990765.shtml",
+        "note": "华夏经纬网：2024台湾年度流行语，“破防”“硬控”等大陆热词上榜",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ta-fang",
+    "hanzi": "塌房",
+    "pinyin": "tā fáng",
+    "literal": "collapse + house",
+    "meaning": "When someone you admired — originally a celebrity idol — is exposed by a scandal and their image collapses. Fans say their idol has 'collapsed the house'; now applied to any streamer, brand or public figure whose reputation caves in.",
+    "meaning_zh": "比喻偶像因负面新闻、丑闻或隐瞒恋情等被曝光，在粉丝心中的美好形象轰然倒塌；后扩展到网红、主播、品牌等任何口碑突然崩塌的人或事物。",
+    "example": "我追了五年的爱豆昨晚塌房了，我直接脱粉。",
+    "example_pinyin": "Wǒ zhuī le wǔ nián de àidòu zuówǎn tā fáng le, wǒ zhíjiē tuō fěn.",
+    "example_translation": "The idol I'd followed for five years had a scandal blow up last night — I've quit the fandom on the spot.",
+    "context": "Fan-circle (饭圈) slang that took off around 2020–21, a wave of years when several top idols were brought down by scandals. Fans picture their idol as a 'house' (房子) they've built their devotion in; when it collapses, the fan is left in the rubble. Hence spin-offs like 房子塌了 and 'my house hasn't collapsed' (我家没塌房) boasts. It has since spread well beyond idols to influencers, esports players and brands.",
+    "category": "slang",
+    "date_added": "2026-10-02",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%A1%8C%E6%88%BF/59872724",
+        "note": "百度百科：塌房（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "http://epaper.nfncb.cn/nfnc/content/20220915/Articel13004MT.htm",
+        "note": "南方农村报 2022-09-15：《塌房，塌的未必是房》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xiao-hai-ge-xiao-hai-jie",
+    "hanzi": "小孩哥 / 小孩姐",
+    "pinyin": "xiǎohái gē / xiǎohái jiě",
+    "literal": "little kid + big brother / big sister",
+    "meaning": "A kid with skills or composure way beyond their years — the child who out-plays, out-performs or out-cools the adults. Respectful and affectionate: calling a child 'big brother/sister' acknowledges they've earned it.",
+    "meaning_zh": "指在某方面拥有过人本领或超强心理素质的孩子。用“哥”“姐”称呼小孩，带有佩服和调侃意味，表示对方虽年纪小，实力却让大人自愧不如。",
+    "example": "这个小孩姐打乒乓球比我们全办公室的人都厉害。",
+    "example_pinyin": "Zhège xiǎohái jiě dǎ pīngpāngqiú bǐ wǒmen quán bàngōngshì de rén dōu lìhai.",
+    "example_translation": "This little girl plays table tennis better than our entire office put together.",
+    "context": "Spread through Douyin clips of children doing remarkable things, then exploded during the 2024 Paris Olympics, when China's very young athletes performed with startling poise — 《咬文嚼字》 cited an 11-year-old building 'rockets' and a 14-year-old girl setting an Olympic record. 《咬文嚼字》 put it in its 2024 Top Ten Buzzwords. It's productive: any precocious child can be a 小孩哥, from a chess prodigy to a kid who calmly handles a crisis.",
+    "category": "social",
+    "date_added": "2026-10-02",
+    "sources": [
+      {
+        "url": "http://www.sh.xinhuanet.com/20241202/1823fb6eaede43c2a7e33afe6d70396e/c.html",
+        "note": "新华网：《咬文嚼字》2024年十大流行语，“小孩哥/小孩姐”入选",
+        "lang": "zh"
+      },
+      {
+        "url": "https://xinwen.bjd.com.cn/content/s6752b5d0e4b0840b5f9ed908.html",
+        "note": "北京日报：《咬文嚼字》主编黄安靖谈2024年十大流行语",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "duan-zhang-qu-yi",
+    "hanzi": "断章取义",
+    "pinyin": "duàn zhāng qǔ yì",
+    "literal": "cut off a stanza, take the meaning",
+    "meaning": "To quote out of context — pluck a line from what someone said and twist it to mean something they didn't. A go-to accusation in online arguments.",
+    "meaning_zh": "不顾全篇文章或谈话的完整内容，孤立地截取其中一段一句来理解或引用，使意思与原意不符。网上常用来指责别人截图、剪辑或片面引用，歪曲原意。",
+    "example": "你只截了半句话就开骂，这不是断章取义吗？",
+    "example_pinyin": "Nǐ zhǐ jié le bàn jù huà jiù kāi mà, zhè bú shì duàn zhāng qǔ yì ma?",
+    "example_translation": "You screenshotted half a sentence and started ranting — isn't that taking it out of context?",
+    "context": "From the 《左传·襄公二十八年》: in the State of Qi, the official 卢蒲癸 married a woman of his own clan, which custom forbade. Challenged, he shrugged it off with 'when people recite the Odes they cut out a stanza (赋诗断章) and take what suits them' — openly admitting to cherry-picking. Today it's everywhere in comment sections, alongside 截图党 and 恶意剪辑: whenever a celebrity's interview clip or a netizen's post goes viral stripped of its context, someone will reply 断章取义.",
+    "category": "chengyu",
+    "date_added": "2026-10-02",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E6%96%AD%E7%AB%A0%E5%8F%96%E4%B9%89/2362",
+        "note": "百度百科：断章取义（汉语成语）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E6%96%AD%E7%AB%A0%E5%8F%96%E4%B9%89",
+        "note": "汉典：“断章取义”释义及出处",
+        "lang": "zh"
+      }
+    ]
   }
 ]
