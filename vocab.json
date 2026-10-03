@@ -4065,5 +4065,124 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ji-wa",
+    "hanzi": "鸡娃",
+    "pinyin": "jī wá",
+    "literal": "chicken(-blood) + kid — short for 给娃打鸡血, 'inject the kid with chicken blood'",
+    "meaning": "To push a child relentlessly — cramming them with tutoring, extra classes and competitions to get ahead; also the hothoused child or the parenting style itself. Can be a verb (鸡娃), a noun (鸡娃家长, 'tiger parents') and is usually wry or critical.",
+    "meaning_zh": "指父母给孩子“打鸡血”，不停地给孩子安排补习班、兴趣班和竞赛，逼孩子拼命学习、超前培养的教育方式；也可指被这样培养的孩子。多带调侃或批评色彩。",
+    "example": "隔壁三岁就开始学奥数了，这也太鸡娃了吧。",
+    "example_pinyin": "gébì sān suì jiù kāishǐ xué àoshù le, zhè yě tài jīwá le ba.",
+    "example_translation": "The kid next door started Olympiad maths at three — talk about hothousing.",
+    "context": "From 打鸡血 ('to inject chicken blood'), a slang phrase for getting someone hyped up, itself from a discredited 1960s health fad. Parents who 'inject' their kids became 鸡娃, with a pun on 激娃 ('stir up the kid'). It grew out of Beijing parenting forums — the archetype is the 海淀妈妈, the highly educated Haidian-district mum running a military-grade tutoring schedule — and went mainstream in 2021 with the TV drama 《小舍得》 and the national 'double reduction' (双减) crackdown on private tutoring. 《咬文嚼字》 named it one of 2021's top ten buzzwords, alongside 躺平 and 破防. It spawned 鸡娃群 (parent chat groups swapping tips), 牛蛙 (the high-achieving kid) and its opposite 佛系养娃.",
+    "category": "social",
+    "date_added": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hans/%E9%B8%A1%E5%A8%83",
+        "note": "维基百科「鸡娃」词条：词义、来源（打鸡血/激娃）、海淀妈妈",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E9%B8%A1%E5%A8%83/23556378",
+        "note": "百度百科「鸡娃」词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.shuziyingxiao.net/hyzx/91921.html",
+        "note": "2021十大流行语：破防、鸡娃、躺平、元宇宙入选",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ren-jian-qing-xing",
+    "hanzi": "人间清醒",
+    "pinyin": "rénjiān qīngxǐng",
+    "literal": "human world + sober / clear-headed",
+    "meaning": "Someone who stays clear-eyed and grounded in a world of hype and temptation — not swept away by fame, romance or flattery, knows exactly what they want. Mostly high praise (a celebrity's level-headed interview answer, a friend's no-nonsense take on a bad relationship), sometimes self-applied with a wink.",
+    "meaning_zh": "形容面对纷繁复杂、充满诱惑的世界，始终保持清醒理性、不迷失自我、清楚自己定位的人或态度。多用于称赞，例如明星采访里的冷静发言、朋友对感情问题的理性看法，也可用来自嘲或自夸。",
+    "example": "她说“男人靠不住，搞钱最重要”，真是人间清醒。",
+    "example_pinyin": "tā shuō “nánrén kào bú zhù, gǎo qián zuì zhòngyào”, zhēn shì rénjiān qīngxǐng.",
+    "context": "Took off around 2020–21 in entertainment commentary, where fans and media used it to praise stars whose interviews showed they hadn't let sudden fame go to their heads (some accounts trace it to coverage of the actor 张雨剑). It quickly spread to 'clear-headed' heroines in dramas, 情感 advice posts and everyday life: a 人间清醒 friend is the one who tells you to dump him. Often used as a label — 人间清醒语录 ('sayings of the clear-headed'), 人间清醒女孩 — and is a staple of 小红书 and Weibo captions.",
+    "example_translation": "She said 'men are unreliable, making money is what matters' — so clear-headed.",
+    "category": "slang",
+    "date_added": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92/56276532",
+        "note": "百度百科「人间清醒」：网络流行词，指面对纷繁世界保持清醒的处世态度",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/494841667",
+        "note": "知乎问题「什么是人间清醒？」",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dian-zi-bu-luo-fen",
+    "hanzi": "电子布洛芬",
+    "pinyin": "diànzǐ bùluòfēn",
+    "literal": "electronic + ibuprofen",
+    "meaning": "Digital comfort content that soothes your mood the way a painkiller soothes a headache — cute animal clips, Chiikawa memes, a favourite variety show, a song on loop. Said of whatever you reach for to get through a bad day: 'this is my 电子布洛芬'.",
+    "meaning_zh": "比喻能缓解精神压力、治愈坏情绪的数字内容，如萌宠视频、二次元表情包、综艺片段、歌曲等，作用就像布洛芬止痛一样。常说“这是我的电子布洛芬”。",
+    "example": "上班太累了，回家刷了半小时小猫视频，电子布洛芬起效了。",
+    "example_pinyin": "shàngbān tài lèi le, huí jiā shuā le bàn xiǎoshí xiǎomāo shìpín, diànzǐ bùluòfēn qǐxiào le.",
+    "example_translation": "Work was exhausting; half an hour of kitten videos at home and the digital painkiller kicked in.",
+    "context": "Emerged around late 2022–2023 — ibuprofen (布洛芬) was a household word in China after the December 2022 COVID wave emptied pharmacy shelves of it. Fitting the 电子X pattern (电子榨菜, 电子宠物), it named the screen-based things young people use to self-soothe. It exploded in 2024 when the Japanese manga 《Chiikawa》 (吉伊卡哇) went viral in China and fans called its small, put-upon characters their 电子布洛芬; media such as 澎湃新闻 and 青年记者 have since written it up as a lens on youth stress and 'healing' culture. It still appears on 2026 lists of emotional-self-care buzzwords.",
+    "category": "slang",
+    "date_added": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E5%B8%83%E6%B4%9B%E8%8A%AC/63552465",
+        "note": "百度百科「电子布洛芬」：网络流行语，指用于缓解心理压力的数字内容",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_27272990",
+        "note": "澎湃新闻·思想市场：年轻人在表情包中寻找“电子布洛芬”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://tidenews.com.cn/news.html?id=2877880",
+        "note": "潮新闻「今夏热词①：电子布洛芬，用二次元治愈坏情绪」",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yi-yan-nan-jin",
+    "hanzi": "一言难尽",
+    "pinyin": "yī yán nán jìn",
+    "literal": "one word + hard to + exhaust — 'one sentence can't cover it'",
+    "meaning": "It's a long (and not happy) story; too complicated or awkward to sum up. Online it has become a polite-but-damning verdict: calling a film, a meal or someone's outfit 一言难尽 means 'it was bad, and I'd rather not elaborate'.",
+    "meaning_zh": "形容事情曲折复杂，不是一句话能说清楚的，多用于不愉快的事。网络上常用作委婉的差评：说一部剧、一顿饭或某人的穿搭“一言难尽”，意思是“很糟糕，懒得细说”。",
+    "example": "这部剧的结局……怎么说呢，一言难尽。",
+    "example_pinyin": "zhè bù jù de jiéjú…… zěnme shuō ne, yī yán nán jìn.",
+    "example_translation": "The ending of this show… how to put it — words fail me.",
+    "context": "A classic idiom found in Yuan-dynasty drama — 李直夫's zaju 《虎头牌》 has a character sigh 我一言难尽 — and has always been used for troubles too tangled to explain. On Weibo, Douban and 小红书 it has taken on a sharper edge as the go-to diplomatic put-down: reviews titled 一言难尽, 'the acting was 一言难尽', often with a pause or ellipsis for comic effect. It works because it lets the reader fill in how bad it was.",
+    "category": "chengyu",
+    "date_added": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%A8%80%E9%9A%BE%E5%B0%BD",
+        "note": "汉典「一言难尽」词语解释",
+        "lang": "zh"
+      },
+      {
+        "url": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=1058&webMd=1&la=1",
+        "note": "教育部《成语典》「一言難盡」：释义与典源",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E4%B8%80%E8%A8%80%E9%9A%BE%E5%B0%BD/44860",
+        "note": "百度百科「一言难尽」（汉语成语）：出处元·李直夫《虎头牌》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
