@@ -42,7 +42,7 @@ export default {
 
     if (request.method === 'PUT') {
       const body = await request.text();
-      if (body.length > 200000) {
+      if (body.length > 5000000) { // KV allows 25MB; progress grows ~125 bytes per word studied
         return new Response(JSON.stringify({ error: 'blob too large' }), { status: 413, headers });
       }
       try { JSON.parse(body); } catch {

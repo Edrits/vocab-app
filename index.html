@@ -352,8 +352,12 @@
 
     // ---------- SRS (SM-2 style) ----------
     function loadJSON(key, fallback){ try { return JSON.parse(localStorage.getItem(key)) || fallback; } catch { return fallback; } }
+    // Writes must never throw: a blocked or full store would otherwise abort a
+    // grade mid-way and leave the card stuck. Progress then lives in memory
+    // (and in the cloud, if sync is on) for this session.
+    function store(key, value){ try { localStorage.setItem(key, JSON.stringify(value)); } catch {} }
     let state = loadJSON(SRS_KEY, {});
-    function saveState(){ localStorage.setItem(SRS_KEY, JSON.stringify(state)); scheduleSync(); }
+    function saveState(){ store(SRS_KEY, state); scheduleSync(); }
     function cardState(id){ return state[id] || { ease:2.5, interval:0, reps:0, due:0, lapses:0 }; }
     const now = () => Date.now();
     const MIN_EASE = 1.3;      // ease never drops below this
@@ -433,13 +437,13 @@
       }
       return fixed;
     }
-    if (repairState(state)) localStorage.setItem(SRS_KEY, JSON.stringify(state));
+    if (repairState(state)) store(SRS_KEY, state);
 
     // ---------- meta: XP, streak, activity ----------
     const NEW_PER_DAY = 10; // ration: max new words introduced per day
     let meta = loadJSON(META_KEY, { xp:0, activity:{}, doneBonusDate:null, newIntro:{} });
     meta.newIntro = meta.newIntro || {};
-    function saveMeta(){ meta.lastSaved = Date.now(); localStorage.setItem(META_KEY, JSON.stringify(meta)); scheduleSync(); }
+    function saveMeta(){ meta.lastSaved = Date.now(); store(META_KEY, meta); scheduleSync(); }
 
     // storage health check — some contexts (private browsing, embedded webviews) block it
     let storageOK = true;
@@ -452,7 +456,11 @@
       return (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches)
         || window.navigator.standalone === true;
     }
-    function todayKey(d = new Date()){
+    // The app's "day" starts at ROLLOVER_HOUR, matching when reviews come due, so
+    // a session just after midnight still counts toward the day it belongs to
+    // (streak, new-word ration, done bonus).
+    function todayKey(when = new Date()){
+      const d = new Date(when.getTime() - ROLLOVER_HOUR*3600000);
       return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
     }
     const RANKS = [
@@ -515,11 +523,16 @@
     function syncBlobStr(){
       return JSON.stringify({ app:'netizen-vocab-backup', savedAt: meta.lastSaved || Date.now(), srs: state, meta });
     }
-    async function syncPush(){
+    // keepalive lets the upload outlive the page when the app is backgrounded or
+    // closed, but browsers cap keepalive bodies at 64KB, so only ask for it below that.
+    async function syncPush(keepalive){
       if (!syncEnabled()) return;
+      clearTimeout(syncTimer); syncTimer = null;
       syncInfo.status = 'syncing'; paintSync();
       try {
-        const r = await fetch(SYNC_URL, { method:'PUT', headers:{ 'X-Pin': syncPin(), 'Content-Type':'application/json' }, body: syncBlobStr() });
+        const body = syncBlobStr();
+        const r = await fetch(SYNC_URL, { method:'PUT', headers:{ 'X-Pin': syncPin(), 'Content-Type':'application/json' }, body,
+          keepalive: !!keepalive && body.length < 60000 });
         if (!r.ok) throw new Error('HTTP ' + r.status);
         syncInfo = { status:'synced', at: Date.now() };
       } catch { syncInfo.status = 'error'; }
@@ -530,21 +543,36 @@
       clearTimeout(syncTimer);
       syncTimer = setTimeout(syncPush, 1500);
     }
-    async function syncPull(interactive){
+    // Send a still-pending debounced push right away (app going to the background).
+    function flushSync(){ if (syncTimer) syncPush(true); }
+    // firstLink: the PIN was just entered on this device. Timestamps can't be
+    // trusted to pick a winner then (this device's progress was never synced),
+    // so if both sides have progress, ask rather than silently overwrite either.
+    async function syncPull(interactive, firstLink){
       if (!syncEnabled()) return;
       syncInfo.status = 'syncing'; paintSync();
       try {
         const r = await fetch(SYNC_URL, { headers:{ 'X-Pin': syncPin() } });
         if (!r.ok) throw new Error('HTTP ' + r.status);
         const remote = await r.json();
-        const localTs = meta.lastSaved || 0;
+        let localTs = meta.lastSaved || 0;
+        if (firstLink && remote && remote.srs){
+          const nLocal = Object.keys(state).length, nRemote = Object.keys(remote.srs).length;
+          if (!nLocal) localTs = 0; // nothing here to lose — take the cloud copy
+          else localTs = confirm(`This PIN already has cloud progress (${nRemote} words studied). `
+            + `This device has its own (${nLocal} words).\n\n`
+            + `OK — use the cloud progress here (this device's is replaced).\n`
+            + `Cancel — keep this device's progress (the cloud copy is replaced).`)
+            ? 0 : Math.max(Date.now(), (remote.savedAt || 0) + 1);
+          if (localTs) meta.lastSaved = localTs;
+        }
         if (remote && remote.srs && (remote.savedAt || 0) > localTs){
           state = remote.srs;
           meta = remote.meta || meta;
           meta.newIntro = meta.newIntro || {};
           repairState(state);
-          localStorage.setItem(SRS_KEY, JSON.stringify(state));
-          localStorage.setItem(META_KEY, JSON.stringify(meta));
+          store(SRS_KEY, state);
+          store(META_KEY, meta);
           syncInfo = { status:'synced', at: Date.now() };
           if (deck.length){ buildQueue(); render(); }
           if (interactive) toast('Progress pulled from the cloud ☁️');
@@ -624,7 +652,11 @@
       const learning = deck.filter(c => { const s=state[c.id]; return s && s.due<=t && (s.relearning || (s.reps===0 && s.lapses>0)); });
       const due = deck.filter(c => { const s=state[c.id]; return s && s.due<=t && s.reps>0 && !s.relearning; });
       const fresh = freshCards().slice(0, quotaLeft());
-      queue = [...learning, ...due, ...fresh];
+      // Cards just marked Again are due a minute later; keep them at the back of
+      // the session so it can't end (or pay the done bonus) before they're relearnt.
+      const pending = deck.filter(c => { const s=state[c.id]; return s && s.relearning && s.due>t; })
+        .sort((a,b) => state[a.id].due - state[b.id].due);
+      queue = [...learning, ...due, ...fresh, ...pending];
     }
     function updateStats(){
       const ri = rankIndex(meta.xp);
@@ -677,7 +709,7 @@
         if (v.length < 4){ toast('PIN needs at least 4 characters'); return; }
         setPin(v);
         render();
-        syncPull(true);
+        syncPull(true, true);
       };
       document.getElementById('gateGo').addEventListener('click', go);
       input.addEventListener('keydown', e => { if (e.key === 'Enter') go(); });
@@ -741,8 +773,8 @@
       document.getElementById('progress').style.width = '100%';
       const s = session || { reviewed: 0, introduced: 0 };
       session = null;
-      const endTomorrow = new Date(); endTomorrow.setDate(endTomorrow.getDate()+1); endTomorrow.setHours(23,59,59,0);
-      const dueTom = deck.filter(c => { const st = state[c.id]; return st && st.due > now() && st.due <= endTomorrow.getTime(); }).length;
+      const dayAfter = dueInDays(2);
+      const dueTom = deck.filter(c => { const st = state[c.id]; return st && st.due > now() && st.due < dayAfter; }).length;
       const newTom = Math.min(NEW_PER_DAY, freshCards().length);
       main.innerHTML = `<div class="wrap"><div class="empty">
         <h2>🎉 今日打卡完成</h2>
@@ -918,6 +950,23 @@
       }, right ? 650 : 1400);
     }
 
+    // ---------- live search boxes ----------
+    // Each keystroke re-renders the list, which replaces the input. Doing that
+    // while a pinyin IME is mid-composition kills the composition, so Chinese
+    // can't be typed — wait for the composed characters to land first.
+    function bindLiveSearch(input, onChange){
+      let composing = false;
+      const fire = () => {
+        const pos = input.selectionStart;
+        onChange(input.value);
+        const id = input.id, next = document.getElementById(id);
+        if (next){ next.focus(); next.setSelectionRange(pos,pos); }
+      };
+      input.addEventListener('compositionstart', () => { composing = true; });
+      input.addEventListener('compositionend', () => { composing = false; fire(); });
+      input.addEventListener('input', e => { if (!composing && !e.isComposing) fire(); });
+    }
+
     // ---------- render: browse ----------
     function passesFilter(c){
       if (filterCat !== 'all' && c.category !== filterCat) return false;
@@ -993,14 +1042,7 @@
       const sel = document.getElementById('sort');
       sel.value = sortBy;
       sel.addEventListener('change', e => { sortBy = e.target.value; renderBrowse(); });
-      const search = document.getElementById('search');
-      search.addEventListener('input', e => {
-        searchText = e.target.value;
-        const pos = search.selectionStart;
-        renderBrowse();
-        const s2 = document.getElementById('search');
-        s2.focus(); s2.setSelectionRange(pos,pos);
-      });
+      bindLiveSearch(document.getElementById('search'), v => { searchText = v; renderBrowse(); });
       main.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => { filterCat = ch.dataset.cat; renderBrowse(); }));
       document.getElementById('exportCsv').addEventListener('click', () => exportDeck('csv'));
       document.getElementById('exportXml').addEventListener('click', () => exportDeck('xml'));
@@ -1134,14 +1176,7 @@
         ${sections || '<div class="empty">Nothing matches.</div>'}
       </div>`;
 
-      const search = document.getElementById('refSearch');
-      search.addEventListener('input', e => {
-        refSearch = e.target.value;
-        const pos = search.selectionStart;
-        renderReference(key);
-        const s2 = document.getElementById('refSearch');
-        s2.focus(); s2.setSelectionRange(pos,pos);
-      });
+      bindLiveSearch(document.getElementById('refSearch'), v => { refSearch = v; renderReference(key); });
       main.querySelectorAll('.item').forEach(it => it.addEventListener('click', e => {
         if (!e.target.closest('.speak')) it.classList.toggle('open');
       }));
@@ -1284,7 +1319,7 @@
         setPin(v);
         renderMe();
         toast('Sync enabled ☁️');
-        syncPull(true);
+        syncPull(true, true);
       });
       const syncNow = document.getElementById('syncNow');
       if (syncNow) syncNow.addEventListener('click', () => syncPull(true));
@@ -1350,7 +1385,8 @@
     });
 
     // ---------- load ----------
-    document.addEventListener('visibilitychange', () => { if (!document.hidden) syncPull(); });
+    document.addEventListener('visibilitychange', () => { if (document.hidden) flushSync(); else syncPull(); });
+    window.addEventListener('pagehide', flushSync);
     fetch('vocab.json?_=' + Date.now()).then(r => r.json()).then(data => {
       deck = data.map((c,i) => ({ ...c, _i:i }));
       buildQueue();
