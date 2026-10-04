@@ -4184,5 +4184,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ye-qing-hui",
+    "hanzi": "爷青回",
+    "pinyin": "yé qīng huí",
+    "literal": "爷 (this old man / me) + 青 (youth) + 回 (returns) — short for 爷的青春回来了",
+    "meaning": "'My youth is back!' — a burst of nostalgic delight when something from your childhood or teens returns: a classic cartoon reboot, an old band reuniting, a retired player back on stage. Its mirror image is 爷青结 ('my youth is over'), said when something beloved ends or shuts down.",
+    "meaning_zh": "“爷的青春回来了”的缩写。看到童年或青春时期熟悉的人、动画、游戏、影视剧等重新回归或复出时，表达惊喜与怀旧之情。反义说法是“爷青结”（爷的青春结束了），用于心爱的事物落幕、停更或关停时。",
+    "example": "《喜羊羊》出新电影了？爷青回！",
+    "example_pinyin": "《Xǐ Yángyáng》 chū xīn diànyǐng le? Yé qīng huí!",
+    "example_translation": "There's a new Pleasant Goat film? My childhood is back!",
+    "context": "Started in the LPL (League of Legends Pro League) esports scene, then spread to Bilibili and Douyin. The cocky 爷 ('grandpa', used as a swaggering 'me') gives it a jokey tone. In 2020 it showed up more than five million times in Bilibili bullet comments and was named that year's most popular danmaku. It's still the standard bullet-comment reaction whenever a 90s/00s favourite comes back, and 爷青结 is what people post when one ends.",
+    "category": "abbreviation",
+    "date_added": "2026-10-04",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com.cn/sh/2020/12-13/9360923.shtml",
+        "note": "中新网：一句“爷青回”里藏着多少年轻人的秘密",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.163.com/dy/article/GGV59KHC0541FYXQ.html",
+        "note": "网易：爷青回是什么意思？出自哪里（LPL起源、B站年度弹幕）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zhuanlan.zhihu.com/p/574933376",
+        "note": "知乎：爷青回和爷青结的来源及意思",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shuang-biao",
+    "hanzi": "双标",
+    "pinyin": "shuāng biāo",
+    "literal": "双 (double) + 标 (standard) — short for 双重标准",
+    "meaning": "Double standards — judging the same kind of behaviour differently depending on who does it, especially being strict with others and lenient with yourself (or your side). Used as an accusation: '你好双标' ('you're such a hypocrite'). Someone who does it all the time gets called 双标狗.",
+    "meaning_zh": "“双重标准”的缩写。对同一性质的事情用不同的标准评判，尤指对别人严、对自己宽，或对自己喜欢的一方宽容、对另一方苛刻。常用于批评，如“你好双标”；经常这样的人被调侃为“双标狗”。",
+    "example": "你迟到就是堵车，我迟到就是不重视你？太双标了吧。",
+    "example_pinyin": "Nǐ chídào jiù shì dǔchē, wǒ chídào jiù shì bù zhòngshì nǐ? Tài shuāngbiāo le ba.",
+    "example_translation": "When you're late it's the traffic, but when I'm late it means I don't care about you? That's such a double standard.",
+    "context": "A plain clipping of 双重标准 that became one of the internet's go-to accusations. It's all over comment sections, couple arguments, fan wars (fans excusing their idol for things they'd slam a rival for), and online nationalism debates about foreign media. China Daily included it in its 一课译词 vocabulary series as 'double standard', and it's now fully mainstream. It's short and accusatory, so people fire it off as a one-word comeback.",
+    "category": "abbreviation",
+    "date_added": "2026-10-04",
+    "sources": [
+      {
+        "url": "https://language.chinadaily.com.cn/a/201911/26/WS5ddcdf25a310cf3e3557a21d.html",
+        "note": "China Daily 一课译词：双标 (double standard)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/391495080",
+        "note": "知乎：双标是个什么？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gao-qian",
+    "hanzi": "搞钱",
+    "pinyin": "gǎo qián",
+    "literal": "搞 (get / do / hustle) + 钱 (money)",
+    "meaning": "To hustle for money, to get the bag. Young people use it openly and with self-mocking pride as a life motto ('搞钱要紧' 'making money comes first'), covering anything from the day job to side hustles, street stalls and online shops. It's less about greed than about money as the one thing that reliably eases anxiety.",
+    "meaning_zh": "想方设法赚钱。年轻人公开、带点自嘲地把“搞钱”当人生信条（如“搞钱要紧”“只想搞钱”），包括本职工作、副业、摆摊、开网店等。重点不在拜金，而在于把存款增长当作缓解焦虑、获得掌控感的方式。",
+    "example": "恋爱先放一放，今年的目标只有一个：搞钱。",
+    "example_pinyin": "Liàn'ài xiān fàng yī fàng, jīnnián de mùbiāo zhǐ yǒu yī gè: gǎo qián.",
+    "example_translation": "Romance can wait. This year I've only got one goal: making money.",
+    "context": "搞 is the all-purpose Chinese verb for 'get it done', and paired with 钱 it became a slogan for a generation that publicly talks 躺平 but privately grinds. It took off from the late 2010s, with '搞钱女孩' and '搞钱使我快乐' trending on Weibo and Xiaohongshu. Brands and media (SocialBeta, 数英) have run whole features on 'where this generation 搞钱'. It's often paired with 恋爱脑 jokes: 'a man only slows down how fast I make money.'",
+    "category": "slang",
+    "date_added": "2026-10-04",
+    "sources": [
+      {
+        "url": "https://socialbeta.com/article/109955",
+        "note": "SocialBeta：这届年轻人，到底在哪里搞钱？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1352238.html",
+        "note": "数英：这届年轻人都在哪里搞钱？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.huxiu.com/article/1373985.html",
+        "note": "虎嗅：搞钱至上？",
+        "lang": "zh"
+      }
+    ]
   }
 ]
