@@ -4272,5 +4272,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "she-niu",
+    "hanzi": "社牛",
+    "pinyin": "shè niú",
+    "literal": "社(交) social + 牛(逼症) 'awesome-itis' — short for 社交牛逼症",
+    "meaning": "Someone with zero social fear — happy to chat to strangers, perform in public or do embarrassing things without a flicker of shame. The cheeky opposite of 社恐 (social anxiety). Said with a mix of admiration and teasing, and often used self-mockingly ('I'm 社恐 at work but 社牛 with my friends').",
+    "meaning_zh": "“社交牛逼症”的简称，指在社交场合毫无心理压力、敢于和陌生人搭话、在公共场合放飞自我的人或状态，与“社恐”相对。语气里既有羡慕也有调侃，也常用来自嘲。时而社恐时而社牛的人则被称为“社交牛杂症”。",
+    "example": "他在地铁上跟陌生人合唱，真是社牛本牛。",
+    "example_pinyin": "Tā zài dìtiě shang gēn mòshēngrén héchàng, zhēn shì shè niú běn niú.",
+    "example_translation": "He sang a duet with a stranger on the underground — a social daredevil if ever there was one.",
+    "context": "社交牛逼症 took off in 2021 as the mirror image of 社恐 (social phobia). Its comic poster boy was the early internet prankster 焦双喜 (‘马牛逼’), whose videos since 2006 showed him performing absurd stunts in public with total composure. Clipped to 社牛 it became everyday vocabulary, spawning 社交牛杂症 for people who flip between the two, and it now sits alongside i人/e人 in how young Chinese talk about their social batteries. Xinhua even ran a piece on the 社恐/社牛/牛杂症 vocabulary in October 2021.",
+    "category": "social",
+    "date_added": "2026-10-05",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E7%A4%BE%E4%BA%A4%E7%89%9B%E9%80%BC%E7%97%87/58412958",
+        "note": "百度百科：社交牛逼症（网络流行语）词条，含来源与释义",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.news.cn/local/2021-10/22/c_1127984450.htm",
+        "note": "新华网：《“社恐”“天花板”“牛杂症”……社交名词这么多，终极奥秘是什么》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "na-nie",
+    "hanzi": "拿捏",
+    "pinyin": "ná niē",
+    "literal": "拿 take hold + 捏 pinch — to have something pinched between your fingers",
+    "meaning": "To have someone or something completely under control; to nail it effortlessly. You can 拿捏 a task (totally sorted), a skill ('XX这块拿捏得死死的' — I've got XX absolutely nailed) or a person (have them wrapped round your little finger). Brims with confident, slightly smug energy, and often comes with a pinching-fingers gesture or sticker.",
+    "meaning_zh": "原义为把握、掌握分寸，网络流行义为“完全掌控、轻松搞定”。可以拿捏事（某事稳了），也可以拿捏人（把某人吃得死死的）。常见句式“XX这块拿捏得死死的”“拿捏了”，常配一个捏手指的手势表情包，带着自信甚至得意的语气。",
+    "example": "期末考试？这次我拿捏了。",
+    "example_pinyin": "Qīmò kǎoshì? Zhè cì wǒ ná niē le.",
+    "example_translation": "End-of-term exams? I've got this one nailed.",
+    "context": "An ordinary verb ('to judge, get the measure of') that went viral around 2021–22, helped along by a pinching-gesture meme and the phrase 拿捏得死死的. It became productive — people 拿捏 their bosses, their pets, their diets — and was named one of 《咬文嚼字》's top ten buzzwords of 2022, alongside 雪糕刺客. Linguists have since written papers on its 'semantic generalisation', a good sign it's here to stay.",
+    "category": "slang",
+    "date_added": "2026-10-05",
+    "sources": [
+      {
+        "url": "https://news.southcn.com/node_179d29f1ce/d757822a9f.shtml",
+        "note": "南方网：《咬文嚼字》发布2022十大流行语，拿捏、雪糕刺客等入选",
+        "lang": "zh"
+      },
+      {
+        "url": "https://image.hanspub.org/Html/22-2911794_60472.htm",
+        "note": "汉斯出版社论文：《“拿捏”的语义泛化及流行研究》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20240809A08LQU00",
+        "note": "腾讯新闻·观观有梗：拿捏",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gan-fan-ren",
+    "hanzi": "干饭人",
+    "pinyin": "gàn fàn rén",
+    "literal": "干 do / knock back + 饭 rice, a meal + 人 person",
+    "meaning": "A self-styled devoted eater — someone for whom mealtimes are the highlight of the day and who attacks food with gusto. Mostly self-deprecating: 'useless at everything, first in line for lunch'. 干饭 on its own means simply to eat (with enthusiasm), as in 干饭了！ 'grub's up!'.",
+    "meaning_zh": "指奋力吃饭、把吃饭当头等大事的人，多为自嘲，意思接近“干啥啥不行，干饭第一名”。“干饭”本身即“吃饭”，带着一口气吃完的豪爽劲儿，常见“干饭了！”“干饭人，干饭魂，干饭都是人上人”。",
+    "example": "十二点一到，办公室的干饭人全都冲向食堂了。",
+    "example_pinyin": "Shí'èr diǎn yí dào, bàngōngshì de gàn fàn rén quán dōu chōng xiàng shítáng le.",
+    "example_translation": "The moment it hit twelve, every food-lover in the office stampeded to the canteen.",
+    "context": "干饭 is Sichuan–Chongqing dialect for eating, with a 'down it in one' heartiness. In late 2020 a rustic Douyin creator (诗书达礼之山人) went viral by opening every clip with '干饭了，干饭了！', holding up his bowl while his chickens pecked at it. Coined on the same pattern as 打工人 and 工具人, 干饭人 spread everywhere — 干饭人，干饭魂 became a slogan, brands and even companies registered the name — and it has settled into ordinary chat as a jokey way to say you live for your next meal.",
+    "category": "slang",
+    "date_added": "2026-10-05",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E5%B9%B2%E9%A5%AD%E4%BA%BA/54917590",
+        "note": "百度百科：干饭人（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.i21st.cn/speaking/27177.html",
+        "note": "21英语网：“干饭人”的梗是怎么来的",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.163.com/dy/article/FT0RQI810518M1BL.html",
+        "note": "网易：网络热词“干饭人”被注册成公司，起源如何",
+        "lang": "zh"
+      }
+    ]
   }
 ]
