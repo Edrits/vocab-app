@@ -4360,5 +4360,104 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "lao-liu",
+    "hanzi": "老六",
+    "pinyin": "lǎo liù",
+    "literal": "old + six (\"number six\")",
+    "meaning": "Someone who plays dirty or unexpectedly: a sneaky player who lurks in odd corners to ambush others. Off the gaming server, it means anyone who doesn't play by the rules, pulls a fast one, or is quietly scheming. Often used teasingly between friends.",
+    "meaning_zh": "原指游戏里不跟队友正面作战、专躲在暗处偷袭的玩家；引申为不按套路出牌、暗中使坏或搞小动作的人，朋友间常带调侃意味。",
+    "example": "说好一起减肥，你半夜偷偷点炸鸡，真是个老六！",
+    "example_pinyin": "Shuō hǎo yìqǐ jiǎnféi, nǐ bànyè tōutōu diǎn zhájī, zhēn shì gè lǎo liù!",
+    "example_translation": "We agreed to diet together and you secretly ordered fried chicken at midnight. You sneaky so-and-so!",
+    "context": "From Counter-Strike: Global Offensive. In a five-a-side match, the attacking team's 'lurker' who splits off to ambush rotating defenders from unconventional spots came to be called the 'sixth man' (老六). It spread to every online shooter as a label for camping ambushers, then broke out of gaming entirely around 2021–22. Now it's everyday banter for anyone who blindsides you, cheats on a group agreement, or schemes behind the scenes. The phrase '你个老六' is half insult, half grudging respect.",
+    "category": "slang",
+    "date_added": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E8%80%81%E5%85%AD",
+        "note": "萌娘百科「老六」词条：源自CSGO自由人战术，后泛指偷袭、不按套路的人",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2022/11/chinese-gamer-slang-today/",
+        "note": "The World of Chinese — Chinese gamer slang today, incl. 老六",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "yi-nan-ping",
+    "hanzi": "意难平",
+    "pinyin": "yì nán píng",
+    "literal": "feelings + hard to + settle",
+    "meaning": "A lingering sense of regret or heartache you can't let go of. Most often used about a drama, novel or game whose ending denied a character or couple their happy outcome, and also about missed chances in real life. It can be a noun ('my 意难平', the character/plot I can't get over) or a verb phrase ('I'm still 意难平').",
+    "meaning_zh": "心里的遗憾或不甘久久难以平复。多用于影视剧、小说、游戏中结局不圆满、让人放不下的角色或剧情，也可指现实中的错过与遗憾；既可作名词（\"我的意难平\"），也可作谓语。",
+    "example": "这部剧男女主最后没在一起，成了我这辈子的意难平。",
+    "example_pinyin": "Zhè bù jù nánnǚzhǔ zuìhòu méi zài yìqǐ, chéngle wǒ zhè bèizi de yì nán píng.",
+    "example_translation": "The two leads in this drama never ended up together. I'll never get over it.",
+    "context": "Built from classical-sounding diction (compare 意难忘, 心难平), it became fandom vocabulary on Weibo, Douban and Bilibili in the late 2010s. Fans used it to tag tragic endings, dead favourites and 'BE' (bad-ending) couples. Its mournful literary flavour made it stick: it now appears in mainstream entertainment coverage, song titles and games, and drifts into real life for the one that got away or the exam you narrowly failed. A favourite character is often lovingly called 'my 意难平'.",
+    "category": "slang",
+    "date_added": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-07-24/detail-iniivyeq4441050.d.html",
+        "note": "新浪娱乐：影视剧讨论中的“意难平”——结局遗憾、令观众难以释怀",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.toutiao.com/zixun/7534132879148894254",
+        "note": "今日头条：“意难平”含义与用法",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hui-xuan-biao",
+    "hanzi": "回旋镖",
+    "pinyin": "huíxuánbiāo",
+    "literal": "boomerang",
+    "meaning": "When someone's own past words or actions come back to hit them. Think of an old post resurfacing to contradict them, or criticism they once dished out now applying to themselves. Netizens use it for the ironic 'what goes around comes around' moment, often in the set phrase 回旋镖正中眉心 ('the boomerang hit square between the eyes').",
+    "meaning_zh": "比喻一个人过去说过的话、做过的事最终反过来打在自己身上，前后对比形成讽刺，类似\"自作自受\"\"打脸\"。常说\"回旋镖正中眉心\"。",
+    "example": "他去年还嘲笑别人买房被套，今年自己也被套了——回旋镖正中眉心。",
+    "example_pinyin": "Tā qùnián hái cháoxiào biérén mǎi fáng bèi tào, jīnnián zìjǐ yě bèi tào le — huíxuánbiāo zhèng zhòng méixīn.",
+    "example_translation": "Last year he mocked people for getting stuck with property they couldn't sell; this year it's happened to him. The boomerang hit him right between the eyes.",
+    "context": "The image is simple: you throw it, and it flies back at you. It took off on Weibo and Bilibili around 2022–23 as netizens dug up celebrities', influencers' and officials' old statements that clashed with what they were saying or doing now. It also gets used for hypocrisy (double standards that eventually bite back). It's productive: you can 'throw a boomerang at yourself' (给自己扔回旋镖), and it's widely used outside its original pile-on context, including self-deprecatingly.",
+    "category": "slang",
+    "date_added": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E5%9B%9E%E6%97%8B%E9%95%96",
+        "note": "萌娘百科「回旋镖」词条：网络用语中指言行最终返落到自己身上",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "tian-hua-ban",
+    "hanzi": "天花板",
+    "pinyin": "tiānhuābǎn",
+    "literal": "ceiling",
+    "meaning": "The very best, the upper limit of a category: 'the GOAT', 'top tier'. Attached to a field to crown its best example: 颜值天花板 (peak good looks), 演技天花板 (the best acting there is), 国产剧天花板 (the best Chinese drama). It's so overused in marketing that it's flagged as an absolute-superlative claim to avoid under advertising law.",
+    "meaning_zh": "比喻某一领域的最高水平、顶配，相当于\"天花板级别、无人能超越\"。常见搭配如\"颜值天花板\"\"演技天花板\"\"国产剧天花板\"。",
+    "example": "这家店的小笼包绝对是上海小笼包的天花板。",
+    "example_pinyin": "Zhè jiā diàn de xiǎolóngbāo juéduì shì Shànghǎi xiǎolóngbāo de tiānhuābǎn.",
+    "example_translation": "This place's xiaolongbao are hands-down the best in Shanghai.",
+    "context": "The word normally just means a room's ceiling, and its older figurative sense was a limit you can't break through, as in the glass ceiling. Online the image flipped: the ceiling is the highest point anything can reach, so the best thing in a category *is* the ceiling. It exploded across Weibo, Douyin and fan culture from about 2019, and it is fully productive with any noun ('X天花板'). It's so common in hype copy that regulators and media have cited it, alongside 扛把子, as a de facto superlative like 最高/第一.",
+    "category": "slang",
+    "date_added": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://www.moyachinese.com/w/%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+        "note": "Moya Chinese dictionary — 天花板: ceiling; slang for 'the best in a field'",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.jiemian.com/article/8031212.html",
+        "note": "界面新闻：“天花板”“扛把子”等广告用语相当于极限词",
+        "lang": "zh"
+      }
+    ]
   }
 ]
