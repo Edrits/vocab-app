@@ -4459,5 +4459,99 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "she-chu",
+    "hanzi": "社畜",
+    "pinyin": "shèchù",
+    "literal": "company (会社) + livestock (家畜)",
+    "meaning": "'Corporate livestock' — a self-mocking label for an overworked office worker who obeys the boss and has no life outside the job.",
+    "meaning_zh": "由日语「会社」和「家畜」组合而成，指像家畜一样被公司驱使、加班成常态、毫无个人生活的上班族，多用于自嘲。",
+    "example": "今天又加班到十点，社畜的命就是这样。",
+    "example_pinyin": "Jīntiān yòu jiābān dào shí diǎn, shèchù de mìng jiù shì zhèyàng.",
+    "example_translation": "Overtime till ten again today — that's the life of a corporate drone.",
+    "context": "Borrowed from Japanese 社畜 (shachiku), which got a big boost from the 2018 Japanese drama 《无法成为野兽的我们》 with its downtrodden office-worker heroine. It landed in China the same period as the backlash against the 996 work schedule, and white-collar workers adopted it as a wry self-description. Calling yourself livestock is an insult turned into self-deprecation; it is an older sibling of 打工人 and 牛马, and remains in everyday use.",
+    "category": "social",
+    "date_added": "2026-10-07",
+    "sources": [
+      {
+        "url": "https://www.sixthtone.com/news/1006336/young-chinese-bemoan-rat-race-with-tongue-in-cheek-meme",
+        "note": "Sixth Tone — young Chinese bemoan the rat race with memes, explains 社畜",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2019/09/cattle-class/",
+        "note": "The World of Chinese, Street Talk 'Cattle Class' on 社畜",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "wo-zhen-de-hui-xie",
+    "hanzi": "我真的会谢",
+    "pinyin": "wǒ zhēn de huì xiè",
+    "literal": "I + really + will + thank / wither",
+    "meaning": "A sarcastic 'thanks a lot' that means 'I'm speechless / fed up'; used to complain about something absurd or annoying without swearing.",
+    "meaning_zh": "表面是「会感谢你」，实则阴阳怪气地表达无语和不满，是「我TM谢谢你」的不带脏字版；「谢」还双关「凋谢」，形容被离谱的事弄得像花一样枯萎。",
+    "example": "刚到楼下外卖就被人拿走了，我真的会谢。",
+    "example_pinyin": "Gāng dào lóu xià wàimài jiù bèi rén ná zǒu le, wǒ zhēn de huì xiè.",
+    "example_translation": "Someone nicked my takeaway the second it arrived downstairs — honestly, thanks a lot.",
+    "context": "Traced to the catchphrase of Weibo comedy blogger 怨男0, it spread among fans and then across platforms, especially 小红书. It is a softened version of 我TM谢谢你 and sits in the same family as 栓Q: 'thanks' that isn't thanks at all. The pun on 谢 (to wither, as in 花谢了) adds the image of someone wilting from sheer exasperation.",
+    "category": "slang",
+    "date_added": "2026-10-07",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E6%88%91TM%E8%B0%A2%E8%B0%A2%E4%BD%A0",
+        "note": "萌娘百科「我TM谢谢你」词条，含「我真的会谢」变体与出处",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jia-ren-men-shei-dong-a",
+    "hanzi": "家人们谁懂啊",
+    "pinyin": "jiārénmen shéi dǒng a",
+    "literal": "family members + who + understands + ah",
+    "meaning": "'Guys, can anyone relate?!' — an opener used to rant or share something outrageous, inviting fellow netizens to commiserate.",
+    "meaning_zh": "网络上的吐槽开场白，把能理解自己的网友称为「家人」，用来分享离谱遭遇或只有同道中人才懂的感受，寻求共鸣。",
+    "example": "家人们谁懂啊，开会开了三个小时，最后说下次再议。",
+    "example_pinyin": "Jiārénmen shéi dǒng a, kāihuì kāi le sān gè xiǎoshí, zuìhòu shuō xià cì zài yì.",
+    "example_translation": "Guys, can anyone relate? A three-hour meeting, and at the end they said 'let's discuss it next time'.",
+    "context": "家人们 ('family') became the standard way livestreamers and short-video creators address their audience, and the logic stuck: whoever gets me is family. 家人们谁懂啊 grew into a ubiquitous opener on Douyin, 小红书 and Bilibili for venting about a bad date, a nightmare colleague, or anything only like-minded people would understand. It is formulaic enough that brands now borrow it in marketing (Bilibili built a campaign around the 'people who get you are family' idea).",
+    "category": "slang",
+    "date_added": "2026-10-07",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/projects/363005.html",
+        "note": "数英网 — B站营销案例，引用「家人们，谁懂啊？」及「懂我的人就是家人」的逻辑",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "qian-lv-ji-qiong",
+    "hanzi": "黔驴技穷",
+    "pinyin": "qián lǘ jì qióng",
+    "literal": "Guizhou + donkey + skills + exhausted",
+    "meaning": "To have exhausted one's limited bag of tricks, exposing how little was there; said of someone who has run out of moves.",
+    "meaning_zh": "比喻仅有的一点本领已经用完，再也无计可施，露出了虚弱的本质，含贬义。",
+    "example": "他又开始翻旧账了，看来是黔驴技穷了。",
+    "example_pinyin": "Tā yòu kāishǐ fān jiùzhàng le, kànlái shì qián lǘ jì qióng le.",
+    "example_translation": "He's dragging up old grudges again — looks like he's run out of tricks.",
+    "context": "From Tang writer 柳宗元's fable 《三戒·黔之驴》: there were no donkeys in Guizhou (黔) until someone brought one in. A tiger, awed by its size, at first thought it divine, but after seeing that all it could do was bray and kick, pounced and ate it. Online it's a staple of comment-section put-downs: when an opponent in an argument, a scammer, or a show's writers recycle the same moves, netizens declare them 黔驴技穷.",
+    "category": "chengyu",
+    "date_added": "2026-10-07",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/黔驢技窮",
+        "note": "汉典「黔驴技穷」词条，释义与出处",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.wikisource.org/zh-hans/%E4%B8%89%E6%88%92%EF%BC%88%E4%B8%A6%E5%BA%8F%EF%BC%89",
+        "note": "维基文库 柳宗元《三戒（并序）》原文",
+        "lang": "zh"
+      }
+    ]
   }
 ]
