@@ -4553,5 +4553,114 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "pu-xin-nan",
+    "hanzi": "普信男",
+    "pinyin": "pǔ xìn nán",
+    "literal": "普 ordinary + 信 confident + 男 man",
+    "meaning": "'Ordinary yet confident man' — a man with unremarkable looks, talent or prospects who is nonetheless supremely sure of himself, especially around women (mistaking politeness for interest, lecturing, belittling others). Short form 普信 can describe anyone with unearned self-assurance.",
+    "meaning_zh": "“普通却自信的男人”的缩写，指条件平平却对自己有谜之自信的男性，常把别人的客气当成好感、喜欢居高临下。“普信”也可单用，泛指盲目自信的人。",
+    "example": "他连约会都迟到，还觉得女生都暗恋他，真是普信男。",
+    "example_pinyin": "Tā lián yuēhuì dōu chídào, hái juéde nǚshēng dōu ànliàn tā, zhēn shì pǔxìnnán.",
+    "example_translation": "He turns up late even to dates and still thinks every woman secretly fancies him — a proper ordinary-but-confident guy.",
+    "context": "Coined from stand-up comedian 杨笠 (Yang Li)'s 2020 joke on 《脱口秀大会》 that some men are 'so ordinary, yet so confident' (那么普通，却那么自信). The Weibo topic racked up hundreds of millions of reads, sparked a gender-war backlash (boycotts of brands she endorsed, e.g. JD.com), and the abbreviation 普信 stuck as a durable label in Chinese gender discourse. Still used productively (普信女, 普信发言) — and still divisive, so mind the company you use it in.",
+    "category": "social",
+    "date_added": "2026-10-08",
+    "sources": [
+      {
+        "url": "https://sites.duke.edu/intersections/2024/04/09/ordinarybutconfident",
+        "note": "Duke Intersections — 'Ordinary But Confident': Cultural Collisions Over Gender and Ambition",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.marieclaire.com.tw/relationship/secret-talk/76891",
+        "note": "Marie Claire 台湾版 — 普信男特征盘点",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "da-yuan-zhong",
+    "hanzi": "大冤种",
+    "pinyin": "dà yuān zhǒng",
+    "literal": "大 big + 冤 wronged / hard done by + 种 breed, type",
+    "meaning": "A total mug — someone who gets ripped off, takes the fall, or does something daft and ends up the loser. Used far more for self-mockery ('纯纯大冤种', 'utter mug') than as a real insult.",
+    "meaning_zh": "源自东北话，指吃了亏、被坑、做了傻事还白费力气的人，常用来自嘲或调侃朋友，如“我真是纯纯大冤种”。",
+    "example": "原价买完第二天就打五折，我真是纯纯大冤种。",
+    "example_pinyin": "Yuánjià mǎi wán dì-èr tiān jiù dǎ wǔ zhé, wǒ zhēn shì chúnchún dà yuānzhǒng.",
+    "example_translation": "I paid full price and the next day it was half off — I'm an absolute mug.",
+    "context": "Northeastern (东北) dialect that Dongbei vloggers on Douyin and Kuaishou carried into national slang around 2021–22. It made 《语言文字周报》's ten top internet buzzwords of 2022 and has stayed in everyday use — the go-to word for overpaying, being the one who always pays, or getting played. 纯纯 ('pure, through-and-through') is its usual intensifier.",
+    "category": "slang",
+    "date_added": "2026-10-08",
+    "sources": [
+      {
+        "url": "https://thechinaproject.com/2022/12/29/chinas-top-internet-buzzwords-of-2022/",
+        "note": "The China Project — China's top internet buzzwords of 2022",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_21092208",
+        "note": "澎湃新闻 — 2022年十大网络流行语报道（含“冤种”）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "die-wei",
+    "hanzi": "爹味",
+    "pinyin": "diē wèi",
+    "literal": "爹 dad + 味 flavour, whiff",
+    "meaning": "Patronising 'dad energy' — talking down to people, handing out unsolicited advice and 'correct answers', and expecting obedience. Harsher than plain 说教 (preaching): it implies control and condescension, not good intentions. No longer restricted to men.",
+    "meaning_zh": "形容一个人像家长一样居高临下、爱说教、好为人师，不管别人需不需要就给“最优解”，还不容反驳。比“说教”更贬义，男女都可以“爹味”很重。",
+    "example": "我就随口说了句累，他给我讲了半小时时间管理，爹味太重了。",
+    "example_pinyin": "Wǒ jiù suíkǒu shuō le jù lèi, tā gěi wǒ jiǎng le bàn xiǎoshí shíjiān guǎnlǐ, diēwèi tài zhòng le.",
+    "example_translation": "I only mentioned I was tired and he gave me a half-hour lecture on time management — the dad energy was unbearable.",
+    "context": "Spread on Weibo and Douban from around 2020 alongside debates about patriarchal attitudes, much like English 'mansplaining' (which it overlaps with but isn't identical to). It's productive — 爹味发言, 爹味文案, 去爹味 — and has recently merged with 老登 talk into 登味, the same know-it-all superiority pinned on the older generation.",
+    "category": "social",
+    "date_added": "2026-10-08",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/1529756.html",
+        "note": "虎嗅 — 关于“爹味”与说教区别的评论文章",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32900106",
+        "note": "澎湃新闻 — 评论“爹味”与“老登”“登味”合流",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lao-deng",
+    "hanzi": "老登",
+    "pinyin": "lǎo dēng",
+    "literal": "老 old + 登 (from 登徒子, lecher)",
+    "meaning": "'Old geezer' — originally a rude Dongbei word for an old man (with a lecherous edge), now a jokey label for the older generation and anyone self-important, preachy or pulling rank. Spawned a whole age ladder: 老登 / 中登 (roughly 1995–2000 births) / 小登 (00s kids), often used self-deprecatingly. Can also be affectionate between friends.",
+    "meaning_zh": "源自东北方言，原是骂老年男性“老家伙、老不正经”的粗话；走红后泛指上一代人或倚老卖老、好为人师的人，还衍生出“中登”“小登”等辈分梗，多用于调侃和自嘲，熟人间也可当昵称。",
+    "example": "我才二十六，就被00后同事叫中登了。",
+    "example_pinyin": "Wǒ cái èrshíliù, jiù bèi líng-líng-hòu tóngshì jiào zhōngdēng le.",
+    "example_translation": "I'm only twenty-six and my Gen-Z colleagues are already calling me a 'middle geezer'.",
+    "context": "Traditionally said to derive from 登徒子 (a by-word for a lecher), carried into the northeast by Shandong migrants. It blew up online in 2024–25 via Dongbei streamers and Bilibili comment culture, shifting from insult to generational ribbing — 老登电影 (films for old geezers), 登味 (know-it-all old-man energy) — and in 2026 the 老登/中登/小登 ladder became a standard way for young people to mock both their elders and themselves. Mainstream outlets from 星岛 to 澎湃 have covered the trend.",
+    "category": "slang",
+    "date_added": "2026-10-08",
+    "sources": [
+      {
+        "url": "https://www.stheadline.com/zh-hans/realtime-china/3505129/中国观察老登爆红-戏谑上一代",
+        "note": "星岛头条 — 中国观察：「老登」爆红 戏谑上一代",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.tech.china.com/articles/20260910/202609101958428.html",
+        "note": "中华网 — 2026年9月报道“老登/中登/小登”辈分梗",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32900106",
+        "note": "澎湃新闻 — 评论“老登”与“登味”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
