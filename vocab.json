@@ -4662,5 +4662,124 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ge-jiucai",
+    "hanzi": "割韭菜",
+    "pinyin": "gē jiǔcài",
+    "literal": "cut + chives (Chinese leeks)",
+    "meaning": "To fleece ordinary people over and over: the powerful side (big investors, platforms, bosses, scam-sellers) 'harvests' money from the naive masses, who are the 韭菜 'leeks'. Used for stock markets, crypto, paid courses, overpriced products, and employers squeezing staff. Calling yourself 韭菜 is a wry admission that you've been had.",
+    "meaning_zh": "比喻强势一方（庄家、机构、平台、商家等）反复从普通人身上收割钱财。“韭菜”指被收割的散户或普通消费者，割了一茬又长一茬。原指股市里大户收割散户，后泛指各种消费陷阱、割韭菜式的课程或骗局，也常用来自嘲“我又被割了”。",
+    "example": "这个理财课就是割韭菜的，别买了。",
+    "example_pinyin": "Zhège lǐcái kè jiù shì gē jiǔcài de, bié mǎi le.",
+    "example_translation": "That investing course is just there to fleece people — don't buy it.",
+    "context": "Born in China's stock-market forums: chives regrow quickly after being cut, so retail investors (散户) are 'leeks' who keep flooding back in and getting harvested by institutions as prices swing. Through the crypto booms and the rise of paid 'get rich' courses and influencer products it spread to any situation where the little guy is milked repeatedly, and young workers now say 在公司被割韭菜. Spin-offs include 韭菜 (a sucker) and 收割 (to harvest someone's money).",
+    "category": "social",
+    "date_added": "2026-10-09",
+    "sources": [
+      {
+        "url": "https://www.eyeshenzhen.com/content/2018-09/05/content_21075239.htm",
+        "note": "Eye Shenzhen 'Catch Phrase' explainer on 割韭菜",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.ourchinastory.com/cn/14890",
+        "note": "Our China Story 解释“割韭菜”的股市来源及引申义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.realtimemandarin.com/p/how-to-cut-a-chinese-leek",
+        "note": "RealTime Mandarin, 'How to cut a Chinese leek'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "xi-si-ji-kong",
+    "hanzi": "细思极恐",
+    "pinyin": "xì sī jí kǒng",
+    "literal": "carefully + think + extremely + frightening",
+    "meaning": "'The more you think about it, the creepier it gets.' Said of something that seems harmless at first glance but turns unsettling when you look closer — a plot detail, a data-privacy revelation, a suspicious coincidence. Also written 细思恐极.",
+    "meaning_zh": "“仔细想想，极其恐怖”的缩略说法。指某件事乍看平常，细想之后却让人毛骨悚然，常用于评论剧情细节、隐私泄露、巧合等。也写作“细思恐极”。",
+    "example": "App 早就知道我想买什么了，细思极恐。",
+    "example_pinyin": "App zǎo jiù zhīdào wǒ xiǎng mǎi shénme le, xì sī jí kǒng.",
+    "example_translation": "The app already knew what I wanted to buy — creepy when you think about it.",
+    "context": "One of the four-character 'post-modern chengyu' (后现代成语) that swept Weibo around 2012–2013, when netizens compressed whole phrases into mock-idioms. It appeared on 2013's top internet-buzzword round-ups (as 细思恐极) and, unlike most of its siblings, never went away: it's still a stock comment under true-crime posts, film theories and tech-surveillance stories.",
+    "category": "abbreviation",
+    "date_added": "2026-10-09",
+    "sources": [
+      {
+        "url": "https://www.sinicapodcast.com/p/deeply-unsettling-phrase-of-the-week",
+        "note": "Sinica Podcast 'Phrase of the Week' on 细思极恐",
+        "lang": "en"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/201310/12/WS5b1f2b21a31001b82571f8f5.html",
+        "note": "中国日报网 2013十大网络流行词（含细思恐极）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bu-ming-jue-li",
+    "hanzi": "不明觉厉",
+    "pinyin": "bù míng jué lì",
+    "literal": "not + understand + feel + impressive",
+    "meaning": "'No idea what you're on about, but it sounds impressive.' A teasing-yet-admiring reaction to jargon, technical showing-off or anything over your head. Can be sincere awe or gentle mockery depending on tone.",
+    "meaning_zh": "“虽然不明白，但觉得很厉害”的缩略。用来回应听不懂的专业术语、技术炫技或高深内容，既可表示真心佩服，也可以带点调侃。",
+    "example": "你讲的量子计算我一句没听懂，不明觉厉。",
+    "example_pinyin": "Nǐ jiǎng de liàngzǐ jìsuàn wǒ yí jù méi tīngdǒng, bù míng jué lì.",
+    "example_translation": "I didn't follow a word of your quantum-computing talk, but it sounds amazing.",
+    "context": "Topped China Daily's 2013 list of internet buzzwords, the year of 'post-modern chengyu' like 喜大普奔 and 人艰不拆. Often traced to a line in Stephen Chow's film 《食神》 where a character admits he doesn't understand but finds it impressive. Most of that 2013 batch faded, but 不明觉厉 stuck and is still a go-to comment under coding, maths and science posts on Bilibili and Zhihu.",
+    "category": "abbreviation",
+    "date_added": "2026-10-09",
+    "sources": [
+      {
+        "url": "https://language.chinadaily.com.cn/a/201310/12/WS5b1f2b21a31001b82571f8f5.html",
+        "note": "中国日报网 2013十大网络流行词，不明觉厉居首",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/shipin/2013/12-17/ws376.shtml",
+        "note": "中国新闻网 2013年视频节目，称出自电影《食神》台词",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E5%90%8E%E7%8E%B0%E4%BB%A3%E6%88%90%E8%AF%AD",
+        "note": "萌娘百科“后现代成语”词条",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "fan-che",
+    "hanzi": "翻车",
+    "pinyin": "fān chē",
+    "literal": "overturn + vehicle",
+    "meaning": "To crash and burn: when something goes embarrassingly wrong, especially in public — a live-stream product that fails on camera, a celebrity whose image collapses, a cooking attempt that looks nothing like the tutorial, a confident prediction proven wrong. 翻车现场 is 'the scene of the wreck'.",
+    "meaning_zh": "本义是车辆翻倒，网络上引申为事情搞砸、失败或当众出丑，结果与预期相反。常用于直播带货出问题、明星人设崩塌、照着教程做却失败等场景。“翻车现场”指出丑的那一刻。",
+    "example": "照着视频做蛋糕，结果翻车了，像一坨泥。",
+    "example_pinyin": "Zhàozhe shìpín zuò dàngāo, jiéguǒ fānchē le, xiàng yì tuó ní.",
+    "example_translation": "I followed a video to make a cake and it was a total disaster — it looks like a lump of mud.",
+    "context": "Grew out of the 老司机 / 发车 ('veteran driver' / 'the bus is leaving') slang of mid-2010s forums, where 发车 meant sharing a resource and 翻车 meant the share failing. It then broadened to any public failure, and the live-commerce boom made 直播翻车 a headline staple — Li Jiaqi's non-stick pan that stuck on air (2019) is the classic example. Now everyday vocabulary, from 人设翻车 to a 'nailed it' DIY fail.",
+    "category": "slang",
+    "date_added": "2026-10-09",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E5%8F%91%E8%BD%A6",
+        "note": "萌娘百科“发车”词条，含“翻车”的来源",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/792158989207302",
+        "note": "36氪 关于明星直播带货翻车的分析",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/marketing/4089055.html",
+        "note": "人人都是产品经理 直播翻车案例分析",
+        "lang": "zh"
+      }
+    ]
   }
 ]
