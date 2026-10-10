@@ -25,13 +25,21 @@ You only ever need the *keys*, via the commands below.
    ```
    python3 -c "import json, collections; print(collections.Counter(e['category'] for e in json.load(open('vocab.json'))))"
    ```
-2. **Search** for candidates. Rotate across sources so results stay varied:
-   - Weibo hot search (微博热搜), Douyin / RedNote (小红书) trending, Bilibili
-   - 年度网络流行语 / word-of-the-year lists (国家语言资源监测与研究中心, 《咬文嚼字》, 小红书年度热词) —
-     these are already filtered for endurance, so they're a better hunting ground than raw hot-search
-   - **established terms that are everywhere but the deck simply hasn't got yet** — backfilling the
-     durable core is as valuable as catching something new
-   - only then, this week's genuinely-spreading new terms — and hold them to the endurance bar below
+2. **Pulse check first, then search.** Start every run by finding out what is spreading on the Chinese
+   internet *right now* (the last ~1–2 weeks) — the deck should keep a finger on the pulse, not just
+   wait for year-end lists. Rotate across sources so results stay varied:
+   - **Live trend boards:** Weibo hot search (微博热搜), Douyin hot list (抖音热榜), RedNote (小红书),
+     Bilibili 热门, Baidu 热搜 — plus recent 梗 explainer write-ups ("最近很火的梗", "热梗" + this week's
+     date or month). If search-engine results look stale, WebFetch a hot-search aggregator page directly.
+   - Aim for **at least one term from the current pulse** each run, where one holds up — a fresh term
+     that's clearly crossing platforms qualifies; so does a notable item for the `news` lane below.
+   - **Then fill out the batch** with established terms that are everywhere but the deck hasn't got yet —
+     backfilling the durable core is still valuable.
+   - 年度网络流行语 / word-of-the-year lists (国家语言资源监测与研究中心, 《咬文嚼字》, 小红书年度热词) are a
+     **backfill fallback only** — use them when the pulse check turns up nothing that passes the bar, not
+     as the default hunting ground.
+   - In the run summary, add a short **pulse notes** line: what's trending that you looked at but skipped,
+     and why.
 3. **Select** terms that are (a) not already in the deck, (b) genuinely in use — not textbook
    words, (c) explainable with real cultural context, and (d) **likely to endure** (see the bar
    below). Prefer a mix of categories, and lead with the solid, established core.
