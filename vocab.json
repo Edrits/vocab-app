@@ -4781,5 +4781,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "wu-chuang-tian-jia",
+    "hanzi": "误闯天家",
+    "pinyin": "wù chuǎng tiān jiā",
+    "literal": "mistakenly · barge into · heaven's · house",
+    "meaning": "Self-deprecating way to say you've somehow wandered into a far more elite setting than you belong in — a top university, a big-name company, a room full of experts — and feel like an impostor. Often used after 'making it' to laugh at the gap between the dream and the reality.",
+    "meaning_zh": "原指“意外闯入天宫”，现多指偶然进入名校、大厂或专业圈子等门槛很高的场合，自嘲自己格格不入、像混进来的。常用来调侃“上岸”之后理想与现实的落差。",
+    "example": "周围全是大佬，我全程不敢说话，纯属误闯天家。",
+    "example_pinyin": "Zhōuwéi quán shì dàlǎo, wǒ quánchéng bù gǎn shuōhuà, chúnshǔ wù chuǎng tiān jiā.",
+    "example_translation": "Everyone around me was a big shot — I didn't dare say a word the whole time. I'd basically wandered into heaven by mistake.",
+    "context": "The phrase first broke out from the lyrics of a 古风 (classical-style) song; short-video remixes spread it and the meaning broadened from literally 'stumbling into the heavenly palace' to any intimidatingly high-level place. The classical imagery dresses up a very modern feeling — impostor syndrome at a prestigious school or job. It was named one of the 2025 'Top Ten Internet Buzzwords' by 《语言文字周报》 (Language & Writing Weekly), a sign it has crossed into the mainstream.",
+    "category": "slang",
+    "date_added": "2026-10-10",
+    "sources": [
+      {
+        "url": "https://news.ifeng.com/c/8p1aXQyqEs4",
+        "note": "凤凰网：《语言文字周报》2025年十大网络流行语释义（误闯天家）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.sohu.com/a/964873134_255783",
+        "note": "搜狐：2025年“十大网络流行语”发布名单",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dang-ge-shi-er-ban",
+    "hanzi": "当个事儿办",
+    "pinyin": "dàng ge shìr bàn",
+    "literal": "treat-as · a · matter · handle",
+    "meaning": "'Treat it as a proper matter' — take something seriously. Online it's used for comic contrast: a solemn, formal vow applied to something trivial ('this snack decision must be handled properly'). It has also picked up a sincere, encouraging sense: actually taking your own goals seriously.",
+    "meaning_zh": "源自北方方言，意思是“认真对待”。网络上多用夸张郑重的语气回应鸡毛蒜皮的小事，制造反差幽默；后来也衍生出正向激励的用法，表示真正重视某件事、认真去做。",
+    "example": "这关系到我周末能不能睡懒觉，必须当个事儿办！",
+    "example_pinyin": "Zhè guānxì dào wǒ zhōumò néng bù néng shuì lǎnjiào, bìxū dàng ge shìr bàn!",
+    "example_translation": "This decides whether I get a lie-in at the weekend — it must be treated as a matter of the utmost seriousness!",
+    "context": "A northern-dialect phrase (note the 儿化 'shìr') that took off in short videos through generational parody — mimicking the grave tone of parents or bosses issuing instructions, then pointing it at something absurdly small. The over-serious register is the joke. It was listed among 《语言文字周报》's 2025 Top Ten Internet Buzzwords.",
+    "category": "slang",
+    "date_added": "2026-10-10",
+    "sources": [
+      {
+        "url": "https://news.ifeng.com/c/8p1aXQyqEs4",
+        "note": "凤凰网：《语言文字周报》2025年十大网络流行语释义（当个事儿办）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.sohu.com/a/964873134_255783",
+        "note": "搜狐：2025年“十大网络流行语”发布名单",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "pin-hao-x",
+    "hanzi": "拼好X",
+    "pinyin": "pīn hǎo X",
+    "literal": "club-together · good · X",
+    "meaning": "A productive pattern: 'group-buy a good X'. From 拼好饭 (Pinduoduo/Meituan-style group-order takeaway that's cheaper because people pool orders), it now covers any thrifty, share-it-to-make-it-work solution — 拼好床 (sharing a bed/room), 拼好票 (buying tickets together), 拼好递 (combining parcels), even 拼好抱 (a shared hug).",
+    "meaning_zh": "源于外卖平台的“拼好饭”，即多人拼单以降低价格。后来形成“拼好×”构式，泛指通过拼单、合作、共享来获得高性价比或个性化方案的做法，“好”含有划算、省心的意思，如拼好床、拼好票、拼好递。",
+    "example": "演唱会票太贵了，咱们几个拼好票吧。",
+    "example_pinyin": "Yǎnchànghuì piào tài guì le, zánmen jǐ gè pīn hǎo piào ba.",
+    "example_translation": "Concert tickets are way too pricey — let's club together and group-buy them.",
+    "context": "拼好饭 is a budget takeaway service where orders are pooled to bring prices down — very much part of young Chinese people's everyday frugality (see 消费降级 vibes). Netizens turned it into a template and started 拼好-ing everything from rented beds to emotional support. Because it's a pattern rather than a fixed phrase, it keeps generating new combinations, which is why 《语言文字周报》 put 拼好× on its 2025 Top Ten Internet Buzzwords list.",
+    "category": "slang",
+    "date_added": "2026-10-10",
+    "sources": [
+      {
+        "url": "https://news.ifeng.com/c/8p1aXQyqEs4",
+        "note": "凤凰网：《语言文字周报》2025年十大网络流行语释义（拼好×）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.sohu.com/a/964873134_255783",
+        "note": "搜狐：2025年“十大网络流行语”发布名单",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gao-shan-liu-shui",
+    "hanzi": "高山流水",
+    "pinyin": "gāo shān liú shuǐ",
+    "literal": "high · mountains · flowing · water",
+    "meaning": "A kindred spirit; a friend who truly understands you (知音), or exquisite music. Usually in 高山流水遇知音 — 'meeting the one who understands your music'.",
+    "meaning_zh": "比喻知己、知音难得，或形容乐曲高妙。常说“高山流水遇知音”，指遇到真正懂自己的人。",
+    "example": "我俩一聊就停不下来，真是高山流水遇知音。",
+    "example_pinyin": "Wǒ liǎ yì liáo jiù tíng bú xiàlái, zhēn shì gāo shān liú shuǐ yù zhīyīn.",
+    "example_translation": "Once we start talking we can't stop — a true meeting of kindred spirits.",
+    "context": "From the pre-Qin tale of the zither player 伯牙 and the woodcutter 钟子期: when Boya played thinking of high mountains, Ziqi heard mountains; when he thought of flowing water, Ziqi heard water. After Ziqi died, Boya smashed his zither, as no one else could understand his music. Netizens in 2026 gave it a famous parody — 低山臭水遇知音 ('low hills and stinking water meet their soulmates') — popularised by viewers of the variety show 《乘风2026》 teasing Wang Meng's chaotic, unpretentious team, and now used for any pair or group of goofballs whose wavelengths match perfectly. Knowing the original is what makes the parody land.",
+    "category": "chengyu",
+    "date_added": "2026-10-10",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-06-26/detail-inieuccn5082972.d.html?vt=4",
+        "note": "新浪娱乐：王濛团“低山臭水遇知音”梗报道（改写自高山流水遇知音）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://chinese-forums.com/forums/topic/1966-translation-and-general-language-question-%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4",
+        "note": "Chinese Forums: discussion of the meaning and Boya/Ziqi story behind 高山流水",
+        "lang": "en"
+      }
+    ]
   }
 ]
