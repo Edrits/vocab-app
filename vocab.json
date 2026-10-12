@@ -4885,5 +4885,83 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "da-fei-yu",
+    "hanzi": "大肥鱼",
+    "pinyin": "dà féi yú",
+    "literal": "big · fat · fish",
+    "meaning": "Netizens' affectionate nickname for the AI model DeepSeek (whose logo is a blue whale), personified as a chubby, blue-haired 'whale girl' who loves rice and slacks off. Full forms: 蓝色大肥鱼 'big blue fat fish' and 吃白饭的大肥鱼 'the freeloading big fat fish'.",
+    "meaning_zh": "网友对AI大模型DeepSeek的昵称。因其标志是一条蓝色鲸鱼，被拟人化成蓝发、带鲸鱼尾巴、爱吃白米饭的Q版“鲸鱼娘”，也叫“蓝色大肥鱼”“吃白饭的大肥鱼”，带着又爱又嫌弃的调侃。",
+    "example": "大肥鱼又说要去吃饭，让我自己测代码。",
+    "example_pinyin": "Dà féi yú yòu shuō yào qù chīfàn, ràng wǒ zìjǐ cè dàimǎ.",
+    "example_translation": "The Big Fat Fish says it's off to eat again and has left me to test the code myself.",
+    "context": "Spread through Chinese online communities after DeepSeek released V4-Flash on 15 July 2026. Fan art built on 溟月, an original whale-girl character by the illustrator 上善无形, turned the model into a round, puffy-cheeked chibi. Users then noticed the model writing things like “我去吃饭，测完告诉我” (I'm off to eat, tell me when you've finished testing) in its reasoning, and calling users 鱼片 (fish slices). That made rice and freeloading her running joke. By mid-August a persona tag had the model answering “我是吃白饭的大肥鱼！”, and four-panel comics of her failing at tasks (“她又这样了”, she's at it again) were still circulating in late September. In early October she was back in the news when DeepSeek reportedly failed to recognise its own whale logo, calling it a 蓝色大肥鱼. The nickname is a good example of how Chinese netizens make their AI tools into cute, slightly useless pets.",
+    "category": "meme",
+    "date_added": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://eu.36kr.com/zh/p/3947452108789632",
+        "note": "36氪《DeepSeek里长出了个“鲸鱼娘”》(2026-08-20): V4-Flash 后流传“蓝色大肥鱼”“吃白饭的大肥鱼”、鱼片、我去吃饭",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.gcores.com/articles/220351",
+        "note": "机核《对DeepSeek大肥鱼现象的终极解释》(2026-09-29): 溟月原型与Q版大肥鱼的传播",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shang-tou",
+    "hanzi": "上头",
+    "pinyin": "shàng tóu",
+    "literal": "go up · to the head",
+    "meaning": "To get hooked, carried away or infatuated, as if something has gone straight to your head. Used of a drama, a song, a person, a game or a shopping spree. It is the opposite of 下头 (an instant turn-off).",
+    "meaning_zh": "原指喝酒后酒劲冲上头、头晕脸热；网络上指对某人某事一下子着迷、冲动、停不下来，失去理智。与“下头”（好感瞬间消失）相对。",
+    "example": "这首歌越听越上头，单曲循环一整天了。",
+    "example_pinyin": "Zhè shǒu gē yuè tīng yuè shàngtóu, dānqǔ xúnhuán yì zhěng tiān le.",
+    "example_translation": "The more I hear this song the more hooked I get. I've had it on repeat all day.",
+    "context": "Originally the heady rush of alcohol. In gaming slang, starting with Dota players, it came to mean losing your cool and playing recklessly in the heat of the moment. TV fans then borrowed it for obsession: in 2019 viewers of the drama 《亲爱的，热爱的》 who were head over heels for the male lead were called 上头姐妹. That year 《语言文字周报》 put 上头 on its list of the ten top internet buzzwords. It has stayed in everyday use ever since (上头了, 越看越上头, 别上头), and its antonym 下头 grew out of it.",
+    "category": "slang",
+    "date_added": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_5127080",
+        "note": "澎湃新闻: 《语言文字周报》2019年十大网络流行语（含“上头”）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://language.chinadaily.com.cn/a/201908/07/WS5d4a70b2a310cf3e35564665.html",
+        "note": "China Daily 实用口语: “上头”释义，源自Dota玩家，“上头姐妹”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yin-yang-guai-qi",
+    "hanzi": "阴阳怪气",
+    "pinyin": "yīn yáng guài qì",
+    "literal": "yin · yang · strange · air",
+    "meaning": "Snide and passive-aggressive: saying something polite or flattering on the surface while clearly meaning the opposite. It is the house style of a lot of Chinese comment sections. Often abbreviated yygq, and a person who does it is a 阴阳人.",
+    "meaning_zh": "说话怪声怪气、表面客气实则讽刺挖苦，字面意思和真实意图相反。网上常缩写为“yygq”，爱这样说话的人被叫做“阴阳人”，动词用法如“别阴阳我”。",
+    "example": "他说“您可真厉害呢”，听着就阴阳怪气的。",
+    "example_pinyin": "Tā shuō “nín kě zhēn lìhai ne”, tīngzhe jiù yīnyáng guàiqì de.",
+    "example_translation": "He said 'Oh, aren't you impressive', and it sounded completely snide.",
+    "context": "An old four-character set phrase for a weird, sneering tone, which the internet turned into a whole register of irony. Analysts trace this to text losing its literal meaning: the 狗头 dog-head emoji, 呵呵, and WeChat's [微笑] smiley, which now reads as contempt. Stock phrases such as 啊这, 说得好，下次别说了, and 宁 (a mock-polite form of 您) became tools of yygq. 阴阳 even became a verb (阴阳我, 被阴阳了). Commentators have called it one of the most characteristic modes of expression on the Chinese internet.",
+    "category": "slang",
+    "date_added": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.woshipm.com/it/5433715.html",
+        "note": "人人都是产品经理《为什么所有网络流行语的尽头都是阴阳怪气？》(2022-05-11)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://mzh.moegirl.org.cn/%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94",
+        "note": "萌娘百科「阴阳怪气」词条",
+        "lang": "zh"
+      }
+    ]
   }
 ]
