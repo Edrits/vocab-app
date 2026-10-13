@@ -4963,5 +4963,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "bu-shao-xin",
+    "hanzi": "不烧心",
+    "pinyin": "bù shāoxīn",
+    "literal": "not + burn + heart (i.e. no heartburn)",
+    "meaning": "All-purpose praise for something trustworthy and honest: good value, no nasty surprises, doesn't leave you feeling cheated. Its opposite, 烧心, means something was a rip-off or a letdown. The set phrase 贵是贵了点，但不烧心 ('a bit pricey, but no heartburn') is the highest compliment.",
+    "meaning_zh": "万能夸赞，形容东西或人靠谱、真材实料、不坑人、让人放心。反过来，货不对板、体验差就是“烧心”。“贵是贵了点，但不烧心”被当作最高好评。",
+    "example": "这家店贵是贵了点，但吃了不烧心。",
+    "example_pinyin": "Zhè jiā diàn guì shì guì le diǎn, dàn chī le bù shāoxīn.",
+    "example_translation": "This place is a bit pricey, but at least you don't come away with heartburn (it's honest food).",
+    "context": "Comes from a wave of near-identical AI-generated 'honest vendor' short dramas on the Hongguo (红果) short-drama app from around September 2026. In each one, a street vendor insists on good ingredients and charges more, a rival undercuts him with cheap rubbish, and a loyal customer delivers the same line: 'a bit pricey, but it doesn't give you heartburn' (贵是贵了点，但吃了不烧心). The vendor replies with lines like 'set the rules first and the road gets wider' (先把规矩立住，路才能越走越宽). Viewers ended up memorising the scripts rather than watching them, then started joking with the template in early October: 视频好看不烧心, 恋爱靠谱不烧心. By 9 October the Douyin hashtag had about 256,000 participants and 1.43 billion views, and brands such as 旺仔, 银鹭 and 九阳 joined in. The joke has two layers. It mocks how formulaic AI short dramas are, and it also captures a real hunger for plain honesty in an age of pre-made meals and 'tech-and-hard-work' additives (科技与狠活).",
+    "category": "slang",
+    "date_added": "2026-10-13",
+    "sources": [
+      {
+        "url": "https://k.sina.com.cn/article_7096020433_1a6f4add106801pbky.html",
+        "note": "新浪新闻：“不烧心”升级万能夸赞：从胃酸到品质过硬",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806802dcn0.html",
+        "note": "新浪新闻：全网刷屏的“不烧心文学”到底是什么？从AI短剧台词到集体解构",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo.com/2/detail/comos:niuvtkp8860437",
+        "note": "微博/新浪：AI短剧“不烧心文学”爆火后，为何成了全网通用暗号？（含10月9日话题数据、品牌跟风）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "di-shan-chou-shui-yu-zhi-yin",
+    "hanzi": "低山臭水遇知音",
+    "pinyin": "dī shān chòu shuǐ yù zhīyīn",
+    "literal": "low mountains, smelly water, meet a kindred spirit",
+    "meaning": "An affectionate jibe for a group of friends who share the same daft, unglamorous sense of humour. They egg each other on, have no image to protect, and get along perfectly in their silliness. It's a backhanded compliment, never a real insult.",
+    "meaning_zh": "调侃一群毫无包袱、凑在一起就画风跑偏、却意外合拍的人：品味“不高级”，但彼此是懂对方笑点的知音。表面损，实则夸对方松弛、真实、玩得来。",
+    "example": "我们宿舍四个人纯属低山臭水遇知音，一个比一个抽象。",
+    "example_pinyin": "Wǒmen sùshè sì gè rén chúnshǔ dī shān chòu shuǐ yù zhīyīn, yí gè bǐ yí gè chōuxiàng.",
+    "example_translation": "The four of us in our dorm are kindred spirits in nonsense — each one weirder than the last.",
+    "context": "This is a parody of the chengyu 高山流水遇知音, 'high mountains and flowing water meet a true friend'. That idiom comes from the tale of the zither player Bo Ya, whose music only Zhong Ziqi truly understood, and it is already in the deck as 高山流水. The parody swaps the lofty scenery for 'low hills and smelly water'. It took off in summer 2026 among viewers of the variety show 《乘风2026》, who used it for the chaotic clique around Olympic speed-skater 王濛 (with 李小冉, 唐艺昕 and others). The group's stage performances kept collapsing into slapstick, and a 26 June 'abstract robbery' (抽象抢劫) skit video hit Weibo hot search. The phrase then broke free of the show and now describes any friends bonded by shared nonsense. It sits naturally next to 搞抽象 and 乐子人.",
+    "category": "slang",
+    "date_added": "2026-10-13",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-06-26/detail-inieuccn5082972.d.html?vt=4",
+        "note": "新浪娱乐（2026-06-26）：《乘风2026》王濛团“低山臭水遇知音”相关报道",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.lingoace.com/zh/blog/internet-slang/",
+        "note": "LingoAce 2026网络热梗大全：低山臭水遇知音——形容笑点清奇、臭味相投的知音",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shou-zhu-dai-tu",
+    "hanzi": "守株待兔",
+    "pinyin": "shǒu zhū dài tù",
+    "literal": "guard + tree stump + wait for + rabbit",
+    "meaning": "To sit and wait for luck to repeat itself instead of putting in effort. It describes clinging passively to a one-off windfall, or waiting for opportunities to fall into your lap.",
+    "meaning_zh": "比喻死守狭隘经验、不知变通，或不主动努力、妄想不劳而获，坐等意外的好运再次降临。",
+    "example": "投完简历就天天守株待兔，offer不会自己找上门的。",
+    "example_pinyin": "Tóu wán jiǎnlì jiù tiāntiān shǒu zhū dài tù, offer bú huì zìjǐ zhǎo shàng mén de.",
+    "example_translation": "If you just sit around waiting after sending out your CV, offers won't come knocking on their own.",
+    "context": "From the Warring States text 《韩非子·五蠹》. A farmer in the state of Song saw a rabbit run into a tree stump and break its neck. He put down his hoe and sat by the stump waiting for another rabbit, and his fields went to ruin. Han Feizi used it to mock rulers who govern by outdated precedent. Online it is a staple in comment sections for passive hopefuls. People use it for anyone waiting for a job offer, a 'pie from the sky' (天上掉馅饼) or a crush's message. It's often wry self-mockery (我在守株待兔式减肥), and it fits snugly with lying-flat (躺平) humour.",
+    "category": "chengyu",
+    "date_added": "2026-10-13",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/守株待兔",
+        "note": "汉典：守株待兔 释义及出处（《韩非子·五蠹》）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://folklore.usc.edu/?p=54006",
+        "note": "USC Folklore Archives: 守株待兔 – Guarding the tree to wait for a rabbit",
+        "lang": "en"
+      }
+    ]
   }
 ]
