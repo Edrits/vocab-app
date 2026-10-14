@@ -5046,5 +5046,88 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "cheng-ba-lao",
+    "hanzi": "城巴佬",
+    "pinyin": "chéng bā lǎo",
+    "literal": "city + bumpkin (a flip of 乡巴佬, 'country bumpkin')",
+    "meaning": "A city-dweller who is hopelessly clueless about rural life — can't tell crops apart, treats farm chores as exotic paid 'experiences', gears up like a pro for a hillside a village kid runs down daily. Teasing, mostly affectionate.",
+    "meaning_zh": "由“乡巴佬”反向构造而来，调侃城里人对农村事物和乡村生活一窍不通：分不清庄稼、把干农活当新鲜体验花钱去玩、全副武装去爬一个村里小孩天天跑的小坡。多为善意玩笑。",
+    "example": "花生长在树上？这海报一看就是城巴佬做的。",
+    "example_pinyin": "Huāshēng zhǎng zài shù shang? Zhè hǎibào yí kàn jiù shì chéng bā lǎo zuò de.",
+    "example_translation": "Peanuts growing on trees? This poster was obviously made by a city bumpkin.",
+    "context": "Took off in 2026, helped along by an AI-generated poster that showed peanuts growing on a tree rather than underground, which rural netizens gleefully mocked. It joined a long-running genre of country users posting crops and farm tasks for urbanites to (fail to) identify, and videos of city tourists paying to plant rice, dig potatoes or 'steal' sugarcane. Listed among 数英's top 30 internet buzzwords of H1 2026, and by July business media were writing about the '城巴佬 economy' — rural tourism marketed to exactly these people. It reverses the old insult 乡巴佬, so the joke is that the townie is now the one out of their depth; a ruder variant is 水泥鳖 ('concrete turtle').",
+    "category": "social",
+    "date_added": "2026-10-14",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3909408758535558",
+        "note": "36氪（金错刀）2026-07-24：城巴佬由“乡巴佬”反向构造，指城里人对乡村事物的陌生感，附多个例子",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英《2026上半年网络热词TOP30》，收录“城巴佬”，称其走红源于一张AI海报",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "wo-shi-na-zhi-jiang-ban-ya",
+    "hanzi": "我是那只酱板鸭",
+    "pinyin": "wǒ shì nà zhī jiàng bǎn yā",
+    "literal": "I am that braised-duck",
+    "meaning": "The punchline of a viral spring-2026 AI short ad, now a fill-in-the-blank revenge template: 'I'm not the fox — I'm that ___!' Used to voice the overlooked thing (a snack, an app, your unpaid overtime) coming back for payback.",
+    "meaning_zh": "2026年春天爆火的AI短片台词“我不是狐狸，我是那只酱板鸭！”，后来变成万能填空句式“我不是狐狸，我是那只XX”，让被忽视、被牺牲的东西（零食、APP、没发的加班费……）回来“复仇”，带点打工人的怨气和自嘲。",
+    "example": "我不是狐狸，我是你上周没发的那笔加班费！",
+    "example_pinyin": "Wǒ bú shì húli, wǒ shì nǐ shàng zhōu méi fā de nà bǐ jiābānfèi!",
+    "example_translation": "I'm not the fox — I'm the overtime pay you didn't give me last week!",
+    "context": "Origin: a cheap AI-generated short film, 《雪山救狐狸》, made for a Guizhou braised-duck (酱板鸭) brand and posted in late February 2026, shot in a fake 1960s Shaw Brothers wuxia style. A woodcutter feeds a starving white fox a braised duck; years later a woman appears and asks 'Did you once save a fox on the snowy mountain?' — the classic set-up for a 'grateful fox spirit repays you' tale — then pulls a gun: 'I'm not the fox, I'm that braised duck!' The triple twist in under a minute went viral in March; brands and users from 辣条 and 豆汁 to tunnel-boring machines and the national anti-fraud app made their own versions, reportedly racking up over 10 billion views. Xinhua reported it spreading to Taiwan too. Commentators read an undertone of 怨气: the sacrificed side character finally gets revenge, which is why office workers cast themselves as the duck.",
+    "category": "meme",
+    "date_added": "2026-10-14",
+    "sources": [
+      {
+        "url": "https://www.woshipm.com/share/6370328.html",
+        "note": "人人都是产品经理 2026-04-04：酱板鸭复仇梗起源（AI短片《雪山救狐狸》）、填空模板及品牌二创",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.news.cn/tw/20260409/f06a74ed798d48bd87dffd83eb68541f/c.html",
+        "note": "新华网 2026-04-09《“酱板鸭”刷屏两岸》，引用原台词并报道台湾网友玩梗",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4845533.html",
+        "note": "虎嗅评论：酱板鸭复仇是一种“情绪代偿”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ping-ti",
+    "hanzi": "平替",
+    "pinyin": "píng tì",
+    "literal": "affordable + substitute (short for 平价替代)",
+    "meaning": "A cheaper alternative (a 'dupe') that does the same job as a pricey branded item. Started with make-up, now applied to anything — clothes, gadgets, food, even holidays and people.",
+    "meaning_zh": "“平价替代（品）”的缩写，指功能相近、价格便宜得多、性价比更高的替代品。最早用于美妆，后来扩展到衣服、电子产品、食物、旅游目的地等一切东西。",
+    "example": "这款口红是大牌的平替，颜色几乎一模一样。",
+    "example_pinyin": "Zhè kuǎn kǒuhóng shì dàpái de píngtì, yánsè jīhū yì mú yí yàng.",
+    "example_translation": "This lipstick is a dupe for the big-brand one — the colour is almost identical.",
+    "context": "Grew out of beauty bloggers on Xiaohongshu and Weibo recommending cheap 'dupes' of luxury cosmetics, and went mainstream around 2020–22 as consumer sentiment turned: talk of a flagging Double 11 and a rising 'rational consumption' mood among young workers who no longer wanted to pay brand premiums. Now fully productive — 平替旅游地 (budget stand-in for a famous destination), '1688平替' (factory-direct copies from Alibaba's wholesale site), even jokey 'X是Y的平替'. Part of the same consumption-downgrade vocabulary as 拔草, 剁手 and 酸黄瓜; critics note it can shade into excusing knock-offs.",
+    "category": "slang",
+    "date_added": "2026-10-14",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_26462965",
+        "note": "澎湃新闻（转中国青年报）：“平替”指平价替代品，两种替代方式，共同特征是性价比更高",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/516112.html",
+        "note": "虎嗅 2022：平替从美妆扩展到生活各领域，2020年后作为流行语广泛使用",
+        "lang": "zh"
+      }
+    ]
   }
 ]
