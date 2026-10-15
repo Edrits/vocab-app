@@ -30,6 +30,23 @@ CATEGORIES = {"slang", "social", "meme", "abbreviation", "news", "chengyu"}
 SOURCE_LANGS = {"zh", "en"}
 
 
+# Text in the deck is rendered as HTML in the app, and it is written by an agent
+# that reads the open web — so refuse anything that could open a tag. A bare
+# comparison like "佛系 < 躺平" is fine; "<script", "</", "<!--" are not.
+MARKUP = re.compile(r"<[a-zA-Z/!?]")
+
+
+def markup_errors(value, label):
+    """Walk strings, lists and dicts; report every string that looks like markup."""
+    if isinstance(value, str):
+        return [f"{label}: contains HTML-like markup ('<' followed by a tag) — rephrase"] if MARKUP.search(value) else []
+    if isinstance(value, list):
+        return [e for j, v in enumerate(value, 1) for e in markup_errors(v, f"{label}[{j}]")]
+    if isinstance(value, dict):
+        return [e for k, v in value.items() for e in markup_errors(v, f"{label}.{k}")]
+    return []
+
+
 def fail(msg):
     print(f"ERROR: {msg}")
     sys.exit(1)
@@ -72,6 +89,7 @@ def validate(entry, i):
         if not isinstance(v, str) or not v.strip():
             errs.append(f"entry {i}: missing or empty '{field}'")
     errs += validate_sources(entry.get("sources"), i)
+    errs += markup_errors(entry, f"entry {i}")
     if errs:
         return errs
     if entry["category"] not in CATEGORIES:

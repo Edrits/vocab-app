@@ -23,6 +23,8 @@ import unicodedata
 from collections import Counter
 from pathlib import Path
 
+from add_words import markup_errors
+
 # Every string field is required and non-empty. `group` is checked against the
 # collection's own group ids; `sources` is an array, handled separately.
 REQUIRED = [
@@ -72,6 +74,7 @@ def validate(entry, i, group_ids):
         if not isinstance(v, str) or not v.strip():
             errs.append(f"entry {i}: missing or empty '{field}'")
     errs += validate_sources(entry.get("sources"), i)
+    errs += markup_errors(entry, f"entry {i}")
     if errs:
         return errs
     if entry["group"] not in group_ids:

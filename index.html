@@ -558,6 +558,18 @@
     // first. Adds are queued locally so they survive having no signal.
     const INBOX_QUEUE_KEY = 'netizen-vocab-inbox-queue';
     let inboxRemote = [];
+    // vocab.json and reference.json are written by an unattended agent that reads
+    // the open web, so treat their text as untrusted before it reaches innerHTML:
+    // a "<" that could open a tag becomes a full-width ＜ (plain comparisons like
+    // "佛系 < 躺平" are left alone), and entries whose id or category — both
+    // interpolated into attributes — aren't plain slugs are dropped.
+    const SLUG = /^[a-z0-9-]+$/;
+    function defang(v){
+      if (typeof v === 'string') return v.replace(/<(?=[a-zA-Z\/!?])/g, '＜');
+      if (Array.isArray(v)) return v.map(defang);
+      if (v && typeof v === 'object') return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, defang(x)]));
+      return v;
+    }
     function esc(v){ return String(v).replace(/[&<>"']/g, ch => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[ch])); }
     function inboxQueue(){ return loadJSON(INBOX_QUEUE_KEY, []); }
     async function inboxFetch(method, body, query){
@@ -1210,7 +1222,7 @@
     function loadReference(){
       if (reference) return Promise.resolve(reference);
       return fetch('reference.json?_=' + Date.now())
-        .then(r => r.json()).then(d => { reference = d; return d; });
+        .then(r => r.json()).then(d => { reference = defang(d); return reference; });
     }
     function renderReference(key){
       const main = document.getElementById('main');
@@ -1473,7 +1485,7 @@
     document.addEventListener('visibilitychange', () => { if (document.hidden) flushSync(); else syncPull(); });
     window.addEventListener('pagehide', flushSync);
     fetch('vocab.json?_=' + Date.now()).then(r => r.json()).then(data => {
-      deck = data.map((c,i) => ({ ...c, _i:i }));
+      deck = defang(data).filter(c => SLUG.test(c.id) && SLUG.test(c.category)).map((c,i) => ({ ...c, _i:i }));
       buildQueue();
       if (needsPinGate()){ renderPinGate(); }
       else { render(); syncPull(); }
