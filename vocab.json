@@ -5248,5 +5248,62 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "shuan-q",
+    "hanzi": "栓Q",
+    "pinyin": "shuān Q",
+    "literal": "a heavily accented 'thank you' (栓 shuān + the letter Q)",
+    "meaning": "'Thanks' said through gritted teeth — an ironic way of saying you're speechless, fed up or done with something. Never real gratitude.",
+    "meaning_zh": "英文“thank you”的谐音，但表达的不是感谢，而是无语、崩溃、受够了的情绪，多用于阴阳怪气或自嘲。",
+    "example": "周末又被叫去加班，真的栓Q。",
+    "example_pinyin": "Zhōumò yòu bèi jiào qù jiābān, zhēn de shuān Q.",
+    "example_translation": "Called in to work overtime at the weekend again — thanks a lot, really.",
+    "context": "Comes from Douyin in 2022: a farmer from the Guilin/Yangshuo area (known online as 'teacher刘') posted videos introducing local sights, repeating each one in self-taught English and signing off with a thick-accented 'thank you' that sounded like 'shuān Q'. Netizens flipped it into a sarcastic sigh of exasperation. It made 《语言文字周报》's 2022 top ten internet buzzwords, paired with 我真的会谢 (already in the deck), which carries the same 'I'm so grateful… not' irony.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E6%A0%93Q",
+        "note": "萌娘百科「栓Q」词条：源自桂林农民 teacher刘 的抖音视频",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_21092208",
+        "note": "澎湃新闻：栓Q 的来源与流行（2022年网络流行语报道）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shu-shu",
+    "hanzi": "鼠鼠",
+    "pinyin": "shǔshǔ",
+    "literal": "mouse-mouse (cutesy reduplication of 'mouse/rat')",
+    "meaning": "Self-deprecating 'little mouse' — what a struggling ordinary person calls themselves when venting about being broke, tired or powerless, usually as '鼠鼠我啊…'.",
+    "meaning_zh": "网友把自己比作一只小老鼠的自称，用来自嘲处境窘迫、渺小无力，常以“鼠鼠我啊……”开头吐槽生活。",
+    "example": "鼠鼠我啊，工资刚到账就交完房租了。",
+    "example_pinyin": "Shǔshǔ wǒ a, gōngzī gāng dàozhàng jiù jiāo wán fángzū le.",
+    "example_translation": "Little mouse here: my pay landed and went straight on rent.",
+    "context": "Started as a pun on 叔叔 ('uncle'), Bilibili users' nickname for the site's boss, in the mocking line '叔叔我啊，最喜欢钱了'; swapping in 鼠鼠 dodged moderation and turned it into a self-label. By early 2023 '鼠鼠文学' — sad-funny confessions told in a mouse's voice — had spread from Tieba and Bilibili across the internet, and it fed straight into the 2025 '老鼠人' (rat people) trend of low-energy young people that drew billions of views and English-language coverage.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://m.mp.oeeee.com/a/BAAFRD000020230209763225.html",
+        "note": "南都·奥一网（2023-02）：鼠鼠文学的谐音来源与流行",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sinicapodcast.com/p/rat-people-phrase-of-the-week",
+        "note": "Sinica Podcast 'phrase of the week': 老鼠人 grew out of 鼠鼠文学 (early 2023)",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3305965/china-slang-term-rat-people-those-who-shun-success-attracts-2-billion-views",
+        "note": "SCMP: 'rat people' slang attracts 2 billion views",
+        "lang": "en"
+      }
+    ]
   }
 ]
