@@ -5129,5 +5129,124 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "hongguo-duanju",
+    "hanzi": "红果短剧",
+    "pinyin": "Hóngguǒ duǎnjù",
+    "literal": "red fruit · short drama",
+    "meaning": "ByteDance's free short-drama app, Hongguo — and, by extension, the whole binge-watched vertical micro-drama boom of 2026. Saying everyone has 'entered the Hongguo era' is shorthand for how mainstream these cheap, punchy, morality-tale mini-series have become.",
+    "meaning_zh": "字节跳动旗下的免费短剧App“红果”，也泛指2026年全民刷竖屏短剧的热潮。说“全部进入红果时代”，就是调侃短剧已经渗透到几乎每个人的日常生活。",
+    "example": "我爸妈现在每天晚饭后都在刷红果短剧，一刷就是两个小时。",
+    "example_pinyin": "Wǒ bàmā xiànzài měitiān wǎnfàn hòu dōu zài shuā Hóngguǒ duǎnjù, yì shuā jiù shì liǎng gè xiǎoshí.",
+    "example_translation": "My parents now binge Hongguo short dramas every evening after dinner — two hours at a stretch.",
+    "context": "Launched by ByteDance in April 2023, Hongguo (红果) is free to watch and earns from ads. By early 2026 it had passed 100 million daily users, with users averaging around 125 minutes a day — roughly triple its nearest rival. In August 2026 film director Jia Zhangke (贾樟柯) posted on Weibo that he had been watching Hongguo, which set off wide discussion of short dramas, cutting back on spending and the 'just getting on with life' (纯过日子) mood. Its stock phrases spawn memes of their own — the deck's 不烧心 comes from a Hongguo AI drama — and netizens joke self-mockingly that the shows make them dumber (红果短剧降智). In mid-October 2026 '世界都在刷短剧 全部进入红果时代' was on Baidu's hot-search list. Recorded as an of-the-moment item: the app and the format define 2026 entertainment habits.",
+    "category": "news",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://m.21jingji.com/article/20261012/herald/17ebf5b14392d39c59e2529fd46097e0.html",
+        "note": "21世纪经济报道（2026-10-12）：贾樟柯看红果，红果用户与时长数据",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4896639.html",
+        "note": "虎嗅：贾樟柯看红果引发热议，短剧与“纯过日子时代”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜（2026-10-15）：“世界都在刷短剧 全部进入红果时代”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hongwen",
+    "hanzi": "红温",
+    "pinyin": "hóngwēn",
+    "literal": "red · hot (red-hot)",
+    "meaning": "To go red in the face and heat up from strong emotion — anger, embarrassment, shyness or excitement. Mostly used to tease someone who's visibly rattled ('he's gone red-hot'), or self-deprecatingly.",
+    "meaning_zh": "因为激动、害羞、生气或尴尬等情绪而脸红、体温上升的状态。多用来调侃别人被说急了、破防了，也可以用来自嘲。",
+    "example": "就说了他一句游戏菜，他当场就红温了。",
+    "example_pinyin": "Jiù shuō le tā yí jù yóuxì cài, tā dāngchǎng jiù hóngwēn le.",
+    "example_translation": "I only said he was bad at the game and he went red-hot on the spot.",
+    "context": "Born in esports and gaming streams, where a player losing their cool was described as 'red-hot', like overheated metal. It broke out of gaming in 2024 and made the Shanghai 《语言文字周报》 top-ten internet buzzwords list for that year alongside 偷感 and 班味. Still in everyday use: in July 2026 a Weibo hot-search used it for an actress blushing after a co-star's compliment. Close cousin of 破防 — but 红温 is about the visible flush of being riled or flustered.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://www.woshipm.com/?p=6159270",
+        "note": "人人都是产品经理：偷感 红温 搞抽象，2024十大网络流行词出炉",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20260630A06V4M00",
+        "note": "腾讯新闻：“红温”释义（源自电竞圈）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.eblcu.com/blogs/5-Popular-Chinese-Words-in-2024.html",
+        "note": "eBLCU: 5 Popular Chinese Words in 2024",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "caotai-banzi",
+    "hanzi": "草台班子",
+    "pinyin": "cǎotái bānzi",
+    "literal": "straw-stage · troupe",
+    "meaning": "A ramshackle, make-it-up-as-you-go outfit. Netizens use it — especially in '世界是一个巨大的草台班子' ('the world is one giant amateur troupe') — to say that even impressive institutions are winging it, which is oddly comforting: stop fretting that you're not good enough.",
+    "meaning_zh": "原指在乡村流动演出、道具简陋的小戏班，比喻临时凑合、水平不高的团体。网友常说“世界是一个巨大的草台班子”，意思是很多看似正规的机构其实也在边干边学、临时应付，借此缓解焦虑、减少内耗。",
+    "example": "入职一个月我终于看明白了，公司就是个草台班子，大家都在硬撑。",
+    "example_pinyin": "Rùzhí yí gè yuè wǒ zhōngyú kàn míngbai le, gōngsī jiù shì gè cǎotái bānzi, dàjiā dōu zài yìng chēng.",
+    "example_translation": "A month into the job I finally get it — the company's a total amateur outfit and everyone's just bluffing through.",
+    "context": "Originally a travelling village opera troupe performing on a rough stage of straw. It resurfaced online in 2023 and surged in 2024 as the '草台班子理论': realising that bosses, big companies and authorities are just as improvised as you are. Read two ways — disillusionment (so why bother? cf. 躺平) or liberation (no one has it figured out, so back yourself). The quote is often misattributed to Elon Musk or law lecturer Luo Xiang. Listed in the 2024 《语言文字周报》 top-ten internet buzzwords.",
+    "category": "social",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_29694212",
+        "note": "澎湃新闻：2024年度十大网络流行语相关报道（草台班子）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/793226535_662097",
+        "note": "搜狐：“世界是一个巨大的草台班子”含义与出处误传",
+        "lang": "zh"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/chinese/704220.html",
+        "note": "中国数字时代：草台班子理论的两种解读",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lan-yu-chong-shu",
+    "hanzi": "滥竽充数",
+    "pinyin": "làn yú chōng shù",
+    "literal": "incompetently-play · yu (reed pipe) · fill · numbers",
+    "meaning": "To pass yourself off as competent by hiding in a crowd; to make up the numbers without real skill. Also used modestly about oneself ('I'm just here to make up the numbers').",
+    "meaning_zh": "不会吹竽的人混在乐队里凑数。比喻没有真才实学的人混在行家里面充数，或以次充好；也常用作自谦。",
+    "example": "这次小组作业我就是滥竽充数，全靠大佬带飞。",
+    "example_pinyin": "Zhè cì xiǎozǔ zuòyè wǒ jiù shì làn yú chōng shù, quán kào dàlǎo dài fēi.",
+    "example_translation": "I was just making up the numbers on this group project — the pros carried me.",
+    "context": "From 《韩非子·内储说上》: King Xuan of Qi loved hearing the yu (a reed mouth-organ) played by a 300-strong ensemble, and Mr Nanguo (南郭先生), who couldn't play, slipped in and drew a salary. When the next king wanted each musician to play solo, Nanguo fled. Online it's a natural fit for group projects, team meetings and 摸鱼 colleagues — and pairs neatly with 草台班子: if the whole troupe is improvising, who's to say who's 滥竽充数? 南郭先生 alone is also shorthand for a faker.",
+    "category": "chengyu",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://zdic.net/hans/濫竽充數",
+        "note": "汉典：滥竽充数 释义与出处",
+        "lang": "zh"
+      },
+      {
+        "url": "https://hbreader.org/words/78640.html",
+        "note": "HBReader dictionary entry: 滥竽充数 làn yú chōng shù",
+        "lang": "en"
+      }
+    ]
   }
 ]
