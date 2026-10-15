@@ -10,6 +10,16 @@ The two must not overlap: a fresh meme belongs in `vocab.json`, a durable spoken
 particle belongs here.
 
 ## Goal
+Edward's current preference is for more compressed forms like 这样子 → 酱紫.
+Prioritise these in requested utterance expansions. For new `fast` entries, use
+the full original expression as `hanzi` and its normal pronunciation as `pinyin`.
+Put the compressed spelling, its tone-marked pronunciation and meaning in `gloss`,
+then explain the compression and register in `note`. Distinguish established
+spoken contractions from playful internet spellings and dialectal equivalents.
+For this category, familiar dictionary contractions such as 两个 → 俩 are welcome.
+Keep existing records intact; lightweight exports can show their expanded form
+as the term without changing the stored headword.
+
 Add 3–5 genuine **spoken-discourse expressions** per batch, each one verified against
 real usage, never duplicating an entry already in the collection. Quality of the
 **register/usage note** is the whole point — see the quality bar.

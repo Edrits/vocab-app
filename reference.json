@@ -2190,6 +2190,175 @@
             "lang": "zh"
           }
         ]
+      },
+      {
+        "hanzi": "两个",
+        "pinyin": "liǎng ge",
+        "gloss": "俩 (liǎ) — two; the two of us/them",
+        "group": "fast",
+        "note": "An established colloquial contraction of 两个, rather than an internet joke. 我俩 means the two of us; 俩人 means two people. 个 is already included, so do not add another classifier after 俩.",
+        "blend": "两个 (liǎng ge) → 俩 (liǎ).",
+        "example": "就咱俩去吧。",
+        "example_pinyin": "Jiù zán liǎ qù ba.",
+        "example_translation": "Let’s just go, the two of us.",
+        "sources": [
+          {
+            "url": "https://hyxx.ybu.edu.cn/__local/E/C8/0C/C360B5CE299E3290CEBA9E10FFE_7CC409E3_B24263.pdf",
+            "note": "汉语学习 corpus study identifies 俩/仨 as contractions of 两个/三个 and discusses their distribution.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "三个",
+        "pinyin": "sān ge",
+        "gloss": "仨 (sā) — three; the three of us/them",
+        "group": "fast",
+        "note": "An established colloquial contraction of 三个, especially familiar in northern speech. 我们仨 means the three of us. Like 俩, it already includes 个: say 仨人, not 仨个人.",
+        "blend": "三个 (sān ge) → 仨 (sā).",
+        "example": "我们仨一起去。",
+        "example_pinyin": "Wǒmen sā yìqǐ qù.",
+        "example_translation": "The three of us will go together.",
+        "sources": [
+          {
+            "url": "https://hyxx.ybu.edu.cn/__local/E/C8/0C/C360B5CE299E3290CEBA9E10FFE_7CC409E3_B24263.pdf",
+            "note": "汉语学习 corpus study identifies 俩/仨 as contractions of 两个/三个 and discusses their distribution.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那样子",
+        "pinyin": "nà yàngzi",
+        "gloss": "酿紫 (niàng zǐ) — like that / that way.",
+        "group": "fast",
+        "note": "A playful compression of 那样子, parallel to 这样子 → 酱紫. Mainly a cute internet spelling or deliberately affected delivery; it is not the ordinary careful pronunciation. The characters represent the squashed sound, not their literal meanings.",
+        "example": "别酿紫看着我啦。",
+        "example_pinyin": "Bié niàngzǐ kànzhe wǒ la.",
+        "example_translation": "Don’t look at me like that!",
+        "blend": "那样子 (nà yàngzi) → 酿紫 (niàng zǐ).",
+        "sources": [
+          {
+            "url": "https://bkso.baidu.com/item/%E9%85%BF%E7%B4%AB/10114325?fromModule=lemma_inlink",
+            "note": "Explains 酿紫 as the linked-speech homophone of 那样子 and describes its playful online use.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "gloss": "表 (biǎo) — don’t / don’t want to.",
+        "group": "fast",
+        "note": "不要 is playfully squeezed into one syllable and written 表, especially in cute pleading such as 表酱紫 (“don’t be like this”). This is stylised chat language, not a rule for pronouncing every 不要. 表 keeps its usual “watch/table” meanings outside this context.",
+        "example": "表酱紫嘛！",
+        "example_pinyin": "Biǎo jiàngzǐ ma!",
+        "example_translation": "Don’t be like that!",
+        "blend": "不要 (bú yào) → 表 (biǎo).",
+        "sources": [
+          {
+            "url": "https://journal.uns.ac.id/index.php/marble/article/download/2923/1609/12525",
+            "note": "Study explains 表 as a contraction-like homophone of 不要 used when acting cute online.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://en.wiktionary.org/wiki/%E8%A1%A8",
+            "note": "Internet-slang sense, biǎo pronunciation and 表酱紫 usage example.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "知道",
+        "pinyin": "zhīdao",
+        "gloss": "造 (zào) — know; as in 你造吗？ (“do you know?”).",
+        "group": "fast",
+        "note": "The two syllables of 知道 are playfully compressed into 造. Commonly recognised from cute or exaggerated internet speech; not a neutral pronunciation correction. The negative is 不造 (“dunno”), already in this collection; 造 here does not mean “make”.",
+        "example": "你造吗？他明天就回来了。",
+        "example_pinyin": "Nǐ zào ma? Tā míngtiān jiù huílai le.",
+        "example_translation": "Do you know? He’s coming back tomorrow.",
+        "blend": "知道 (zhīdao) → 造 (zào).",
+        "sources": [
+          {
+            "url": "https://www.academypublication.com/issues2/tpls/vol09/03/tpls0903.pdf",
+            "note": "Linguistics discussion on p. 282 describes playful phonetic fusion, including 造, 宣, 男票 and 女票.",
+            "lang": "en"
+          },
+          {
+            "url": "https://toefl.xdf.cn/201503/10226059.html",
+            "note": "New Oriental pronunciation explainer explicitly compares 你知道吗 with 你造吗 as linked speech.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "喜欢",
+        "pinyin": "xǐhuan",
+        "gloss": "宣 (xuān) — like / fancy someone.",
+        "group": "fast",
+        "note": "A deliberately cute compression of 喜欢, especially 我宣你 (“I like you”). Associated with exaggerated internet delivery rather than ordinary neutral speech. It can make a confession playful or jokey; outside this slang context 宣 usually relates to announcing or proclaiming.",
+        "example": "我宣你，你造吗？",
+        "example_pinyin": "Wǒ xuān nǐ, nǐ zào ma?",
+        "example_translation": "I like you, you know?",
+        "blend": "喜欢 (xǐhuan) → 宣 (xuān).",
+        "sources": [
+          {
+            "url": "https://www.academypublication.com/issues2/tpls/vol09/03/tpls0903.pdf",
+            "note": "Linguistics discussion on p. 282 describes playful phonetic fusion, including 造, 宣, 男票 and 女票.",
+            "lang": "en"
+          },
+          {
+            "url": "https://en.wiktionary.org/wiki/%E5%AE%A3",
+            "note": "Records the internet-slang contraction of 喜欢 and the pronunciation xuān.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "男朋友",
+        "pinyin": "nán péngyou",
+        "gloss": "男票 (nán piào) — boyfriend.",
+        "group": "fast",
+        "note": "A playful shortening that squeezes 朋友 into 票. Used in informal chat and affectionate or jokey talk about a boyfriend; 男朋友 remains the neutral form. 票 represents the contracted sound here, not a ticket. The matching girlfriend form is 女票.",
+        "example": "我男票今天做饭。",
+        "example_pinyin": "Wǒ nánpiào jīntiān zuò fàn.",
+        "example_translation": "My boyfriend’s cooking today.",
+        "blend": "男朋友 (nán péngyou) → 男票 (nán piào).",
+        "sources": [
+          {
+            "url": "https://www.academypublication.com/issues2/tpls/vol09/03/tpls0903.pdf",
+            "note": "Linguistics discussion on p. 282 describes playful phonetic fusion, including 造, 宣, 男票 and 女票.",
+            "lang": "en"
+          },
+          {
+            "url": "https://en.wiktionary.org/wiki/%E7%94%B7%E7%A5%A8",
+            "note": "Gives nánpiào, boyfriend meaning and 朋友 → 票 contraction.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "女朋友",
+        "pinyin": "nǚ péngyou",
+        "gloss": "女票 (nǚ piào) — girlfriend.",
+        "group": "fast",
+        "note": "The counterpart of 男票: 朋友 is playfully squeezed into 票. A light, informal way to mention a girlfriend in messages or joking conversation; 女朋友 is the neutral form for an introduction. This is a sound-based shortening, not the literal idea of a “female ticket”.",
+        "example": "我跟女票去看电影。",
+        "example_pinyin": "Wǒ gēn nǚpiào qù kàn diànyǐng.",
+        "example_translation": "I’m going to the cinema with my girlfriend.",
+        "blend": "女朋友 (nǚ péngyou) → 女票 (nǚ piào).",
+        "sources": [
+          {
+            "url": "https://www.academypublication.com/issues2/tpls/vol09/03/tpls0903.pdf",
+            "note": "Linguistics discussion on p. 282 describes playful phonetic fusion, including 造, 宣, 男票 and 女票.",
+            "lang": "en"
+          },
+          {
+            "url": "https://en.wiktionary.org/wiki/%E5%A5%B3%E7%A5%A8",
+            "note": "Gives nǚpiào, girlfriend meaning and contracted pronunciation of 朋友.",
+            "lang": "en"
+          }
+        ]
       }
     ]
   }
