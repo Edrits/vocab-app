@@ -987,6 +987,1209 @@
             "lang": "zh"
           }
         ]
+      },
+      {
+        "hanzi": "那个",
+        "pinyin": "nàge",
+        "gloss": "Er… / um…",
+        "group": "opening",
+        "note": "Holds your turn while you find a word or approach a slightly awkward request. Here it does not point to an object. More neutral as a hesitation sound than 那什么, which often announces an unfinished thought or unnamed thing.",
+        "example": "那个，我想问你一件事。",
+        "example_pinyin": "Nàge, wǒ xiǎng wèn nǐ yí jiàn shì.",
+        "example_translation": "Um, I wanted to ask you something.",
+        "sources": [
+          {
+            "url": "https://www.fluentu.com/blog/chinese/chinese-filler-words/",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "这个嘛",
+        "pinyin": "zhège ma",
+        "gloss": "Well, about that…",
+        "group": "opening",
+        "note": "Buys thinking time when a question is tricky or you are reluctant to answer directly. The drawn-out 嘛 makes the hesitation audible. Unlike a plain 那个, it usually reacts to the topic already on the table.",
+        "example": "这个嘛，我还没想好。",
+        "example_pinyin": "Zhège ma, wǒ hái méi xiǎng hǎo.",
+        "example_translation": "Well, I haven’t made up my mind yet.",
+        "sources": [
+          {
+            "url": "https://isem.crru.ac.th/independent_study/research/658910203-fullpaper.pdf",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你知道吗",
+        "pinyin": "nǐ zhīdào ma",
+        "gloss": "You know what? / you know?",
+        "group": "opening",
+        "note": "Pulls the listener into a story or checks that they are following your experience. At the start it often announces news; inside a story it invites recognition. It need not be a real test of what the listener knows.",
+        "example": "你知道吗，我昨天碰到小李了。",
+        "example_pinyin": "Nǐ zhīdào ma, wǒ zuótiān pèngdào Xiǎo Lǐ le.",
+        "example_translation": "You know what? I bumped into Xiao Li yesterday.",
+        "sources": [
+          {
+            "url": "https://www.fluentu.com/blog/chinese/chinese-filler-words/",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "你看",
+        "pinyin": "nǐ kàn",
+        "gloss": "See / look / here’s the thing",
+        "group": "linking",
+        "note": "Directs attention to a fact or argument rather than asking someone to look physically. It invites the listener to share your judgement. Warm delivery feels collaborative; stressed delivery after a mistake can sound like “See, I told you”.",
+        "example": "你看，现在走还来得及。",
+        "example_pinyin": "Nǐ kàn, xiànzài zǒu hái láidejí.",
+        "example_translation": "Look, we can still make it if we leave now.",
+        "sources": [
+          {
+            "url": "https://www.colips.org/conferences/clsw2023/proceedings/papers/014.pdf",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你想啊",
+        "pinyin": "nǐ xiǎng a",
+        "gloss": "Think about it",
+        "group": "linking",
+        "note": "Walks the listener through your reasoning and invites them to see a conclusion as obvious. Usually followed by evidence or a rhetorical question. More about imagining the logic than 你看, which often points to something already apparent.",
+        "example": "你想啊，他一个人怎么搬得动？",
+        "example_pinyin": "Nǐ xiǎng a, tā yí ge rén zěnme bān de dòng?",
+        "example_translation": "Think about it: how could he move it on his own?",
+        "sources": [
+          {
+            "url": "https://www.colips.org/conferences/clsw2023/proceedings/papers/014.pdf",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我说",
+        "pinyin": "wǒ shuō",
+        "gloss": "Hey / listen",
+        "group": "opening",
+        "note": "Claims attention before a suggestion, question or complaint. As a turn-opener it is not reporting something you previously said. Familiar and potentially brusque; drawing it out before criticism can sound impatient, so it is safer among people you know.",
+        "example": "我说，咱们先吃饭吧。",
+        "example_pinyin": "Wǒ shuō, zánmen xiān chī fàn ba.",
+        "example_translation": "Hey, let’s eat first.",
+        "sources": [
+          {
+            "url": "https://journal.bisu.edu.cn/article/2020/1003-6539/1003-6539-42-5-71.shtml",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你说",
+        "pinyin": "nǐ shuō",
+        "gloss": "Tell me / wouldn’t you say",
+        "group": "linking",
+        "note": "Invites someone to share your puzzlement, judgement or complaint. Often introduces a rhetorical question, so the speaker may continue without waiting. Unlike 你说你, which reproaches the listener personally, this can concern a completely unrelated person or situation.",
+        "example": "你说，他怎么又迟到了？",
+        "example_pinyin": "Nǐ shuō, tā zěnme yòu chídào le?",
+        "example_translation": "Tell me, how has he managed to be late again?",
+        "sources": [
+          {
+            "url": "https://journal.bisu.edu.cn/article/2020/1003-6539/1003-6539-42-5-71.shtml",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "要我说",
+        "pinyin": "yào wǒ shuō",
+        "gloss": "If you ask me",
+        "group": "opening",
+        "note": "Introduces your preferred judgement or course of action, whether or not anyone asked. More advice-giving than 我觉得吧. It can sound decisive and helpful, but unsolicited advice or a corrective tone can make it feel a little pushy.",
+        "example": "要我说，咱们明天再去。",
+        "example_pinyin": "Yào wǒ shuō, zánmen míngtiān zài qù.",
+        "example_translation": "If you ask me, we should go tomorrow instead.",
+        "sources": [
+          {
+            "url": "https://m.fx361.com/news/2012/0429/26680294.html",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不瞒你说",
+        "pinyin": "bù mán nǐ shuō",
+        "gloss": "To be honest with you",
+        "group": "opening",
+        "note": "Frames the next detail as a candid personal disclosure, often admitting a difficulty or something previously left unsaid. More confiding than 说真的, which simply stresses sincerity. It creates intimacy without necessarily implying that you deliberately hid anything earlier.",
+        "example": "不瞒你说，我也有点怕。",
+        "example_pinyin": "Bù mán nǐ shuō, wǒ yě yǒudiǎn pà.",
+        "example_translation": "To be honest with you, I’m a bit scared too.",
+        "sources": [
+          {
+            "url": "https://journal.bisu.edu.cn/article/2020/1003-6539/1003-6539-42-5-71.shtml",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我是说",
+        "pinyin": "wǒ shì shuō",
+        "gloss": "I mean",
+        "group": "linking",
+        "note": "Repairs or clarifies what you intended after your first wording was unclear. It often narrows the point or corrects a misunderstanding. Unlike 也就是说, which draws out an implication, this normally explains the speaker’s own intended message.",
+        "example": "我是说，咱们可以晚点走。",
+        "example_pinyin": "Wǒ shì shuō, zánmen kěyǐ wǎndiǎn zǒu.",
+        "example_translation": "I mean, we could leave a bit later.",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml20220800000_22830965.pdf",
+            "note": "Research review identifies 我是说 as a repair marker for clarification and correction.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "话是这么说",
+        "pinyin": "huà shì zhème shuō",
+        "gloss": "True, but…",
+        "group": "linking",
+        "note": "Acknowledges that the other person’s argument sounds reasonable, then prepares a practical objection or qualification. Usually followed by 可是 or 不过. It concedes the wording or principle rather than agreeing to act on it; it can gently resist pressure.",
+        "example": "话是这么说，可我还是不放心。",
+        "example_pinyin": "Huà shì zhème shuō, kě wǒ háishi bù fàngxīn.",
+        "example_translation": "True, but I’m still not comfortable with it.",
+        "sources": [
+          {
+            "url": "https://www.lingq.com/zh-cn/%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E6%B1%89%E8%AF%AD/courses/506852/mai-fang-zi-2832602/",
+            "note": "Chinese spoken lesson explains conceding a point before introducing a different opinion.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说起来",
+        "pinyin": "shuō qǐlái",
+        "gloss": "Come to think of it / speaking of that",
+        "group": "linking",
+        "note": "Brings in a related recollection or a point that has just occurred to you. Often creates a reflective pause before continuing. Unlike 话说回来, it need not return to an earlier argument; it can open a small conversational detour.",
+        "example": "说起来，我们好久没见了。",
+        "example_pinyin": "Shuō qǐlái, wǒmen hǎojiǔ méi jiàn le.",
+        "example_translation": "Come to think of it, we haven’t seen each other for ages.",
+        "sources": [
+          {
+            "url": "https://rainmorime.com/blog/finding",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "再说了",
+        "pinyin": "zài shuō le",
+        "gloss": "Besides / and another thing",
+        "group": "linking",
+        "note": "Adds a further reason that strengthens your position, often when refusing or arguing against a plan. The 了 gives it a conversational, emphatic feel. Here 再说 does not mean “discuss it later”; it introduces an additional point now.",
+        "example": "太远了，再说了，我今天也没空。",
+        "example_pinyin": "Tài yuǎn le, zài shuō le, wǒ jīntiān yě méi kòng.",
+        "example_translation": "It’s too far; besides, I haven’t got time today.",
+        "sources": [
+          {
+            "url": "https://rlls.hlju.edu.cn/__local/A/0B/D3/113D43B6279FBEE441BD7ED8262_CFB1DC28_372D8.pdf?e=.pdf",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说到这儿",
+        "pinyin": "shuō dào zhèr",
+        "gloss": "Speaking of this / at this point",
+        "group": "linking",
+        "note": "Pauses a story to draw out a connection, ask something or add a relevant aside. It points to the stage the conversation has reached. Unlike 说到哪儿了, it is not asking the listener to recover a lost thread.",
+        "example": "说到这儿，我想问你一件事。",
+        "example_pinyin": "Shuō dào zhèr, wǒ xiǎng wèn nǐ yí jiàn shì.",
+        "example_translation": "Speaking of this, there’s something I wanted to ask you.",
+        "sources": [
+          {
+            "url": "https://podscan.fm/podcasts/lao-xu-bo-ke-xian-liao-bo-er-katalkshowmei-zhou-yi-jian/episodes/003-liang-ge-ren-san-zhang-piao",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "这不",
+        "pinyin": "zhè bù",
+        "gloss": "See, here we are / as it happens",
+        "group": "linking",
+        "note": "Introduces a current fact as evidence, an explanation or the natural continuation of what you just said. The 不 is not denying that fact. Common in casual storytelling; unlike 所以, it presents a concrete situation rather than just a logical conclusion.",
+        "example": "最近忙得很，这不，周末还在加班。",
+        "example_pinyin": "Zuìjìn máng de hěn, zhè bù, zhōumò hái zài jiābān.",
+        "example_translation": "It’s been really busy lately; here I am working at the weekend again.",
+        "sources": [
+          {
+            "url": "https://journal.kci.go.kr/ksclc/archive/articlePdf?artiId=ART001567310",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "话说",
+        "pinyin": "huà shuō",
+        "gloss": "By the way / so…",
+        "group": "opening",
+        "note": "Opens a new topic or a loosely connected question with a chatty storytelling feel. Common in casual conversation and online exchanges. Unlike 对了, it need not suggest you have suddenly remembered something; it simply gives the new topic an entrance.",
+        "example": "话说，你周末有空吗？",
+        "example_pinyin": "Huà shuō, nǐ zhōumò yǒu kòng ma?",
+        "example_translation": "By the way, are you free this weekend?",
+        "sources": [
+          {
+            "url": "https://www.shnu.edu.cn/f7/a7/c26244a718759/page.htm",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你猜怎么着",
+        "pinyin": "nǐ cāi zěnmezhāo",
+        "gloss": "Guess what happened",
+        "group": "opening",
+        "note": "Builds suspense before a surprising, amusing or irritating result. It is a storytelling invitation, not normally a serious demand to guess. Strongly colloquial, with a northern flavour; the speaker often gives the answer immediately after a brief pause.",
+        "example": "你猜怎么着？他已经走了！",
+        "example_pinyin": "Nǐ cāi zěnmezhāo? Tā yǐjīng zǒu le!",
+        "example_translation": "Guess what? He’d already left!",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/LOOK_CHINA/comments/1j4uz5o",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.zhongwen.cn/cidian/zenmezhao/",
+            "note": "Dictionary pronunciation check: 怎么着 zěn me zhāo.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "扯远了",
+        "pinyin": "chě yuǎn le",
+        "gloss": "I’ve gone off on a tangent",
+        "group": "linking",
+        "note": "Acknowledges that the conversation has wandered and usually signals a return to the main point. Self-directed use is relaxed and often amused. Telling another person 你扯远了 can sound dismissive, as though their contribution is irrelevant.",
+        "example": "扯远了，还是说回吃饭的事吧。",
+        "example_pinyin": "Chě yuǎn le, háishi shuō huí chī fàn de shì ba.",
+        "example_translation": "I’ve gone off on a tangent. Let’s get back to dinner.",
+        "sources": [
+          {
+            "url": "https://www.listennotes.com/podcasts/%E8%B7%AF%E4%BA%BA%E6%8A%93%E9%A9%AC/189-%E6%88%91%E4%BB%AC%E4%B8%8E%E8%87%AA%E7%94%B1%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%B7%9D%E7%A6%BB-Ha7VEDMYR1z/",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说到哪儿了",
+        "pinyin": "shuō dào nǎr le",
+        "gloss": "Where were we?",
+        "group": "linking",
+        "note": "Recovers the thread after an interruption or a moment of distraction, inviting the listener to remind you. Add 我 or 我们 depending on whose train of thought was lost. Do not confuse it with 说到哪儿去了, which rejects an inappropriate remark.",
+        "example": "咱们刚才说到哪儿了？",
+        "example_pinyin": "Zánmen gāngcái shuō dào nǎr le?",
+        "example_translation": "Where had we got to?",
+        "sources": [
+          {
+            "url": "https://www.sohu.com/a/638998190_100714",
+            "note": "Attested conversational use or discourse-marker analysis; consulted for meaning and turn-management function.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说正经的",
+        "pinyin": "shuō zhèngjing de",
+        "gloss": "Seriously, though / joking aside",
+        "group": "linking",
+        "note": "Switches a playful exchange into a serious question or practical point. It asks the listener to take what follows sincerely, rather than merely stressing truth as 说真的 does. Said sharply to someone else, it can also tell them to stop fooling around.",
+        "example": "说正经的，你到底去不去？",
+        "example_pinyin": "Shuō zhèngjing de, nǐ dàodǐ qù bu qù?",
+        "example_translation": "Seriously, though, are you coming or not?",
+        "sources": [
+          {
+            "url": "https://haimingyan.wordpress.com/2008/09/04/%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E7%9A%84%E7%9B%B8%E5%A3%B0%E4%B9%8B%E4%BA%8C/",
+            "note": "Author’s conversational comedy script uses 不过说正经的 to switch from joking to a serious question.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.youdao.com/result?lang=en&word=joking",
+            "note": "Dictionary corroborates joking apart as 说正经的.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "谁说不是呢",
+        "pinyin": "shéi shuō bú shì ne",
+        "gloss": "Tell me about it; exactly",
+        "group": "reacting",
+        "note": "A rhetorical question that strongly agrees, often joining someone in a shared complaint. You are not asking who disagrees. Like 可不是嘛, it takes the other person's side; the longer wording can sound more reflective or resigned.",
+        "example": "—现在什么都贵。—谁说不是呢。",
+        "example_pinyin": "—Xiànzài shénme dōu guì. —Shéi shuō bú shì ne.",
+        "example_translation": "—Everything is expensive now. —Tell me about it.",
+        "sources": [
+          {
+            "url": "https://www.zzqklm.com/w/yl/19263.html",
+            "note": "Research on affirmative rhetorical responses, with conversational examples.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那还用说",
+        "pinyin": "nà hái yòng shuō",
+        "gloss": "Of course; you can count on it",
+        "group": "reacting",
+        "note": "Treats the answer as obvious and strongly confirms it. It can also accept an invitation or promise help: of course I will. Warm delivery reassures; a sharp delivery can imply the question was silly. Stronger and more personal than 是的.",
+        "example": "—明天你来吧？—那还用说！",
+        "example_pinyin": "—Míngtiān nǐ lái ba? —Nà hái yòng shuō!",
+        "example_translation": "—You are coming tomorrow, right? —Of course!",
+        "sources": [
+          {
+            "url": "https://www.zzqklm.com/w/yl/19263.html",
+            "note": "Research distinguishes emphatic agreement from accepting requests and making commitments.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "瞧你说的",
+        "pinyin": "qiáo nǐ shuō de",
+        "gloss": "Oh, come on; listen to yourself",
+        "group": "reacting",
+        "note": "Pushes back against what someone has just said or implied. With a smile it can reject unnecessary thanks or an unfair assumption; sharply, it rebukes their wording. Often followed by a reassuring explanation. 看你说的 is a common equivalent.",
+        "example": "—会不会太麻烦你？—瞧你说的，小事儿。",
+        "example_pinyin": "—Huì bu huì tài máfan nǐ? —Qiáo nǐ shuō de, xiǎoshìr.",
+        "example_translation": "—Would it be too much trouble? —Oh, come on, it is nothing.",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml2024127_392913419.pdf",
+            "note": "Corpus study of the response marker and its challenges to assumptions or wording.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "想得美",
+        "pinyin": "xiǎng de měi",
+        "gloss": "You wish; in your dreams",
+        "group": "reacting",
+        "note": "Rejects an overoptimistic expectation or cheeky request, often with amused disbelief. It is not praise for a good idea. Friends can use it playfully; delivered coldly, it is a blunt put-down. Much less polite than saying something may be inconvenient.",
+        "example": "—你帮我全做了吧。—想得美！",
+        "example_pinyin": "—Nǐ bāng wǒ quán zuò le ba. —Xiǎng de měi!",
+        "example_translation": "—Do the whole thing for me. —You wish!",
+        "sources": [
+          {
+            "url": "https://learn.digmandarin.com/wp-content/uploads/2021/07/Polite-and-not-so-polite-Ways-to-Refuse.pdf",
+            "note": "Teaching resource contrasts blunt and polite refusals and flags sarcasm.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "少来这套",
+        "pinyin": "shǎo lái zhè tào",
+        "gloss": "Do not give me that",
+        "group": "reacting",
+        "note": "Rejects an excuse, flattery or familiar tactic because you are not buying it. The target is the person's performance, not simply whether a fact is true. Can be teasing among friends, but easily sounds accusatory or irritated; avoid it in a polite refusal.",
+        "example": "—我真忘了。—少来这套，你昨天还提过。",
+        "example_pinyin": "—Wǒ zhēn wàng le. —Shǎo lái zhè tào, nǐ zuótiān hái tí guo.",
+        "example_translation": "—I really forgot. —Do not give me that; you mentioned it yesterday.",
+        "sources": [
+          {
+            "url": "https://tingroom.com/lesson/yuyueky/392166.html",
+            "note": "Bilingual dialogue explaining the expression as rejecting an excuse.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我说呢",
+        "pinyin": "wǒ shuō ne",
+        "gloss": "Ah, that explains it",
+        "group": "reacting",
+        "note": "Signals that new information has resolved something you had found odd. Despite the literal words, it is usually not claiming that you already told someone. Often followed by the earlier puzzle: 我说怎么……呢. Warmer and more conversational than a bare statement of the reason.",
+        "example": "—他昨天没睡。—我说呢，怪不得这么困。",
+        "example_pinyin": "—Tā zuótiān méi shuì. —Wǒ shuō ne, guàibude zhème kùn.",
+        "example_translation": "—He did not sleep yesterday. —Ah, that explains why he is so tired.",
+        "sources": [
+          {
+            "url": "https://kr.hujiang.com/new/p394936/",
+            "note": "Native-language explanation and dialogues for realisation after receiving new information.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "敢情",
+        "pinyin": "gǎnqing",
+        "gloss": "So it turns out; oh, I see now",
+        "group": "reacting",
+        "note": "A colloquial, especially northern, reaction when the real situation finally becomes clear. It often carries surprise or irritation at having misunderstood. Here it means a newly discovered conclusion, not courage or emotion; the following sentence supplies what you have realised.",
+        "example": "敢情你早就知道啊！",
+        "example_pinyin": "Gǎnqing nǐ zǎo jiù zhīdào a!",
+        "example_translation": "So you knew all along!",
+        "sources": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9838191/",
+            "note": "Corpus research on colloquial sum-up markers and their surprise or criticism.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "合着",
+        "pinyin": "hézhe",
+        "gloss": "So basically; so you mean",
+        "group": "reacting",
+        "note": "Draws an often indignant conclusion from what has been said. Especially associated with northern casual speech: the speaker has put the pieces together and dislikes the result. Unlike neutral 所以, it frequently challenges how the situation has been presented.",
+        "example": "合着就我一个人干啊？",
+        "example_pinyin": "Hézhe jiù wǒ yí ge rén gàn a?",
+        "example_translation": "So I am doing it all on my own, am I?",
+        "sources": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9838191/",
+            "note": "Research using spoken corpora examines conclusion-drawing with dissatisfaction.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "闹了半天",
+        "pinyin": "nào le bàntiān",
+        "gloss": "After all that, it turns out",
+        "group": "reacting",
+        "note": "Introduces the real explanation after confusion, effort or a long discussion. Often conveys that the fuss was unnecessary or the outcome disappointing. 半天 need not mean half a day. Compared with 敢情, it puts more emphasis on the preceding muddle.",
+        "example": "闹了半天，是我拿错了。",
+        "example_pinyin": "Nào le bàntiān, shì wǒ ná cuò le.",
+        "example_translation": "After all that, it was me who picked up the wrong one.",
+        "sources": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9838191/",
+            "note": "Spoken-corpus study of evaluative conclusions after preceding events.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "是吧",
+        "pinyin": "shì ba",
+        "gloss": "Right?; see what I mean?",
+        "group": "reacting",
+        "note": "Seeks shared understanding rather than asking an entirely open question. After someone agrees with your opinion, a standalone 是吧 can mean exactly, you see it too. Usually expects agreement; repeated tags can sound insistent. Contrast 是吗, which more readily receives genuinely new information.",
+        "example": "—这家挺好吃。—是吧，我也喜欢。",
+        "example_pinyin": "—Zhè jiā tǐng hǎochī. —Shì ba, wǒ yě xǐhuan.",
+        "example_translation": "—The food here is good. —Right? I like it too.",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml_2915861.pdf",
+            "note": "Research contrasts the interactional functions of 是吗 and 是吧.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "是吗",
+        "pinyin": "shì ma",
+        "gloss": "Oh really?; is that so?",
+        "group": "reacting",
+        "note": "A short listening response that acknowledges new information and invites the speaker to continue. Rising intonation can express genuine surprise or doubt; a flat reply may simply keep the conversation moving. Unlike 是吧, it need not suggest that you already expected agreement.",
+        "example": "—她已经回来了。—是吗？什么时候？",
+        "example_pinyin": "—Tā yǐjīng huílai le. —Shì ma? Shénme shíhou?",
+        "example_translation": "—She is back already. —Oh really? When?",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml_2915861.pdf",
+            "note": "Study of information reception, questions and interpersonal response functions.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "就是嘛",
+        "pinyin": "jiù shì ma",
+        "gloss": "Exactly; that is what I mean",
+        "group": "reacting",
+        "note": "An emphatic agreement that often suggests the point should have been obvious. Useful when joining a complaint or welcoming someone finally seeing your side. The 嘛 adds an of-course flavour; a hard delivery can sound smug or reproachful rather than supportive.",
+        "example": "—别为这点事吵了。—就是嘛。",
+        "example_pinyin": "—Bié wèi zhè diǎn shì chǎo le. —Jiù shì ma.",
+        "example_translation": "—Stop arguing over something so small. —Exactly.",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml2024126_882913362.pdf",
+            "note": "BCC corpus example analyses 就是嘛 as aligning with another speaker.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "谁知道呢",
+        "pinyin": "shéi zhīdào ne",
+        "gloss": "Who knows?",
+        "group": "reacting",
+        "note": "Declines to make a confident prediction or explanation. Usually it is not a request to name an informed person. A sigh can make it resigned; a shrug can make it dismissive. Unlike 不知道, it can suggest that the answer is generally uncertain, not just unknown to you.",
+        "example": "—他还会来吗？—谁知道呢。",
+        "example_pinyin": "—Tā hái huì lái ma? —Shéi zhīdào ne.",
+        "example_translation": "—Will he come again? —Who knows?",
+        "sources": [
+          {
+            "url": "https://yzjy.cbpt.cnki.net/portal/journal/portal/client/paper/d8f90ad2a83458b837c6847964a94833",
+            "note": "Journal study using CCL and Weibo examples of 谁知道呢 as a conversational marker.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那不然呢",
+        "pinyin": "nà bùrán ne",
+        "gloss": "Well, what else?",
+        "group": "reacting",
+        "note": "Answers a question as though the answer or choice were obvious. It can defend the only practical option or tease someone for asking. Said sharply, it is an irritated comeback. Unlike 那怎么办, it usually is not inviting a genuine discussion of alternatives.",
+        "example": "—你走回去？—那不然呢，车都没了。",
+        "example_pinyin": "—Nǐ zǒu huíqù? —Nà bùrán ne, chē dōu méi le.",
+        "example_translation": "—You are walking home? —What else? There are no buses left.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/1uiueqi/when_someone_makes_you_roll_your_eyes_clap_back/",
+            "note": "Community explanation and dialogues illustrating pointed rhetorical replies.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "你说呢",
+        "pinyin": "nǐ shuō ne",
+        "gloss": "What do you think?; what do you reckon?",
+        "group": "reacting",
+        "note": "Can genuinely pass the question back, but after an obvious question means you can work that out yourself. Intonation decides whether it invites input or snaps. Unlike turn-opening 你说, this often answers someone else's question rather than introducing your own thought.",
+        "example": "—你生气了？—你说呢？",
+        "example_pinyin": "—Nǐ shēngqì le? —Nǐ shuō ne?",
+        "example_translation": "—Are you angry? —What do you think?",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/1uiueqi/when_someone_makes_you_roll_your_eyes_clap_back/",
+            "note": "Community dialogues show rhetorical rather than information-seeking use.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "这可是你说的",
+        "pinyin": "zhè kě shì nǐ shuō de",
+        "gloss": "I will hold you to that",
+        "group": "reacting",
+        "note": "Picks up someone's promise, permission or bold claim and makes them own it. Often playful before accepting an offer, but can warn that they cannot complain later. 可 adds emphasis: remember, these were your words. It does not automatically mean the speaker agrees with the claim.",
+        "example": "—今天我请。—这可是你说的！",
+        "example_pinyin": "—Jīntiān wǒ qǐng. —Zhè kě shì nǐ shuō de!",
+        "example_translation": "—It is my treat today. —I will hold you to that!",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/1dsb78p",
+            "note": "Native-speaker discussion of holding someone to their statement or permission.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "我说什么来着",
+        "pinyin": "wǒ shuō shénme láizhe",
+        "gloss": "What did I tell you?",
+        "group": "reacting",
+        "note": "After events prove you right, recalls your earlier warning or prediction. Normally rhetorical in this use, not a genuine memory lapse. Can be light teasing, but after someone has suffered a setback it may sound gloating. 来着 points back to what was previously said.",
+        "example": "又没票了。我说什么来着，要早点买。",
+        "example_pinyin": "Yòu méi piào le. Wǒ shuō shénme láizhe, yào zǎodiǎn mǎi.",
+        "example_translation": "Sold out again. What did I tell you? We needed to buy earlier.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/1nuc0oq",
+            "note": "Discussion of expressions used when an earlier prediction proves correct.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "开玩笑吧",
+        "pinyin": "kāi wánxiào ba",
+        "gloss": "You must be joking",
+        "group": "reacting",
+        "note": "Reacts to a claim, price or demand as too surprising or unreasonable to accept easily. It does not necessarily accuse the person of deliberately telling a joke. The 吧 frames disbelief as an incredulous guess; emphatic delivery can become an outright challenge.",
+        "example": "一杯水五十？开玩笑吧！",
+        "example_pinyin": "Yì bēi shuǐ wǔshí? Kāi wánxiào ba!",
+        "example_translation": "Fifty for a glass of water? You must be joking!",
+        "sources": [
+          {
+            "url": "https://www.ecsponline.com/yz/B304E32D892F04C53B87211E652CB700F000.pdf",
+            "note": "Publisher dialogue notes explain disbelief rather than literal joking.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "真有你的",
+        "pinyin": "zhēn yǒu nǐ de",
+        "gloss": "You really are something",
+        "group": "reacting",
+        "note": "Reacts to an unexpected feat with impressed admiration: you actually pulled that off. The same words can express exasperated irony after outrageous behaviour, so tone and the preceding event matter. More personal and colourful than simply calling the result good.",
+        "example": "这么难买你都买到了，真有你的！",
+        "example_pinyin": "Zhème nán mǎi nǐ dōu mǎi dào le, zhēn yǒu nǐ de!",
+        "example_translation": "You managed to get it even though it is so hard to find. You really are something!",
+        "sources": [
+          {
+            "url": "https://m.fx361.com/news/2019/1120/6033761.html",
+            "note": "Study of 真有你的 as a counter-expectation discourse marker.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "好家伙",
+        "pinyin": "hǎo jiāhuo",
+        "gloss": "Blimey; wow",
+        "group": "reacting",
+        "note": "An exclamation before something unexpectedly large, impressive or excessive. It is not necessarily describing a good person: the following remark shows whether you admire or criticise what happened. A long-established colloquial reaction also common online; theatrical delivery can make it knowingly comic.",
+        "example": "好家伙，你买了这么多！",
+        "example_pinyin": "Hǎo jiāhuo, nǐ mǎi le zhème duō!",
+        "example_translation": "Blimey, you bought all that!",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml20200300000_42001826.pdf",
+            "note": "Corpus-based study of surprise, evaluation and discourse functions of 好家伙.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "再说吧",
+        "pinyin": "zài shuō ba",
+        "gloss": "We’ll see; let’s leave that for later",
+        "group": "hedging",
+        "note": "Puts a proposal on hold without committing. It can mean genuine uncertainty or a tactful refusal; it is not a promise to revisit the matter. Unlike 看情况, which points to circumstances, this closes the present discussion.",
+        "example": "—周末去吗？—再说吧，我还没定。",
+        "example_pinyin": "—Zhōumò qù ma? —Zài shuō ba, wǒ hái méi dìng.",
+        "example_translation": "—Going this weekend? —We’ll see; I haven’t decided.",
+        "sources": [
+          {
+            "url": "https://jingyan.baidu.com/article/bea41d43a73111f5c51be6f3.html",
+            "note": "Native explainer distinguishes uncertainty from indirect refusal.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "改天吧",
+        "pinyin": "gǎitiān ba",
+        "gloss": "Another time, perhaps",
+        "group": "hedging",
+        "note": "Defers an invitation while keeping the exchange friendly. Without a specific alternative date, it may be a polite brush-off rather than an actual arrangement. More socially inviting than a flat 不去, but less definite than proposing tomorrow.",
+        "example": "—今晚一起吃饭？—改天吧，今天有事。",
+        "example_pinyin": "—Jīnwǎn yìqǐ chī fàn? —Gǎitiān ba, jīntiān yǒu shì.",
+        "example_translation": "—Dinner tonight? —Another time; I’m busy today.",
+        "sources": [
+          {
+            "url": "https://learn.digmandarin.com/wp-content/uploads/2021/07/Polite-and-not-so-polite-Ways-to-Refuse.pdf",
+            "note": "Chinese dialogue and English explanation show politely declining an invitation.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "不太方便",
+        "pinyin": "bú tài fāngbiàn",
+        "gloss": "That’s a bit difficult for me",
+        "group": "hedging",
+        "note": "A discreet refusal that avoids spelling out private reasons. It can refer to timing, practical constraints or unwillingness to disclose something, rather than literal inconvenience. Polite in work and social exchanges; it gives less of an opening than 再说吧.",
+        "example": "—能说一下收入吗？—这个不太方便。",
+        "example_pinyin": "—Néng shuō yíxià shōurù ma? —Zhège bú tài fāngbiàn.",
+        "example_translation": "—Could you tell me your income? —I’d rather not share that.",
+        "sources": [
+          {
+            "url": "https://www.hopenglish.com/hope-tips-what-to-say-when-you-dont-want-to-let-others-add-your-facebook",
+            "note": "Chinese-language teaching article explains 不太方便 as a polite refusal to disclose personal contact details.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "话不能这么说",
+        "pinyin": "huà bù néng zhème shuō",
+        "gloss": "That’s not quite fair; I wouldn’t put it like that",
+        "group": "hedging",
+        "note": "Pushes back against an overgeneralisation or unfair judgement before explaining the missing context. It challenges the claim rather than forbidding someone to speak. Firmer than 话是这么说, so a calm explanation afterwards keeps it from sounding like a scolding.",
+        "example": "话不能这么说，他也帮了不少忙。",
+        "example_pinyin": "Huà bù néng zhème shuō, tā yě bāng le bù shǎo máng.",
+        "example_translation": "That’s not quite fair; he helped quite a lot too.",
+        "sources": [
+          {
+            "url": "https://web.duke.edu/chinesesoc/dating/cact04.html",
+            "note": "Duke colloquial phrase lesson shows disagreement with a generalisation.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说句不好听的",
+        "pinyin": "shuō jù bù hǎotīng de",
+        "gloss": "To put it bluntly",
+        "group": "hedging",
+        "note": "Warns that criticism or an unpleasant assessment is coming. It acknowledges possible offence but does not make the remark polite. Stronger and more pointed than 说真的; use cautiously with people you do not know well.",
+        "example": "说句不好听的，这样做太不负责了。",
+        "example_pinyin": "Shuō jù bù hǎotīng de, zhèyàng zuò tài bù fùzé le.",
+        "example_translation": "To put it bluntly, doing that is terribly irresponsible.",
+        "sources": [
+          {
+            "url": "https://chinesemoment.com/sheng-sheng-zhong-guo-yu-shuo-ju-bu-hao-ting-de-shuo-ju-bu-haoting-de-to-speak-bluntly/",
+            "note": "Colloquial explainer explicitly describes a preface to blunt criticism.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我不是那个意思",
+        "pinyin": "wǒ bú shì nàge yìsi",
+        "gloss": "That’s not what I meant",
+        "group": "hedging",
+        "note": "Repairs a misunderstanding about your intention. Usually followed by 我是说 or 我只是 to explain the intended point. It denies the interpretation, not necessarily the words you used; by itself it can sound defensive if you never clarify.",
+        "example": "我不是那个意思，我只是想帮忙。",
+        "example_pinyin": "Wǒ bú shì nàge yìsi, wǒ zhǐshì xiǎng bāngmáng.",
+        "example_translation": "That’s not what I meant; I was only trying to help.",
+        "sources": [
+          {
+            "url": "https://www.memrise.com/en-us/learn-chinese/chinese-course/phrasebook/65576756707586/how-to-say-that-s-not-what-i-meant-in-chinese",
+            "note": "Phrasebook with native-speaker audio confirms repair expression.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "别往心里去",
+        "pinyin": "bié wǎng xīnli qù",
+        "gloss": "Don’t take it to heart",
+        "group": "hedging",
+        "note": "Reassures someone after a hurtful remark or awkward moment, asking them not to dwell on it. Unlike 别当真, it need not imply the remark was a joke. Said before your own criticism, it can feel dismissive rather than comforting.",
+        "example": "他刚才有点急，你别往心里去。",
+        "example_pinyin": "Tā gāngcái yǒudiǎn jí, nǐ bié wǎng xīnli qù.",
+        "example_translation": "He was a bit wound up just then; don’t take it to heart.",
+        "sources": [
+          {
+            "url": "https://www.voachinese.com/a/eng-25-10/2655653.html",
+            "note": "Radio conversation explains the interpersonal reassurance sense.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你看着办",
+        "pinyin": "nǐ kànzhe bàn",
+        "gloss": "Use your judgement; it’s up to you",
+        "group": "hedging",
+        "note": "Hands the decision to the listener, often because they know the practical details. Tone matters: warmly said it conveys trust; clipped or irritated it can mean “you deal with it”. Unlike 随便, it may still imply responsibility for a sensible result.",
+        "example": "你看着办吧，我相信你。",
+        "example_pinyin": "Nǐ kànzhe bàn ba, wǒ xiāngxìn nǐ.",
+        "example_translation": "Use your judgement; I trust you.",
+        "sources": [
+          {
+            "url": "https://wen.woshipm.com/question/detail/7v2rid.html",
+            "note": "Native discussion contrasts genuine delegation with dismissive use.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "我就随口一说",
+        "pinyin": "wǒ jiù suíkǒu yì shuō",
+        "gloss": "I was only saying; it was just a passing thought",
+        "group": "hedging",
+        "note": "Downplays a suggestion or remark so the listener does not treat it as a firm request or considered opinion. Often used after someone reacts strongly. Unlike 我不是那个意思, it reduces the remark’s weight rather than correcting its interpretation.",
+        "example": "我就随口一说，你不用特意去买。",
+        "example_pinyin": "Wǒ jiù suíkǒu yì shuō, nǐ bú yòng tèyì qù mǎi.",
+        "example_translation": "It was just a passing thought; don’t go and buy it specially.",
+        "sources": [
+          {
+            "url": "https://news.chenggua.com/detail/19659.html",
+            "note": "Fictional dialogue attests the phrase as a retreat from a suggestion.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.bella-languages.com/modern-family-part-11/",
+            "note": "Chinese-language explainer uses 我就随口一说，别当真 as a conversational disclaimer when analysing dialogue.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "别当真",
+        "pinyin": "bié dàngzhēn",
+        "gloss": "Don’t take that seriously",
+        "group": "hedging",
+        "note": "Labels a remark as playful, exaggerated or not intended as a real commitment. Useful after teasing, but it can sound evasive after hurting someone. 别往心里去 focuses on the listener’s feelings; this focuses on how seriously to interpret the words.",
+        "example": "我开玩笑的，别当真。",
+        "example_pinyin": "Wǒ kāi wánxiào de, bié dàngzhēn.",
+        "example_translation": "I was joking; don’t take it seriously.",
+        "sources": [
+          {
+            "url": "https://fanqienovel.com/page/7618195470363397182",
+            "note": "Novel synopsis pairs 随口一说 with 你别当真 to disclaim seriousness.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.bella-languages.com/modern-family-part-11/",
+            "note": "Chinese-language explainer uses 我就随口一说，别当真 as a conversational disclaimer when analysing dialogue.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "就当我没说",
+        "pinyin": "jiù dàng wǒ méi shuō",
+        "gloss": "Forget I said anything",
+        "group": "closing",
+        "note": "Withdraws a request, suggestion or remark once it seems unwelcome or unnecessary. A light tone can make it a graceful retreat; a sharp tone signals annoyance. Unlike 算了, it specifically cancels your contribution to the conversation.",
+        "example": "你要是不方便，就当我没说。",
+        "example_pinyin": "Nǐ yàoshi bù fāngbiàn, jiù dàng wǒ méi shuō.",
+        "example_translation": "If it’s awkward for you, forget I asked.",
+        "sources": [
+          {
+            "url": "https://context.reverso.net/translation/chinese-english/%E5%BD%93%E6%88%91%E6%B2%A1%E8%AF%B4%E8%BF%87",
+            "note": "Dialogue examples attest withdrawing a proposal or remark.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不打扰了",
+        "pinyin": "bù dǎrǎo le",
+        "gloss": "I’ll leave you to it",
+        "group": "closing",
+        "note": "A considerate way to finish a visit, call or message exchange. It frames your departure around the other person’s time rather than announcing boredom. More courteous than 先这样; often preceded by 那 or followed by 你忙.",
+        "example": "那我不打扰了，你早点休息。",
+        "example_pinyin": "Nà wǒ bù dǎrǎo le, nǐ zǎodiǎn xiūxi.",
+        "example_translation": "I’ll leave you to it, then. Get some rest.",
+        "sources": [
+          {
+            "url": "https://maks.journals.ekb.eg/article_402608_49d7fbc22b472760571103845ae884e4.pdf",
+            "note": "Comparative politeness study records 你挺忙的，不打扰了 as a leave-taking formula.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你忙你的",
+        "pinyin": "nǐ máng nǐ de",
+        "gloss": "Get on with what you’re doing; don’t mind me",
+        "group": "closing",
+        "note": "Releases someone from the obligation to entertain or help you. It can close a chat or let you remain quietly while they work. Usually considerate, though an irritated delivery can imply “fine, ignore me then”. Often softened with 吧.",
+        "example": "你忙你的，我自己看看就行。",
+        "example_pinyin": "Nǐ máng nǐ de, wǒ zìjǐ kànkan jiù xíng.",
+        "example_translation": "Carry on with what you’re doing; I’ll just have a look myself.",
+        "sources": [
+          {
+            "url": "https://www.ctrans.org/search.php?opts=&page=2&word=%E4%BD%A0",
+            "note": "Dictionary dialogue examples show releasing someone from helping and ending an exchange.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "就这么定了",
+        "pinyin": "jiù zhème dìng le",
+        "gloss": "That’s settled, then",
+        "group": "closing",
+        "note": "Closes a negotiation by treating the plan as agreed. Friendly when both people have accepted it; commanding when one person imposes the decision. Unlike 就这样吧, it confirms a definite arrangement rather than merely ending the conversation.",
+        "example": "—周六十点见？—好，就这么定了。",
+        "example_pinyin": "—Zhōuliù shí diǎn jiàn? —Hǎo, jiù zhème dìng le.",
+        "example_translation": "—Saturday at ten? —Great, that’s settled.",
+        "sources": [
+          {
+            "url": "https://chinese.stackexchange.com/questions/5649/how-to-say-its-a-deal",
+            "note": "Native usage discussion identifies the conversational agreement formula.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "不见不散",
+        "pinyin": "bú jiàn bú sàn",
+        "gloss": "See you there; I’ll be waiting",
+        "group": "closing",
+        "note": "An upbeat way to seal a meeting arrangement: both sides are expected to turn up. Literally suggests not leaving before you meet, but often functions as friendly emphasis. More committed than 改天吧; use once a time or place is understood.",
+        "example": "明晚老地方，不见不散！",
+        "example_pinyin": "Míngwǎn lǎo dìfang, bú jiàn bú sàn!",
+        "example_translation": "Tomorrow night at the usual place. See you there!",
+        "sources": [
+          {
+            "url": "https://chinese.stackexchange.com/questions/5649/how-to-say-its-a-deal",
+            "note": "Usage discussion describes the phrase for fixing an appointment.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "翻篇吧",
+        "pinyin": "fān piān ba",
+        "gloss": "Let’s put this behind us",
+        "group": "closing",
+        "note": "Asks to stop revisiting an argument or embarrassing incident and move on. The page-turning image is conversational, not a request about a book. It can offer reconciliation, but sounds dismissive if someone’s concern has not been addressed.",
+        "example": "这事已经说清楚了，翻篇吧。",
+        "example_pinyin": "Zhè shì yǐjīng shuō qīngchu le, fān piān ba.",
+        "example_translation": "We’ve cleared that up now; let’s put it behind us.",
+        "sources": [
+          {
+            "url": "https://www.douyin.com/shipin/7642155641301125172",
+            "note": "Video transcript uses 翻篇 to call for an end to a personal dispute.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "借你吉言",
+        "pinyin": "jiè nǐ jíyán",
+        "gloss": "I hope you’re right; thanks for the good wishes",
+        "group": "hedging",
+        "note": "Accepts a hopeful prediction or blessing without boasting that it will certainly happen. Warm and slightly playful in ordinary conversation; 借您吉言 adds respect. Unlike a plain 谢谢, it explicitly expresses the wish that their encouraging words come true.",
+        "example": "—你肯定能过！—借你吉言！",
+        "example_pinyin": "—Nǐ kěndìng néng guò! —Jiè nǐ jíyán!",
+        "example_translation": "—You’ll definitely pass! —I hope you’re right!",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/1q5j20c/culture_guide_some_goto_responses_you_hear_all/",
+            "note": "Native-speaker culture guide gives conversational responses to good wishes.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "哪儿的话",
+        "pinyin": "nǎr de huà",
+        "gloss": "Not at all; don’t mention it",
+        "group": "hedging",
+        "note": "Warmly rejects the idea that someone has troubled you or owes you excessive thanks. Often followed by 别客气. It sounds more personal and sometimes more traditional than 不客气; a forceful delivery can instead reject an unreasonable statement.",
+        "example": "—太麻烦你了。—哪儿的话，顺手的事。",
+        "example_pinyin": "—Tài máfan nǐ le. —Nǎr de huà, shùnshǒu de shì.",
+        "example_translation": "—I’ve put you to so much trouble. —Not at all; it was no trouble.",
+        "sources": [
+          {
+            "url": "https://goeastmandarin.com/how-to-say-youre-welcome-in-chinese/",
+            "note": "Mandarin teaching guide explains the modest, sometimes older-generation response to thanks or praise.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "别送了",
+        "pinyin": "bié sòng le",
+        "gloss": "No need to see me out",
+        "group": "closing",
+        "note": "A guest says this when the host accompanies them towards the door or beyond. It politely releases the host from the farewell ritual, rather than refusing a gift. More everyday than 请留步; 回去吧 can follow once you are outside.",
+        "example": "别送了，外面冷，快回去吧。",
+        "example_pinyin": "Bié sòng le, wàimian lěng, kuài huíqù ba.",
+        "example_translation": "No need to see me out. It’s cold; get back inside.",
+        "sources": [
+          {
+            "url": "https://shh.dict.cn/dialog/%E9%80%81%E5%88%AB",
+            "note": "Farewell dialogue includes Mandarin equivalents 别送了，请留步.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "……都……了",
+        "pinyin": "… dōu … le",
+        "gloss": "it's already done, so we might as well",
+        "group": "frame",
+        "note": "Repeat the same verb: 来都来了 means 'we're here now, so we might as well'. Treats a completed action as a reason to accept the situation or carry on. Can comfort, persuade or guilt-trip; 说都说了 similarly means the words cannot be taken back.",
+        "example": "来都来了，进去看看吧。",
+        "example_pinyin": "Lái dōu lái le, jìnqù kànkan ba.",
+        "example_translation": "We're here now; let's go in and have a look.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1299",
+            "note": "北京大学构式库：V都V了，口语中的规劝、妥协与责备",
+            "lang": "zh"
+          },
+          {
+            "url": "https://paper.people.com.cn/rmrbhwb/pad/content/202608/07/content_30173544.html",
+            "note": "人民日报海外版《来都来了》：安慰与劝说的日常用法",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "……就……呗",
+        "pinyin": "… jiù … bei",
+        "gloss": "so what if it does; that's fine, then",
+        "group": "frame",
+        "note": "Repeat the same action or description to shrug off a downside: 贵就贵呗 accepts the price rather than denying it. Often sounds casually unconcerned, resigned or defiant. 呗 has a northern conversational flavour; this pattern accepts a consequence, unlike an ordinary conditional with 就.",
+        "example": "晚就晚呗，别着急。",
+        "example_pinyin": "Wǎn jiù wǎn bei, bié zháojí.",
+        "example_translation": "So we're late; don't panic.",
+        "sources": [
+          {
+            "url": "https://www.hanspub.org/journal/PaperInformation?paperID=88499",
+            "note": "《浅析现代汉语中的“呗”》：A就A呗的满不在乎和认可用法",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "有什么好……的",
+        "pinyin": "yǒu shénme hǎo … de",
+        "gloss": "what's there to be so ... about?",
+        "group": "frame",
+        "note": "Challenges the reason for a reaction rather than asking for information. 有什么好怕的 can reassure someone; 有什么好笑的 can sharply tell them to stop laughing. Tone matters: dismissing another person's fear or concern this way may sound insensitive or confrontational.",
+        "example": "有什么好怕的？我陪你去。",
+        "example_pinyin": "Yǒu shénme hǎo pà de? Wǒ péi nǐ qù.",
+        "example_translation": "What's there to be afraid of? I'll go with you.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1534",
+            "note": "北京大学构式库：有什么X的，反问表示没有必要",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "谁让……呢",
+        "pinyin": "shéi ràng … ne",
+        "gloss": "well, that's what happens when; can't help it, since",
+        "group": "frame",
+        "note": "Gives a reason with blame, resignation or affectionate indulgence; 谁叫 works similarly. It is not asking who gave an instruction. 谁让你不听劝呢 can mean 'you brought it on yourself', while 谁让我喜欢呢 admits that your own preference leaves you little choice.",
+        "example": "贵也买，谁让我喜欢呢。",
+        "example_pinyin": "Guì yě mǎi, shéi ràng wǒ xǐhuan ne.",
+        "example_translation": "I'll buy it even if it's expensive. What can I do? I love it.",
+        "sources": [
+          {
+            "url": "https://www.chineseclass101.com/lesson/upper-intermediate-9-the-chinese-gold-rush?lp=212",
+            "note": "ChineseClass101 spoken lesson: 谁让 as a rhetorical explanation rather than a question",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "……什么……",
+        "pinyin": "… shénme …",
+        "gloss": "stop doing that; what are you ... for?",
+        "group": "frame",
+        "note": "Repeat the same verb or adjective around 什么: 笑什么笑 rejects the laughing itself. Usually impatient or scolding, not a request for an explanation. Context can make it warmly dismissive instead: 谢什么谢 brushes away thanks between people who feel no thanks are needed.",
+        "example": "笑什么笑？我说认真的。",
+        "example_pinyin": "Xiào shénme xiào? Wǒ shuō rènzhēn de.",
+        "example_translation": "What are you laughing at? I'm being serious.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1807",
+            "note": "北京大学构式库：V什么V，禁止、劝阻和主观否定",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "什么……不……的",
+        "pinyin": "shénme … bù … de",
+        "gloss": "never mind all that ... business",
+        "group": "frame",
+        "note": "Repeat the same word to reject a distinction or wave away a concern: 什么钱不钱的 means money should not matter here. It may express generosity between friends or dismiss another person's priorities. Unlike a genuine X不X question, it is not asking them to choose.",
+        "example": "什么钱不钱的，这顿我请。",
+        "example_pinyin": "Shénme qián bù qián de, zhè dùn wǒ qǐng.",
+        "example_translation": "Never mind the money; this meal's on me.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1361",
+            "note": "北京大学构式库：什么X不X的，表示X不重要",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "看把你……的",
+        "pinyin": "kàn bǎ nǐ … de",
+        "gloss": "look how ... you are",
+        "group": "frame",
+        "note": "Draws attention to someone's obvious state with an emotional reaction of your own. 看把你乐的 gently teases their delight; 看把你累的 can show sympathy for their exhaustion. Familiar and expressive, rather than a neutral observation; the ending 的 leaves the evaluation hanging conversationally.",
+        "example": "看把你乐的，中奖了？",
+        "example_pinyin": "Kàn bǎ nǐ lè de, zhòngjiǎng le?",
+        "example_translation": "Look how pleased you are. Won a prize?",
+        "sources": [
+          {
+            "url": "https://m.fx361.com/news/2020/1207/7299563.html",
+            "note": "《对外汉语“看”语素构式群比较研究》：看把你X的与评价功能",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "还……呢",
+        "pinyin": "hái … ne",
+        "gloss": "and you call that ...; ... my foot",
+        "group": "frame",
+        "note": "Echoes a claim or label in order to reject it: 还专家呢 questions whether someone deserves to be called an expert. Often sarcastic or contemptuous. This is the dismissive use, not the identical-looking literal pattern meaning 'still', so read the following criticism and tone.",
+        "example": "还专家呢，这都不知道。",
+        "example_pinyin": "Hái zhuānjiā ne, zhè dōu bù zhīdào.",
+        "example_translation": "Some expert! They don't even know this.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1569",
+            "note": "北京大学构式库：还NP呢，名不副实的负面评价",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "你就……吧",
+        "pinyin": "nǐ jiù … ba",
+        "gloss": "go on then, keep doing that",
+        "group": "frame",
+        "note": "With a disapproving tone, an apparent invitation actually criticises or warns: 你就吹吧 means 'keep boasting, then'. It can suggest that consequences will follow. The same words can be genuine advice in another context; irritation or sarcasm creates this reading, not 吧 alone.",
+        "example": "你就拖吧，明天可得交了。",
+        "example_pinyin": "Nǐ jiù tuō ba, míngtiān kě děi jiāo le.",
+        "example_translation": "Keep putting it off, then. It's due tomorrow, you know.",
+        "sources": [
+          {
+            "url": "https://journal.yuanpingjia.com.cn/Journal/ArticleDetails/335553",
+            "note": "唐雨童《现代汉语“你就VP吧”构式研究》：肯定形式表达劝阻和负面评价",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "……是……，但是……",
+        "pinyin": "… shì …, dànshì …",
+        "gloss": "it is ..., I'll grant you, but ...",
+        "group": "frame",
+        "note": "Repeat a description to concede one point before qualifying it: 好看是好看 admits it looks good, while signalling that a reservation is coming. Softer than rejecting the other person's judgement outright. Often the second clause is introduced by 就是 or 可是 instead of 但是.",
+        "example": "好吃是好吃，但是太贵了。",
+        "example_pinyin": "Hǎochī shì hǎochī, dànshì tài guì le.",
+        "example_translation": "It is tasty, I'll give you that, but it's too expensive.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/225",
+            "note": "北京大学构式库：A是A，承认后再让步转折",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.fcipub.org/articleDetail/913?periodicalId=6",
+            "note": "《“X是X，但是……”让步句式考察》：口语例句与句法语义",
+            "lang": "zh"
+          }
+        ]
       }
     ]
   }
