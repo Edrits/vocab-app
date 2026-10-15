@@ -5442,5 +5442,124 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "zhan-sha-xian",
+    "hanzi": "斩杀线",
+    "pinyin": "zhǎnshāxiàn",
+    "literal": "斩 execute + 杀 kill + 线 line — the 'execute threshold' in a video game",
+    "meaning": "The 'kill line': the point at which one setback (illness, job loss, eviction) tips someone into a downward spiral they can never climb out of. Coined for the US social safety net and still mostly aimed at America, but now applied to any precarious life. Loaded and politically charged: supporters say it names a real gap in the safety net, while critics call it exaggerated, traffic-driven talk used in propaganda.",
+    "meaning_zh": "原为游戏术语，指角色血量跌破临界值就会被一击带走。2025年底被借用来形容美国社会：普通人一旦因疾病、失业等跌破某个门槛，就会被医疗、住房、信用等制度规则“连环绞杀”，再也爬不回来。带有明显的立场色彩，支持者认为它点出了美国安全网的漏洞，质疑者认为它是被放大的流量话术。",
+    "example": "一场大病就能把人推过斩杀线，这种事真不只是在美国才有。",
+    "example_pinyin": "Yī chǎng dà bìng jiù néng bǎ rén tuī guò zhǎnshāxiàn, zhè zhǒng shì zhēn bù zhǐ shì zài Měiguó cái yǒu.",
+    "example_translation": "One serious illness can push someone over the kill line, and that really doesn't only happen in America.",
+    "context": "The term comes from gaming: in World of Warcraft a warrior's 'Execute' (斩杀) skill can only be used once an enemy's health drops below 20%, and the idea spread to League of Legends and Honor of Kings. In a December 2025 livestream, the Bilibili uploader 斯奎奇大王 (nicknamed 牢A) laid out an 'American financial kill line', drawing on his time as a medical-examiner's assistant in Seattle. The phrase went viral across the Chinese internet in late 2025. State-linked outlets picked it up: Beijing Daily ran an explainer (24 December 2025) and Guancha's piece, republished by The Paper, noted that Newsweek had covered the trend on 26 December. Why it stings: it turns a nationalist talking point into a gamer's metaphor that is easy to repeat, so it splits people. Critics, including overseas Chinese and pro-US commentators, say it is not an academic term and that it ignores programmes like SNAP and Medicaid. Supporters point to the US 'ALICE' threshold for households that are above the poverty line but still financially insecure. Arguments over it quickly turn into 'whose side are you on?' fights.",
+    "category": "social",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20260226A037Q200",
+        "note": "腾讯新闻（武汉大学学者评论）：美国社会到底是否存在“斩杀线”？词源、牢A提出经过与争议",
+        "lang": "zh"
+      },
+      {
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-24/doc-inhcxqic4182372.shtml",
+        "note": "新浪财经转北京日报客户端（2025-12-24）：美国“斩杀线”真的存在吗？释义与争议",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_32267063",
+        "note": "澎湃号·观察者网（2025-12-27）：美媒也坐不住了——《新闻周刊》报道“斩杀线”在中国走红",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ai-wei",
+    "hanzi": "AI味",
+    "pinyin": "AI wèi",
+    "literal": "AI + flavour / smell",
+    "meaning": "The tell-tale 'AI flavour' of a piece of writing (or image, video) that reads as machine-generated: stock connectives like 此外 and 值得注意的是, show-off vocabulary, bland neutrality, rigid 首先…其次…最后 structure and correct-but-empty filler. Used as a put-down: 'this has a strong AI flavour' means it feels like lazy AI output. Close to English 'AI slop', but describes the feel rather than the junk itself.",
+    "meaning_zh": "指文章（也可指图片、视频）里透出的那股“像AI写的”感觉：爱用“此外”“值得注意的是”之类的连接词，堆砌高级词汇，情感克制、立场中立，结构套路化（首先…其次…最后），内容面面俱到却都是正确的废话。常用来吐槽某段文字一看就是AI生成、缺乏人味。",
+    "example": "你这份周报AI味太重了，“值得注意的是”都用了三次，老板一眼就能看出来。",
+    "example_pinyin": "Nǐ zhè fèn zhōubào AI wèi tài zhòng le, “zhídé zhùyì de shì” dōu yòng le sān cì, lǎobǎn yì yǎn jiù néng kàn chūlái.",
+    "example_translation": "Your weekly report reeks of AI: you've used 'it is worth noting that' three times. The boss will spot it instantly.",
+    "context": "Spread as generative AI writing became everyday in China. In October 2025 the China Association for Science and Technology's 科普中国 explainer 'Why do AI-written articles always have an \"AI flavour\"?' (republished by The Paper and China News Service) called it a kind of 'industrial trace' in text, noting that readers' first reaction to an article is now whether AI wrote it, and that 'AI味' had become a widely repeated phrase. It is used as a quick verdict on any essay, report or post that feels machine-made.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_31801146",
+        "note": "澎湃新闻·科普中国《为什么 AI 写的文章，总有一股“AI 味”？》（2025-10-17）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com/cj/2025/10-17/10500122.shtml",
+        "note": "中国新闻网转载科普中国文章，将“AI味”解释为文本的“工业化痕迹”并列举特征",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "kai-he",
+    "hanzi": "开盒",
+    "pinyin": "kāi hé",
+    "literal": "open + box",
+    "meaning": "To dox someone: dig up and publish a person's real-world private information (name, ID number, phone, address, family, workplace), usually to stir up online and offline harassment. Like 'opening the box' to reveal what's inside. Also used as a noun for the practice, and 被开盒 means 'to get doxxed'. The newer, harsher successor to 人肉搜索.",
+    "meaning_zh": "指非法搜集并公开他人的真实个人信息（姓名、身份证号、电话、住址、家人、单位等），再引导网民对其辱骂、骚扰的网暴行为，相当于把人“像盒子一样打开”。“被开盒”即隐私被扒光曝光。常与“社工库”（非法汇集个人信息的数据库）联系在一起。",
+    "example": "吵架归吵架，千万别开盒，这已经涉嫌违法犯罪了。",
+    "example_pinyin": "Chǎojià guī chǎojià, qiānwàn bié kāi hé, zhè yǐjīng shèxián wéifǎ fànzuì le.",
+    "example_translation": "Argue all you like, but never dox anyone: that's already potentially a criminal offence.",
+    "context": "A successor to 人肉搜索 ('human-flesh search'), often tied to toxic fandom (饭圈) feuds and to illicit 'social engineering databases' (社工库) of leaked personal data. A March 2025 Xinhua commentary noted that a doxxing case reported by Bilibili in late 2023 led to arrests of over 40 suspects across 18 provinces. It became a national issue in 2025: in May the Cyberspace Administration of China issued a notice ordering platforms to remove doxxing posts, shut down accounts and groups offering 开盒 services, and add risk warnings and fast-track complaints. At the March 2026 Two Sessions, the work reports of the Supreme People's Court and Supreme People's Procuratorate both cited 开盒 cases, including one ring whose 社工库 site held about 170 million sets of personal data.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://www.cac.gov.cn/2025-05/27/c_1749968642745140.htm",
+        "note": "中央网信办：就“开盒”问题发出通知，部署整治措施（2025-05-27）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/gn/2026/03-14/10586648.shtml",
+        "note": "中国新闻网/中国青年报《“两高”报告点名“开盒” 释放加强治理信号》（2026-03-14）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.news.cn/legal/20250328/e80d29821dc341d0b9a20241200d773d/c.html",
+        "note": "新华社“千笔楼”评论《“开盒”这扇网暴之门，必须关上！》（2025-03-28）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "mi-money-algospeak",
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "literal": "米 rice (in place of 钱 money / 元 yuan)",
+    "meaning": "Algospeak for money or yuan. Creators and livestream sellers say 多少米 ('how much rice') instead of 多少钱, 赚米 instead of 赚钱, on the belief that the plain word for money gets a video or stream throttled (限流). Often paired with W for 万 (ten thousand).",
+    "meaning_zh": "“钱”或“元”的代称。短视频创作者和带货主播担心直接说“钱”会被限流，于是把“多少钱”说成“多少米”，“赚钱”说成“赚米”，常与用“W”代替“万”一起出现。",
+    "example": "这件外套多少米？家人们点开小黄车看看。",
+    "example_pinyin": "Zhè jiàn wàitào duōshao mǐ? Jiārénmen diǎnkāi xiǎohuángchē kànkan.",
+    "example_translation": "How much 'rice' is this coat? Folks, tap the little yellow cart and have a look.",
+    "context": "A dodge from the Douyin livestream-shopping world that spread via circulating 'operations tips'. On 6 January 2025 Douyin Group vice-president Li Liang (李亮) said on Weibo that saying 米 for money was a rumour passed along from so-called Douyin operations guides, and that the platform mainly sends soft prompts suggesting the standard wording. A Xinjing Bao column in December 2025 said Douyin had again stressed that words such as 钱, 元 and 万 can be used normally, yet a commentary in April 2026 still described the habit ('钱不叫钱，叫米'). In short, the throttling it dodges may be imaginary, but the word itself is firmly in use.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://www.yicai.com/news/102429665.html",
+        "note": "第一财经，2025-01-06：《主播提“挣钱”被限流？抖音副总裁辟谣》，李亮回应“米”“si”等代称",
+        "lang": "zh"
+      },
+      {
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-15/doc-inhawiaf2336171.shtml",
+        "note": "新京报评论（新浪财经转载，2025-12-15）：把多少钱叫“多少米”、把万叫“W”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://finance.sina.com.cn/wm/2026-04-16/doc-inhuskue2897126.shtml?froms=ggmp",
+        "note": "新浪财经转载评论（2026-04-16）：“钱不叫钱，叫米；死不叫死，叫嘎”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
