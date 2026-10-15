@@ -5561,5 +5561,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "lao-nu",
+    "hanzi": "捞女",
+    "pinyin": "lāonǚ",
+    "literal": "捞 fish out / scoop up (money) + 女 woman",
+    "meaning": "A derogatory label for a woman accused of using dating and relationships to extract money and gifts from men, roughly 'gold-digger'. Strongly loaded: many women see it as a misogynist smear that gets stretched to cover any woman who expects material support, which is why using it in public sparks gender-war fights.",
+    "meaning_zh": "贬义词，指被认为在恋爱、婚恋中以索取钱财、礼物为目的的女性，类似“拜金女”。争议很大：不少女性认为这个标签污名化女性，常被扩大到任何对物质有要求的女性身上，因此一用就容易引发性别对立的争吵。",
+    "example": "别动不动就骂人家捞女，人家只是想要个彩礼而已。",
+    "example_pinyin": "Bié dòngbudòng jiù mà rénjia lāonǚ, rénjia zhǐ shì xiǎng yào gè cǎilǐ ér yǐ.",
+    "example_translation": "Don't keep calling her a gold-digger at every turn. She just wants a bride price, that's all.",
+    "context": "The word was around before 2025, but that year it went mainstream through 《捞女游戏》 (Revenge on Gold Diggers), a live-action interactive game released on Steam on 19 June 2025. In it, the player plays a man who was hurt by a 捞女 and fights back against a gang of them. Within three days it topped Steam's China bestseller chart. Women filed complaints and reports, the director's Bilibili account was banned, the game's Weibo topic was blocked, and the developers quickly renamed it 情感反诈模拟器 ('Anti-Romance Scam Simulator'). Media were split: Beijing Youth Daily and Xinhuanet praised it as an anti-fraud tool, while commentators argued over whether it smeared all women or reflected real hardship among low-income young men. It is used mostly in male-dominated online spaces, against women seen as materialistic. It stings because it turns a dispute about money and bride price into a judgement on a woman's character. Platforms now treat this kind of language as possible 'inciting gender antagonism', so treat it as an insult, not a neutral description.",
+    "category": "social",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Revenge_on_Gold_Diggers",
+        "note": "Wikipedia: Revenge on Gold Diggers (捞女游戏) — release, renaming, Bilibili/Weibo bans, media reaction",
+        "lang": "en"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/chinese/719163.html",
+        "note": "中国数字时代转载 风声OPINION 刘远举（2025-06-27）：《捞女游戏》被举报，中国婚姻现状为何容易性别对立？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://daoinsights.com/news/has-the-manosphere-taken-off-in-china-too-revenge-on-gold-diggers-game-goes-viral/",
+        "note": "Dao Insights: China's own manosphere? 'Revenge on Gold Diggers' game goes viral",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "ga-death-algospeak",
+    "hanzi": "嘎了",
+    "pinyin": "gā le",
+    "literal": "嘎 (colloquial: snuff it) + 了 (completed action)",
+    "meaning": "Algospeak for 'died' / 'is dead'. Used in short videos and comments in place of 死了 so that a post does not trip a filter on the word for death; also used loosely for a game character being killed off, or for something being done for.",
+    "meaning_zh": "“死了”的代称。短视频创作者和网友为避免“死”字触发审核或限流，用“嘎了”代替；也用来说游戏角色被淘汰，或某事“完蛋了”。",
+    "example": "剧里那个反派第三集就嘎了，太突然了。",
+    "example_pinyin": "Jù lǐ nàge fǎnpài dì-sān jí jiù gā le, tài tūrán le.",
+    "example_translation": "That villain in the show already died in episode three — so sudden.",
+    "context": "A colloquial way of saying someone has died, 嘎了 became a standard swap for 死 among short-video creators worried about throttling, alongside the pinyin 'si'. In January 2025 a blogger asked Douyin's vice-president Li Liang whether people could stop using substitutes like 米 and si; an April 2026 commentary on platform jargon summed up the habit as '死不叫死，叫嘎', noting that a platform official had said 钱 and 死 were not on any throttling list.",
+    "category": "slang",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://finance.sina.com.cn/wm/2026-04-16/doc-inhuskue2897126.shtml?froms=ggmp",
+        "note": "新浪财经转载评论（2026-04-16）：“死不叫死，叫嘎”，讨论短视频规避审核的黑话",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yicai.com/news/102429665.html",
+        "note": "第一财经，2025-01-06：博主追问能否避免使用“米”“si”等代称",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhi-ren",
+    "hanzi": "殖人",
+    "pinyin": "zhírén",
+    "literal": "殖 colon(ised) + 人 person, short for 被殖民的人",
+    "meaning": "'Colonised person': a nationalist insult for a Chinese person seen as having swallowed Western values or a Western view of China. Thrown at liberals, critics of the government, anyone who praises the West or questions a patriotic consensus. Also used as a modifier, as in 殖人审美 ('colonised aesthetic'). Strongly loaded and political; using it marks which side of the argument you're on.",
+    "meaning_zh": "民族主义网民的贬称，意为“被殖民了的人”，用来攻击被认为崇洋媚外、用西方价值观或西方视角看中国的人，常指向持不同政治观点或批评国内现状的网友。也可作修饰语，如“殖人审美”。带有强烈的立场色彩。",
+    "example": "他只是说了句国外的地铁挺干净，评论区就有人骂他是殖人。",
+    "example_pinyin": "Tā zhǐshì shuō le jù guówài de dìtiě tǐng gānjìng, pínglùnqū jiù yǒu rén mà tā shì zhírén.",
+    "example_translation": "All he said was that the metro abroad is pretty clean, and someone in the comments called him a 'colonised person'.",
+    "context": "According to the China Media Project, the label emerged around 2019 during the Hong Kong protests, when mainland netizens mocked protesters' calls for democracy as a leftover colonial mentality (the nationalist outlet Guancha described them as 恋殖, 'longing for colonialism'). It then widened into an all-purpose epithet. In November 2021 photographer Chen Man apologised after her Dior shoot was attacked as a 'colonised aesthetic' (殖人审美) that played up Western stereotypes of Chinese faces; in February 2022 nationalist influencers turned the word on people who questioned US-born skier Eileen Gu competing for China. It stings because it recasts a difference of opinion as a loss of national identity, and it is used mainly by nationalist accounts against liberal-leaning users, journalists and creators.",
+    "category": "social",
+    "date_added": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://chinamediaproject.org/the_ccp_dictionary/colonized/",
+        "note": "China Media Project, CMP Dictionary: 'Colonized' (殖人), origins in 2019 and the Chen Man / Eileen Gu cases",
+        "lang": "en"
+      }
+    ]
   }
 ]
