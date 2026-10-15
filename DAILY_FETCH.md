@@ -58,6 +58,8 @@ You only ever need the *keys*, via the commands below.
      Prefer chengyu that still circulate in online/comment culture, and in the `context`
      field note how netizens actually use it. Use category `chengyu`. Don't force one into
      every batch — track the running ratio (about 1 in 10).
+   - **Variety lanes:** now and then, reach beyond the feel-good mainstream — see **Edgier
+     corners** below. Roughly one such term every few runs, never the bulk of a batch.
    - **Vocab vs. meme — be honest about which.** Not everything trending is a reusable piece
      of vocabulary with a stable, portable meaning. Some things are really a one-off meme,
      joke, or news reference that people are talking about right now (e.g. "PPT永动机" isn't
@@ -170,6 +172,31 @@ the endurance bar and don't clear this one either; the difference is *significan
 **Use category `news`** (it renders as "Of the moment" in the app) and **cap the volume** — at most about
 one per batch, a couple a week. This is a spice, not a staple: the deck stays mostly durable vocabulary.
 Time-stamp it clearly in `context` — what happened, when, and why it mattered.
+
+## Edgier corners (for variety)
+Year-end lists and trend boards skew towards the cheerful and the officially sanctioned. Real
+online Chinese has rougher edges, and a learner meets those too. Every few runs, look for a term
+from one of these lanes. They are spice, not the staple: about **one in every ~5 new words**
+at most, and still held to the endurance bar and the sourcing rules.
+
+- **Controversial / loaded terms** — words that carry a charge and start arguments: gender-war
+  vocabulary (e.g. 普信男, 女拳), political-camp labels (e.g. 小粉红, 公知), class and generational
+  jabs. Say plainly in `meaning` that it's derogatory or loaded, and in `context` who uses it,
+  against whom, and why it stings. Report the usage; don't take a side. Skip outright slurs against
+  ethnic groups or similar. A learner should recognise those, but they don't belong on a study card.
+- **Censorship workarounds** — the euphemisms, homophones, pinyin initials, character splits and
+  emoji that netizens use to slip past filters or name sensitive things sideways (the 河蟹/草泥马
+  tradition, 404, 和谐, 敏感词 substitutions, codewords for people or events). Explain both the
+  surface form and what it stands for, and how the dodge works (sound-alike, visual pun,
+  abbreviation). Good sources: China Digital Times' Grass-Mud Horse Lexicon (中国数字时代·草泥马
+  语录), What's on Weibo, academic papers on 谐音/规避. Keep `context` factual and dated.
+- **Cyber / tech slang** — the vocabulary of gamers, programmers, hackers and extremely-online
+  subcultures that has leaked into wider use: game and esports terms, coder in-jokes
+  (e.g. 码农, 996, 删库跑路), internet-infrastructure slang, bot and AI culture.
+
+Use the existing categories: usually `slang`; `abbreviation` for pinyin-initial and letter codes;
+`social` for loaded labels about groups of people. On a light run these are a good place to look
+for the backfill word that isn't another year-end-list staple.
 
 ## Entry schema (every field required)
 ```json
