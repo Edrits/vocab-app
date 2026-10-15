@@ -2359,6 +2359,883 @@
             "lang": "en"
           }
         ]
+      },
+      {
+        "hanzi": "原则上",
+        "pinyin": "yuánzé shang",
+        "gloss": "In principle; as a general rule.",
+        "group": "hedging",
+        "note": "Qualifies an agreement or rule rather than promising an unconditional outcome. 原则上可以 may be genuine approval with details still to settle; 原则上不行 leaves possible exceptions. Listen for conditions that follow. It does not automatically mean a disguised refusal.",
+        "example": "原则上可以，具体时间再商量。",
+        "example_pinyin": "Yuánzé shang kěyǐ, jùtǐ shíjiān zài shāngliang.",
+        "example_translation": "In principle, yes; we can discuss the exact time later.",
+        "sources": [
+          {
+            "url": "https://www.collinsdictionary.com/dictionary/english-chinese/in-principle",
+            "note": "Dictionary distinguishes agreement in principle from agreement on practical details.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "研究研究",
+        "pinyin": "yánjiu yánjiu",
+        "gloss": "Give it some thought; look into it.",
+        "group": "hedging",
+        "note": "Reduplicating 研究 makes the proposed consideration sound less definite or heavy. In a reply to a request, 我们再研究研究 can buy time or soften a refusal, especially without a follow-up date. It can equally promise genuine consideration; context decides.",
+        "example": "这个建议，我们再研究研究吧。",
+        "example_pinyin": "Zhège jiànyì, wǒmen zài yánjiu yánjiu ba.",
+        "example_translation": "Let us give that suggestion some more thought.",
+        "sources": [
+          {
+            "url": "https://pdf.hanspub.org/ml2025132_952914489.pdf",
+            "note": "Research on refusal responses discusses 研究研究再说 and indirect refusal.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "有待商榷",
+        "pinyin": "yǒu dài shāngquè",
+        "gloss": "Open to question; needs further discussion.",
+        "group": "hedging",
+        "note": "A formal way to challenge a claim, interpretation or proposal without bluntly calling it wrong. Often means the speaker sees grounds for doubt, not merely that a meeting should happen later. It leaves room for discussion rather than necessarily rejecting everything.",
+        "example": "这个结论恐怕有待商榷。",
+        "example_pinyin": "Zhège jiélùn kǒngpà yǒu dài shāngquè.",
+        "example_translation": "I think that conclusion is open to question.",
+        "sources": [
+          {
+            "url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E6%90%89&title=%E5%95%86%E6%A6%B7",
+            "note": "Education Ministry dictionary illustrates 有待商榷 as grounds not to accept a claim unquestioningly.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "保留意见",
+        "pinyin": "bǎoliú yìjiàn",
+        "gloss": "Have reservations; reserve judgement.",
+        "group": "hedging",
+        "note": "In 我对此保留意见, the speaker withholds full endorsement and may be signalling disagreement politely. More formal than 我不太同意. It can leave a different view on record or defer a final judgement; it does not by itself promise to stop opposing a decision.",
+        "example": "这个方案我保留意见。",
+        "example_pinyin": "Zhège fāng’àn wǒ bǎoliú yìjiàn.",
+        "example_translation": "I have reservations about this proposal.",
+        "sources": [
+          {
+            "url": "https://bkso.baidu.com/item/%E4%BF%9D%E7%95%99%E6%84%8F%E8%A7%81/0?fromModule=lemma_inlink",
+            "note": "General word-sense section describes not agreeing or not fully agreeing; distinct from the technical audit sense.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "精神可嘉",
+        "pinyin": "jīngshén kě jiā",
+        "gloss": "The spirit or determination is admirable.",
+        "group": "reacting",
+        "note": "Praises someone’s effort, courage or determination rather than guaranteeing that their plan or result is good. It can introduce a criticism after 但是, but may also be wholly sincere praise. The contrast comes from the surrounding sentence, not an automatic hidden rejection.",
+        "example": "精神可嘉，不过别把自己累坏了。",
+        "example_pinyin": "Jīngshén kě jiā, búguò bié bǎ zìjǐ lèihuài le.",
+        "example_translation": "Your determination is admirable, but do not wear yourself out.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E7%B2%BE%E7%A5%9E%E5%8F%AF%E5%98%89",
+            "note": "Dictionary example sincerely praises a last-place marathon runner for finishing.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "仅供参考",
+        "pinyin": "jǐn gōng cānkǎo",
+        "gloss": "For reference; just a suggestion.",
+        "group": "hedging",
+        "note": "Marks advice, figures or an interpretation as something to consider rather than a definitive instruction. Can be modest, cautious or a disclaimer, depending on context. Common in professional discussion and writing; it does not automatically mean confidential or off the record.",
+        "example": "这是我的想法，仅供参考。",
+        "example_pinyin": "Zhè shì wǒ de xiǎngfǎ, jǐn gōng cānkǎo.",
+        "example_translation": "That is my suggestion, for you to consider.",
+        "sources": [
+          {
+            "url": "https://dict.youdao.com/w/for_reference_only/",
+            "note": "Dictionary and examples show information offered for reference rather than as a definitive basis.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "仁者见仁",
+        "pinyin": "rén zhě jiàn rén",
+        "gloss": "Different people see it differently.",
+        "group": "closing",
+        "note": "Short for 仁者见仁，智者见智. Acknowledges that views vary with perspective. Can help close an unresolved debate or soften disagreement, but can also express genuine acceptance of different tastes. It does not inherently imply that the other person’s view is misguided.",
+        "example": "这部电影好不好，仁者见仁吧。",
+        "example_pinyin": "Zhè bù diànyǐng hǎo bù hǎo, rén zhě jiàn rén ba.",
+        "example_translation": "Whether this film is any good is a matter of opinion.",
+        "sources": [
+          {
+            "url": "https://zidian.openi.cn/chengyu/11050/",
+            "note": "Definition and comparison explain different perspectives, rather than necessarily stubborn disagreement.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "话里有话",
+        "pinyin": "huà lǐ yǒu huà",
+        "gloss": "There is more to that remark than it says.",
+        "group": "reacting",
+        "note": "Flags an implied meaning beneath someone’s literal words: perhaps a hint, criticism or an indirect request. Often used when interpreting a third person’s remark. It invites attention to subtext, but does not prove that the speaker has a hostile agenda.",
+        "example": "你是不是话里有话？",
+        "example_pinyin": "Nǐ shì bu shì huà lǐ yǒu huà?",
+        "example_translation": "Are you trying to tell me something?",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E8%AF%9D%E9%87%8C%E6%9C%89%E8%AF%9D",
+            "note": "Dictionary defines additional implied meaning and illustrates an apparently simple remark.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "点到为止",
+        "pinyin": "diǎn dào wéi zhǐ",
+        "gloss": "Touch on it and leave it there.",
+        "group": "closing",
+        "note": "For speech, means giving the key hint without spelling everything out. May show tact around criticism or a sensitive subject, or simply restraint over detail. Compared with 你懂的, it describes how far the speaker goes rather than directly appealing to shared understanding.",
+        "example": "这件事我就点到为止了。",
+        "example_pinyin": "Zhè jiàn shì wǒ jiù diǎn dào wéi zhǐ le.",
+        "example_translation": "I will leave it at that on this subject.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E9%BB%9E%E5%88%B0%E7%82%BA%E6%AD%A2",
+            "note": "Dictionary explicitly gives the speech sense: indicating the key point without full explanation.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不是味儿",
+        "pinyin": "bú shì wèir",
+        "gloss": "Does not feel right; leaves a bad feeling.",
+        "group": "reacting",
+        "note": "A colloquial expression with northern flavour. 听着不是味儿 says something sounds wrong or unpleasant; 心里不是味儿 describes discomfort, hurt or mixed unhappy feelings. It need not mean sarcasm or jealousy specifically. Also has a literal sense for food that tastes wrong.",
+        "example": "听他这么说，我心里不是味儿。",
+        "example_pinyin": "Tīng tā zhème shuō, wǒ xīnli bú shì wèir.",
+        "example_translation": "Hearing him say that left me feeling uncomfortable.",
+        "sources": [
+          {
+            "url": "https://dict.baidu.com/s?ptype=zici&wd=%E4%B8%8D%E6%98%AF%E5%91%B3%E5%84%BF",
+            "note": "Dictionary distinguishes wrong taste, something amiss and feeling upset.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "有情绪",
+        "pinyin": "yǒu qíngxù",
+        "gloss": "Be upset or resentful about something.",
+        "group": "reacting",
+        "note": "In someone 对这件事有情绪, 情绪 usually means unhappy feelings or dissatisfaction, rather than emotion in general. 有点 softens the assessment. It can describe resentment without visible protest; calling someone 有情绪 may sound dismissive if it treats their complaint as mere moodiness.",
+        "example": "他对这个安排有点情绪。",
+        "example_pinyin": "Tā duì zhège ānpái yǒudiǎn qíngxù.",
+        "example_translation": "He is a bit unhappy about this arrangement.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ChineseLanguage/comments/wmj464",
+            "note": "Native-speaker discussion gives 你怎么总是有情绪 as the negative, moody sense.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "上纲上线",
+        "pinyin": "shàng gāng shàng xiàn",
+        "gloss": "Turn a small matter into a question of principle.",
+        "group": "reacting",
+        "note": "Criticises someone for inflating a mistake or disagreement into a judgement about character, loyalty or politics. Historically associated with ideological criticism; now also used in everyday arguments. 别上纲上线 pushes back quite sharply and may itself dismiss a concern the listener considers serious.",
+        "example": "只是开个玩笑，别上纲上线。",
+        "example_pinyin": "Zhǐ shì kāi ge wánxiào, bié shàng gāng shàng xiàn.",
+        "example_translation": "It was only a joke; do not turn it into a matter of principle.",
+        "sources": [
+          {
+            "url": "https://www.woshipm.com/operate/1040026.html",
+            "note": "Discusses historical ideological framing and modern examples that elevate small issues into principles.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "打太极",
+        "pinyin": "dǎ tàijí",
+        "gloss": "Dodge the issue; give someone the runaround.",
+        "group": "reacting",
+        "note": "Figuratively describes evasive replies that deflect pressure without addressing the central question. More specifically about avoidance than ordinary politeness or lengthy explanation. 别跟我打太极 is a pointed demand for a straight answer; the same words can literally mean practising tai chi.",
+        "example": "别跟我打太极，到底行不行？",
+        "example_pinyin": "Bié gēn wǒ dǎ tàijí, dàodǐ xíng bù xíng?",
+        "example_translation": "Stop dodging the question: is it possible or not?",
+        "sources": [
+          {
+            "url": "https://chinesemoment.com/chinese-language-vocabulary-han-yu-ci-hui-da-tai-ji-dataiji-to-avoid-by-going-in-circles/",
+            "note": "Language explanation illustrates a spokesperson avoiding a question by 打太极.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "交学费",
+        "pinyin": "jiāo xuéfèi",
+        "gloss": "Pay for a lesson through a mistake.",
+        "group": "reacting",
+        "note": "Literally pay tuition; figuratively, treat a loss or setback as the price of gaining experience. 就当交学费了 can console yourself or someone else after being caught out. The cost may be money, time or effort and need not be large.",
+        "example": "这次买错了，就当交学费吧。",
+        "example_pinyin": "Zhè cì mǎicuò le, jiù dàng jiāo xuéfèi ba.",
+        "example_translation": "I bought the wrong thing this time; I will put it down to experience.",
+        "sources": [
+          {
+            "url": "https://bkso.baidu.com/item/%E4%BA%A4%E5%AD%A6%E8%B4%B9/5025892?fromModule=lemma_inlink",
+            "note": "Extended-meaning section includes money, time and effort paid for experience; origin claims are not adopted.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "走过场",
+        "pinyin": "zǒu guòchǎng",
+        "gloss": "Go through the motions; do it for show.",
+        "group": "reacting",
+        "note": "Criticises a meeting, check or other activity as a formality without real substance. The focus is superficial performance rather than a useful result. It may imply the outcome was settled already, but does not necessarily mean that; careless box-ticking also qualifies.",
+        "example": "检查要认真，不能走过场。",
+        "example_pinyin": "Jiǎnchá yào rènzhēn, bù néng zǒu guòchǎng.",
+        "example_translation": "The checks need to be thorough; we cannot just go through the motions.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E8%B5%B0%E8%BF%87%E5%9C%BA",
+            "note": "Dictionary defines perfunctory work focused only on outward form.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "打擦边球",
+        "pinyin": "dǎ cābiānqiú",
+        "gloss": "Skirt the rules; push the boundaries.",
+        "group": "reacting",
+        "note": "From a ball touching the edge of a table-tennis table. Describes taking advantage of an unclear boundary or trying to stay just within a rule while stretching its intention. Usually carries suspicion or criticism; the expression itself does not establish that an action is lawful.",
+        "example": "别老想着打擦边球。",
+        "example_pinyin": "Bié lǎo xiǎngzhe dǎ cābiānqiú.",
+        "example_translation": "Stop always looking for ways to skirt the rules.",
+        "sources": [
+          {
+            "url": "https://baike.sogou.com/m/fullLemma?lid=684672",
+            "note": "Explains the sports image and figurative activity at the edges of rules.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "吃哑巴亏",
+        "pinyin": "chī yǎba kuī",
+        "gloss": "Suffer a loss you cannot openly complain about.",
+        "group": "reacting",
+        "note": "Describes being wronged or losing out while unable or unwilling to speak up. Embarrassment, lack of evidence or fear of consequences may be the reason; the phrase does not specify which. Stronger than simply 吃亏 because the frustrating silence is central.",
+        "example": "没有收据，只能吃哑巴亏了。",
+        "example_pinyin": "Méiyǒu shōujù, zhǐ néng chī yǎba kuī le.",
+        "example_translation": "Without a receipt, I can only swallow the loss.",
+        "sources": [
+          {
+            "url": "https://www.sinoss.net/upload/resources/file/2024/07/30/35987.pdf",
+            "note": "Discussion of 吃 constructions explains loss that cannot be voiced or redressed.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "打预防针",
+        "pinyin": "dǎ yùfángzhēn",
+        "gloss": "Give an advance warning; prepare someone mentally.",
+        "group": "opening",
+        "note": "Literally give a vaccination. Figuratively, warn someone beforehand so an unwelcome result, difficulty or problem will be less of a shock. 我先给你打个预防针 introduces that warning; it can manage expectations or prevent trouble, rather than merely announce bad news.",
+        "example": "先给你打个预防针，明天可能要加班。",
+        "example_pinyin": "Xiān gěi nǐ dǎ ge yùfángzhēn, míngtiān kěnéng yào jiābān.",
+        "example_translation": "Just to prepare you: we may have to work late tomorrow.",
+        "sources": [
+          {
+            "url": "https://www.fx361.com/page/2024/0923/24690266.shtml",
+            "note": "Idiom teaching article defines advance reminders intended to prevent unpleasant outcomes.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "留一手",
+        "pinyin": "liú yī shǒu",
+        "gloss": "Keep something back; save a trick for yourself.",
+        "note": "Said when someone keeps part of their skill or method to themselves instead of revealing everything. It can imply sensible caution or a lack of generosity. The core image is holding back know-how, rather than simply telling a lie.",
+        "group": "reacting",
+        "example": "你是不是还留了一手？",
+        "example_pinyin": "Nǐ shì bu shì hái liú le yī shǒu?",
+        "example_translation": "Are you still keeping a trick up your sleeve?",
+        "sources": [
+          {
+            "url": "https://www.zdic.net/hant/%E7%95%99%E4%B8%80%E6%89%8B",
+            "note": "Colloquial definition and example of withholding a skill.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "唱白脸 / 唱红脸",
+        "pinyin": "chàng bái liǎn / chàng hóng liǎn",
+        "gloss": "Play bad cop / play good cop.",
+        "note": "Describes two people taking contrasting roles: one stern and difficult, the other friendly and conciliatory. Often used of parenting or negotiations. In this pairing 白脸 is the harsh role and 红脸 the friendly one; the phrase can suggest a coordinated act.",
+        "group": "reacting",
+        "example": "你唱白脸，我唱红脸。",
+        "example_pinyin": "Nǐ chàng bái liǎn, wǒ chàng hóng liǎn.",
+        "example_translation": "You play bad cop; I will play good cop.",
+        "sources": [
+          {
+            "url": "https://www.sohu.com/a/288808996_652594",
+            "note": "Language Weekly columnist explains the paired roles and cites real usage.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说白了就是",
+        "pinyin": "shuō bái le jiù shì",
+        "gloss": "Put plainly, it is simply…",
+        "note": "Introduces a stripped-down explanation of what something really amounts to. It may expose a hidden motive, but can equally clarify an innocent practical point. Blunter than 换句话说: you are presenting your summary as the plain truth, not just rephrasing neutrally.",
+        "group": "linking",
+        "example": "说白了就是钱不够。",
+        "example_pinyin": "Shuō bái le jiù shì qián bú gòu.",
+        "example_translation": "Put plainly, there is not enough money.",
+        "sources": [
+          {
+            "url": "https://www.sciscanpub.com/index/index/show_article/id/5285.html",
+            "note": "Research taxonomy identifies 说白了 as a metalinguistic discourse marker.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "充其量",
+        "pinyin": "chōng qí liàng",
+        "gloss": "At most; at best.",
+        "note": "Sets an upper limit on an estimate or claim. It often downplays an achievement, especially in 充其量也就是, but is not inherently insulting: it can also state a practical maximum. Listen to what is being capped before assuming a dismissive judgement.",
+        "group": "hedging",
+        "example": "他充其量也就是个新手。",
+        "example_pinyin": "Tā chōng qí liàng yě jiù shì ge xīnshǒu.",
+        "example_translation": "He is only a beginner at best.",
+        "sources": [
+          {
+            "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=33018&la=0&powerMode=0",
+            "note": "Ministry of Education definition with a neutral stock-limit example.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "犯不着 / 犯得着吗",
+        "pinyin": "fàn bu zháo / fàn de zháo ma",
+        "gloss": "It is not worth it; is it really worth the bother?",
+        "note": "Weighs the trouble, anger or cost against the small thing at stake. Often used to calm someone down or discourage unnecessary effort. 犯得着吗 is normally rhetorical: the speaker thinks the proposed reaction is excessive, rather than asking for a calculation.",
+        "group": "hedging",
+        "example": "为这点事生气，犯得着吗？",
+        "example_pinyin": "Wèi zhè diǎn shì shēngqì, fàn de zháo ma?",
+        "example_translation": "Is it worth getting angry over something this small?",
+        "sources": [
+          {
+            "url": "https://mdx.mdict.org/%E8%AF%8D%E5%85%B8pdf/%E7%8E%B0%E4%BB%A3%E5%AE%9E%E7%94%A8%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8.pdf",
+            "note": "Modern Practical Chinese Dictionary entries explain both forms with examples.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不外乎",
+        "pinyin": "bù wài hū",
+        "gloss": "It comes down to; nothing beyond…",
+        "note": "Narrows an explanation to a limited set of reasons or possibilities. Useful when summarising a complicated discussion: 原因不外乎这几个. Slightly more formal than everyday 无非就是, and it need not imply suspicion or criticism; the speaker is defining the relevant range.",
+        "group": "linking",
+        "example": "原因不外乎这两点。",
+        "example_pinyin": "Yuányīn bú wài hū zhè liǎng diǎn.",
+        "example_translation": "It comes down to these two reasons.",
+        "sources": [
+          {
+            "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=2328&la=0&powerMode=0",
+            "note": "Ministry of Education definition and usage example.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "拿捏不准",
+        "pinyin": "ná niē bù zhǔn",
+        "gloss": "Cannot quite judge it; cannot get the balance right.",
+        "note": "Used when the right degree, boundary or approach is hard to judge, especially in dealing with people. 这个分寸我拿捏不准 admits uncertainty about how far to go. More specific than 不好说: the difficulty is getting the handling or judgement right.",
+        "group": "hedging",
+        "example": "这个分寸，我有点拿捏不准。",
+        "example_pinyin": "Zhège fēncùn, wǒ yǒudiǎn ná niē bù zhǔn.",
+        "example_translation": "I cannot quite judge where to draw the line.",
+        "sources": [
+          {
+            "url": "https://m.thepaper.cn/newsDetail_forward_10979060",
+            "note": "Writer Ma Shanglong uses 拿捏不准分寸 in his own account.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那倒不至于",
+        "pinyin": "nà dào bù zhì yú",
+        "gloss": "I would not go that far; it is not that bad.",
+        "note": "Pushes back against an exaggerated conclusion while leaving room for the underlying concern. The 倒 marks a gentle qualification: you may agree there is a problem without accepting the extreme version. Usually calmer than a blunt 不可能, though tone can make it dismissive.",
+        "group": "hedging",
+        "example": "—他会生气吧？—那倒不至于。",
+        "example_pinyin": "—Tā huì shēngqì ba? —Nà dào bú zhì yú.",
+        "example_translation": "—Will he get angry? —I would not go that far.",
+        "sources": [
+          {
+            "url": "https://www.sina.cn/news/detail/5297709431128695.html",
+            "note": "First-person account quotes the phrase as a reply rejecting an exaggerated consequence.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "话又说回来",
+        "pinyin": "huà yòu shuō huí lái",
+        "gloss": "Mind you; having said that.",
+        "note": "Turns back to the other side of an argument, often qualifying something you have just said. Very close to 话说回来; 又 reinforces the return, but does not automatically make the reversal sharper. It can introduce a fair concession without retracting your first point.",
+        "group": "linking",
+        "example": "话又说回来，他也不容易。",
+        "example_pinyin": "Huà yòu shuō huí lái, tā yě bù róngyì.",
+        "example_translation": "Having said that, he has had a hard time too.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E8%A9%B1%E5%8F%88%E8%AA%AA%E5%9B%9E%E4%BE%86",
+            "note": "Dictionary explicitly explains considering the opposite angle, with an example.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "这是 / 那是",
+        "pinyin": "zhè shì / nà shì",
+        "gloss": "This is / that is; distinguish these from 这个 / 那个.",
+        "note": "Use zhè shì and nà shì as the ordinary pronunciations here. The familiar merged readings zhèi and nèi are associated especially with following classifiers, as in 这个 and 那个. Do not apply that pattern automatically before 是; ordinary zhè and nà remain natural.",
+        "group": "fast",
+        "example": "这是我的，那是你的。",
+        "example_pinyin": "Zhè shì wǒ de, nà shì nǐ de.",
+        "example_translation": "This is mine; that is yours.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E8%BF%99",
+            "note": "Dictionary distinguishes zhè from the classifier-associated merged reading zhèi.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://zdic.net/hans/%E9%82%A3",
+            "note": "Dictionary gives nà and merged nèi readings.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "什么",
+        "pinyin": "shénme",
+        "gloss": "啥 (shá) — what; a colloquial or dialectal equivalent of 什么.",
+        "note": "啥 is a familiar spoken alternative, especially associated with northern varieties, and also appears in casual writing. 干啥 means “doing what?” Treat it as an established colloquial word, not a rule that every 什么 must collapse into one syllable. 什么 remains the neutral choice.",
+        "group": "fast",
+        "example": "你在干啥？",
+        "example_pinyin": "Nǐ zài gàn shá?",
+        "example_translation": "What are you doing?",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E5%95%A5",
+            "note": "Dictionary marks 啥 as dialectal 什么 and attests 干啥.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "有意思",
+        "pinyin": "yǒu yìsi",
+        "gloss": "Interesting; amusing; or interested in someone.",
+        "note": "As a reaction, 有意思 says something is interesting or worth thinking about; a dry tone can make it sceptical. 对某人有意思 can suggest romantic interest. The normal reading is yǒu yìsi, with light si; these meanings do not depend on a special yìr contraction.",
+        "group": "reacting",
+        "example": "—他总找你聊天。—你是说他对我有意思？",
+        "example_pinyin": "—Tā zǒng zhǎo nǐ liáotiān. —Nǐ shì shuō tā duì wǒ yǒu yìsi?",
+        "example_translation": "—He keeps finding reasons to chat with you. —You mean he is interested in me?",
+        "sources": [
+          {
+            "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=154584&la=1&powerMode=0",
+            "note": "Ministry of Education gives pronunciation, interesting sense and personal-interest examples.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "大夫 / 师傅",
+        "pinyin": "dàifu / shīfu",
+        "gloss": "Doctor / skilled worker; respectful ways to address someone.",
+        "note": "Both commonly have a light final fu in mainland Mandarin. 大夫 addresses a doctor; 师傅 can address a driver or skilled worker. A light syllable may be brief, but it is not a fixed instruction to remove its vowel and pronounce an English-style final f.",
+        "group": "fast",
+        "example": "师傅，麻烦在前面停一下。",
+        "example_pinyin": "Shīfu, máfan zài qiánmiàn tíng yīxià.",
+        "example_translation": "Driver, could you stop just ahead, please?",
+        "sources": [
+          {
+            "url": "https://putonghua.szu.edu.cn/info/1014/2868.htm",
+            "note": "Shenzhen University Mandarin testing centre lists both as neutral-tone words.",
+            "lang": "zh"
+          },
+          {
+            "url": "https://zdic.net/hans/%E5%B8%88%E5%82%85",
+            "note": "Dictionary documents respectful address for skilled workers.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "用不着",
+        "pinyin": "yòng bu zháo",
+        "gloss": "There is no need; you do not have to.",
+        "note": "Waves away an unnecessary action, worry or offer of help. Tone matters: 用不着担心 can reassure, while 用不着你管 sounds like “none of your business”. It is an ordinary three-syllable expression with light bu, rather than a special compressed spelling like 甭.",
+        "group": "hedging",
+        "example": "用不着特意跑一趟，我给你送去。",
+        "example_pinyin": "Yòng bu zháo tèyì pǎo yī tàng, wǒ gěi nǐ sòng qu.",
+        "example_translation": "No need to make a special trip; I will bring it to you.",
+        "sources": [
+          {
+            "url": "https://hyxx.ybu.edu.cn/__local/1/94/83/C4382499C29E19C384DBAC188CE_0389733B_B21C79.pdf",
+            "note": "Corpus research contrasts the necessity judgements expressed by 用不着 and 不用.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "好容易 / 好不容易",
+        "pinyin": "hǎo róngyì / hǎo bù róngyì",
+        "gloss": "Finally, after a struggle; with great difficulty.",
+        "note": "Before a hard-won result, both can emphasise how much effort it took, often with 才. 好不容易 is the clearer choice for learners. This equivalence is construction-dependent: 好容易 can also mean “so easy” in other contexts, so do not reverse its meaning mechanically.",
+        "group": "linking",
+        "example": "我好不容易才找到你。",
+        "example_pinyin": "Wǒ hǎo bù róngyì cái zhǎodào nǐ.",
+        "example_translation": "I finally found you after all that searching.",
+        "sources": [
+          {
+            "url": "https://pub.bnu.edu.cn/jzyg1/102524.html",
+            "note": "Beijing Normal University discussion of matching positive and negative expressions.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "差点儿 / 差点儿没",
+        "pinyin": "chà diǎnr / chà diǎnr méi",
+        "gloss": "Almost; nearly — check whether the event actually happened.",
+        "note": "With an unwanted event, 差点儿摔倒 and 差点儿没摔倒 can both mean “nearly fell”, without falling. With a desired result, 差点儿没考上 normally means you nearly failed but got in. Context matters: do not treat 没 as automatically reversing every 差点儿 sentence.",
+        "group": "frame",
+        "example": "我差点儿没摔倒，幸好扶住了。",
+        "example_pinyin": "Wǒ chà diǎnr méi shuāidǎo, xìnghǎo fúzhù le.",
+        "example_translation": "I nearly fell, but luckily managed to grab hold.",
+        "sources": [
+          {
+            "url": "https://pub.bnu.edu.cn/jzyg1/102524.html",
+            "note": "Explains the differing readings with desired and undesired outcomes, including falling and admission.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那倒也是",
+        "pinyin": "nà dào yě shì",
+        "group": "reacting",
+        "gloss": "Fair point; that is true enough.",
+        "note": "Acknowledges a reasonable point after hesitation or a different initial view. 倒 marks the reconsideration; 也 allows agreement without necessarily accepting everything the other person said. Often followed by 不过 when a reservation remains, rather than signalling an unconditional yes.",
+        "example": "那倒也是，晚点出发更安全。",
+        "example_pinyin": "Nà dào yě shì, wǎn diǎn chūfā gèng ānquán.",
+        "example_translation": "Fair point; leaving later is safer.",
+        "sources": [
+          {
+            "url": "https://mandarintemple.com/chinese-grammar/hsk-6/na-dao-ye-shi",
+            "note": "Lesson with conversational examples of concession.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "可算",
+        "pinyin": "kě suàn",
+        "group": "reacting",
+        "gloss": "Finally; at long last!",
+        "note": "Highlights that something long awaited has finally happened, often with relief or impatience. Common in 你可算来了 and 可算结束了. It overlaps with 总算; both can express relief, so the difference is not a strict emotional versus neutral divide.",
+        "example": "你可算回来了，我等了半天。",
+        "example_pinyin": "Nǐ kě suàn huílái le, wǒ děng le bàntiān.",
+        "example_translation": "You are finally back! I have been waiting ages.",
+        "sources": [
+          {
+            "url": "https://lishiwenhua.snnu.edu.cn/huayin/uploadfile/2017/1022/20171022025805119.pdf",
+            "note": "Research records 可算等着你咧 as finally getting the awaited result.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "哪儿跟哪儿啊",
+        "pinyin": "nǎr gēn nǎr a",
+        "group": "reacting",
+        "gloss": "What has that got to do with anything?",
+        "note": "Rejects a confused connection or an interpretation that seems completely off track. This is an exasperated rhetorical question, not a request for directions. Often starts with 这都. The northern conversational flavour can sound playful between friends or dismissive in an argument.",
+        "example": "我只是问个时间，你想哪儿去了？这都哪儿跟哪儿啊！",
+        "example_pinyin": "Wǒ zhǐshì wèn ge shíjiān, nǐ xiǎng nǎr qù le? Zhè dōu nǎr gēn nǎr a!",
+        "example_translation": "I only asked what time it was. What are you imagining? Where did all that come from?",
+        "sources": [
+          {
+            "url": "https://keatschinese.com/china-culture-resources/learning-chinese-expressions-begin-with-%E5%93%AA/",
+            "note": "School explanation and dialogue evidence for rejecting nonsense.",
+            "lang": "en"
+          }
+        ]
+      },
+      {
+        "hanzi": "没完了是吧",
+        "pinyin": "méi wán le shì ba",
+        "group": "reacting",
+        "gloss": "Are you ever going to drop it?",
+        "note": "Challenges someone who keeps teasing, nagging or repeating an unwanted topic. 是吧 here sharpens the complaint rather than politely seeking confirmation. Usually irritated and potentially confrontational; a joking delivery among close friends is possible, but it is not a neutral request to finish.",
+        "example": "都说了别提了，没完了是吧？",
+        "example_pinyin": "Dōu shuō le bié tí le, méi wán le shì ba?",
+        "example_translation": "I already said to drop it. Are you going to keep this up?",
+        "sources": [
+          {
+            "url": "https://weibo.com/2/detail/5337608595179818",
+            "note": "Public post uses 没完了是吧 as an annoyed complaint about repetition.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "怪不得 / 怨不得",
+        "pinyin": "guài bu de / yuàn bu de",
+        "group": "reacting",
+        "gloss": "No wonder; that explains it.",
+        "note": "Introduces the explanation that makes an earlier observation click into place. Both can also mean that somebody cannot be blamed, especially before a person: 怨不得他. Read the whole sentence; the no-wonder use comments on a newly understood cause rather than assigning blame.",
+        "example": "怪不得你这么累，原来昨晚没睡好。",
+        "example_pinyin": "Guài bu de nǐ zhème lèi, yuánlái zuówǎn méi shuì hǎo.",
+        "example_translation": "No wonder you are so tired; you did not sleep well last night.",
+        "sources": [
+          {
+            "url": "https://chinese.my/wd/index.php?Page=1&detail=y&stype=Word&sword=%E6%80%A8%E4%B8%8D%E5%BE%97",
+            "note": "Dictionary records 怨不得 as 怪不得 and distinguishes its literal use.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不见得",
+        "pinyin": "bú jiàn de",
+        "group": "hedging",
+        "gloss": "Not necessarily; that may not be so.",
+        "note": "Questions an assumption without making the opposite claim outright. Useful when somebody sounds too sure about a prediction or generalisation. It can be measured or pointed depending on delivery; it is not automatically polite. Similar to 未必, and more specifically doubtful than 不好说.",
+        "example": "贵的不见得就好。",
+        "example_pinyin": "Guì de bú jiàn de jiù hǎo.",
+        "example_translation": "The expensive one is not necessarily better.",
+        "sources": [
+          {
+            "url": "https://zdic.net/hans/%E4%B8%8D%E8%A7%81%E5%BE%97",
+            "note": "Dictionary entry for the not-necessarily sense.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说实在的",
+        "pinyin": "shuō shízài de",
+        "group": "opening",
+        "gloss": "To be honest; frankly speaking.",
+        "note": "Frames what follows as the speaker’s candid assessment, often before an admission or criticism. Closely overlaps with 说实话 and 说真的; context determines whether honesty, seriousness or practicality is prominent. It can soften an awkward admission, but does not make blunt criticism harmless.",
+        "example": "说实在的，这个价格我接受不了。",
+        "example_pinyin": "Shuō shízài de, zhège jiàgé wǒ jiēshòu bù liǎo.",
+        "example_translation": "To be honest, I cannot accept this price.",
+        "sources": [
+          {
+            "url": "https://www.shnu.edu.cn/f7/a7/c26244a718759/page.htm",
+            "note": "Shanghai Normal University discussion of speech-related discourse markers.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "倒也不是",
+        "pinyin": "dào yě bú shì",
+        "group": "hedging",
+        "gloss": "Well, not exactly; that is not really it.",
+        "note": "Pushes back gently on an explanation or assumption while leaving room for a more precise account. Often followed by 只是 or 就是 to identify the actual issue. Unlike a firm 不是, it frequently signals qualification, although tone and context still control how soft it sounds.",
+        "example": "倒也不是不想去，就是有点累。",
+        "example_pinyin": "Dào yě bú shì bù xiǎng qù, jiùshì yǒu diǎn lèi.",
+        "example_translation": "It is not that I do not want to go; I am just a bit tired.",
+        "sources": [
+          {
+            "url": "https://www.ourplay.net/planet/thread/707",
+            "note": "First-person conversational post uses 倒也不是 to qualify an interpretation.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说不上来",
+        "pinyin": "shuō bu shàng lái",
+        "group": "hedging",
+        "gloss": "Cannot quite put it into words; cannot say exactly.",
+        "note": "Used when you have an impression or feeling but cannot identify or articulate it clearly. Can also mean being unable to produce an answer. Unlike 不好说, which may concern judgement or sensitivity, this often focuses on difficulty finding the right words.",
+        "example": "我觉得哪里不对，可就是说不上来。",
+        "example_pinyin": "Wǒ juéde nǎlǐ bú duì, kě jiùshì shuō bu shàng lái.",
+        "example_translation": "Something feels wrong, but I cannot quite put my finger on it.",
+        "sources": [
+          {
+            "url": "https://dacidian.18dao.net/zh-hans/zici/%E8%AA%AA%E4%B8%8D%E4%B8%8A%E4%BE%86",
+            "note": "Dictionary definition and example of inability to express something.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "那敢情好",
+        "pinyin": "nà gǎnqing hǎo",
+        "group": "reacting",
+        "gloss": "That would be great; even better!",
+        "note": "Welcomes a suggestion or offer that suits you particularly well. A lively expression associated with northern conversation; 敢情 here conveys approval rather than the realisation sense in 敢情你早知道. It may be ironic in context, so enthusiasm is not guaranteed by the words alone.",
+        "example": "你能顺路带我？那敢情好！",
+        "example_pinyin": "Nǐ néng shùnlù dài wǒ? Nà gǎnqing hǎo!",
+        "example_translation": "You can give me a lift on your way? That would be brilliant!",
+        "sources": [
+          {
+            "url": "https://dict.mini.moe.edu.tw/Home/Intro?Intro_id=9",
+            "note": "Ministry of Education dictionary notes 敢情 approval and gives 那敢情好.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "可不是咋的",
+        "pinyin": "kě bú shì zǎ de",
+        "group": "reacting",
+        "gloss": "Exactly; you can say that again!",
+        "note": "An emphatic agreement associated especially with Northeastern speech. Despite 不是, the response supports what the other person said. Similar in function to 可不是嘛, with a stronger regional flavour. Best understood as a fixed conversational response rather than translated word by word.",
+        "example": "这路也太堵了。可不是咋的，半天没动。",
+        "example_pinyin": "Zhè lù yě tài dǔ le. Kě bú shì zǎ de, bàntiān méi dòng.",
+        "example_translation": "This traffic is awful. Exactly; we have not moved for ages.",
+        "sources": [
+          {
+            "url": "https://jingyan.baidu.com/article/295430f1eea1a84d7f005033.html",
+            "note": "Native-language explanation identifies agreement and Northeastern origin.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "得亏 / 多亏",
+        "pinyin": "děi kuī / duō kuī",
+        "group": "linking",
+        "gloss": "Good thing; thanks to; fortunately.",
+        "note": "Introduces the person or circumstance that prevented trouble or made success possible. 得亏 is colloquial and regionally marked; 多亏 is broadly standard and often conveys gratitude. Both readily lead into 不然 to spell out the bad alternative. 得亏 is pronounced děi kuī here.",
+        "example": "得亏你提醒我，不然我就忘了。",
+        "example_pinyin": "Děi kuī nǐ tíxǐng wǒ, bùrán wǒ jiù wàng le.",
+        "example_translation": "Good thing you reminded me, otherwise I would have forgotten.",
+        "sources": [
+          {
+            "url": "https://www.hanyuword.com/ci/deikui/",
+            "note": "Dictionary verifies děi kuī, regional marking and fortunately examples.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "归根结底",
+        "pinyin": "guī gēn jié dǐ",
+        "group": "linking",
+        "gloss": "Ultimately; when it comes down to it.",
+        "note": "Returns a discussion to what the speaker considers its fundamental cause or issue. Common in explanations and reflective conversation, and more deliberate than a casual filler. Unlike 说白了, it highlights the underlying basis rather than necessarily stripping away polite or complicated wording.",
+        "example": "归根结底，还是时间不够。",
+        "example_pinyin": "Guī gēn jié dǐ, háishi shíjiān bú gòu.",
+        "example_translation": "Ultimately, there just is not enough time.",
+        "sources": [
+          {
+            "url": "https://www.colips.org/conferences/clsw2023/proceedings/papers/065.pdf",
+            "note": "Linguistics paper identifies 归根结底 as a discourse connective.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "这叫什么事儿啊",
+        "pinyin": "zhè jiào shénme shìr a",
+        "group": "reacting",
+        "gloss": "What a ridiculous situation; what a mess!",
+        "note": "Vents frustration at an absurd, unfair or inconvenient turn of events. Usually rhetorical: the speaker is not asking for the name of an incident. It can be a rueful mutter or an angry complaint; the final 啊 and delivery shape its emotional force.",
+        "example": "白跑了两趟，这叫什么事儿啊！",
+        "example_pinyin": "Bái pǎo le liǎng tàng, zhè jiào shénme shìr a!",
+        "example_translation": "Two wasted trips! What a ridiculous situation!",
+        "sources": [
+          {
+            "url": "https://www.bilibili.com/list/606419108?bvid=BV1nY411K7q1&oid=257944527",
+            "note": "Creator video title uses the closely matching 这叫什么事儿呢 as an exasperated reaction.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "不……白不……",
+        "pinyin": "bù … bái bù …",
+        "group": "frame",
+        "gloss": "Might as well; it would be a waste not to.",
+        "note": "Repeat the same verb in both slots: 不吃白不吃. The speaker presents an available benefit as costing nothing extra, so passing it up seems pointless. Often playful or opportunistic; it need not mean literally free, and can sound grasping depending on the situation.",
+        "example": "票都买了，不看白不看。",
+        "example_pinyin": "Piào dōu mǎi le, bú kàn bái bú kàn.",
+        "example_translation": "We have already bought the tickets; we might as well watch.",
+        "sources": [
+          {
+            "url": "https://ccl.pku.edu.cn/ccgd/detail/1250",
+            "note": "Peking University construction record gives structure, meaning and attested examples.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "说……就……",
+        "pinyin": "shuō … jiù …",
+        "group": "frame",
+        "gloss": "Just do something immediately; change at the drop of a hat.",
+        "note": "Repeat the action or state in both slots, as in 说走就走 or 说变就变. Emphasises how readily or suddenly it happens, with little delay or preparation. This can praise decisiveness, describe spontaneity or complain about unpredictability; it is not necessarily a criticism.",
+        "example": "他脾气来得快，说生气就生气。",
+        "example_pinyin": "Tā píqi lái de kuài, shuō shēngqì jiù shēngqì.",
+        "example_translation": "He loses his temper quickly; he gets angry at the drop of a hat.",
+        "sources": [
+          {
+            "url": "https://www.sinoss.net/upload/resources/file/2025/07/21/46123.pdf",
+            "note": "Research on 说X就X records rapid action and sudden change.",
+            "lang": "zh"
+          }
+        ]
+      },
+      {
+        "hanzi": "哪有……的",
+        "pinyin": "nǎ yǒu … de",
+        "group": "frame",
+        "gloss": "Who does that? How can that be reasonable?",
+        "note": "Rhetorically challenges a behaviour or description, often with 这样 or 这么: 哪有你这么说话的. Can express disbelief, complaint or rebuke rather than request information. It is not always angry, and its force cannot be ranked mechanically against other rhetorical patterns.",
+        "example": "哪有约好了又不来的？",
+        "example_pinyin": "Nǎ yǒu yuē hǎo le yòu bù lái de?",
+        "example_translation": "Who agrees to meet and then just does not turn up?",
+        "sources": [
+          {
+            "url": "https://chinesegrammar.app/grammar/nayou-rhetorical",
+            "note": "Explanation and examples of the rhetorical 哪有…的 construction.",
+            "lang": "en"
+          }
+        ]
       }
     ]
   }
