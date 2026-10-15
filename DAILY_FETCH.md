@@ -3,12 +3,13 @@
 This is the task the scheduled agent runs each morning to grow `vocab.json`.
 
 ## Goal
-Add up to 3–5 Chinese netizen terms that are **genuinely useful and likely to last** — words a
-learner will still meet in a year — and append them to `vocab.json`, never duplicating a term
-already in the file. Favour the **durable core** over the merely fresh: it is fine to add fewer,
-or to backfill an enduring term the deck has somehow missed, rather than reach for something
-fleeting to hit a number. **Does this belong? (the endurance bar)** below is now the main filter —
-apply it to everything before it goes in.
+Add up to 3–5 Chinese netizen terms that are **real, current and interesting** and append them to
+`vocab.json`, never duplicating a term already in the file. Edward already knows the famous stuff,
+so the deck earns its keep with words a learner *wouldn't* find in a textbook, a top-ten buzzword
+list or every "Chinese slang you must know" article: what people are actually saying now, including
+the edgier corners (loaded labels, censorship workarounds, cyber and AI slang). Two filters apply to
+everything before it goes in: **Is it interesting? (the familiarity test)** and **Does this belong?
+(the endurance bar)**, both below. It is fine to add fewer rather than pad.
 
 ## Token discipline (important — the database grows daily)
 Never read `vocab.json` into context and never hand-edit it. It gains ~4 entries a day;
@@ -40,8 +41,9 @@ You only ever need the *keys*, via the commands below.
      date or month). If search-engine results look stale, WebFetch a hot-search aggregator page directly.
    - Aim for **at least one term from the current pulse** each run, where one holds up — a fresh term
      that's clearly crossing platforms qualifies; so does a notable item for the `news` lane below.
-   - **Then fill out the batch** with established terms that are everywhere but the deck hasn't got yet —
-     backfilling the durable core is still valuable.
+   - **Then fill out the batch** from the **Edgier corners** lanes below and from the less obvious
+     layer of established slang: terms with some age that are in real use but aren't famous. Older is
+     fine; *well known* is the problem (see the familiarity test).
    - 年度网络流行语 / word-of-the-year lists (国家语言资源监测与研究中心, 《咬文嚼字》, 小红书年度热词) are a
      **backfill fallback only** — use them when the pulse check turns up nothing that passes the bar, not
      as the default hunting ground.
@@ -51,15 +53,17 @@ You only ever need the *keys*, via the commands below.
      to add whenever the batch has room.
    - In the run summary, add a short **pulse notes** line: what's trending that you looked at but skipped,
      and why — plus what you added to, graduated from, or dropped off the watchlist.
-3. **Select** terms that are (a) not already in the deck, (b) genuinely in use — not textbook
-   words, (c) explainable with real cultural context, and (d) **likely to endure** (see the bar
-   below). Prefer a mix of categories, and lead with the solid, established core.
+3. **Select** terms that are (a) not already in the deck, (b) genuinely in use, not textbook
+   words, (c) **not already famous** (see the familiarity test), (d) explainable with real cultural
+   context, and (e) **not ephemeral** (see the endurance bar). Prefer a mix of categories, and lead
+   with the freshest solid find.
    - **Chengyu rule:** include roughly **one classic chengyu (成语) per ~10 new words added**.
      Prefer chengyu that still circulate in online/comment culture, and in the `context`
      field note how netizens actually use it. Use category `chengyu`. Don't force one into
      every batch — track the running ratio (about 1 in 10).
-   - **Variety lanes:** now and then, reach beyond the feel-good mainstream — see **Edgier
-     corners** below. Roughly one such term every few runs, never the bulk of a batch.
+   - **Edgier lanes:** aim for **at least one term per run** from **Edgier corners** below
+     (loaded labels, censorship workarounds, cyber/AI slang), where one holds up. Up to about half a
+     batch is fine; just keep some mainstream-but-fresh slang in the mix too.
    - **Vocab vs. meme — be honest about which.** Not everything trending is a reusable piece
      of vocabulary with a stable, portable meaning. Some things are really a one-off meme,
      joke, or news reference that people are talking about right now (e.g. "PPT永动机" isn't
@@ -75,6 +79,10 @@ You only ever need the *keys*, via the commands below.
    do not invent definitions. For meme entries specifically, dig up the real originating
    event/post/screenshot rather than guessing at a generic "meaning" — the fact pattern is
    the whole point. If unsure about a term, drop it rather than guess.
+   **Every specific claim — dates, names, numbers, platforms, which list it made — must appear in a
+   source you actually opened.** If you can't source a detail, cut it; don't round out the story
+   from memory. AI-written content-farm pages (e.g. china.com 今日热点 explainers, auto-generated Sina
+   "热点" accounts) don't count as sources: they recycle each other and often get deleted.
    **Record the source(s) you used in the entry's `sources` array** (URLs or short citations,
    Mandarin or English) — this is required, not optional.
 5. **Append via the script** — write your new entries (ALL fields below) as a JSON array
@@ -92,6 +100,17 @@ You only ever need the *keys*, via the commands below.
 7. Commit `vocab.json` and `watchlist.json` with a message like `vocab: add N terms (YYYY-MM-DD)`
    and push (push = deploy via GitHub Pages).
 
+## Is it interesting? (the familiarity test)
+Before the endurance bar, ask: **would a keen intermediate learner already know this?** If the term
+is on every year-end top-ten list, in standard dictionaries, or the stock example in "Chinese
+internet slang 101" articles (think yyds, 内卷, 躺平, 河蟹, 草泥马, 小粉红, 996, 码农), it's too well
+known to be worth a card, even if the deck lacks it. Skip it and look one layer down.
+
+Age alone isn't the issue. An older term that's still used but has never gone mainstream (a niche
+gaming verb that leaked out, a regional jab, a workaround people use without thinking) is exactly
+the kind of thing to add. What to avoid is the famous. Prefer, in order: fresh and spreading → older
+but little known → famous (only to fill an obvious hole, and rarely).
+
 ## Does this belong? (the endurance bar)
 The deck is meant to be **solid vocabulary**, not a museum of dead memes. The hard part is telling
 real 网络用语 — a word people keep reaching for — from a passing reference (a streamer's slip, one
@@ -103,8 +122,8 @@ game forum's in-joke) that will be gone in a month. Weigh these before adding an
 - **Used productively** — people apply it to new situations and combine it, not just quote the original.
 - **Crossed over** — seen well beyond its origin community; ideally picked up by mainstream media or a
   year-end 流行语 list.
-- **Already has some age** — surviving a few months is the best predictor of surviving a year. A proven
-  term beats one that's merely new.
+- **Already has some legs**: a few weeks of spreading across platforms is a good sign. It doesn't
+  need to be old, just not a flash in the pan.
 
 **Signs it's EPHEMERAL — skip it, or wait:**
 - **You can't explain it without retelling the origin event** — that's a reference, not a word.
@@ -112,8 +131,9 @@ game forum's in-joke) that will be gone in a month. Weigh these before adding an
 - **Stuck in one niche** — a single game's forum, one fandom — with no sign of spreading.
 - **This week's format** that next week's will replace.
 
-**The decision:** default to the enduring core. A niche or very fresh term goes in **only if** it both
-fills a genuine gap **and** shows real signs of spreading and sticking. If you're unsure, **leave it out
+**The decision:** the endurance bar is there to keep out flashes in the pan, not to push the deck
+back towards famous old words. A fresh term goes in if it fills a genuine gap **and** shows real signs
+of spreading. If you're unsure, **leave it out
 and revisit later** — if it endures it'll still be there next month, and if it died you never needed it.
 Two rock-solid words (or one) beat a batch padded with three that won't outlive the quarter.
 (The one deliberate exception is the **of-the-moment lane** below — notable, time-stamped items kept
@@ -175,14 +195,21 @@ Time-stamp it clearly in `context` — what happened, when, and why it mattered.
 
 ## Edgier corners (for variety)
 Year-end lists and trend boards skew towards the cheerful and the officially sanctioned. Real
-online Chinese has rougher edges, and a learner meets those too. Every few runs, look for a term
-from one of these lanes. They are spice, not the staple: about **one in every ~5 new words**
-at most, and still held to the endurance bar and the sourcing rules.
+online Chinese has rougher edges, and that's where much of the interesting vocabulary lives. **Look in
+these lanes every run** and aim to bring back at least one term, rotating between lanes from day to
+day. They are still held to the endurance bar and the sourcing rules.
 
-**Current, not classic.** These lanes are for what's in use *now*: terms that surfaced or took off
-within roughly the last 12–18 months. The famous old ones (河蟹, 草泥马, 404, 和谐, 小粉红, 公知,
-女拳, 996, 码农, 删库跑路 and the like) are dictionary words by now and are covered everywhere; don't
-spend a run on them. If the only candidate you can find is a classic, skip the lane that day.
+**Current or obscure, not classic.** Favour what's in use *now*: terms that surfaced or took off in
+roughly the last 12–18 months. Older terms are fine if they're still used and not widely known. The
+famous ones (河蟹, 草泥马, 404, 和谐, 小粉红, 公知, 女拳, 996, 码农, 删库跑路 and the like) are dictionary
+words by now; don't spend a run on them. If the only candidate you can find is a classic, try another
+lane.
+
+Recent finds that set the bar: 斩杀线 (a loaded 2025 coinage aimed at the US safety net), 开盒
+(doxxing, newly a national issue in 2025), AI味 (the "AI flavour" of machine-written text), 米
+(livestream code for money). Good hunting grounds beyond the trend boards: China Digital Times and its
+Grass-Mud Horse Lexicon, China Media Project's CMP Dictionary, What's on Weibo, Sixth Tone, Rest of
+World, Dao Insights, tech outlets (36氪, 虎嗅, 少数派, 机核, 量子位), and Bilibili/Zhihu explainers.
 
 - **Controversial / loaded terms**: the newest words that carry a charge and start arguments:
   fresh gender-war vocabulary, new political or nationalist camp labels, the latest class,
