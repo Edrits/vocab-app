@@ -20,7 +20,11 @@ You only ever need the *keys*, via the commands below.
    ```
    python3 -c "import json; d=json.load(open('vocab.json')); print(len(d), 'words:', ' '.join(e['hanzi'] for e in d))"
    ```
-   This gives you the full dedupe list for a few tokens per word. The chengyu ratio and
+   This gives you the full dedupe list for a few tokens per word. Then check the watchlist
+   (see **The watchlist** below):
+   ```
+   python3 scripts/watch.py list
+   ``` The chengyu ratio and
    category counts are printed by the append script in step 5, or on demand:
    ```
    python3 -c "import json, collections; print(collections.Counter(e['category'] for e in json.load(open('vocab.json'))))"
@@ -38,8 +42,12 @@ You only ever need the *keys*, via the commands below.
    - 年度网络流行语 / word-of-the-year lists (国家语言资源监测与研究中心, 《咬文嚼字》, 小红书年度热词) are a
      **backfill fallback only** — use them when the pulse check turns up nothing that passes the bar, not
      as the default hunting ground.
+   - **Work the watchlist too:** resolve every `due` item (re-search it — still in use and now
+     verifiable? add it; otherwise drop it), drop `stale` items, and if a `watching` term turns up
+     again in today's pulse, re-record it so its sighting count goes up. `backfill` items are ready
+     to add whenever the batch has room.
    - In the run summary, add a short **pulse notes** line: what's trending that you looked at but skipped,
-     and why.
+     and why — plus what you added to, graduated from, or dropped off the watchlist.
 3. **Select** terms that are (a) not already in the deck, (b) genuinely in use — not textbook
    words, (c) explainable with real cultural context, and (d) **likely to endure** (see the bar
    below). Prefer a mix of categories, and lead with the solid, established core.
@@ -72,8 +80,12 @@ You only ever need the *keys*, via the commands below.
    It validates the schema, skips anything already in the deck, appends the rest, and
    prints the new totals including the chengyu ratio. If it reports schema errors, fix
    your scratch file and re-run — never edit `vocab.json` directly.
-6. Commit `vocab.json` with a message like `vocab: add N terms (YYYY-MM-DD)` and push
-   (push = deploy via GitHub Pages).
+6. **Record the skips** worth revisiting on the watchlist (scratch file outside the repo, then
+   `python3 scripts/watch.py add "$TMPDIR/watch.json"`), and drop any you resolved with
+   `python3 scripts/watch.py drop <hanzi> "<why>"`. Run `watch.py list` once more at the end so
+   anything you added to the deck today graduates off the list.
+7. Commit `vocab.json` and `watchlist.json` with a message like `vocab: add N terms (YYYY-MM-DD)`
+   and push (push = deploy via GitHub Pages).
 
 ## Does this belong? (the endurance bar)
 The deck is meant to be **solid vocabulary**, not a museum of dead memes. The hard part is telling
@@ -101,6 +113,29 @@ and revisit later** — if it endures it'll still be there next month, and if it
 Two rock-solid words (or one) beat a batch padded with three that won't outlive the quarter.
 (The one deliberate exception is the **of-the-moment lane** below — notable, time-stamped items kept
 for documentary value rather than reuse.)
+
+## The watchlist (`watchlist.json`)
+The endurance bar says "if unsure, leave it out and revisit later" — the watchlist is where *later*
+lives. It holds terms a run skipped but that might still earn a place, so the next runs come back to
+them instead of forgetting them. Manage it **only** through `scripts/watch.py` (never hand-edit).
+
+**What goes on it** — one entry per term, `{hanzi, reason, note}`, with `reason` one of:
+- `too-new` — trending and plausibly useful, but too fresh to know if it will last;
+- `unverified` — looks like real vocabulary, but you couldn't confirm the meaning/origin today;
+- `niche` — so far stuck in one community, person or fandom, but could spread;
+- `backfill` — an established term the deck is missing that you didn't have room for today.
+
+The `note` should say what it is and why it was held back, so a later run can pick it up cold.
+
+**What doesn't:** pure one-offs (a single clip, a news item about one person), and anything already
+covered by a deck word. Those just go in the pulse notes.
+
+**How it resolves:** `watch.py list` marks a term `due` once it was first seen 28+ days ago (backfill
+items are always due) — at that point decide: if it's still in use and now verifiable, add it to the
+deck; if not, drop it. A term not sighted for 42+ days is `stale` — drop it. Re-recording a term
+already on the list bumps its sighting count; a term sighted on several separate days is strong
+evidence it's sticking. Terms that reach the deck graduate off the list automatically on the next
+`list`.
 
 ## The "of the moment" lane (category `news`)
 One deliberate **exception** to the endurance bar: genuinely **notable, of-their-time** items — a real
