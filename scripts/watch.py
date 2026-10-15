@@ -8,7 +8,7 @@ Usage:
 
 `list` prints every watched term with its status, and first removes any term
 that has since made it into vocab.json ("graduated"). Statuses:
-    due      — backfill items (always), or first seen 28+ days ago: decide now,
+    due      — spotted/backfill items (always), or first seen 28+ days ago: decide now,
                add it to the deck if it is still in use, otherwise drop it
     stale    — not sighted for 42+ days: it has probably died, drop it
     watching — too early to judge, leave it
@@ -20,6 +20,7 @@ appended; a term already in the deck is skipped. `reason` is one of:
     unverified  meaning/origin couldn't be confirmed against a source
     niche       stuck in one community, person or fandom so far
     backfill    an established term the deck is missing — add when there's room
+    spotted     Edward met it in the wild (imported by scripts/inbox.py) — top priority
 
 Agents: never hand-edit watchlist.json — use this script.
 """
@@ -31,7 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 WATCH = ROOT / "watchlist.json"
 VOCAB = ROOT / "vocab.json"
-REASONS = {"too-new", "unverified", "niche", "backfill"}
+REASONS = {"too-new", "unverified", "niche", "backfill", "spotted"}
 DUE_AFTER = 28    # days since first seen before a decision is due
 STALE_AFTER = 42  # days since last sighting before it counts as dead
 
@@ -58,9 +59,9 @@ def age(d):
 
 
 def status(item):
-    if age(item["last_seen"]) >= STALE_AFTER:
+    if item["reason"] != "spotted" and age(item["last_seen"]) >= STALE_AFTER:
         return "stale"
-    if item["reason"] == "backfill" or age(item["first_seen"]) >= DUE_AFTER:
+    if item["reason"] in ("backfill", "spotted") or age(item["first_seen"]) >= DUE_AFTER:
         return "due"
     return "watching"
 
@@ -77,7 +78,8 @@ def cmd_list():
         print("watchlist empty")
         return
     order = {"due": 0, "stale": 1, "watching": 2}
-    for i in sorted(items, key=lambda i: (order[status(i)], i["first_seen"])):
+    key = lambda i: (i["reason"] != "spotted", order[status(i)], i["first_seen"])
+    for i in sorted(items, key=key):
         print(f"[{status(i)}] {i['hanzi']} · {i['reason']} · seen {i['sightings']}x, "
               f"first {i['first_seen']}, last {i['last_seen']} — {i['note']}")
 
