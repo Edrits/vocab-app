@@ -179,24 +179,32 @@ online Chinese has rougher edges, and a learner meets those too. Every few runs,
 from one of these lanes. They are spice, not the staple: about **one in every ~5 new words**
 at most, and still held to the endurance bar and the sourcing rules.
 
-- **Controversial / loaded terms** — words that carry a charge and start arguments: gender-war
-  vocabulary (e.g. 普信男, 女拳), political-camp labels (e.g. 小粉红, 公知), class and generational
-  jabs. Say plainly in `meaning` that it's derogatory or loaded, and in `context` who uses it,
-  against whom, and why it stings. Report the usage; don't take a side. Skip outright slurs against
-  ethnic groups or similar. A learner should recognise those, but they don't belong on a study card.
-- **Censorship workarounds** — the euphemisms, homophones, pinyin initials, character splits and
-  emoji that netizens use to slip past filters or name sensitive things sideways (the 河蟹/草泥马
-  tradition, 404, 和谐, 敏感词 substitutions, codewords for people or events). Explain both the
-  surface form and what it stands for, and how the dodge works (sound-alike, visual pun,
-  abbreviation). Good sources: China Digital Times' Grass-Mud Horse Lexicon (中国数字时代·草泥马
-  语录), What's on Weibo, academic papers on 谐音/规避. Keep `context` factual and dated.
-- **Cyber / tech slang** — the vocabulary of gamers, programmers, hackers and extremely-online
-  subcultures that has leaked into wider use: game and esports terms, coder in-jokes
-  (e.g. 码农, 996, 删库跑路), internet-infrastructure slang, bot and AI culture.
+**Current, not classic.** These lanes are for what's in use *now*: terms that surfaced or took off
+within roughly the last 12–18 months. The famous old ones (河蟹, 草泥马, 404, 和谐, 小粉红, 公知,
+女拳, 996, 码农, 删库跑路 and the like) are dictionary words by now and are covered everywhere; don't
+spend a run on them. If the only candidate you can find is a classic, skip the lane that day.
+
+- **Controversial / loaded terms**: the newest words that carry a charge and start arguments:
+  fresh gender-war vocabulary, new political or nationalist camp labels, the latest class,
+  generational and regional jabs, labels that got platforms or state media involved. Say plainly
+  in `meaning` that it's derogatory or loaded, and in `context` who uses it, against whom, and why it
+  stings. Report the usage; don't take a side. Skip outright slurs against ethnic groups or
+  similar. A learner should recognise those, but they don't belong on a study card.
+- **Censorship workarounds**: the substitutions netizens are using *at the moment* to slip past
+  filters or platform throttling (限流): new homophones, pinyin and letter codes, emoji, character
+  splits and euphemisms for words that currently get posts suppressed (money, death, sex, politics,
+  brand names), and fresh codenames for sensitive topics. Explain both the surface form and what it
+  stands for, and how the dodge works (sound-alike, visual pun, abbreviation). Good places to
+  look: China Digital Times (including its Grass-Mud Horse Lexicon, 中国数字时代·草泥马语录, for
+  recent additions), What's on Weibo, Sixth Tone, explainers on 限流词/敏感词替换, recent papers on
+  谐音/规避. Keep `context` factual and dated.
+- **Cyber / tech slang**: the vocabulary of gamers, programmers, AI users, scammers and
+  extremely-online subcultures as it is *now*: AI-era talk (tools, slop, agents, jobs), recent
+  esports and gaming terms that crossed over, the current 大厂 in-jokes, new online-fraud jargon.
+  Tech outlets (36氪, 虎嗅, 少数派, 机核, 量子位) and Bilibili/Zhihu explainers are good hunting grounds.
 
 Use the existing categories: usually `slang`; `abbreviation` for pinyin-initial and letter codes;
-`social` for loaded labels about groups of people. On a light run these are a good place to look
-for the backfill word that isn't another year-end-list staple.
+`social` for loaded labels about groups of people.
 
 ## Entry schema (every field required)
 ```json
