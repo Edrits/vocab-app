@@ -5639,5 +5639,93 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "ai-xiao-hai",
+    "hanzi": "AI小海",
+    "pinyin": "AI xiǎo hǎi",
+    "literal": "AI + 小 (little) + 海 (Hai, a boy's name)",
+    "meaning": "The name for a wave of near-identical AI-generated 'boy' accounts on short-video platforms that play a motherless, filial student and sob-story-sell products to elderly women, whom he calls 姨姨妈妈 ('aunties and mums'). Used as a handle for AI digital humans that milk lonely older viewers' sympathy for sales.",
+    "meaning_zh": "指短视频平台上批量出现的AI数字人男孩账号：人设是缺少母爱、懂事孝顺的学生，以“姨姨妈妈”称呼中老年女性观众，靠比赛失利、生病住院等卖惨情节博同情，再引导她们点购物链接下单。现泛指用AI数字人收割中老年人情感和钱包的套路。",
+    "example": "我妈最近天天给“AI小海”下单，还以为他是真的大学生。",
+    "example_pinyin": "Wǒ mā zuìjìn tiāntiān gěi “AI Xiǎo Hǎi” xiàdān, hái yǐwéi tā shì zhēn de dàxuéshēng.",
+    "example_translation": "My mum has been buying from 'AI Xiao Hai' every day lately — she thinks he's a real university student.",
+    "context": "Hit the hot-search lists in mid-October 2026 after a 新京报 (Beijing News) investigation published on 16 October. 'Xiao Hai' is a successor to an earlier AI character, 王建国, whose accounts were taken down in a crackdown on AI misuse. Dozens of look-alike accounts post cheap AI videos of the same boy — bullied at school, losing a '校园带货大赛', in hospital — each ending with a plea such as '姨姨妈妈，校园带货大赛就差两单了，您能帮帮小海吗？'. Commenters are mostly women in their sixties and seventies across 20-plus provinces; the hashtag had about 600 million views by 15 October. Brands told the reporter they paid commissions of 52–55%, and a 79-year-old who lived alone travelled by train to a place the character 'invited' viewers to before railway police sent her home. Young netizens tried to fight back with AI videos of their own. An of-the-moment marker of AI digital humans meeting China's lonely elderly.",
+    "category": "news",
+    "date_added": "2026-10-16",
+    "sources": [
+      {
+        "url": "https://news.sina.com.cn/o/2026-10-16/doc-inivksmu1428543.shtml",
+        "note": "新浪新闻转载新京报调查：卖惨博同情、高价带货，批量“AI小海”正收割“姨姨妈妈”们（2026-10-16）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/1087498140_100024718",
+        "note": "搜狐：当“AI小海”卖惨收割中老年人，网友们用AI展开了反击",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinatimes.com/realtimenews/20261016001984-260409",
+        "note": "旺报（中时新闻网）：假卖惨、真带货，AI儿子“小海”专攻师奶心",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jia-hao",
+    "hanzi": "嘉豪",
+    "pinyin": "jiā háo",
+    "literal": "Jiahao — a very common boy's given name",
+    "meaning": "A teasing label for a (usually teenage) boy who shows off with more confidence than skill — doing something 'cool' in public so people will notice him. Has softened into a general, half-affectionate tag for anyone showily performing a hobby or acting cooler than the moment calls for; also used as a verb/adjective ('so 嘉豪').",
+    "meaning_zh": "调侃那些自我感觉良好、爱装、想引人注意的人，尤其是中学男生——水平一般却很自信地当众耍酷。后来贬义淡化，泛指高调展示爱好、显得很“装”的人或行为，也可作形容词用（“太嘉豪了”）。",
+    "example": "他在晚自习上投屏假装打碟，真是隔壁班的嘉豪。",
+    "example_pinyin": "Tā zài wǎnzìxí shàng tóupíng jiǎzhuāng dǎ dié, zhēn shì gébì bān de jiāháo.",
+    "example_translation": "He put a video on the classroom screen during evening study and pretended to DJ — a proper 'Jiahao from the class next door'.",
+    "context": "The first famous 嘉豪 was a high-school student on Douyin (ID 政阳不是羊) who, on his birthday, performed for his class during evening self-study in an Alan Walker-style black hoodie and mask, 'DJing' along to the MV of The Spectre on the whiteboard screen. Classmates posted it, it went viral and he became '隔壁班嘉豪' — he later said he was shy and just wanted someone to cheer for him (Alan Walker even sent him a jacket). Because Jiahao is such a stock boy's name, it generalised into a label for show-off boys and then anyone performing a bit too hard; gamers use it too, e.g. a flashy but impractical gun build in Delta Force (三角洲). Huxiu (May 2026) noted the mockery has softened into 'a hat anyone might end up wearing', and digitaling put it in its 2026 H1 top 30 buzzwords. Some real people called Jiahao have complained about it.",
+    "category": "social",
+    "date_added": "2026-10-16",
+    "sources": [
+      {
+        "url": "https://m.huxiu.com/article/4858480.html",
+        "note": "虎嗅：嘉豪梗的来源与演变（2026-05-14）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英：2026上半年网络热词TOP30（含嘉豪）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ao-de-sai-shi-qi",
+    "hanzi": "奥德赛时期",
+    "pinyin": "Àodésài shíqī",
+    "literal": "Odyssey + period",
+    "meaning": "Your 'Odyssey years': the long, drifting, trial-and-error stretch (roughly 20 to 35) between youth and settled adulthood, when you keep changing jobs or plans and feel lost about career and identity. Used both to confess that confusion and to reassure people it's a normal phase.",
+    "meaning_zh": "指20到35岁左右、介于青春与稳定成年之间那段漫长的漂泊、迷茫、不断试错的探索期——换工作、考公、留学、gap year，对事业、情感和身份认同都感到焦虑。既用来自嘲迷茫，也用来安慰别人“这是正常阶段”。",
+    "example": "毕业三年换了四份工作，我大概还在奥德赛时期吧。",
+    "example_pinyin": "Bìyè sān nián huànle sì fèn gōngzuò, wǒ dàgài hái zài Àodésài shíqī ba.",
+    "example_translation": "Four jobs in three years since graduating — I suppose I'm still in my Odyssey years.",
+    "context": "Borrowed from Homer's Odyssey (Odysseus wanders for ten years before getting home) via the American columnist David Brooks, who wrote about 'The Odyssey Years' in The New York Times in 2007. Nearly two decades later, in 2026, a Chinese influencer applied it to post-graduation life and it became a shared label on Chinese social media for 20- and 30-somethings who feel adrift. It got a celebrity boost when actress 倪妮 described her own 奥德赛时期 at a film premiere on 14 May 2026, saying it lasted more than ten of her 15 years in the industry. It sits alongside psychology-flavoured youth vocabulary like 内耗 and 主体性; some argue over whether it's a real sociological concept, but netizens riff on it with variants such as '范进未中举时期'. digitaling listed it among the 2026 H1 top 30 buzzwords.",
+    "category": "slang",
+    "date_added": "2026-10-16",
+    "sources": [
+      {
+        "url": "https://www.yzwb.net/news/wy/202605/t20260515_352913.html",
+        "note": "紫牛新闻/扬子晚报：倪妮谈自己的“奥德赛时期”（2026-05-15）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2026/07/chinese-internet-youth-psychology-slang-terms/",
+        "note": "The World of Chinese: youth psychology slang terms, incl. 奥德赛时期 (July 2026)",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英：2026上半年网络热词TOP30（含奥德赛时期）",
+        "lang": "zh"
+      }
+    ]
   }
 ]
