@@ -5727,5 +5727,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "yuan-tou-mao-die",
+    "hanzi": "圆头耄耋",
+    "pinyin": "yuán tóu mào dié",
+    "literal": "round-head + 'octogenarian' (耄耋, a near-homophone of 猫爹 'cat daddy')",
+    "meaning": "Nickname for a viral hissing orange stray cat, and by extension any bad-tempered, ungrateful cat. Netizens use its image and name mockingly — to needle doting cat owners ('why don't you adopt a 圆头耄耋, then?') and as a symbol for cats that bite the hand that feeds them. Its signature move, ears pinned back and hissing non-stop, gave rise to jokes like 哈气 as a 'basic attack'.",
+    "meaning_zh": "网络上对一只爱哈气的流浪橘猫的称呼，“耄耋”谐音“猫爹”，后泛指脾气暴躁、不领情的猫。网友常拿它的表情包调侃爱猫人士（“你们怎么不去收养圆头耄耋这样的猫呢？”），也用来讽刺不讨喜的“哈基米”。",
+    "example": "我好心喂它，它还冲我哈气，真是活脱脱一只圆头耄耋。",
+    "example_pinyin": "Wǒ hǎoxīn wèi tā, tā hái chòng wǒ hāqì, zhēn shì huótuōtuō yì zhī yuán tóu mào dié.",
+    "example_translation": "I kindly fed it and it still hissed at me — a real 圆头耄耋.",
+    "context": "In the second half of 2024 the Bilibili uploader 白手套和马犬旺财 posted footage of a stray orange cat he had been feeding: it stole food, bullied other strays and, when chased out of his home, flattened its ears and hissed relentlessly at the camera, making its head look perfectly round. The name 圆头耄耋 puns on 圆头猫爹 — 耄耋, a formal word for people in their seventies and eighties, sounds like 猫爹 — mocking both the cat's arrogance and the human's endless patience. Stickers, AI videos and 二创 followed, and it became the internet's go-to symbol for mocking unlovable 'hakimi' (cats). It is not uncontroversial: in April 2025 Pringles' Douyin store posted a '耄耋薯片' video ('spicy enough to make 耄耋 hiss'), was accused of using a cat-abuse meme, and deleted it with an apology. The cat itself reportedly disappeared, but 17173 noted in October 2026 that its influence had lingered into 2026.",
+    "category": "meme",
+    "date_added": "2026-10-17",
+    "sources": [
+      {
+        "url": "https://post.smzdm.com/p/aogqe877/",
+        "note": "什么值得买长文：圆头耄耋的来历（B站UP主白手套和马犬旺财，2024年下半年；耄耋谐音猫爹）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://tousu.sina.com.cn/articles/view/408272",
+        "note": "5D调查 via 黑猫投诉 (2025-04-12): 品客“耄耋薯片”视频被指虐猫梗后删除道歉；圆头猫爹谐音解释",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.17173.com/content/04072025/133014899.shtml",
+        "note": "17173 opinion piece (2025-04-07) on the hissing orange stray and how netizens use it to mock cat lovers",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.17173.com/content/10092026/132158475.shtml",
+        "note": "17173 (2026-10-09): 耄耋's 'hissing' meme still lingering in 2026",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bo-bo-jian",
+    "hanzi": "啵啵间",
+    "pinyin": "bō bō jiān",
+    "literal": "bubble-bubble (onomatopoeia) + room",
+    "meaning": "Livestreamer code for 直播间 'livestream room', used on the belief that saying the real word (or pushing viewers elsewhere) trips the platform's automated warnings. One of a family of filter-dodging substitutes: 米 for money, 绿泡泡 for WeChat, 帽子叔叔 for police, 8+1 for drinking.",
+    "meaning_zh": "主播对“直播间”的替代说法，为了躲避平台审核和违规提示而改用的谐音/拟声词。同类说法还有“米”（钱）、“绿泡泡”（微信）、“帽子叔叔”（警察）、“8+1”（喝酒）等。",
+    "example": "今晚八点，家人们来啵啵间，福利多多！",
+    "example_pinyin": "Jīnwǎn bā diǎn, jiārénmen lái bō bō jiān, fúlì duōduō!",
+    "example_translation": "Eight o'clock tonight, folks — come to the stream room, lots of freebies!",
+    "context": "The term hit the headlines in July 2022 when author and influencer 李尚龙 complained on Weibo that Douyin had hit him with eight violation notices in a single day of streaming; he said he had switched 赚钱 to 赚米 and that a friend suggested calling the stream itself a 啵啵间 — 'the biggest surprise' of all. Douyin's official account replied within hours that much of this was untrue, that it had no rule against such words and never required coded spellings, and called the variants 网络黑话 it did not encourage. The substitutions stuck anyway: a July 2026 essay on blocked-word culture, republished by China Digital Times, still lists 直播间→啵啵间 alongside 绿泡泡 (WeChat), 帽子叔叔 (police) and 8+1 (drinking) as everyday filter-dodges. It's a good example of the 'chilling effect' vocabulary of Chinese platforms — words people change because they *fear* a filter, whether or not it exists.",
+    "category": "slang",
+    "date_added": "2026-10-17",
+    "sources": [
+      {
+        "url": "https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/",
+        "note": "China Media Project (2022-07-27): Li Shanglong's Douyin violation complaint, 啵啵间 and 赚米, Douyin's denial",
+        "lang": "en"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/chinese/729280.html",
+        "note": "中国数字时代转载 夏天的风味《屏蔽词泛滥》(2026-07-10)：直播间写作“啵啵间”、微信称作“绿泡泡”等",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "women-bu-shuo-x-keyi-shuo-y",
+    "hanzi": "我们不说X，我们可以说Y",
+    "pinyin": "wǒmen bù shuō X, wǒmen kěyǐ shuō Y",
+    "literal": "we don't say X, we can say Y",
+    "meaning": "A tongue-in-cheek sentence template for swapping a slangy or blunt word for a lofty, formal one — or for any deliberately over-earnest rewording. Used ironically, it usually pokes fun at the very language-purity lecture it imitates.",
+    "meaning_zh": "一个调侃句式：把网络用语或大白话“替换”成文绉绉的成语、书面语，也可随意填入任意两个词。网友用它反讽“规范用语”的说教，本身就成了一个网络梗。",
+    "example": "我们不说“666”，我们可以说“赞不绝口”。",
+    "example_pinyin": "Wǒmen bù shuō “liù liù liù”, wǒmen kěyǐ shuō “zàn bù jué kǒu”.",
+    "example_translation": "We don't say '666' — we can say 'full of unending praise'.",
+    "context": "In late 2025 a video of primary-school pupils lined up in neat rows, solemnly reciting replacements for internet slang, was reshared by mainstream media and went viral: 'we don't say 包的, but we can say 志在必得, 万无一失, 稳操胜券'; 'we don't say 老铁, but we can say 莫逆之交'; 'we don't say 绝绝子, but we can say 无与伦比'. China Youth Daily (12 December 2025) reported the comment sections splitting between those praising it and those finding it stiff and likely to provoke rebellion. Digitaling, crediting the clip to a Shanxi school account (新康小学部), ranked the pattern 17th in its top 30 buzzwords of the first half of 2026: netizens lifted the phrasing as a fill-in-the-blanks template, so that a video discouraging memes ended up as a meme itself.",
+    "category": "slang",
+    "date_added": "2026-10-17",
+    "sources": [
+      {
+        "url": "https://zqb.cyol.com/pc/content/202512/12/content_419870.html",
+        "note": "中国青年报 杨鑫宇《我们可以说“包的”，也可以说“志在必得”》(2025-12-12)：视频原句与网友争议",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英《2026上半年网络热词TOP30》第17条：句式来源与“我们不说666，我们可以说赞不绝口”",
+        "lang": "zh"
+      }
+    ]
   }
 ]

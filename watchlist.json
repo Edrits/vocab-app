@@ -72,11 +72,27 @@
     "note": "Homophone of 真棒 from a calico-cat video (超级无敌大开门); in digitaling 2026 H1 top 30, but only one write-up seen. Check whether it is still in general use."
   },
   {
-    "hanzi": "我们不说X，我们可以说Y",
+    "hanzi": "哈基米",
     "reason": "backfill",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
     "sightings": 1,
-    "note": "Sentence pattern from a Shanxi primary school's standard-language video, remixed ironically (我们不说666，我们可以说赞不绝口). Sourced in digitaling 2026 H1 top 30."
+    "note": "Cat nickname (from a Japanese song lyric remix) that dominates cat memes on Bilibili/Douyin; referenced in today's 圆头耄耋 sources. Check it's not too famous, then source origin."
+  },
+  {
+    "hanzi": "绿泡泡",
+    "reason": "backfill",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "sightings": 1,
+    "note": "Filter-dodging code for 微信 (WeChat) to avoid traffic-diversion warnings; cited in CDT-republished 屏蔽词 essay (2026-07). Mentioned in 啵啵间 entry; could be its own card."
+  },
+  {
+    "hanzi": "红果果",
+    "reason": "too-new",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "sightings": 1,
+    "note": "Baidu hot search 2026-10-17: '红果果 vs 绿泡泡' framing Tencent's new WeChat short-drama mini program vs ByteDance's 红果短剧. Watch whether it becomes a lasting nickname."
   }
 ]
