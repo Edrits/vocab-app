@@ -5815,5 +5815,62 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "lv-paopao",
+    "hanzi": "绿泡泡",
+    "pinyin": "lǜ pào pào",
+    "literal": "green + bubble (doubled)",
+    "meaning": "Code name for WeChat (微信), after its green speech-bubble logo. People write it instead of the app's name on other platforms (小红书, Douyin, Bilibili) where naming a rival app or posting contact details gets a post blocked or throttled, e.g. 'add me on 绿泡泡'. In October 2026 Tencent itself adopted the nickname for its new free short-drama mini program inside WeChat.",
+    "meaning_zh": "“微信”的代称，取自微信绿色对话气泡的图标。在小红书、抖音等平台上直接写“微信”或留联系方式容易被屏蔽、限流，网友就用“绿泡泡”代替，比如“加个绿泡泡”。2026年10月，腾讯干脆把微信里新上线的免费短剧小程序命名为“绿泡泡”。",
+    "example": "私信不方便，加个绿泡泡细聊吧。",
+    "example_pinyin": "Sīxìn bù fāngbiàn, jiā gè lǜ pào pào xì liáo ba.",
+    "example_translation": "DMs are awkward here, add me on WeChat and we'll talk properly.",
+    "context": "Chinese platforms block or throttle posts that name competing apps or try to steer users elsewhere (引流), so a stock of filter-dodging substitutes grew up: 米 for money, 啵啵间 for a livestream room, and 绿泡泡 for WeChat, all listed together in a July 2026 essay on blocked words republished by China Digital Times. The dodge is a visual nickname: describe the logo rather than name the app (the same trick gives 小红书 its own nicknames). The term got a second life in October 2026, when Tencent quietly launched 绿泡泡 (slogan 免费好剧，一点就看) as WeChat's free, ad-supported short-drama mini program, replacing the earlier 短剧 entry and squaring up to ByteDance's 红果短剧. Netizens immediately joked 小时候看红果果绿泡泡，长大了还是红果果绿泡泡 ('as kids we watched 红果果绿泡泡, as adults it's still 红果果 and 绿泡泡'), a nod to a childhood TV memory, and '红果果 vs 绿泡泡' trended on Baidu hot search.",
+    "category": "slang",
+    "date_added": "2026-10-18",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/729280.html",
+        "note": "中国数字时代转载《屏蔽词泛滥：平台审核的无奈、乱象与破局之路》（2026-07）：“金钱换成‘米’、微信称作‘绿泡泡’、直播间写作‘啵啵间’”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.bjd.com.cn/2026/10/13/11993757.shtml",
+        "note": "北京日报客户端（2026-10-13）：腾讯低调上线微信免费短剧入口“绿泡泡”，网友调侃“红果果绿泡泡”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/it/6476717.html",
+        "note": "人人都是产品经理（2026-10-12）：微信“绿泡泡短剧”小程序，主体为腾讯，取代原“短剧”入口",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hajimi",
+    "hanzi": "哈基米",
+    "pinyin": "hā jī mǐ",
+    "literal": "transliteration of Japanese はちみー (hachimī, 'honey'), no meaning in Chinese",
+    "meaning": "Affectionate internet word for a cat, any cat: 'kitty', 'puss'. Also the soundtrack: a sped-up, sing-song chant of 'hajimi' that gets laid over cat videos. Used as a noun (我家哈基米) and as a cutesy address.",
+    "meaning_zh": "网络上对猫咪的昵称，泛指一切小猫，相当于“猫猫”“小猫咪”。也指配在猫咪视频里的那段魔性“哈基米”歌声。可以说“我家哈基米”，也可以直接用来叫猫。",
+    "example": "下班回家，哈基米已经在门口等我了。",
+    "example_pinyin": "Xiàbān huí jiā, hā jī mǐ yǐjīng zài ménkǒu děng wǒ le.",
+    "example_translation": "Got home from work and the cat was already waiting for me at the door.",
+    "context": "Nothing to do with cats originally. In episode 12 of the second season of the anime 《赛马娘 Pretty Derby》 (Uma Musume), the character 东海帝王 (Tokai Teio) hums a little 'honey song'; the repeated はちみー ('honey') became 哈基米 in Chinese, and the line 'hachimī namerunto' became the mondegreen 哈基米南北绿豆. Bilibili uploader 京桥刹那 retuned and remixed the clip, people started laying it over cat videos, and by around 2023 哈基米 had simply become a word for cats. It hit the business pages in November 2025, when appliance maker 九阳 sold a limited 哈基米南北绿豆浆 (mung-bean soya milk) and its share price surged. The word got messy in the 圆头耄耋 feud, since cat-lovers and cat-haters both used it, and some Uma Musume fans resent what happened to their song, so go easy on it around them.",
+    "category": "meme",
+    "date_added": "2026-10-18",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3555501856930953",
+        "note": "36氪（2025-11-16）：哈基米源自《赛马娘》第二季东海帝王的“蜂蜜之歌”，经UP主京桥刹那改编，2023年起成为猫咪代名词；九阳“哈基米南北绿豆浆”带动股价",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E5%93%88%E5%9F%BA%E7%B1%B3",
+        "note": "萌娘百科“哈基米”词条：出自《赛马娘 Pretty Derby》TV动画第2期的梗，部分赛马娘群体对其圈外用法持抵制态度",
+        "lang": "zh"
+      }
+    ]
   }
 ]
