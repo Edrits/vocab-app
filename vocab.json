@@ -5872,5 +5872,98 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "shou-cuo",
+    "hanzi": "手搓",
+    "pinyin": "shǒu cuō",
+    "literal": "hand + rub/roll (as in rolling dough between your palms)",
+    "meaning": "To make something yourself, by hand, from scratch — usually something you'd expect to need a factory, a big team or a tool to produce (手搓一个APP, 手搓火箭). It carries a note of scrappy, slightly absurd ingenuity. Since AI tools arrived it has a second edge: 'hand-made, no AI involved', said with pride or self-mockery.",
+    "meaning_zh": "指不靠流水线、大团队或现成工具，自己动手从零做出东西，常带点“土法上马”的调侃和自豪，如“手搓APP”“手搓火箭”。AI时代又多了一层意思：纯人工制作、没用AI一键生成。",
+    "example": "没有AI的年代，老艺术家只能努力手搓——这份PPT是我一页一页手搓出来的。",
+    "example_pinyin": "Méiyǒu AI de niándài, lǎo yìshùjiā zhǐ néng nǔlì shǒu cuō — zhè fèn PPT shì wǒ yí yè yí yè shǒu cuō chūlái de.",
+    "example_translation": "In the age before AI, us old artists had to make everything by hand — I hand-built this slide deck page by page.",
+    "context": "Began as casual gaming slang and has broadened over the last two years into a general word for hands-on making; the 文艺报 (July 2026) traces its take-off to late 2025, as AI and open-source tools let individuals turn ideas into products, and lists headlines about 手搓硬盘, 手搓APP and even 手搓军工, plus a trending topic 手搓万物. In February 2026 a People's Daily commentary gave it the economics treatment — 手搓经济, individuals or tiny teams using AI to ship products without production lines (its examples include a one-yuan 'cat fill-light' app with a million downloads and a student-built sounding rocket). Then in mid-October 2026 Weibo flipped it round with the meme 没有AI的年代老艺术家努力手搓: people calling themselves 'old artists' for hand-editing videos, hand-making PPTs or birthday cakes, with celebrities such as 易烊千玺 (a hand-fired ocarina) and 王俊凯 (a hand-painted cake) dragged in as examples. So the word now covers both 'built it myself with AI' and 'built it myself without AI' — what it always means is DIY against the odds.",
+    "category": "slang",
+    "date_added": "2026-10-19",
+    "sources": [
+      {
+        "url": "https://www.chinawriter.com.cn/n1/2026/0729/c404033-40770040.html",
+        "note": "文艺报（中国作家网转载）《“手搓”，是行动更是态度》，2026-07-29：从游戏圈口语演变为创新创造的代名词",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.peopleapp.com/column/30051415526-500007350570",
+        "note": "人民日报 经济热点快评《为“手搓经济”搭把手》，2026-02-11",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sina.cn/weibo/detail/5355522085881157.html",
+        "note": "新浪微博转载帖：2026流行梗“没有AI的年代，老艺术家努力手搓”，2026-10-19",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shao-token",
+    "hanzi": "烧Token",
+    "pinyin": "shāo Token",
+    "literal": "burn + token (the unit AI models bill by)",
+    "meaning": "To burn through huge amounts of AI model tokens — running agents and coding assistants flat out. Used both as a boast (big token spend = you're truly AI-native) and as a jab at wasteful, value-free AI spending. Spin-offs: 省Token (saving tokens) as a skill, Token排行榜 (token leaderboards).",
+    "meaning_zh": "指在AI编程、智能体等场景中大量消耗大模型Token。既可当作炫耀（烧得多＝真正在用AI），也常用来讽刺砸钱烧Token却看不到产出。相关说法有“省Token”“Token排行榜”。",
+    "example": "他一个月烧了几十亿Token，结果产品还没上线。",
+    "example_pinyin": "Tā yí ge yuè shāo le jǐ shí yì Token, jiéguǒ chǎnpǐn hái méi shàngxiàn.",
+    "example_translation": "He burned through billions of tokens in a month, and the product still hasn't launched.",
+    "context": "A 2026 word from the AI-coding boom, modelled on 烧钱 (burning cash). As agent tools spread, token spend became a status badge — a Tencent Cloud developer essay (June 2026) calls it a new kind of 凡尔赛 humblebrag, citing the OpenClaw creator's ~603 billion tokens in 30 days and a 'Claude Code 榜一大哥' burning 7.7 billion in a month, and notes company token leaderboards at Disney and Meta. The backlash followed: Huxiu (May 2026) ran the story of a miHoYo employee whose dozens of agents burned about ¥2 million of tokens in one night, alongside Uber executives struggling to justify token costs and Meta pulling its leaderboard, with one line calling mindless token-burning a 'transformation-anxiety tax'. Now used across 36氪, 虎嗅 and developer forums such as V2EX and LINUX DO, half bragging, half wincing.",
+    "category": "slang",
+    "date_added": "2026-10-19",
+    "sources": [
+      {
+        "url": "https://developer.cloud.tencent.com/article/2700368",
+        "note": "腾讯云开发者社区《烧 Token：一件正在被重新审视的事》，2026-06-29：Token消耗成身份徽章",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4861635.html",
+        "note": "虎嗅（转自AI前线）《米哈游一夜烧掉200万元Token……》，2026-05-26",
+        "lang": "zh"
+      },
+      {
+        "url": "https://36kr.com/p/3834489023260546",
+        "note": "36氪：一个月烧掉5亿美元Token，美国科技巨头紧急叫停",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "china-haul",
+    "hanzi": "China Haul",
+    "pinyin": "China Haul (Zhōngguó gòuwù kāixiāng)",
+    "literal": "China + haul (as in a 'shopping haul' video); Chinese gloss 中国购物开箱 = China shopping unboxing",
+    "meaning": "An October 2026 social-media trend of foreigners showing off the stacks of Chinese goods they bought — arriving in China with empty suitcases and leaving with full ones, or queueing at Chinese-brand pop-ups in London and Paris. Chinese media treat it as the follow-up to 'China Travel' and 'Chinamaxxing'.",
+    "meaning_zh": "2026年10月在海外社交平台走红的潮流：外国人晒自己大量采购的中国商品，“空箱来、满箱走”，或在伦敦、巴黎的中国品牌快闪店外排队抢购。国内媒体把它看作继“China Travel”“Chinamaxxing”之后的又一波热潮。",
+    "example": "广交会刚开幕，外网又刷屏China Haul，大家空着箱子来，塞满了才走。",
+    "example_pinyin": "Guǎngjiāohuì gāng kāimù, wàiwǎng yòu shuāpíng China Haul, dàjiā kōng zhe xiāngzi lái, sāi mǎn le cái zǒu.",
+    "example_translation": "The Canton Fair has only just opened and China Haul is all over foreign social media again — people turn up with empty suitcases and leave once they're stuffed.",
+    "context": "Of the moment, October 2026. At the Foreign Ministry's regular press conference on 16 October 2026 a reporter noted that after 'China Travel' and 'Chinamaxxing', 'China Haul' (中国购物开箱) was trending, and spokesperson 毛宁 replied that more foreign friends find 'China worth visiting, Chinese brands worth buying and Chinese life worth experiencing'. The topic hit Baidu's hot search around the 140th Canton Fair, which opened on 15 October. It marks a shift in the 'foreigners discover China' story from sightseeing (China Travel) and lifestyle cosplay (Chinamaxxing, 成为中国人 in this deck) to buying Chinese brands — and the fact that the state comments on it shows how much the soft-power angle matters.",
+    "category": "news",
+    "date_added": "2026-10-19",
+    "sources": [
+      {
+        "url": "https://m.gmw.cn/2026-10/16/content_1304576107.htm",
+        "note": "光明网《“China Haul”在社交平台走红，外交部回应》，2026-10-16",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.caiwennews.com/article/1655263.shtml",
+        "note": "财闻网转载同一场外交部例行记者会",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜，2026-10-19：“China Haul”火到广交会",
+        "lang": "zh"
+      }
+    ]
   }
 ]
