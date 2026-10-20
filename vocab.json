@@ -5965,5 +5965,98 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ai-lian",
+    "hanzi": "AI脸",
+    "pinyin": "AI liǎn",
+    "literal": "AI + face",
+    "meaning": "The uncanny, too-perfect face of AI-generated characters (especially in AI micro-dramas): flawless skin and delicate features, but every character looks alike and the eyes are empty. Mostly used as a complaint, often paired with 生理性不适 / 生理性厌恶 ('physically off-putting').",
+    "meaning_zh": "指AI生成角色（尤其是AI微短剧里）的那种“完美脸”：五官精致、皮肤光滑，却千人一面、眼神空洞、表情模式化，让人看得“脸盲”甚至生理性不适。多用于吐槽。",
+    "example": "这部短剧全是AI脸，看两集我就脸盲了。",
+    "example_pinyin": "Zhè bù duǎnjù quán shì AI liǎn, kàn liǎng jí wǒ jiù liǎnmáng le.",
+    "example_translation": "This short drama is wall-to-wall AI faces — two episodes in and I can't tell anyone apart.",
+    "context": "Rose with the 2026 boom in AI-generated micro-dramas (短剧), which flooded Douyin and the Hongguo (红果) short-drama app. Viewers began complaining that every lead looked the same — smooth, symmetrical, model-perfect but lifeless — and that one template face seemed to 'act in a hundred dramas' (一张脸演百剧). Beijing Daily reported in August 2026 that behind it sat a trade in stolen and bought faces, with ordinary people's likenesses licensed for around ¥200 a year as 'visual anchors'. Wenhui Daily (via Guangming Online, 12 Oct 2026) noted that '对AI脸感到不适' had repeatedly hit social-media hot search, and that in July 2026 Hongguo issued a notice formally cracking down on 'high-frequency AI faces'. A sibling of AI味 (the machine flavour of AI text): AI脸 is the visual version, and it is used of any AI-made image or video that has that plastic, interchangeable look.",
+    "category": "slang",
+    "date_added": "2026-10-20",
+    "sources": [
+      {
+        "url": "https://m.gmw.cn/2026-10/12/content_39040376.htm",
+        "note": "光明网（转文汇报），2026-10-12：《不完美才是完美的？微短剧AI脸正在悄悄改变》——AI脸引发观众不适、屡上热搜，红果7月整治“高频AI脸”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.bjd.com.cn/2026/08/27/11935438.shtml",
+        "note": "北京日报客户端，2026-08-27：《AI短剧何以“一张脸演百剧”？幕后盗脸、买卖脸已形成完整“产业链”》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jichang-vpn-airport",
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "literal": "airport",
+    "meaning": "Euphemism for a paid proxy/VPN provider used to get over the Great Firewall — usually a small outfit selling subscription links to proxy 'nodes'. Saying 'airport' instead of VPN keeps the talk innocuous; the people buying from them are 'taking off'.",
+    "meaning_zh": "翻墙服务商的代称，一般指出售订阅链接、提供代理“节点”的付费翻墙服务。用“机场”代替“VPN”“翻墙”，说起来更隐晦，不容易触发审查。",
+    "example": "我的机场又跑路了，得赶紧换一家。",
+    "example_pinyin": "Wǒ de jīchǎng yòu pǎolù le, děi gǎnjǐn huàn yì jiā.",
+    "example_translation": "My 'airport' has done a runner again — I need to find another one, fast.",
+    "context": "Comes from Shadowsocks, the proxy tool that became the go-to way over the wall in the 2010s. China Digital Times records that its paper-plane logo became a byword for 翻墙 itself, so the services selling access were nicknamed 机场 — where the planes take off from. It sits in a family of coy euphemisms for getting round the firewall, alongside 科学上网 ('scientific internet use') and 魔法上网 ('magic internet use'). In 2026 the 机场 model is the mainstream way mainland users get out: subscription URLs from commercial airports, loaded into Clash or Shadowrocket, from about ¥2 a month, with an April 2026 crackdown forcing providers to raise prices or change protocols. A timely word: in October 2026 twenty Harbin students were disciplined for unauthorised VPN use after a classmate reportedly informed on them. CC-CEDICT now lists 'service provider for Shadowsocks or similar software' as a sense of 机场.",
+    "category": "slang",
+    "date_added": "2026-10-20",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/翻墙",
+        "note": "中国数字时代·翻墙 词条：Shadowsocks纸飞机logo成为翻墙代名词，许多翻墙服务商因此被称为“机场”；另列科学上网、魔法上网等别称",
+        "lang": "zh"
+      },
+      {
+        "url": "https://mandarinbanana.com/words/88783",
+        "note": "CC-CEDICT entry for 機場/机场: '(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship'",
+        "lang": "en"
+      },
+      {
+        "url": "https://corpus.lantern.io/defenses/shadowsocks/",
+        "note": "Lantern censorship corpus: 2026 consumer stack of Clash/Shadowrocket with subscriptions from commercial 'airport' (机场) services from ¥2/month; April 2026 enforcement pressure",
+        "lang": "en"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/2026/10/twenty-harbin-students-disciplined-for-unauthorized-vpn-use-after-reportedly-being-informed-on-by-classmate/",
+        "note": "China Digital Times, 14 Oct 2026: Harbin students disciplined for unauthorised VPN use",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "mai-du-huan-zhu",
+    "hanzi": "买椟还珠",
+    "pinyin": "mǎi dú huán zhū",
+    "literal": "buy the casket, return the pearl",
+    "meaning": "To keep the packaging and throw away the substance; to value the trimmings over what actually matters. Online it is the stock quip for buying something only for the freebie, toy or tie-in merch that comes with it.",
+    "meaning_zh": "买下装珍珠的木匣，却把珍珠退还。比喻舍本逐末、取舍不当。网上常用来调侃为了赠品、周边、联名玩具而买单，正品反倒成了附带的。",
+    "example": "为了玩具点了三份套餐，饭全剩下了，真是买椟还珠。",
+    "example_pinyin": "Wèile wánjù diǎn le sān fèn tàocān, fàn quán shèngxià le, zhēn shì mǎi dú huán zhū.",
+    "example_translation": "Ordered three meal deals for the toys and left all the food — the casket bought, the pearl handed back.",
+    "context": "From the Han Feizi (《韩非子·外储说左上》): a pearl seller from Chu made such a lavish scented case for his pearl that the buyer from Zheng kept the case and gave the pearl back. Han Feizi's own jab was at the seller — 'good at selling caskets, not at selling pearls' — but the idiom came to mock the buyer's poor judgement. In today's consumer culture of blind boxes, IP tie-ins and 谷子 merch it has found a natural second life: when KFC's Psyduck (可达鸭) toy sold out in 2022, Jiemian summed it up as 'buy a meal, get a toy has become buy a toy, get a meal — 买椟还珠, nothing more'. Netizens reach for it whenever the gift outshines the product, from milk-tea cup sleeves to snack-pack figurines, usually with self-mocking resignation.",
+    "category": "chengyu",
+    "date_added": "2026-10-20",
+    "sources": [
+      {
+        "url": "https://www.jiemian.com/article/7509661.html",
+        "note": "界面新闻，2022-05-25：《肯德基的可达鸭，从赠品到商品》——“买套餐送玩具，变成了买玩具送套餐，买椟还珠，也不过如此。”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2019/11/choice-chengyu-purchase-parlance/",
+        "note": "The World of Chinese: 'Choice chengyu for purchase parlance' — 买椟还珠 meaning and Han Feizi story",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.lingoace.com/zh/blog/the-most-common-idiom-story-in-learning-chinese-is%22buying-a-chest-and-returning-the-pearl%22-cn/",
+        "note": "LingoAce 成语故事：引《韩非子·外储说左上》原文“郑人买其椟而还其珠。此可谓善卖椟矣，未可谓善鬻珠也”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
