@@ -6058,5 +6058,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "he-da-shui",
+    "hanzi": "喝大水",
+    "pinyin": "hē dà shuǐ",
+    "literal": "drink + big + water",
+    "meaning": "To ditch milk tea, coffee and sugary drinks and carry a huge 1.5–2 litre bottle of plain water around, glugging from it all day. Used as a self-care badge ('I've gone big-water'), often half-jokingly, with mock-heroic slogans attached.",
+    "meaning_zh": "放下奶茶、咖啡等含糖饮料，改为随身带1.5到2升的大瓶白水，大口大口地喝。年轻人把它当作一种低成本的自我照顾方式，常带点玩笑和“中二”口号。",
+    "example": "我戒了奶茶，现在每天上班都喝大水。",
+    "example_pinyin": "Wǒ jièle nǎichá, xiànzài měitiān shàngbān dōu hē dà shuǐ.",
+    "example_translation": "I've quit milk tea — now I do the big-water thing at work every day.",
+    "context": "A Douyin trend that broke out in mid-October 2026: young people posted videos of themselves unscrewing 1.5- or even 2-litre bottles and tipping their heads back to gulp, with captions like 弱者喝饮料，强者喝大水 ('the weak drink soft drinks, the strong drink big water') and 小水解渴，大水解人生 ('small water quenches thirst, big water sorts out your life'). It travels in a trio with 睡大觉、练薄肌 ('sleep big, train lean muscle') as a cheap healthy-living pose. #喝大水# reached the trending lists, and by 13–14 October mainstream outlets were running doctors' warnings: drinking too much too fast can cause hyponatraemia (水中毒, 'water poisoning'), so sip steadily rather than chug.",
+    "category": "slang",
+    "date_added": "2026-10-21",
+    "sources": [
+      {
+        "url": "https://global.hk01.com/开罐/60398783/年轻人弃手摇饮改-喝大水-随身大水樽成热潮-医警-小心水中毒",
+        "note": "香港01（2026-10-13）：年轻人弃手摇饮改“喝大水”，源自抖音，引“弱者喝饮料，强者喝大水”等文案",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.gmw.cn/2026-10/14/content_1304575290.htm",
+        "note": "光明网（2026-10-14）：#喝大水#话题走红，“喝大水、睡大觉、练薄肌”，医生提醒警惕水中毒",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "chi-shi-red-stone",
+    "hanzi": "赤石",
+    "pinyin": "chì shí",
+    "literal": "red + stone (a sound-alike for 吃屎 'eat shit')",
+    "meaning": "Crude slang written politely: 'to eat shit', i.e. to sit through something dreadful — a terrible film, short drama, game plot or cringe video. Often used of yourself ('I ate the shit so you don't have to') or of the taste for deliberately watching trash online (赛博赤石). Vulgar in sense, though the spelling looks innocent.",
+    "meaning_zh": "“吃屎”的谐音写法，把“屎”换成“石”，看上去像普通词。指硬着头皮看完/玩完特别烂的内容（烂片、短剧、烂剧情、审丑视频），也可指专门在网上找“屎”来品鉴的爱好（“赛博赤石”）。意思粗俗，写法隐晦。",
+    "example": "这部短剧我替大家赤石了，千万别看。",
+    "example_pinyin": "Zhè bù duǎnjù wǒ tì dàjiā chìshí le, qiānwàn bié kàn.",
+    "example_translation": "I ate the shit on this short drama for all of you — do not watch it.",
+    "context": "A dodge-the-swearword homophone: 赤石 (chì shí, 'red stone') reads like 吃屎 (chī shǐ), so the insult survives while the text stays clean. It grew up in Bilibili and gaming circles around 审丑 (ironic appreciation of the awful): a February 2025 BB姬 essay on Tencent News, '为什么越来越多人喜欢赛博赤石', traces the 'cyber shit-eating' craze from livestreamer 岛市老八, who literally ate it on stream, to people bingeing junk short dramas and memes, and calls it a widespread 'spiritual need'. The word went far enough that in May 2025 Danganronpa creator Kazuma Kodaka (小高和刚), replying to a Chinese player's review of his game 百日战纪 on 小黑盒, asked what 赤石 meant because so many posts used it — to much amusement; he later replied on Xiaohongshu 'now I know'.",
+    "category": "slang",
+    "date_added": "2026-10-21",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20250204A06ACA00",
+        "note": "腾讯新闻·BB姬（2025-02-04）：《从奶龙到东北雨姐，为什么越来越多人喜欢“赛博赤石”了？》，释“赤石（吃屎）梗”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.gamersky.com/news/202505/1932701.shtml",
+        "note": "游民星空（2025-05-24）：小高和刚回复玩家时提问“请问赤石是什么”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jubao-shi-caifang",
+    "hanzi": "举报式采访",
+    "pinyin": "jǔbào shì cǎifǎng",
+    "literal": "report-to-the-authorities + style + interview",
+    "meaning": "'Snitch journalism': a news outlet 'investigating' a story by asking the authorities whether someone has broken a rule, effectively reporting them. A derogatory label for reporters who act as informants rather than watchdogs.",
+    "meaning_zh": "带贬义的说法，指媒体以“采访”为名，向主管部门询问当事人是否违规、是否该罚，实际上等于替网友去举报。批评的是媒体成了告状的传声筒，而不是独立的监督者。",
+    "example": "这哪是新闻，分明是举报式采访。",
+    "example_pinyin": "Zhè nǎ shì xīnwén, fēnmíng shì jǔbào shì cǎifǎng.",
+    "example_translation": "That's not journalism — it's snitch journalism, plain and simple.",
+    "context": "Born in late September 2026. On 26 September, at a concert in Chengdu, singer Na Ying (那英) briefly sang 《弯弯的月亮》 in tribute to Liu Huan (刘欢), who had died the day before. Some netizens asked whether the unapproved addition broke performance-licensing rules, and Hunan's 潇湘晨报 rang the organiser and the culture authorities to ask whether it had been approved and whether she faced a fine — and described its own piece as 举报式采访. On 29 September the Chengdu culture bureau ruled it a fragmentary sing-along that needed no re-approval; the paper's post was later removed. Commentators pounced: blogger 西坡 (reposted by Huxiu, 1 Oct) said the media had become mere 'relay passers' between netizens and officials, and Hu Xijin wrote that the approach 'lacks empathy'. China Media Project (20 Oct) glossed the phrase as 'informant-style reporting' — closer to 'snitch journalism' — and tied it to the shrinking room for watchdog reporting.",
+    "category": "news",
+    "date_added": "2026-10-21",
+    "sources": [
+      {
+        "url": "https://chinamediaproject.org/2026/10/20/media-without-humanity/",
+        "note": "China Media Project / Lingua Sinica (2026-10-20): 'Media Without \"Humanity\"' — explains 举报式采访 as informant-style or snitch journalism",
+        "lang": "en"
+      },
+      {
+        "url": "https://m.huxiu.com/article/4894992.html",
+        "note": "虎嗅（2026-10-01）转载西坡评论：潇湘晨报自称“我们进行了举报式采访”，成都文旅局9月29日通报",
+        "lang": "zh"
+      }
+    ]
   }
 ]

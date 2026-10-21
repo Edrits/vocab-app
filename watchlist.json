@@ -16,14 +16,6 @@
     "note": "Listed in a Zhihu meme round-up as a motorway-traffic-jam joke; meaning never clear enough to verify."
   },
   {
-    "hanzi": "赤石",
-    "reason": "unverified",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "sightings": 1,
-    "note": "Sound-alike for 吃屎; looks durable but origin unconfirmed."
-  },
-  {
     "hanzi": "人生只是支线",
     "reason": "unverified",
     "first_seen": "2026-10-13",
@@ -86,5 +78,21 @@
     "last_seen": "2026-10-18",
     "sightings": 1,
     "note": "Getting strangers to approve/reject your planned purchase, via the 钱包请等等 mini program (launched 2026-08-25, 300k+ users; Huxiu 2026-10-10, Baidu hot search 2026-10-18). Watch whether 购物审批 / 冷酷审批官 outlives the one app."
+  },
+  {
+    "hanzi": "AI梦男",
+    "reason": "unverified",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "sightings": 1,
+    "note": "Label for bosses irrationally infatuated with AI ('一定要把AI使用起来！', 'AI赋能'); coined in a 酷玩实验室 piece (June 2026, reposted by 36氪/虎嗅) with 职场CK内裤. Only that one origin piece found — check for independent usage."
+  },
+  {
+    "hanzi": "大水理论",
+    "reason": "too-new",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "sightings": 1,
+    "note": "Spin-off of 喝大水 (added 2026-10-21): 36氪 says a netizen's argument that 1.5–2L bottles beat drinks on price/health/social grounds. Watch if it outlives the October trend."
   }
 ]
