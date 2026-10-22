@@ -6136,5 +6136,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "beng-lao-tou",
+    "hanzi": "崩老头",
+    "pinyin": "bēng lǎotóu",
+    "literal": "崩 (northern dialect: coax / fleece) + 老头 (old man)",
+    "meaning": "Loaded 2026 label for a grey-zone online hustle: chatting up lonely, financially stable middle-aged men with flattery, sympathy and flirtation, then asking for small, frequent transfers (a milk tea, a taxi fare). Somewhere between begging, emotional labour and fraud; used mockingly of both the hustlers and the 'old men' who fall for it.",
+    "meaning_zh": "2026年走红的反讽黑话：通过陪聊、撒娇、嘘寒问暖等方式，与情感空虚但有稳定收入的中年男性搞暧昧，再以买奶茶、付车费等名义小额高频地要钱。介于乞讨、情绪陪伴和诈骗之间，既调侃“崩”人的一方，也调侃被“崩”的“老头”。",
+    "example": "他每天给网友转二十块买奶茶，大家都说他被崩老头了。",
+    "example_pinyin": "Tā měitiān gěi wǎngyǒu zhuǎn èrshí kuài mǎi nǎichá, dàjiā dōu shuō tā bèi bēng lǎotóu le.",
+    "example_translation": "He transfers twenty yuan to his online friend every day 'for a milk tea' — everyone says he's being fleeced in a 崩老头 scheme.",
+    "context": "A tech-media piece (雷科技, May 2026) called 崩老头 'a recently popular online chat routine' aimed at lonely middle-aged, divorced or retired men, arguing they aren't stupid so much as starved of companionship. 崩 here is northern dialect for coaxing or fleecing money out of someone, 'the same idea as 爆金币' (making a game enemy drop coins), and 老头 isn't literally old: it means men born in the 1970s–90s with steady income and an empty emotional life. By September 2026 Huxiu was reporting that it had turned into an industry: a house rule of 三聊一崩 (chat three times, ask for money once), single operators juggling two or three hundred 'old men', 求崩 ('please fleece me') posts on 小红书, and AI personas writing the scripts. The term sits on the gender-war fault line: some read it as women exploiting lonely men, others as men buying cheap emotional comfort, which is why it starts arguments.",
+    "category": "social",
+    "date_added": "2026-10-22",
+    "sources": [
+      {
+        "url": "https://www.163.com/dy/article/KS6PKNU9051100B9.html",
+        "note": "雷科技（网易号）2026-05-05：“崩老头”突然全网爆火，解释这一线上聊天套路及其对象",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.huxiu.com/article/4891393.html",
+        "note": "虎嗅 2026-09-15：《批量自动化崩老头，一个AI搞定了》，解释“崩”的方言义、三聊一崩、AI人格产业化",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yi-zhong-tian-stocks",
+    "hanzi": "易中天",
+    "pinyin": "Yì Zhōng Tiān",
+    "literal": "易 (新易盛) + 中 (中际旭创) + 天 (天孚通信), which spells the name of a famous historian",
+    "meaning": "A-share investors' nickname for the three big optical-module (CPO) stocks driving China's AI hardware rally: 新易盛 (Eoptolink), 中际旭创 (Innolight) and 天孚通信 (TFC Optical). One character from each company happens to spell 易中天, the well-known historian, so headlines like '易中天集体下跌' read as a pun. It stands for the whole AI-compute trade.",
+    "meaning_zh": "A股股民对三只CPO光模块龙头股的合称：新易盛、中际旭创、天孚通信，各取一字，恰好拼成历史学者易中天的名字。常用来指代整个AI算力硬件板块，“易中天集体大涨/下跌”成了财经新闻的固定说法，与易中天本人无关。",
+    "example": "今天大盘又被“易中天”带着走，光模块一跌全线飘绿。",
+    "example_pinyin": "Jīntiān dàpán yòu bèi “Yì Zhōng Tiān” dàizhe zǒu, guāngmókuài yì diē quánxiàn piāo lǜ.",
+    "example_translation": "The market got dragged around by 'Yi Zhongtian' again today — the moment optical modules fell, the whole board went green.",
+    "context": "Born out of the AI boom: the optical modules that link GPUs in data centres made these three companies the darlings of the 2025–26 A-share market, and investors bundled them under a name that is also a household name: 易中天, the well-known historian (who has nothing to do with the stocks). By 2026 it had moved from stock forums into mainstream finance copy: Jiemian (July 2026) called them the CPO 'three giants' known to the market as 易中天, and China News Service ran the headline '“易中天”，集体回应“美国光模块禁令”' (August 2026) when the shares slumped on reports of a US import ban. On 22 October 2026 '“易中天”集体下跌' was on Baidu's hot-search list. Note that in Chinese stock markets red means up and green (飘绿) means down. It's part of a wider habit of nicknaming stock groups, and a good test of whether a learner can tell a pun from a person.",
+    "category": "slang",
+    "date_added": "2026-10-22",
+    "sources": [
+      {
+        "url": "https://m.jiemian.com/article/14791291.html",
+        "note": "界面新闻 2026-07：光模块上半年业绩分化，称三家为被市场称为“易中天”组合的CPO光模块三巨头",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672207.shtml",
+        "note": "中国新闻网（中新经纬）2026-08-05：《“易中天”，集体回应“美国光模块禁令”》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-10-22：“易中天”集体下跌（光模块概念股）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yi-pian-gai-quan",
+    "hanzi": "以偏概全",
+    "pinyin": "yǐ piān gài quán",
+    "literal": "use (以) the partial (偏) to sum up (概) the whole (全)",
+    "meaning": "To generalise from a part to the whole; to take one case or one side and judge everything by it. Online it's the stock rebuttal in comment-section fights when someone turns one anecdote into a verdict on a whole group, city or generation.",
+    "meaning_zh": "用片面的观点或个别例子去推断整体，从而得出错误结论。网上吵架时常被用来反驳“拿一个例子否定一群人”的说法，例如“别以偏概全”。",
+    "example": "你遇到一个坏司机就说全城司机都没素质，这不是以偏概全吗？",
+    "example_pinyin": "Nǐ yùdào yí gè huài sījī jiù shuō quán chéng sījī dōu méi sùzhì, zhè bú shì yǐ piān gài quán ma?",
+    "example_translation": "You meet one bad driver and say every driver in the city has no manners — isn't that over-generalising?",
+    "context": "A plain-spoken idiom rather than a story-idiom: there is no fable behind it, just the logic of its four characters (偏 'one-sided part' vs 全 'whole'). China Daily's translation column renders it 'take a part for the whole / over-generalise'. It's the chengyu people actually type in comment sections: under any viral story about one rude tourist, one bad landlord or one 'typical' Gen Z worker, a reply of '别以偏概全' (don't over-generalise) or '典型的以偏概全' is almost guaranteed.",
+    "category": "chengyu",
+    "date_added": "2026-10-22",
+    "sources": [
+      {
+        "url": "https://language.chinadaily.com.cn/a/202208/29/WS630c8887a310fd2b29e74d50.html",
+        "note": "China Daily 译词课堂 2022-08-29: 以偏概全 = take a part for the whole, over-generalise, with example",
+        "lang": "zh"
+      }
+    ]
   }
 ]
