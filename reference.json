@@ -3236,6 +3236,33 @@
             "lang": "en"
           }
         ]
+      },
+      {
+        "hanzi": "怎样",
+        "pinyin": "zěnyàng",
+        "group": "reacting",
+        "gloss": "So what? / What's it to you? — a dare, not a question",
+        "note": "On paper it's just 'how', a shorter 怎么样. Said on its own with falling, clipped intonation after you've owned something — 我就这样，怎样？ — it stops asking anything and throws the challenge back: 'yes I did, and what are you going to do about it?' 那又怎样 is the fuller 'so what', and 是怎样 (very Taiwanese) means 'what's your problem / what's going on here?'. Strongly associated with Taiwan, where 怎样 routinely stands in for 怎么样 (最近怎样？ 'how've you been?' is a friendly check-in, so tone is everything); mainland speakers more often say 怎么着 or 怎么了, northerners 咋的 / 咋地. Edgy and childish-defiant between friends, properly rude to a stranger or superior. Softer neighbours: 那又怎么了 (mild pushback), 不怎么样 / 不怎样 ('not great', a verdict rather than a dare).",
+        "example": "—你又把我的薯条吃完了？ —对啊，怎样？",
+        "example_pinyin": "—Nǐ yòu bǎ wǒ de shǔtiáo chī wán le? —Duì a, zěnyàng?",
+        "example_translation": "—You ate all my chips again? —Yep. So what?",
+        "sources": [
+          {
+            "url": "https://udn.com/news/story/120912/7560855",
+            "note": "联合新闻网：陆网友讨论台湾人说话习惯，提到「是怎样」「不然是怎样」是台湾人的典型口头禅",
+            "lang": "zh"
+          },
+          {
+            "url": "https://www.chinese-forums.com/forums/topic/31623-%E6%80%8E%E4%B9%88-vs-%E6%80%8E%E6%A0%B7/",
+            "note": "Chinese-forums thread on 怎么 vs 怎样: Taiwanese speakers use 怎样 as a short 怎么样; 怎么样 glossed 'So what?' in a daring tone",
+            "lang": "en"
+          },
+          {
+            "url": "https://laurablodgett.gumroad.com/l/JgCsT",
+            "note": "Learner lesson pairing 'So what' with 那又怎樣",
+            "lang": "en"
+          }
+        ]
       }
     ]
   }
