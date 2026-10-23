@@ -110,5 +110,21 @@
     "last_seen": "2026-10-22",
     "sightings": 1,
     "note": "'Wish coding': mocking spin on vibe coding (氛围编程), where you just make a wish and let the AI guess what you want. Seen in one 掘金 post only; check for wider use in AI/dev circles."
+  },
+  {
+    "hanzi": "山顶洞语",
+    "reason": "too-new",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "sightings": 1,
+    "note": "'Caveman-speak': netizen jab at AI models whose visible reasoning is clipped into terse fragments (to save tokens), so even users become 穴居人; also 不言人语. Seen in 量子位 2026-10-07 only — watch for wider use."
+  },
+  {
+    "hanzi": "i型分化",
+    "reason": "niche",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "sightings": 1,
+    "note": "Riff on K型分化: a small minority of heavy AI users pulling far ahead of everyone else. One source (脑极体 via 网易, 2026-10-08)."
   }
 ]

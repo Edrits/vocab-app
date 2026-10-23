@@ -6214,5 +6214,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "fu-yang-qian-e-ye",
+    "hanzi": "富养前额叶",
+    "pinyin": "fùyǎng qián'éyè",
+    "literal": "richly raise · prefrontal lobe",
+    "meaning": "To pamper your prefrontal cortex: a 2026 lifestyle trend of protecting your focus and self-control by cutting multitasking, decisions and brain-frying input. Goes with the half-joking self-diagnosis 前额叶受损 ('my prefrontal cortex is damaged') to explain away distraction, short temper or procrastination.",
+    "meaning_zh": "“富养”自己的前额叶：2026年兴起的一种生活方式，年轻人为保护专注力和自控力，刻意减少多任务、减少决策、少接收消耗脑子的信息。常与半开玩笑的自我诊断“前额叶受损”连用，用来解释自己走神、易怒、拖延。",
+    "example": "今天不刷短视频了，我要富养前额叶。",
+    "example_pinyin": "Jīntiān bù shuā duǎn shìpín le, wǒ yào fùyǎng qián'éyè.",
+    "example_translation": "No short videos today — I'm pampering my prefrontal cortex.",
+    "context": "富养 ('raise in comfort') is borrowed from parenting talk and here applied to a brain region. The Paper (澎湃, April 2026) traces the craze to a short popular-science video by a computational-neuroscience PhD that unexpectedly turned the prefrontal cortex into a talking point: suddenly 'the streets were full of people with prefrontal damage', people sought '前额叶友好型' (prefrontal-friendly) jobs, and stopped doing several things at once. By Q2 2026 the #前额叶 topic on RedNote (小红书) had over 86 million views, with note interactions up 267%+ in 90 days, and brands piled in (Qwen ran a 'prefrontal check-up centre', HeyTea a 'brain-waking' drink). It's self-help with a wink — the 'damage' is not a medical diagnosis.",
+    "category": "slang",
+    "date_added": "2026-10-23",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32992242",
+        "note": "澎湃新闻·湃客《前额叶，扛下了年轻人所有的错》(2026-04-20)：富养前额叶、前额叶受损、前额叶友好型",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.itopmarketing.com/info22900",
+        "note": "TopMarketing/千瓜数据《小红书热点内容解读（2026年第2季度）》(2026-07-08)：#前额叶话题热度超8600万",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dian-zi-bao-jiang",
+    "hanzi": "电子包浆",
+    "pinyin": "diànzǐ bāojiāng",
+    "literal": "electronic · patina",
+    "meaning": "'Digital patina': the blur, mosaic artefacts, stacked watermarks and green tint a meme image picks up from being saved and reposted again and again. Said fondly — a heavily 'patinated' reaction image is a vintage classic with provenance.",
+    "meaning_zh": "图片（尤其是表情包）经过反复保存、转发、压缩后变糊、出马赛克、叠满水印甚至发绿的样子。借用古玩“包浆”的说法，带调侃和珍视意味：包浆越厚，说明这张表情包越老、越经典。",
+    "example": "这张表情包的电子包浆太厚了，起码传了十年。",
+    "example_pinyin": "Zhè zhāng biǎoqíngbāo de diànzǐ bāojiāng tài hòu le, qǐmǎ chuán le shí nián.",
+    "example_translation": "The digital patina on this meme is so thick — it's been doing the rounds for at least ten years.",
+    "context": "包浆 is antique-collectors' jargon for the glossy patina an object gains from years of handling; netizens transplanted it to images worn down by endless re-saving. Gcores (机核, 2018) noted that QQ tended to make images blurry while Baidu Tieba turned them gradually green, and that only memes with 'electronic patina' count as true classics worth collecting. GeekPark (via 36氪, 2019) blamed the greening on an early Android image-compression bug, fixed only in Android 7.0. Related jabs: 图都绿了 ('the picture's gone green') for a repost that's ancient.",
+    "category": "slang",
+    "date_added": "2026-10-23",
+    "sources": [
+      {
+        "url": "https://www.gcores.com/articles/100993",
+        "note": "机核《那些模糊到发绿的表情包，早已成了宅男手里的传家宝》(2018-08-18)：电子包浆的定义与QQ/贴吧",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/1724801187841",
+        "note": "36氪/极客公园《用糊到发绿的表情包聊天，为什么让年轻人如此上瘾？》(2019-12-09)：电子包浆与安卓压缩Bug",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ren-ji",
+    "hanzi": "人机",
+    "pinyin": "rénjī",
+    "literal": "human-machine (i.e. a computer-controlled player)",
+    "meaning": "'Bot' / 'NPC': a put-down for someone who plays, talks or replies like a computer — clumsy, mechanical, canned or cold. 你个人机 'you bot'; 回话跟人机一样 'replies like a bot'. Mildly insulting rather than affectionate.",
+    "meaning_zh": "原指游戏里由电脑控制的“人机”玩家，引申为骂人或调侃：说某人操作笨拙、反应呆板，或者聊天只会机械地回“嗯嗯”“哦哦”“好吧”，像个没感情的机器人。带贬义。",
+    "example": "我说了一大段，他就回个“哦哦”，像个人机。",
+    "example_pinyin": "Wǒ shuō le yí dà duàn, tā jiù huí ge “ò ò”, xiàng ge rénjī.",
+    "example_translation": "I wrote him a whole paragraph and he just replied 'oh, ok' — like a bot.",
+    "context": "In Chinese games 人机 is the AI-controlled opponent or teammate, notorious for dumb, repetitive behaviour, so calling a human player 人机 mocks them as bot-level. It then leaked out of gaming into everyday chat: in a late-2024 China Youth Daily piece on the hot-search word 聊缩力 (the knack for killing a conversation), netizens' examples included people who answer everything with '哦哦''嗯嗯''好吧', 'like a bot' (像个人机). An English slang glossary (Fluentide) glosses it as 'NPC / bot' and notes it stings more than the English. It's the opposite of 活人感 (feeling like a real person).",
+    "category": "slang",
+    "date_added": "2026-10-23",
+    "sources": [
+      {
+        "url": "https://news.youth.cn/jsxw/202411/t20241116_15652694.htm",
+        "note": "中国青年网转载中国青年报《学会换位思考，告别“聊缩力”》(2024-11-16)：只回“哦哦”“嗯嗯”，像个人机",
+        "lang": "zh"
+      },
+      {
+        "url": "https://fluentide.com/chinese/slang/renji",
+        "note": "Fluentide Chinese slang glossary: 人机 (rén jī) meaning 'NPC / bot'",
+        "lang": "en"
+      }
+    ]
   }
 ]
