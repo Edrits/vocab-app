@@ -6292,5 +6292,57 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "gu-er-che",
+    "hanzi": "孤儿车",
+    "pinyin": "gū'ér chē",
+    "literal": "孤儿 orphan + 车 car",
+    "meaning": "An 'orphan car': a vehicle, usually an EV, whose maker has gone bust or stopped production and service, leaving owners with no after-sales support, software updates or parts supply. Used by owners, the press and repair shops for the stranded cars of failed EV start-ups.",
+    "meaning_zh": "指车企破产清算、停产停服后，失去售后保障、技术更新和配件供应的车辆，多指倒闭新势力品牌的新能源车。车主坏了没处修、配件难买、保险难赔，只能靠第三方修理厂和拆车件。",
+    "example": "厂家倒了，我这辆车一夜之间成了孤儿车，坏个空调都得去拆车件里找配件。",
+    "example_pinyin": "Chǎngjiā dǎo le, wǒ zhè liàng chē yí yè zhī jiān chéng le gū'ér chē, huài ge kōngtiáo dōu děi qù chāichējiàn lǐ zhǎo pèijiàn.",
+    "example_translation": "The carmaker went under and overnight my car became an orphan car. Even if the air-con breaks I have to hunt for salvaged parts.",
+    "context": "The label grew up around the shake-out of China's EV start-ups: when brands such as 威马 (WM Motor), 哪吒 (Neta) and 高合 (HiPhi) collapsed, their owners found service centres shut and parts drying up. On 24 October 2026 People's Daily ran 'Carmakers gone: who repairs the hundreds of thousands of orphan cars?' (it trended on Baidu hot search the same day). It estimated conservatively that there are several hundred thousand 孤儿车, noted that the rules already require makers to keep parts and service available for at least 10 years after a model is dropped, and blamed encrypted battery systems and locked fault codes for keeping third-party garages out. The piece also covered a Ministry of Industry and Information Technology draft notice that, for the first time, would make repair economics part of approval for new models. Owners gather in rights-protection and mutual-aid groups to swap tips on which garages will touch their brand. The term is a handy window on the price war and consolidation in China's car industry.",
+    "category": "news",
+    "date_added": "2026-10-24",
+    "sources": [
+      {
+        "url": "https://finance.ifeng.com/c/8xTcDPWbFhp",
+        "note": "凤凰网转载人民日报《车企没了，数十万辆新能源“孤儿车”谁来负责修》（2026-10-24）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jia-zhuang-shang-ban",
+    "hanzi": "假装上班",
+    "pinyin": "jiǎzhuāng shàngbān",
+    "literal": "假装 pretend + 上班 go to work",
+    "meaning": "'Pretending to go to work': unemployed people keeping up the look of a job, leaving home at nine and coming back after six, spending the day in libraries, cafés or a rented desk. It also names the 假装上班公司, businesses that rent desks by the day so people can sit in an office. English coverage calls it 'mockupation'. Self-mocking, with an edge of social commentary about youth unemployment and saving face.",
+    "meaning_zh": "指失业或待业的人为了面子、为了不让家人担心，照样按点出门“上班”，在图书馆、咖啡馆或付费工位里待一整天。也指专门出租工位的“假装上班公司”。带自嘲意味，折射就业压力和“空窗期”焦虑。",
+    "example": "被裁三个月了，我还没敢告诉爸妈，每天照样九点出门假装上班。",
+    "example_pinyin": "Bèi cái sān gè yuè le, wǒ hái méi gǎn gàosu bà mā, měi tiān zhàoyàng jiǔ diǎn chūmén jiǎzhuāng shàngbān.",
+    "example_translation": "It's been three months since I was laid off and I still haven't dared tell my parents, so I leave home at nine every day and pretend to go to work.",
+    "context": "Videos of people documenting their 'mock jobs' started spreading on Chinese social media in late 2024, and by 2025 real 假装上班公司 were renting out spare desks, some with staged 'interviews' and a 'boss' patrolling the floor (RealTime Mandarin, April 2026). The Hangzhou '假装上班无限公司', which went viral in July 2025, charged 30 yuan a day or 300 a month, with an 'overtime' fee after 18:00. By April 2026 local press reported that about a thousand people had passed through, and that most were now start-up founders and people between jobs rather than true pretenders. The phrase came back into the news on 20 October 2026, when Reuters profiled 'pretend-workers' hiding layoffs from their families. It cited posts with 610 million views on Douyin, more than 70 million on RedNote and up to 320 million on Weibo, and quoted a Cornell scholar saying the habit helps people save face. It is a sharper cousin of 摸鱼 and 精神下班: those people still have a job, but these people have lost theirs.",
+    "category": "social",
+    "date_added": "2026-10-24",
+    "sources": [
+      {
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/the-fake-commute-how-china-s-unemployed-save-face",
+        "note": "Reuters via Internazionale, 'The fake commute: How China's unemployed save face' (2026-10-20)",
+        "lang": "en"
+      },
+      {
+        "url": "https://realtimemandarin.substack.com/p/272-rise-of-the-mockupation-in-china",
+        "note": "RealTime Mandarin #272, 'Rise of the mockupation in China' (2026-04-18)",
+        "lang": "en"
+      },
+      {
+        "url": "https://hznews.hangzhou.com.cn/shehui/content/2026-04/03/content_9200915.htm",
+        "note": "杭州网：开业8个多月的“假装上班无限公司”，“员工”轮换上千人（2026-04-03）",
+        "lang": "zh"
+      }
+    ]
   }
 ]
