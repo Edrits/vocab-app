@@ -6344,5 +6344,67 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "wo-chovy",
+    "hanzi": "我Chovy / 我超威",
+    "pinyin": "wǒ Chovy / wǒ chāo wēi",
+    "literal": "I + Chovy (a League of Legends pro's name) / I + super + mighty",
+    "meaning": "A 'platform-safe' exclamation standing in for the swear word 我操 / 卧槽 ('holy f***', 'WTF'). Used for shock, awe or exasperation, often at the start of a rant: 我Chovy，你们都在干嘛呢? It works as a sound-alike dodge, so the post or stream doesn't trip profanity rules, and many people using it have no idea who Chovy is.",
+    "meaning_zh": "“我操/卧槽”的谐音替代说法，用来表达惊讶、赞叹、无语或暴躁。把粗口换成英雄联盟选手Chovy的名字或“我超威”，既保留了语气，又能避开平台对脏话的限制，现在已成万能口头禅，很多人用它时并不知道Chovy是谁。",
+    "example": "我Chovy，这题怎么又是我不会的？",
+    "example_pinyin": "Wǒ Chovy, zhè tí zěnme yòu shì wǒ bú huì de?",
+    "example_translation": "Holy cr*p, how is this another question I can't do?",
+    "context": "Started as remixes of a livestream by actor 谢孟伟 ('嘎子', of 《小兵张嘎》 fame). In a milk-selling stream he drank several bottles of expired, soured milk his assistant had handed him, thinking it was yogurt, then threw the carton down and ranted, '我Chovy，你们都在干嘛呢?'. The clip circulated widely as GIFs and screenshots over the 2026 May Day holiday (Ali213, 11 May 2026), and the 'accident' was later reported to be scripted. Remixers turned his expletive into the sound-alikes 我超威 and 我Chovy, borrowing the League of Legends player's name. By August a Sina esports column called it perhaps 2026's biggest esports meme to break out beyond gaming, now 'a universal catchphrase' (万能口头禅). A Zhihu thread asks why Chovy has become the 'compliant' (合规) replacement for a traditional Chinese interjection. It's a textbook censorship workaround: same sound, cleaner surface.",
+    "category": "slang",
+    "date_added": "2026-10-25",
+    "sources": [
+      {
+        "url": "https://sina.cn/news/detail/5335740450081218.html",
+        "note": "新浪·竞圈风向标《电竞梗“我 Chovy”的起源与含义》(2026-08-25)：源自嘎子直播二创，谐音成“我超威”“我Chovy”，已成万能口头禅",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ali213.net/news/html/2026-5/1010793.html",
+        "note": "游侠网《嘎子靠烂梗再翻红》(2026-05-11)：误喝过期牛奶后说出“我Chovy，你们都在干嘛呢?”，五一期间刷屏，事后称为剧本",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/2043645322224558249",
+        "note": "知乎问题：如何看待电竞选手 Chovy 近期在互联网上快速变成传统中文语气词的「合规」替代品？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bo-ji",
+    "hanzi": "薄肌",
+    "pinyin": "bó jī",
+    "literal": "thin + muscle",
+    "meaning": "A 'thin layer of muscle': the currently fashionable lean, defined physique, with visible lines and a hint of abs but no gym-bro bulk. The ideal is 穿衣显瘦，脱衣显壮 ('looks slim dressed, toned undressed'). Used as a body-type label (薄肌男, 薄肌身材) and as a goal (练薄肌), usually set against 'greasy' bodybuilder mass or 脂包肌 (muscle under fat).",
+    "meaning_zh": "指练出一层薄薄的肌肉线条、点到为止的身材：线条清晰、体脂适中、腹肌若隐若现，但不追求夸张的大块头，即“穿衣显瘦，脱衣显壮”。常说“薄肌男”“练薄肌”，与健美式大肌肉、“脂包肌”相对。",
+    "example": "我不想练成大块头，练个薄肌就够了。",
+    "example_pinyin": "Wǒ bù xiǎng liàn chéng dà kuàitóu, liàn gè bójī jiù gòu le.",
+    "example_translation": "I don't want to get massive. A lean, toned build is all I'm after.",
+    "context": "A fitness-circle term that went mainstream on social media, especially Xiaohongshu, where #薄肌 became a prized label. A 2024 piece (精练GymSquare, republished by 虎嗅) called it the new 'refined' body ideal, displacing both 白幼瘦 (pale, young, thin) and bulky hypertrophy, and read it as a signal of self-discipline and control over one's time. In October 2026 it is back on hot-search boards as part of the wellness triad 喝大水、睡大觉、练薄肌 ('drink big water, sleep big sleeps, train thin muscle'), the companion of 喝大水. A 虎嗅 / 酷玩实验室 article (15 Oct 2026) says 练薄肌 'has long since gone from a gym term to an internet must-know', with English-teaching blogger 邵艾伦 styling himself the '薄肌教主' and running a '薄肌俱乐部'.",
+    "category": "slang",
+    "date_added": "2026-10-25",
+    "sources": [
+      {
+        "url": "https://m.huxiu.com/article/4897864.html",
+        "note": "虎嗅/酷玩实验室《@所有人，跑步进入喝大水、练薄肌、睡大觉的日子人时代》(2026-10-15)：薄肌定义、从健身圈术语变成互联网显学",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.huxiu.com/article/3585390.html",
+        "note": "虎嗅/精练GymSquare《为什么“薄肌”成了新的精致身材审美？》(2024-10-17)：小红书#薄肌标签、与白幼瘦和肌肥大对比",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜 2026-10-25：“喝大水、睡大觉、练薄肌”上榜",
+        "lang": "zh"
+      }
+    ]
   }
 ]
