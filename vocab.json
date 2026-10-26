@@ -6406,5 +6406,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ren-tai-ju",
+    "hanzi": "人抬剧",
+    "pinyin": "rén tái jù",
+    "literal": "people + lift + drama",
+    "meaning": "A TV drama that is 'carried by its cast': the script and plotting are weak, and the show survives on the stars' popularity, looks or on-screen chemistry. Usually a criticism of the show (and a backhanded compliment to the actors). Its mirror image is 剧抬人 ('the drama lifts the actor'): a strong script and role make a so-so or unknown performer look better than they are, so much so that 'a replacement could have played it better'.",
+    "meaning_zh": "指剧本、剧情本身薄弱，全靠演员的人气、颜值或CP感撑起热度的剧，多含批评意味。反义说法是“剧抬人”：剧本和角色出色，把演技或人气一般的演员“抬”了起来，换个人演甚至可能更好。",
+    "example": "这剧就是典型的人抬剧，剧情一塌糊涂，全靠男女主的脸撑着。",
+    "example_pinyin": "Zhè jù jiù shì diǎnxíng de rén tái jù, jùqíng yì tā hú tú, quán kào nánnǚzhǔ de liǎn chēngzhe.",
+    "example_translation": "This show's a classic case of the cast carrying it: the plot's a mess and it's propped up entirely by the leads' faces.",
+    "context": "A pair of terms from drama-fan and review culture (Douban, Weibo), part of the endless argument over whether a hit made the star or the star made the hit. A 2023 Douban/NetEase review roundup of '剧抬人' dramas held up 《苍兰诀》 as the textbook case, defining it as 'not just replaceable, but replaceable by someone who'd do it better', and called 《镇魂》 a 人抬剧. The pair is back in the spotlight in October 2026: the costume drama 《尚公主》 (starring 孟子义 and 李昀锐, premiered around 23 October) hit Weibo hot search as '尚公主被指人抬剧', with viewers complaining that its court-intrigue plot is thin and only the leads' chemistry holds it up, while the rival 《嫁金钗》 was held up as the 剧抬人 counterexample.",
+    "category": "slang",
+    "date_added": "2026-10-26",
+    "sources": [
+      {
+        "url": "https://www.163.com/dy/article/I4TB35AJ0537MJMV.html",
+        "note": "网易号《演技不够人设来凑，盘点那些“剧抬人”的剧》(2023-05-17)：剧抬人的定义，《苍兰诀》为例，《镇魂》是人抬剧",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.douban.com/note/849050851/",
+        "note": "豆瓣日记《演技不够人设来凑，盘点那些“剧抬人”的剧》：同一篇评论原帖",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-10-25?sort=hot",
+        "note": "微博热搜历史存档 2026-10-25：“尚公主被指人抬剧”上榜",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ququ",
+    "hanzi": "蛐蛐",
+    "pinyin": "qūqu",
+    "literal": "cricket (the chirping insect)",
+    "meaning": "As a verb: to gossip about someone quietly behind their back, to bitch about or badmouth them in whispers (蛐蛐领导, 有人在背后蛐蛐你). It has softened in wider use to cover general grumbling or teasing, and is often used self-mockingly ('let's have a little 蛐蛐 about the boss').",
+    "meaning_zh": "原指蟋蟀，网络用语中作动词，意为小声在背后议论别人，说闲话、坏话或八卦，如“蛐蛐领导”“有人蛐蛐你”。后来含义泛化，也可指吐槽、调侃。",
+    "example": "你俩在那蛐蛐啥呢？是不是又在蛐蛐领导？",
+    "example_pinyin": "Nǐ liǎ zài nà qūqu shá ne? Shì bu shì yòu zài qūqu lǐngdǎo?",
+    "example_translation": "What are you two whispering about over there? Slagging off the boss again?",
+    "context": "From Northeastern (东北) dialect, where the faint, continuous chirping of crickets became a word for people murmuring about others. Baidu Baike credits Douyin comedy skits by Northeastern creators, with lines like '咱俩蛐蛐领导' ('let's gossip about the boss'), for spreading it nationwide, saying related Douyin topics passed 500 million views in 2022. Dazhong News put it on its 2024 roundup of internet buzzwords, and it is still everyday currency: on 23 October 2026 '别在背后蛐蛐任何人' ('don't gossip about anyone behind their back') was on Weibo hot search.",
+    "category": "slang",
+    "date_added": "2026-10-26",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/item/%E8%9B%90%E8%9B%90%E4%BD%A0/64394512",
+        "note": "百度百科“蛐蛐你”词条：东北方言、背后小声议论他人、抖音东北博主短剧带火",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.dzplus.dzng.com/share/general/0/NEWS2013199UIOCVYYDNWWEP",
+        "note": "大众新闻《2024年网络热词盘点》(2024-12-19)：蛐蛐的本义与东北方言义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-10-23?sort=hot",
+        "note": "微博热搜历史存档 2026-10-23：“别在背后蛐蛐任何人”上榜",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "duo-she",
+    "hanzi": "夺舍",
+    "pinyin": "duó shè",
+    "literal": "seize + dwelling (i.e. take over another's body)",
+    "meaning": "Literally a soul seizing someone else's body. Netizens say someone was 被夺舍了 ('body-snatched') when they suddenly act completely out of character: a shy friend turning chatty, a celebrity whose look or personality changes overnight, or yourself after an outburst you can't explain ('I was possessed yesterday'). Also used of people slipping back into an old self (被二十年前的自己夺舍).",
+    "meaning_zh": "原指灵魂占据他人的身体（借尸还魂）。网络上常说某人“被夺舍了”，形容其性格、言行或风格突然大变，像换了一个人；也用于明星形象突变，或自嘲一时失控的言行。",
+    "example": "他平时话都不说一句，今天在群里狂发消息，是被夺舍了吧？",
+    "example_pinyin": "Tā píngshí huà dōu bù shuō yí jù, jīntiān zài qún lǐ kuáng fā xiāoxi, shì bèi duóshè le ba?",
+    "example_translation": "He never says a word normally, and today he's spamming the group chat. Has he been body-snatched?",
+    "context": "A staple of Chinese cultivation (修仙) and fantasy web novels, where a powerful soul takes over another person's body to live again (also called 借尸还魂 or 夺魂附体). From there it became the internet's go-to word for 'not themselves'. A 2022 Tencent News piece, '为什么娱乐圈总有人被夺舍？', traced the celebrity version: long-running rumours that stars from Avril Lavigne to Jay Chou were quietly 'replaced' by look-alikes. It is in constant everyday use: on 25 October 2026 Weibo hot search ran '厉娜许飞随时被20年前的自己夺舍', about two singers reunited on the variety show 《再见朋友》 and slipping straight back into an old feud from 20 years earlier.",
+    "category": "slang",
+    "date_added": "2026-10-26",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20220617A0406400",
+        "note": "腾讯新闻·跳海大院《为什么娱乐圈总有人被“夺舍”？》(2022-06-17)：夺舍＝借他人身体还阳，修仙界常见；娱乐圈“替身”传言",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-10-25?sort=hot",
+        "note": "微博热搜历史存档 2026-10-25：“厉娜许飞随时被20年前的自己夺舍”上榜",
+        "lang": "zh"
+      }
+    ]
   }
 ]
