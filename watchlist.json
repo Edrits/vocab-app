@@ -91,9 +91,9 @@
     "hanzi": "大水理论",
     "reason": "too-new",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "sightings": 1,
-    "note": "Spin-off of 喝大水 (added 2026-10-21): 36氪 says a netizen's argument that 1.5–2L bottles beat drinks on price/health/social grounds. Watch if it outlives the October trend."
+    "last_seen": "2026-10-27",
+    "sightings": 2,
+    "note": "Spin-off of 喝大水 (added 2026-10-21): 36氪 says a netizen's argument that 1.5–2L bottles beat drinks on price/health/social grounds. Watch if it outlives the October trend. | 2026-10-27: Re-sighted 2026-10-27: 虎嗅 2026-10-13 says '全网进入大水时代' hit the short-video hot list in early Oct; 新周刊 2026-10-26 lists spin-offs 大水杯时代, 大壶理论 ('放下大水，立地成壶'). Deck has 喝大水 — add only if the 理论 framing proves distinct."
   },
   {
     "hanzi": "娆黛摇",
@@ -160,19 +160,27 @@
     "note": "Northeastern-accent homophone of 让人笑话, mocking excessive concern for face (e.g. cleaning before the cleaner arrives); from creator 九莓子's videos. One write-up (digitaling 2026 H1 top 30)."
   },
   {
-    "hanzi": "糊咖",
-    "reason": "backfill",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26",
-    "sightings": 1,
-    "note": "Fandom slang for a celebrity whose fame has 'gone mushy' (糊 = flopped, 咖 = star of some standing); reversed as 咖糊 in Weibo hot search 2026-10-23 '别再嫌再见朋友请来的咖糊了'. Established term the deck lacks; needs a non-content-farm source."
-  },
-  {
     "hanzi": "精神离职",
     "reason": "unverified",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
     "sightings": 1,
     "note": "'Mentally resigned': physically at your desk, already quit in your head. Seen in Oct 2026 meme round-ups (search summary); close to deck word 精神下班, so only add if it is clearly distinct and sourced."
+  },
+  {
+    "hanzi": "A3",
+    "reason": "too-new",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "sightings": 1,
+    "note": "资产A3: self-mocking 'asset rating' — A = Asset, number = digits of your assets, so A3 = assets in the hundreds of yuan ('A3人士', 'A3生活指南', eating 沙县 on an A3 budget). Only source so far: 新周刊 via 虎嗅 2026-10-26 (huxiu.com/article/4900363.html). Watch for independent use."
+  },
+  {
+    "hanzi": "没死主义",
+    "reason": "too-new",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "sightings": 1,
+    "note": "'Not-dead-ism': low-bar life philosophy (anti-优绩主义 — being alive counts as success), listed with A3 and 大水 in 新周刊's 2026-10-26 'grand theories' piece. No origin found yet."
   }
 ]

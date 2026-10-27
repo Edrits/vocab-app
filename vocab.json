@@ -6494,5 +6494,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "huang-mao-si-wei",
+    "hanzi": "黄毛思维",
+    "pinyin": "huáng máo sī wéi",
+    "literal": "yellow-hair (bleached-blond rogue) + mindset",
+    "meaning": "'Yellow-hair thinking' (also 黄毛理论): the tongue-in-cheek self-help idea that you should date and live like the cocky blond rival of romance stories — keep your own life, boundaries and pace, say what you want, and shrug off rejection — instead of grovelling and agonising over every unanswered message. Mocked as a licence to be a cad, defended as a jokey name for having self-respect. One of the autumn 2026 '邪修理论' alongside 大水理论 and 薄肌理论.",
+    "meaning_zh": "“黄毛思维”（又称“黄毛理论”）：网友戏称的恋爱/人生“邪修理论”之一。借用恋爱故事里截胡男主心上人的“黄毛”形象，主张在关系里保留自己的生活、边界、节奏和选择权，想认识就开口，被拒绝也无所谓，不卑微、不讨好、不内耗。有人嘲讽它是教人当渣男，也有人认为它讲的是主体性。",
+    "example": "别再秒回了，学学黄毛思维：想约就约，被拒绝，无所谓。",
+    "example_pinyin": "Bié zài miǎo huí le, xuéxue huáng máo sī wéi: xiǎng yuē jiù yuē, bèi jùjué, wúsuǒwèi.",
+    "example_translation": "Stop replying instantly — try a bit of yellow-hair thinking: if you want to ask them out, ask; if they say no, who cares.",
+    "context": "黄毛 ('yellow hair') is an old anime and web-novel trope: the bleached-blond, devil-may-care guy who swoops in at the crucial moment and steals the hero's sweetheart, making him public enemy number one for 'pure-love warriors' (纯爱战士). In September–October 2026 the figure was flipped into a 'theory'. A Huxiu-republished essay (13 Oct 2026, from the WeChat account 缸中之脑cybernetics) grouped 黄毛思维 with 薄肌思维 and 大水理论 as the 'heretical-cultivation theories' (邪修理论) everyone was mocking, and quoted its defenders: it is 'not about actually dyeing your hair yellow or learning pick-up tricks, but building your own life, boundaries, rhythm, choices and goals', summed up as 'want to meet them, speak up; want a chance, go for it; rejected — no big deal'. A Xin Zhoukan (新周刊) piece on 26 Oct 2026 listed 黄毛理论 among the 'grand theories' of 2026, describing the 黄毛 as a stereotype who may not be richer or better educated than you but is bolder and more decisive — a jab at the anxious exam-cramming 'test-taker' (做题家) who loses out in love. Expect it said half-ironically.",
+    "category": "slang",
+    "date_added": "2026-10-27",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/4896970.html",
+        "note": "虎嗅·缸中之脑cybernetics《聊聊最近很火的几个邪修理论》(2026-10-13)，解释黄毛梗与黄毛思维",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4900363.html",
+        "note": "虎嗅·新周刊《A3人士如何放肆吃沙县？网友捧红的大理论没人当真》(2026-10-26)，提及黄毛理论",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xu-kong-suo-di",
+    "hanzi": "虚空索敌",
+    "pinyin": "xū kōng suǒ dí",
+    "literal": "void + seek out + enemy",
+    "meaning": "To pick a fight with an enemy who isn't there: arguing against things nobody said, reading hostility into neutral or kind comments, or 'replying' to an imagined opponent. Used to mock someone for being paranoid, thin-skinned or shadow-boxing in an online argument.",
+    "meaning_zh": "原为《英雄联盟》英雄卡莎W技能的名字，网友借来形容“假想敌”式对线：对方根本没说过的话也要反驳，把别人的善意或中性言论脑补成恶意，自己跟空气吵架。多带嘲讽意味。",
+    "example": "人家只是说了句菜咸了，你别虚空索敌好吗？",
+    "example_pinyin": "Rénjia zhǐshì shuōle jù cài xián le, nǐ bié xū kōng suǒ dí hǎo ma?",
+    "example_translation": "They only said the food was a bit salty — can you stop fighting enemies who aren't there?",
+    "context": "Lifted from League of Legends (英雄联盟): 虚空索敌 is the Chinese name of Kai'Sa's W ability ('Void Seeker'), a long-range beam that reveals the first enemy it hits. Because so many Chinese skill names sound like four-character idioms, players started using it as a 'new internet chengyu' — a 2024 Douban thread asking whether it is LoL's most famous skill has replies saying they use it all the time when trading barbs. The online sense has little to do with the skill: it describes picking a fight with an imagined opponent — inventing what the other side 'must' think, or treating goodwill as an attack. A 17173 commentary (July 2025) applied it to a blogger who, in the author's view, misread netizens' kindness as malice. Gaming slang that has fully crossed over into comment-section arguments.",
+    "category": "slang",
+    "date_added": "2026-10-27",
+    "sources": [
+      {
+        "url": "https://www.dancihu.com/liuxingyu/x4752.html",
+        "note": "单词乎·流行语词条：虚空索敌 originally Kai'Sa's W in LoL; meaning of imagined-opponent arguing",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.douban.com/group/topic/312675758/",
+        "note": "豆瓣小组讨论《英雄联盟最有名的技能是不是虚空索敌？》(2024-10-18)：网友称已成对线常用词、当互联网新成语用",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.17173.com/content/07022025/110904584.shtml",
+        "note": "17173《虚空索敌的残疾女孩，被网友们“嘲讽”了》(2025-07-02)，usage example",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hu-ka",
+    "hanzi": "糊咖",
+    "pinyin": "hú kā",
+    "literal": "flopped (糊, 'burnt') + star/somebody (咖)",
+    "meaning": "A celebrity whose popularity has faded — a has-been or flop. Disparaging when outsiders say it, though fans sometimes call their own idol a 糊咖 pre-emptively to stay out of popularity comparisons. Cruder variant: 糊逼.",
+    "meaning_zh": "饭圈、娱乐圈用语，指人气下滑、“糊了”的艺人，带贬义。“糊”指不红、过气，“咖”源自闽南语，指某一类人物（如大咖、咖位）。粉丝有时也自称“我家是糊咖”来避免被拉去比较数据。",
+    "example": "他现在就是个糊咖，综艺都没人请了。",
+    "example_pinyin": "Tā xiànzài jiù shì gè hú kā, zōngyì dōu méi rén qǐng le.",
+    "example_translation": "He's a total has-been now — not even variety shows invite him any more.",
+    "context": "Built from two pieces of fandom (饭圈) slang. 糊 ('burnt, mushy') for 'flopped' began on Baidu Tieba, where a post with hardly any replies 'flopped'; it then shifted to celebrities losing popularity and became a staple of fan wars comparing stars' numbers — exaggerated as 糊穿地心, 'flopped through the earth's core', and used in headlines about 糊电影 (box-office flops). 咖 comes from Southern Min, where it means 'a somebody' and, after another word, 'that kind of person' — the same 咖 as in 大咖 and 咖位. Put together, 糊咖 is 'one of the flopped ones'. Fans are touchy about it: an outsider calling their idol a 糊咖 can set off reporting campaigns and pile-ons, yet fans also say '我们家XX是糊咖，勿cue' ('our XX is a nobody, leave him out of it') to dodge comparisons.",
+    "category": "slang",
+    "date_added": "2026-10-27",
+    "sources": [
+      {
+        "url": "https://wiki.ubc.ca/Course:ASIA319/2022/%22flop%22_(%E7%B3%8A)",
+        "note": "UBC Wiki, ASIA319 course entry on fandom slang 糊 'flop' (糊了, 糊穿地心, 糊咖, 糊逼, 咖 from Southern Min)",
+        "lang": "en"
+      }
+    ]
   }
 ]
