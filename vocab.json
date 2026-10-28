@@ -6572,5 +6572,98 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "qing-zhou-yi-guo-wan-chong-shan",
+    "hanzi": "轻舟已过万重山",
+    "pinyin": "qīng zhōu yǐ guò wàn chóng shān",
+    "literal": "light boat · already · passed · ten thousand · layers of · mountains",
+    "meaning": "'The light boat has already sailed past ten thousand mountains': a triumphant line for having come through a long, hard struggle — above all Chinese tech breaking through sanctions or blockades (Huawei, home-grown chips), but also anyone who has finally 'landed' after a gruelling exam or ordeal.",
+    "meaning_zh": "借用李白诗句，表示历经重重困难之后终于闯过难关、扬眉吐气。网上最常用于形容国产科技（如华为手机、国产芯片）在封锁和制裁下实现突破，也用来形容考研、考公等熬过艰难后终于上岸。",
+    "example": "新芯片跑分出来了，评论区一片“轻舟已过万重山”。",
+    "example_pinyin": "Xīn xīnpiàn pǎofēn chūlái le, pínglùnqū yí piàn “qīng zhōu yǐ guò wàn chóng shān”.",
+    "example_translation": "The new chip's benchmark scores are out, and the comments are a wall of 'the light boat has passed ten thousand mountains'.",
+    "context": "The closing line of Li Bai's poem 《早发白帝城》. At Huawei's developer conference in August 2023, consumer-business chief 余承东 (Richard Yu) said HarmonyOS had come through 'four hard years… 轻舟已过万重山, Huawei's flagship phones are on their way back'. When the Mate 60 Pro went on sale without warning on 29 August 2023 with a home-made Kirin chip, netizens flooded comment sections with the line, pairing it with Huawei's 2020 Weibo post '除了胜利，我们已经无路可走'; IT之家 put it in the headline of its hands-on review and People's Daily quoted it in a commentary. It has stuck as the stock cheer for any Chinese tech breakthrough under pressure — on 27 October 2026 '极客湾谈韬芯片轻舟已过万重山' was on Weibo hot search — and Xinmin Evening News noted people also use it for hard-won success such as passing the civil-service or postgraduate exams. Sits alongside 遥遥领先 in the patriotic-tech register; it can be sincere or mildly ironic.",
+    "category": "slang",
+    "date_added": "2026-10-28",
+    "sources": [
+      {
+        "url": "https://www.gamersky.com/tech/202309/1640823.shtml",
+        "note": "游民星空 2023-09-03：余承东在开发者大会上说“轻舟已过万重山”，网友评论区刷屏",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.rmlt.com.cn/2023/0906/682210.shtml",
+        "note": "人民日报评论（人民论坛网转载）2023-09-06：网友以“轻舟已过万重山”形容Mate 60 Pro",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ithome.com/0/715/633.htm",
+        "note": "IT之家 Mate 60 Pro 真机图赏，标题用“轻舟已过万重山”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-10-27?sort=hot",
+        "note": "微博热搜存档 2026-10-27：“极客湾谈韬芯片轻舟已过万重山”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "nai-lv-bo",
+    "hanzi": "奶绿波",
+    "pinyin": "nǎi lǜ bō",
+    "literal": "milk · green · wave (a misreading of the baijiu brand 明绿液)",
+    "meaning": "A traffic-jam meme: drivers stuck on Anhui's expressways over Spring Festival 2026 misread the calligraphic billboard for the baijiu 明绿液 as '奶绿波' — and since they crawled past it all morning, 'still haven't got past 奶绿波' became the joke for being hopelessly stuck in holiday traffic.",
+    "meaning_zh": "2026年春节返程高峰，安徽宁洛高速严重堵车，司机们盯着路边“明绿液”白酒的书法广告牌，把字看成了“奶绿波”。“开了一上午，还没开出奶绿波”在抖音走红，成了调侃假期堵车、寸步难行的梗。",
+    "example": "国庆返程又堵死了，三个小时还没开出奶绿波。",
+    "example_pinyin": "Guóqìng fǎnchéng yòu dǔ sǐ le, sān gè xiǎoshí hái méi kāi chū nǎi lǜ bō.",
+    "example_translation": "The National Day drive home is gridlocked again — three hours and we still haven't got past 奶绿波.",
+    "context": "During the Spring Festival 2026 return rush, the 宁洛高速 (Ningluo Expressway) in Anhui jammed into a car park. Bored drivers kept staring at a huge billboard for 明绿液, the premium baijiu of 安徽明光酒业 (majority-owned by 古井贡酒 since 2021), whose calligraphic lettering (by the late calligrapher 谢德萍) is hard to read; Douyin filled with guesses and one quip went viral: '开了一上午，还没开出奶绿波！' The brand leaned in: on 1 March its Douyin account thanked netizens '感谢网友赐名奶绿波', it registered the trademark the next day, and on 6 March opened a shop at the distillery selling 奶绿波 milk tea, while local tourism bureaux issued 200,000 coupons. Months later it still turns up in 2026 meme round-ups as shorthand for holiday gridlock — a textbook 'wild meme' a brand caught and monetised.",
+    "category": "meme",
+    "date_added": "2026-10-28",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3717005551629696",
+        "note": "36氪 2026-03：明光酒业接住“奶绿波”野生热梗，注册商标、推出奶茶",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/share/6350030.html",
+        "note": "人人都是产品经理：“奶绿波”从高速堵车误读到品牌产品",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "liu-san-ling-630",
+    "hanzi": "630",
+    "pinyin": "liù sān líng",
+    "literal": "6-30 · 30 June, the end of Q2",
+    "meaning": "Big-tech code for the mid-2026 layoff wave: 30 June, the end of the second quarter, which became the common 'last day' for staff let go as Chinese internet companies cut jobs amid the AI push. 'Survived 630?' / '630 lastday'.",
+    "meaning_zh": "指2026年年中互联网大厂集中裁员的时间节点——6月30日，即二季度末。AI大规模进入职场后，许多公司把这天定为被裁员工的“last day”，“630”于是成了裁员潮的代称。",
+    "example": "我们组好几个人都是630走的，现在谁也不敢说AI用不上。",
+    "example_pinyin": "Wǒmen zǔ hǎo jǐ gè rén dōu shì liù sān líng zǒu de, xiànzài shéi yě bù gǎn shuō AI yòng bù shàng.",
+    "example_translation": "Several people on our team went in the 630 cuts — nobody dares say AI is useless now.",
+    "context": "In mid-June 2026 rumours of '630大厂裁员' flew around Xiaohongshu and X; a V2EX thread asking for confirmation (15 June) explained '630 就是 6 月 30 号，Q2 结束就走', with one reply noting that 630 and 1230 used to be project milestones and had 'now become lastday'. In July 36氪 (republished on ifeng) wrote that '630' had become a social-media buzzword: the end of the first quarter in which AI truly entered China's internet workplaces at scale, with late June to mid-July the usual turnover point and the widely set last day of the wave; 虎嗅 reported staggered mid-year cuts at Meituan and Alibaba. Whether AI was the cause or the scapegoat is still argued. A time-stamped marker of 2026's AI-and-jobs anxiety.",
+    "category": "news",
+    "date_added": "2026-10-28",
+    "sources": [
+      {
+        "url": "https://tech.ifeng.com/c/8uVTcaBpxJg",
+        "note": "36氪（凤凰网转载）2026-07-06：“630”减员，AI是祸首还是替罪羊？",
+        "lang": "zh"
+      },
+      {
+        "url": "https://v2ex.com/t/1220423",
+        "note": "V2EX 2026-06-15：求证630大厂裁员，回帖解释630即二季度末",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4870467.html",
+        "note": "虎嗅 2026-06-26：国内大厂年中分批裁员",
+        "lang": "zh"
+      }
+    ]
   }
 ]

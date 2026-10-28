@@ -8,14 +8,6 @@
     "note": "Jokes that influencer 易梦玲 'has a succubus system bound to her' after a change of look; one person, one source. The underlying '绑定了XX系统' format (from 系统流 web novels) may be the durable word if it can be sourced. | 2026-10-15: Re-sighted 2026-10-15 in a Sina hot-topics round-up (易梦玲 '绑定了魅魔系统'); still one person."
   },
   {
-    "hanzi": "奶绿波",
-    "reason": "unverified",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-14",
-    "sightings": 2,
-    "note": "Listed in a Zhihu meme round-up as a motorway-traffic-jam joke; meaning never clear enough to verify."
-  },
-  {
     "hanzi": "人生只是支线",
     "reason": "unverified",
     "first_seen": "2026-10-13",
@@ -163,9 +155,9 @@
     "hanzi": "精神离职",
     "reason": "unverified",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26",
-    "sightings": 1,
-    "note": "'Mentally resigned': physically at your desk, already quit in your head. Seen in Oct 2026 meme round-ups (search summary); close to deck word 精神下班, so only add if it is clearly distinct and sourced."
+    "last_seen": "2026-10-28",
+    "sightings": 2,
+    "note": "'Mentally resigned': physically at your desk, already quit in your head. Seen in Oct 2026 meme round-ups (search summary); close to deck word 精神下班, so only add if it is clearly distinct and sourced. | 2026-10-28: Re-sighted 2026-10-28 in 2026 meme round-up search summaries (人在工位，心已离职). Still only content-farm round-ups; close to deck word 精神下班."
   },
   {
     "hanzi": "A3",
@@ -182,5 +174,21 @@
     "last_seen": "2026-10-27",
     "sightings": 1,
     "note": "'Not-dead-ism': low-bar life philosophy (anti-优绩主义 — being alive counts as success), listed with A3 and 大水 in 新周刊's 2026-10-26 'grand theories' piece. No origin found yet."
+  },
+  {
+    "hanzi": "大脑降噪",
+    "reason": "unverified",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "sightings": 1,
+    "note": "Listed with 夯爆了 and 背手负鼠 as youth 'social lingua franca' in a 中国之声 report (Sept 2026, via 光明网 m.gmw.cn/2026-09/13/content_1304563118.htm, which returned 503). Meaning not confirmed — check what it means and whether it is in real use."
+  },
+  {
+    "hanzi": "我的麦炸吗",
+    "reason": "niche",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "sightings": 1,
+    "note": "Esports hype call: at the 王者荣耀 共创之夜 (2026-10-25) player 一诺 asked '我的麦炸吗' and the crowd shouted '炸'; carried over from 2025 炸麦 jokes (Weibo article). So far confined to Honor of Kings fandom."
   }
 ]
