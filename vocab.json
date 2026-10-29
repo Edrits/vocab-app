@@ -6748,5 +6748,36 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "le-ge-ji-mo",
+    "hanzi": "了个寂寞",
+    "pinyin": "le ge jìmò",
+    "literal": "(did) a loneliness — 了 (done) + 个 (a) + 寂寞 (lonely, empty)",
+    "meaning": "'…for nothing' / 'a whole lot of nothing'. Tacked onto a verb as X了个寂寞, it says the effort produced zero result — you went through the motions and came away empty-handed. 学了个寂寞 = studied and learnt nothing; 看了个寂寞 = watched it and got nothing out of it; 忙了个寂寞 = busy all day, achieved nothing. It's the jokey netizen version of 白 (in vain): 白学了 ≈ 学了个寂寞, 白忙了 ≈ 忙了个寂寞. Self-mocking or teasing, never formal.",
+    "meaning_zh": "接在动词后，构成“X了个寂寞”，表示做了半天却毫无结果、白费功夫，相当于“白X了”。如“学了个寂寞”＝白学了，“看了个寂寞”＝看了等于没看，“忙了个寂寞”＝瞎忙一场。多用于自嘲或调侃，语气轻松。",
+    "example": "上了一学期网课，期末一看卷子——学了个寂寞。",
+    "example_pinyin": "Shàng le yī xuéqī wǎngkè, qīmò yī kàn juànzi — xué le ge jìmò.",
+    "example_translation": "A whole term of online classes, then I saw the final exam paper — I'd learnt precisely nothing.",
+    "context": "寂寞 has been a meme word since the 2009 '贾君鹏'-era formula 'X的不是X，是寂寞' ('what I'm doing isn't X, it's loneliness'), which Baidu Baike traces to a World of Warcraft forum thread. The '了个寂寞' construction took off around 2020, when online classes made 学了个寂寞 a universal student joke; Zhihu users credit it to a game streamer's catchphrase ('开团开了个寂寞'), though the origin is unproven. 寂寞 here means emptiness — all you got was nothing.",
+    "category": "meme",
+    "date_added": "2026-10-29",
+    "sources": [
+      {
+        "url": "https://www.zhihu.com/question/374612591",
+        "note": "知乎：“……了个寂寞是什么梗？”——表示花了时间却什么也没做成，如“学了个寂寞”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E5%AF%82%E5%AF%9E/5955985",
+        "note": "百度百科“寂寞（网络流行语）”——“X的不是X，是寂寞”句式及其魔兽世界贴吧起源",
+        "lang": "zh"
+      },
+      {
+        "url": "http://www.solarf.net/jrrd/202008/27983.html",
+        "note": "阳光网（2020-08）：2020网络热词“寂寞”是什么梗，“玩了个寂寞”出处",
+        "lang": "zh"
+      }
+    ]
   }
 ]
