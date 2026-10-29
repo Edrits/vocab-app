@@ -6665,5 +6665,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ruan-cai-yuan",
+    "hanzi": "软裁员",
+    "pinyin": "ruǎn cáiyuán",
+    "literal": "soft + lay off staff",
+    "meaning": "'Soft layoffs' (quiet firing): instead of formally dismissing someone and paying statutory severance, a company squeezes them until they 'choose' to resign — pointless transfers, pay cuts, piling on impossible work, digging up old expense claims, cutting off system access or kicking them out of work group chats. Used both by workers complaining and in media coverage of workplace rights.",
+    "meaning_zh": "公司不走正常解雇程序、不付或少付经济补偿，而是通过无理调岗、降薪、加压工作、翻旧账、收回权限、踢出工作群等手段逼员工“主动”辞职，就叫“软裁员”。多用于打工人吐槽和职场维权报道。",
+    "example": "又是调岗又是降薪，这不就是软裁员吗？",
+    "example_pinyin": "Yòu shì diàogǎng yòu shì jiàngxīn, zhè bú jiù shì ruǎn cáiyuán ma?",
+    "example_translation": "First a transfer, now a pay cut — isn't this just a soft layoff?",
+    "context": "A term from HR and workers rather than the law: as a 凤凰网 feature reposted by 虎嗅 on 15 October 2026 puts it, there is no standard legal definition, but forcing staff out at below the cost of a proper dismissal (or at zero cost) is 'usually called 软裁员'. The incentive is money: an employee who resigns normally gets no compensation, so firms make staying unbearable instead. The piece's headline case is 小古 in Chongqing, who after six and a half years refused an unexplained transfer, had her computer removed and was dropped from 845 work group chats, was paid 55 yuan for her last half-month, and won about 67,000 yuan after arbitration and two court rounds. HR staff describe tactics like auditing old receipts for flaws and demanding dozens of rounds of PPT revisions. On 29 October 2026 '职场“软裁员”引争议' was on Baidu's real-time hot search, with experts calling for tighter rules. It's the Chinese counterpart of 'quiet firing' and sits naturally next to deck words like 牛马 and 打工人.",
+    "category": "slang",
+    "date_added": "2026-10-29",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/4897625.html",
+        "note": "虎嗅（转载凤凰网，2026-10-15）：HR讲述“软裁员”手段与小古维权案例",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜，2026-10-29：职场“软裁员”引争议",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "mi-yu-ren",
+    "hanzi": "谜语人",
+    "pinyin": "míyǔrén",
+    "literal": "riddle + language + person = the Riddler",
+    "meaning": "Someone who talks in riddles: hints, insinuates and refers to things obliquely instead of just saying them. Used to complain ('谜语人滚出去' — Riddler, get out!) or to describe a whole conversation where nobody will name the thing — often because it is sensitive and naming it outright could get a post removed.",
+    "meaning_zh": "指说话不直说、故弄玄虚、只给暗示让别人猜的人。网友常用“谜语人滚出哥谭”吐槽这种人；遇到敏感话题大家都不敢明说、只能拐弯抹角时，也会调侃“全员谜语人”。",
+    "example": "能不能别当谜语人了，到底发生了什么直接说！",
+    "example_pinyin": "Néng bu néng bié dāng míyǔrén le, dàodǐ fāshēng le shénme zhíjiē shuō!",
+    "example_translation": "Can you stop being the Riddler? Just tell me straight what happened!",
+    "context": "谜语人 is the Chinese name of Batman's villain the Riddler (Edward Nygma), who leaves puzzles at every crime. The meme came out of the game Batman: Arkham Knight, where catching him means solving 273 of his riddles scattered through Gotham's sewers and tunnels — players' shared verdict was '谜语人滚出哥谭' ('Riddler, get out of Gotham'), according to Moegirlpedia. From gaming circles it became general slang for anyone being cryptic. A timely example: when French footballer Mbappé was boycotted in China in October 2026 over 'inappropriate China-related remarks', domestic reports never said what he actually said; China Digital Times (27 October 2026) quoted a netizen complaining that those who didn't know couldn't get an answer, while 'those in the know are all 谜语人' (全员谜语人), referring to the remark only by hints. That censorship-adjacent use is where the word earns its keep.",
+    "category": "slang",
+    "date_added": "2026-10-29",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/733307.html",
+        "note": "中国数字时代·网络民议（2026-10-27）：姆巴佩事件中网友称“知情的则全员谜语人”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/%E8%B0%9C%E8%AF%AD%E4%BA%BA(DC%E6%BC%AB%E7%94%BB)",
+        "note": "萌娘百科：谜语人（DC漫画）词条，含《阿卡姆骑士》273个谜题与“谜语人滚出哥谭”出处",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hu-tou-she-wei",
+    "hanzi": "虎头蛇尾",
+    "pinyin": "hǔ tóu shé wěi",
+    "literal": "tiger's head, snake's tail",
+    "meaning": "Starting with a bang and ending with a whimper: a grand, impressive beginning followed by a weak, half-hearted finish. Online it is the stock verdict on TV dramas that open brilliantly and then fumble the ending, and on projects or plans that fizzle out.",
+    "meaning_zh": "开头声势浩大，结尾草草收场，比喻做事有始无终、前紧后松。网上常用来吐槽开局惊艳、结局拉胯的电视剧（即“烂尾”），也用来形容半途泄气的计划。",
+    "example": "前十集封神，后面越拍越水，典型的虎头蛇尾。",
+    "example_pinyin": "Qián shí jí fēngshén, hòumiàn yuè pāi yuè shuǐ, diǎnxíng de hǔ tóu shé wěi.",
+    "example_translation": "The first ten episodes were legendary, then it got thinner and thinner — classic tiger's head, snake's tail.",
+    "context": "A classic chengyu: a tiger's mighty head on the body of a snake that tapers off to nothing. Taiwan's Ministry of Education idiom dictionary traces it to the Yuan-dynasty zaju play 《李逵负荆》 by 康进之, with the earlier form 龙头蛇尾 ('dragon's head, snake's tail') common in Chan Buddhist records. Today it lives in drama comment sections and review pieces about 烂尾 (botched endings): a 36氪 article (November 2024) on 《永夜星河》 and other shows that '高开低走' complained that even ordinary youth, romance and modern dramas had become '虎头蛇尾', leaving domestic drama stuck in a 虎头蛇尾 rut. Pair it with 高开低走 (opens high, goes low) and 烂尾 for the full vocabulary of disappointment.",
+    "category": "chengyu",
+    "date_added": "2026-10-29",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3044123624226312",
+        "note": "36氪（2024-11-20）：《永夜星河》高开低走，国产剧陷于烂尾之殇——用“虎头蛇尾”形容国产剧",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2020/07/choice-chengyu-idioms-that-roar/",
+        "note": "The World of Chinese: 'Choice chengyu: idioms that roar' — meaning and example of 虎头蛇尾",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.itwiki.kr/w/%EC%9A%A9%EB%91%90%EC%82%AC%EB%AF%B8",
+        "note": "itwiki 용두사미 entry (Korean-language page; no zh/en lang code fits) citing Taiwan MoE 成語典 on 康进之《李逵负荆》 and earlier 龙头蛇尾 in 祖堂集/景德传灯录",
+        "lang": "en"
+      }
+    ]
   }
 ]
