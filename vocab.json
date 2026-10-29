@@ -6779,5 +6779,36 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chui-zi",
+    "hanzi": "锤子",
+    "pinyin": "chuízi",
+    "literal": "hammer",
+    "meaning": "Sichuan/Chongqing dialect for 'my arse' / 'like hell': a blunt, dismissive 'nothing at all' or 'no way'. In the frame X个锤子 it flatly negates X, just like X个屁: 你懂个锤子 = you know nothing; 好看个锤子 = pretty? hardly. On its own, 锤子！ is a scoffing 'no chance!'. Close cousin of 了个寂寞 — both use 个 + noun to say 'zero' — but 寂寞 is a light self-mocking shrug, whereas 锤子 is a combative retort aimed at someone else. It's a stand-in for a cruder word, so it's coarse: fine among friends, rude to a stranger, and Sichuanese say it without real malice.",
+    "meaning_zh": "四川、重庆方言，表示否定、不屑，相当于“个屁”“才怪”。常用“X个锤子”的结构：“你懂个锤子”＝你懂什么；“好看个锤子”＝一点也不好看。单说“锤子！”就是“门都没有”。据说原本是替代粗话的说法，语气粗但多为口头禅，熟人之间常用，对生人说则显得冒犯。",
+    "example": "—这个我懂，听我的。 —你懂个锤子！上回就是听你的才搞砸的。",
+    "example_pinyin": "—Zhège wǒ dǒng, tīng wǒ de. —Nǐ dǒng ge chuízi! Shàng huí jiù shì tīng nǐ de cái gǎo zá de.",
+    "example_translation": "—I know about this, trust me. —You know squat! Last time we listened to you, it all went wrong.",
+    "context": "A long-standing Sichuan/Chongqing curse-word substitute that went national online. It got a big boost in July 2013, when a guesthouse owner in flooded Dujiangyan was filmed telling his wife '你晓得个锤子！' ('what would you know!') during a TV interview and was dubbed 锤子哥 by netizens. The pun later stuck to Luo Yonghao's Smartisan phone brand (锤子科技), prompting jokes like '我花3000块买个锤子'.",
+    "category": "slang",
+    "date_added": "2026-10-29",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com.cn/shipin/2013/07-17/news254921.shtml",
+        "note": "中国新闻网视频（2013-07-17）：都江堰农家乐老板“你晓得个锤子”走红，网友称“锤子哥”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ourchinastory.com/cn/14556",
+        "note": "我们的中国故事：四川俚语“锤子”的含义与用法",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ifanr.com/news/421292",
+        "note": "爱范儿：“我花3000块买个锤子”——锤子手机名称引发的歧义调侃",
+        "lang": "zh"
+      }
+    ]
   }
 ]
