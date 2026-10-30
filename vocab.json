@@ -6810,5 +6810,98 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "sbti",
+    "hanzi": "SBTI",
+    "pinyin": "SBTI (ēs-bī-tī-ài, read as letters)",
+    "literal": "a parody of MBTI — swap the M for an S",
+    "meaning": "A joke personality test that parodies MBTI, and by extension the self-mocking 'personality types' it hands out. Instead of codes like INTP you get labels such as 死者 (DEAD — someone who has given up on everything), 吗喽 (MALOU — the slacker who refuses to overwork), 自我攻击者 (IMSB — the self-attacker locked in inner conflict) or 孤儿 (SOLO). People post their result as a wry status report on their mental state ('测了SBTI，我是死者'), and it spawned a wave of copycat parody tests. Its own creator says the results are vague or plain wrong — the point is the laugh, not the diagnosis.",
+    "meaning_zh": "一款恶搞MBTI的娱乐人格测试，也泛指它给出的那些自嘲式人格标签。结果不是INTP这类字母代码，而是“死者（DEAD）”“吗喽（MALOU）”“自我攻击者（IMSB）”“孤儿（SOLO）”等。网友晒自己的SBTI结果来调侃精神状态，随后又衍生出各种仿写测试。作者本人也说结果“较为模糊或完全不准”，纯属娱乐，没有科学依据。",
+    "example": "别拿MBTI说事了，我测了SBTI，结果是“死者”，太准了。",
+    "example_pinyin": "Bié ná MBTI shuō shì le, wǒ cè le SBTI, jiéguǒ shì “sǐzhě”, tài zhǔn le.",
+    "example_translation": "Forget MBTI — I did the SBTI and got 'The Dead'. Spot on.",
+    "context": "Made by Bilibili uploader 蛆肉儿串儿, who says it began as a way to nag a friend into giving up drinking. It went viral on mainland social media around 9 April 2026: 31 absurd questions (one is about being constipated on the loo for 30 minutes; another reads '此题没有题目，请盲选' — 'this question has no question, choose blindly') and 27 types, all billed as 'the rarest'. Her video passed 3 million views in under a day and the traffic briefly crashed the site. Huxiu described results flooding WeChat Moments; Hong Kong media reported reactions split between 'too offensive' and 'painfully relatable', with netizens asking whether the IMSB label was swearing at them. By the summer it was a fixture of 2026 meme round-ups — a sign that MBTI talk, once earnest, has curdled into self-parody.",
+    "category": "meme",
+    "date_added": "2026-10-30",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/4849424.html",
+        "note": "虎嗅（2026-04-10）：SBTI恶搞复刻MBTI，在朋友圈刷屏；B站UP主@蛆肉儿串儿首创",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.stheadline.com/zh-hans/lifetips/3560918/MBTI已经过时内地搞笑版人格测试SBTI爆红-27种自嘲式人格-背后藏暖心理由",
+        "note": "星岛头条（2026-04-10）：SBTI 4月9日爆红，31题27种人格（DEAD、MALOU、IMSB、SOLO），视频一天破300万播放",
+        "lang": "zh"
+      },
+      {
+        "url": "https://global.hk01.com/数码生活/60340864/sbti人格测试爆红-恶搞版mbti测出荒诞标签-网-imsb是在骂我",
+        "note": "香港01（2026-04-17）：SBTI人格测试爆红，起初为劝朋友戒酒；网友问“IMSB是在骂我？”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://popcidian.com/tag/2026",
+        "note": "波普辞典：2026相关网络流行语，收录SBTI",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ying-ma-le",
+    "hanzi": "赢麻了",
+    "pinyin": "yíng má le",
+    "literal": "win-numb-(particle) — 'winning so much I've gone numb'",
+    "meaning": "Sarcastic: 'we're winning so hard we can't feel it any more'. Used to mock triumphalist spin — official or nationalist messaging that recasts every setback as a victory — and, more broadly, anyone who declares victory despite obviously losing. It's loaded and political in origin: saying 赢麻了 about a news story signals you think the 'win' is propaganda or self-delusion. 赢 has since become a shorthand of its own (赢学, 'the study of winning'), and it sits in the online debating set 典孝急乐批麻蚌赢 — one-character put-downs used to shut an argument down without engaging with it.",
+    "meaning_zh": "“赢到麻木了”，多用于反讽，讽刺把一切挫折都说成胜利的宣传口径或“精神胜利法”，也泛指明明输了还自称赢了的人。带有政治讽刺色彩。后来“赢”单字成梗，衍生出“赢学”，并被收入网络辩论用语“典孝急乐批麻蚌赢”。",
+    "example": "出口数据一跌，评论区又开始说“这说明我们产业升级了”——好家伙，又赢麻了。",
+    "example_pinyin": "Chūkǒu shùjù yì diē, pínglùnqū yòu kāishǐ shuō “zhè shuōmíng wǒmen chǎnyè shēngjí le” —— hǎojiāhuo, yòu yíng má le.",
+    "example_translation": "Export figures drop and the comments start saying 'this proves our industry is upgrading' — wow, winning so hard we're numb again.",
+    "context": "China Digital Times put it in its top ten online expressions of 2021, saying it reportedly traces to an interview with Renmin University's Jin Canrong (collected in 《中美棋局》), in which he relayed an American quip that 'win-win means China wins twice'. Users of the Baidu Tieba forum 神奈川冲浪里吧 spun that into '我们赢得太多了，都赢麻了', and it became a stock jibe at official propaganda. Netizens added the xiehouyu 秦始皇摸电门——嬴（赢）麻了 ('the First Emperor touches a live wire — Ying gets numb'), punning on Qin Shi Huang's surname 嬴 and the tingle of an electric shock. Its uses spread to sport too (CDT's 2022 explainer cites fans needling SN after their 2020 Worlds final loss). In 2025 The Paper's 孔德罡 grouped 赢 with 典孝急乐批麻蚌 as the 'eight-character mantra' of 'cyber 赢学'.",
+    "category": "social",
+    "date_added": "2026-10-30",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/?p=674748",
+        "note": "中国数字时代（2021-12-20）：2021十大网络流行语之“赢麻了”，据说源自金灿荣访谈，经神奈川冲浪里吧演化；歇后语“秦始皇摸电门”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/chinese/684444.html",
+        "note": "中国数字时代·宇宙弦音（2022-07）：新时代网络流行语：急了、孝、典中典、赢麻了",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_30773412",
+        "note": "澎湃新闻·思想市场（2025-05-14）：“典孝急乐批麻蚌赢”：互联网“八字真言”与当代赛博赢学",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "le-zi-ren",
+    "hanzi": "乐子人",
+    "pinyin": "lèzirén",
+    "literal": "fun-(suffix)-person — 'a laughs person'",
+    "meaning": "Someone who treats everything online — including other people's fights and sincere feelings — as entertainment. Some just watch the drama from a safe distance; others wade in to stir it up because the chaos is the fun. It carries a note of schadenfreude, and is used both as an accusation ('别理他，乐子人一个') and as a self-label for the detached 'I don't care who's right, I'm here for the show' pose. A related one-word reply is 乐 (or 乐子), meaning 'lol, what a farce'.",
+    "meaning_zh": "指把一切事情（包括别人的争吵和真情实感）都当作乐子的人。有的隔岸观火看热闹，有的主动下场拱火，只为看戏。带有一定幸灾乐祸的意味。既可用来指责别人，也常被用来自称，营造“谁对谁错我不在乎，我只是来看乐子的”超然姿态。",
+    "example": "他根本不在乎谁对谁错，两边拱火，纯纯乐子人。",
+    "example_pinyin": "Tā gēnběn bú zàihu shéi duì shéi cuò, liǎng biān gǒng huǒ, chúnchún lèzirén.",
+    "example_translation": "He doesn't care who's right — he's stoking both sides. A pure troll-for-laughs.",
+    "context": "An ACG-subculture character label (Moegirlpedia files it as a 萌属性) that spread to comment-section culture generally, part of the same Bilibili/Tieba debating vocabulary as 典孝急乐. Moegirlpedia notes the schadenfreude, and that some self-declared 乐子人 actually hold a firm position and adopt the label to look above it all when things go against them. A June 2026 Huxiu piece on esports 'stirrers' (串子) — who turned a pro player's rivalry into the meme '康神开播了' — said that at that moment 串子 and 乐子人 were practically the same thing: people who care about the spectacle conflict produces, not who's right, live by '认真你就输了', and pepper threads with '乐子，闹麻了'.",
+    "category": "social",
+    "date_added": "2026-10-30",
+    "sources": [
+      {
+        "url": "https://zh.moegirl.org.cn/%E4%B9%90%E5%AD%90%E4%BA%BA",
+        "note": "萌娘百科：乐子人词条（喜欢以各种事情取乐的人，带幸灾乐祸意味）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.huxiu.com/article/4870007.html",
+        "note": "虎嗅（2026-06-24）：当“串子”占领电竞圈，我们还能好好说话吗——串子与乐子人几乎可以画上等号",
+        "lang": "zh"
+      }
+    ]
   }
 ]
