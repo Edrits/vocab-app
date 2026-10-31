@@ -6903,5 +6903,62 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "bai-piao",
+    "hanzi": "白嫖",
+    "pinyin": "bái piáo",
+    "literal": "白 for nothing / in vain + 嫖 visit a prostitute → 'whoring for free'",
+    "meaning": "To freeload: enjoy content, a service or a space without paying a penny. Used as a jab at free-riders, or self-mockingly ('I'm just here to 白嫖'). The coarse literal root is mostly forgotten in everyday use, but it is still informal — don't say it in polite company.",
+    "meaning_zh": "不花钱就享受内容、服务或空间，即“蹭”、占便宜不付费。可用来讽刺不付费的人，也常用来自嘲（“我就是来白嫖的”）。字面来自“嫖娼不给钱”，日常使用中这层意思已淡化，但仍属粗俗口语，正式场合别用。",
+    "example": "占着座位一下午什么都不点，这不就是白嫖星巴克吗？",
+    "example_pinyin": "Zhànzhe zuòwèi yí xiàwǔ shénme dōu bù diǎn, zhè bú jiù shì bái piáo Xīngbākè ma?",
+    "example_translation": "Hogging a seat all afternoon without ordering anything — isn't that just freeloading off Starbucks?",
+    "context": "A 2017 piece by Peking University New Media (北大新媒体) traces 白嫖 (abbreviated BP) to Chinese fans of Japanese idols: since buying CDs, DVDs and merch was the only way to support a distant idol, 'spending money is justice' (花钱即正义) and non-paying fans got mocked. From fandom it spread to music, games, TV dramas and shopping, used both by paying fans downplaying their spending and by payers sniping at freeloaders. It is back in the headlines in October 2026: Starbucks China's rumoured 'buy before you sit' (消费入座) rule (widely reported from 20 Oct) and Sam's Club's cap on family-card activations led to a 31 Oct Baidu hot search, '星巴克山姆开始拒绝\"白嫖\"' — Starbucks and Sam's start refusing freeloaders.",
+    "category": "slang",
+    "date_added": "2026-10-31",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/197735684_483391",
+        "note": "北大新媒体（搜狐转载）《年少无知时，我们羞以启齿的“白嫖”》，2017-10-12：BP 的饭圈起源与两种用法",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜，2026-10-31：“星巴克山姆开始拒绝‘白嫖’”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/ch/202610/t20261020_404788.html",
+        "note": "扬子晚报，2026-10-20：记者实探星巴克“消费入座”传闻与第三空间之争",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ge-an-guan-huo",
+    "hanzi": "隔岸观火",
+    "pinyin": "gé àn guān huǒ",
+    "literal": "隔 across + 岸 riverbank + 观 watch + 火 fire → watch the fire from the other bank",
+    "meaning": "To stand back and watch others' trouble or infighting without getting involved — sometimes coolly waiting for them to wear each other out so you can benefit. Online it shades into the spectator mood of 吃瓜: watching a mess unfold from safely outside it.",
+    "meaning_zh": "隔着河看对岸着火，比喻对别人的危难或内斗袖手旁观、置身事外，有时还暗含坐等对方两败俱伤、自己坐收渔利之意。网上常与“吃瓜”的围观心态相通。",
+    "example": "两家公司在网上互撕，同行们都在隔岸观火。",
+    "example_pinyin": "Liǎng jiā gōngsī zài wǎng shàng hù sī, tóngháng men dōu zài gé àn guān huǒ.",
+    "example_translation": "The two companies are tearing into each other online, and the rest of the industry is just watching the fire from across the river.",
+    "context": "The ninth of the Thirty-Six Stratagems (三十六计), in the 'stratagems for confronting the enemy' (敌战计) set. The commentary illustrates it with Cao Cao declining to chase the fleeing Yuan brothers into Liaodong, predicting — correctly — that the warlord Gongsun Kang would kill them for him. Netizens use it far more casually, for sitting out someone else's drama; in a 2021 roundup of Onmyoji (阴阳师) idiom jokes, unlucky 'African' gacha players 隔岸观火 as 'European' players keep pulling the shikigami they never get.",
+    "category": "chengyu",
+    "date_added": "2026-10-31",
+    "sources": [
+      {
+        "url": "https://zh.wikisource.org/zh-hans/%E4%B8%89%E5%8D%81%E5%85%AD%E8%A8%88/%E6%95%B5%E6%88%B0%E8%A8%88",
+        "note": "维基文库《三十六计·敌战计》第九计隔岸观火原文及按语（曹操不追袁尚、袁熙）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://game.xiaomi.com/viewpoint/1359077112_1628734940213_9",
+        "note": "小米游戏中心《阴阳师成语梗盘点》，2021-08-12：玩家用隔岸观火调侃抽卡非酋",
+        "lang": "zh"
+      }
+    ]
   }
 ]
