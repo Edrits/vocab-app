@@ -222,5 +222,21 @@
     "last_seen": "2026-10-31",
     "sightings": 1,
     "note": "Jokey use of the bureaucratic 'closed loop' for things coming full circle (e.g. Baidu hot search 2026-10-31 '语文课文在此刻形成闭环' — school texts finally making sense in adulthood). No source opened explains the joking sense; find one before adding."
+  },
+  {
+    "hanzi": "紫砂",
+    "reason": "unverified",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "sightings": 1,
+    "note": "Homophone of 自杀 used to dodge filters (censorship-workaround lane, often jokey '我紫砂了'). 2026-11-01 search returned only teapot results; needs a real source (CDT lexicon, academic paper on 谐音规避) before adding — handle with care given the subject."
+  },
+  {
+    "hanzi": "零分朋友",
+    "reason": "niche",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "sightings": 1,
+    "note": "Weibo hot search 2026-10-31 '王子璇眼里文吉儿已经是零分朋友了' — from a reality show (再见朋友?) about friendship rifts. Tied to one show so far; watch if it becomes a general label for a friend you've written off."
   }
 ]

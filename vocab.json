@@ -6960,5 +6960,67 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "tao-ke",
+    "hanzi": "套壳",
+    "pinyin": "tào ké",
+    "literal": "套 put on / slip over + 壳 shell, casing",
+    "meaning": "To 'put a shell on' someone else's technology: an AI app or 'home-grown' model that just calls another company's model (often via API, or an open-source model lightly reworked), wraps its own interface round it and passes it off as its own. Usually a put-down implying the product has no real technology of its own; used as a verb or noun (套壳ChatGPT, 套壳应用, 套壳模型).",
+    "meaning_zh": "指自己不研发底层技术，而是直接调用别人的大模型接口或开源模型，简单改造后套上自己的界面和品牌，当作自家产品推出。多含贬义，暗指“没有核心技术、只是换了个皮”，常见搭配有“套壳ChatGPT”“套壳应用”“套壳模型”。",
+    "example": "吹得天花乱坠，扒开一看就是个套壳ChatGPT。",
+    "example_pinyin": "Chuī de tiān huā luàn zhuì, bā kāi yí kàn jiù shì gè tào ké ChatGPT.",
+    "example_translation": "They hyped it to the skies, but peel it open and it's just ChatGPT with a new shell on.",
+    "context": "套壳 became AI-industry shorthand during China's 2023–24 '百模大战' (battle of a hundred models). A May 2024 CCTV piece republished by The Paper reported a company running a WeChat account called 'ChatGPT在线' with a logo mimicking OpenAI's, which turned out merely to call OpenAI's API, and quoted experts saying a sizeable share of China's 130-plus large models were built by '套壳和拼装' (shelling and patching together). It also became tied to courses and apps sold on AI anxiety ('割韭菜'). Tech writers now argue over whether the shell itself — the interface, workflow and data — can be real value; either way, calling a product 套壳 is the standard way to say it's someone else's AI underneath.",
+    "category": "slang",
+    "date_added": "2026-11-01",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_27337442",
+        "note": "澎湃新闻（央视网）2024-05-11《被“套壳”割韭菜，是谁在制造AI焦虑？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/share/6243530.html",
+        "note": "人人都是产品经理《AI 套壳，不在于 AI，在壳。》— industry debate on the term",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "nie-nie",
+    "hanzi": "捏捏",
+    "pinyin": "niē nie",
+    "literal": "捏 pinch / squeeze, reduplicated",
+    "meaning": "A squishy stress-relief toy you squeeze for the feel — soft, slow-rising, often shaped like food or animals — and by extension the whole craze around them (捏捏乐, 脆皮捏捏 'crispy-shell squishies'). Buying and filming them is a textbook case of young people's 'emotional consumption' (情绪消费).",
+    "meaning_zh": "指一类靠手感解压的软体玩具，回弹慢、外形可爱，常做成食物或小动物的样子，也泛指围绕它的消费热潮（如“捏捏乐”“脆皮捏捏”）。年轻人买来捏一捏、拍视频，被视为典型的“情绪消费”。",
+    "example": "今天又被老板骂了，回家捏了半小时捏捏才缓过来。",
+    "example_pinyin": "Jīntiān yòu bèi lǎobǎn mà le, huí jiā niē le bàn xiǎoshí niēnie cái huǎn guòlái.",
+    "example_translation": "Got told off by the boss again today — it took half an hour with my squishy at home to get over it.",
+    "context": "Squeeze toys have gone through generations — flour-filled 'stress buns', then silicone squishies — and the third, the 脆皮捏捏 with a one-use wax shell that cracks audibly over a gooey glycerine 'yolk', took off in 2026: a TopKlout report (via CBNData, 8 Oct 2026) says related RedNote topics neared 200 million views by end of September, mostly 'immersive squishing' videos, with Yiwu factories quoting order backlogs of over a month. The craze has a darker side too: in June 2026 platforms delisted the baby-shaped '娜塔莎' 捏捏乐 for encouraging throwing and smashing (新周刊 via Huxiu), and a 2025 test of 11 squishies found formaldehyde in all of them. On 1 Nov 2026 '48元一只的捏捏月销百万' — a squishy brand opening a flagship store in Shanghai — made Baidu's hot-search list. Commentators read it as Gen Z regaining a sense of control by literally 拿捏-ing something.",
+    "category": "slang",
+    "date_added": "2026-11-01",
+    "sources": [
+      {
+        "url": "https://cbndata.com/information/295843",
+        "note": "CBNData（转载克劳锐）2026-10-08《脆皮捏捏热，为什么年轻人愿意为“捏碎”付费？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4868437.html?type=text",
+        "note": "虎嗅（转载新周刊）2026-06-18《明星们都上头的解压玩具，凭什么拿捏百亿市场？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/sh/202507/t20250713_235704.html",
+        "note": "扬子晚报 2025-07《当心“有毒”玩具 实测11款“捏捏乐”100%检出甲醛》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-01：“48元一只的‘捏捏’月销百万”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
