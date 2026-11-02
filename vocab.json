@@ -7022,5 +7022,67 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "guotai-minan-lian",
+    "hanzi": "国泰民安脸",
+    "pinyin": "guó tài mín ān liǎn",
+    "literal": "country-peaceful-people-secure face",
+    "meaning": "A 'national-peace-and-prosperity face': a round, full, soft-featured face that looks calm, dignified and reassuring. Usually a compliment, set against the pointy 'V-face' (锥子脸) of filtered influencer beauty; occasionally a backhanded way of calling someone pleasant but plain.",
+    "meaning_zh": "形容脸部骨架轮廓柔和、脸型圆润饱满、看上去端庄大气、让人安心的长相，多为夸赞，与网红“锥子脸”“小V脸”审美相对；偶尔也被理解为“温柔无害、没有攻击性”的委婉评价。",
+    "example": "颁奖的礼仪小姐一出场，评论区都在夸她是国泰民安脸，看着就舒服。",
+    "example_pinyin": "Bānjiǎng de lǐyí xiǎojiě yì chūchǎng, pínglùnqū dōu zài kuā tā shì guó tài mín ān liǎn, kànzhe jiù shūfu.",
+    "example_translation": "The moment the ceremony hostess appeared, the comments were full of people praising her 'national-prosperity face' — just looking at her is soothing.",
+    "context": "Took off in October 2022 when a bride in Qingdao, Shandong, went viral as 'the most beautiful bride online' and netizens praised her round, gently-contoured face as 国泰民安 — the stock blessing for a peaceful, well-fed nation, here applied to a face that looks content and prosperous. Commentators framed it as a backlash against the identical pointy-chinned 锥子脸 of beauty filters. It has stuck as a go-to compliment: on 31 October 2026, 22-year-old 杨阳, the hostess handing out medals at the 苏超 (Jiangsu football league) final in Nanjing, went viral under the label, with comments like '这才是中国人喜欢的审美', and it hit Baidu hot search on 2 November 2026.",
+    "category": "slang",
+    "date_added": "2026-11-02",
+    "sources": [
+      {
+        "url": "https://moment.rednet.cn/content/2022/10/14/11935294.html",
+        "note": "红网时刻 2022-10-14：《“国泰民安脸”走红，美从不该被定义》——青岛新娘走红及含义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://baike.baidu.com/item/%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%E8%84%B8/62071651",
+        "note": "百度百科：国泰民安脸（网络流行语）词条",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.com.cn/article_7879995911_1d5af320706802z5ju.html",
+        "note": "新浪 2026-11-01：苏超颁奖礼仪小姐杨阳被夸“国泰民安脸”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "fan-tuo",
+    "hanzi": "饭托",
+    "pinyin": "fàn tuō",
+    "literal": "meal + shill/tout (托)",
+    "meaning": "A 'meal shill': a romance-bait scammer who poses online as a single woman, lures a man to a specific restaurant for a 'date', and gets him to pay grossly inflated prices that the restaurant splits with the gang — after which she never shows up. Part of the 托 family of scams (酒托 for bars, 茶托 for tea houses).",
+    "meaning_zh": "冒充单身女性在网上约男性见面，把对方引到指定餐饮店高价消费、与店家分成的诈骗人员，人往往始终不现身；与“酒托”“茶托”同属“托”类骗局。",
+    "example": "她非让你去指定那家店打包，还要先充话费才见面？醒醒，八成是饭托。",
+    "example_pinyin": "Tā fēi ràng nǐ qù zhǐdìng nà jiā diàn dǎbāo, hái yào xiān chōng huàfèi cái jiànmiàn? Xǐngxing, bā chéng shì fàntuō.",
+    "example_translation": "She insists you get takeaway from that one particular shop, and wants phone credit before she'll meet you? Wake up — it's almost certainly a meal scam.",
+    "context": "托 (tuō) is the long-standing word for a shill or planted accomplice, and 'X托' names each venue the scam uses. 饭托 made national news at the end of October 2026: Wuhan's Dongxihu District court reported (28 October) that between August 2025 and March 2026 an online '聊手' posing as a heartbroken woman lured 47 men to the same barbecue shop, where staff steered them to a '阴阳菜单' (two-tier menu) about double the normal prices, then demanded phone top-ups '才能见面' before going silent. Losses topped 160,000 yuan; four '饭托' got six months to three years three months. The story ('失恋女网友邀47名男子吃烧烤') topped Baidu hot search and is now the textbook warning of the scam type.",
+    "category": "slang",
+    "date_added": "2026-11-02",
+    "sources": [
+      {
+        "url": "https://m.gmw.cn/2026-11/01/content_1304581491.htm",
+        "note": "光明网转长江日报 2026-11-01：“女网友”称失恋先后约47名男子吃烧烤……4名“饭托”获刑（作案分工、阴阳菜单、判决）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_34377582",
+        "note": "澎湃新闻：武汉警方通报“失恋女网友”烧烤骗局，4名“饭托”获刑",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.hongshan.gov.cn/fzjg/hsgafj/gzdt/201812/t20181221_221684.shtml",
+        "note": "武汉市洪山区政府 2018：全省最大“酒托”电信网络诈骗案宣判——同类“托”骗局",
+        "lang": "zh"
+      }
+    ]
   }
 ]
