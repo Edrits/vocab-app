@@ -7084,5 +7084,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "hua-di-wei-lao",
+    "hanzi": "画地为牢",
+    "pinyin": "huà dì wéi láo",
+    "literal": "draw (a circle on the) ground / to make / prison",
+    "meaning": "To trap yourself inside limits you drew yourself; to confine yourself to a narrow space, or to stay stuck in an old hurt or way of thinking that nothing actually holds you to. Mildly critical when said of others, rueful when said of yourself.",
+    "meaning_zh": "在地上画个圈当作监狱，比喻自己给自己设限，把自己困在狭小的范围或某种执念里走不出来。说别人时略带批评，说自己时带着无奈和自嘲。",
+    "example": "他早就不欠你什么了，是你自己画地为牢，放不下而已。",
+    "example_pinyin": "Tā zǎo jiù bù qiàn nǐ shénme le, shì nǐ zìjǐ huà dì wéi láo, fàng bù xià ér yǐ.",
+    "example_translation": "He stopped owing you anything long ago. You're the one who has boxed yourself in and can't let it go.",
+    "context": "Classical origin: Sima Qian's Letter to Ren An (《报任安书》) has 'a gentleman, even when the prison is only drawn on the ground, will not enter it' (士有画地为牢势不入), and the Book of Han quotes a similar saying. Originally it described a time of simple customs and light laws, when a jail drawn in the dirt was enough. Over time it turned negative and came to mean shutting yourself in (故步自封). It got a big netizen revival in late October 2026 through the Mango TV friendship-reunion show 《后会友期》. Singer 许飞 faced 厉娜, a fellow singer and estranged friend, after a falling-out that went back years. In their talk she said '我画地为牢，厉娜，我等这一天等了15年'. The line went viral, and on 3 November 2026 '\"画地为牢\"打卡点找到了' was on Baidu hot search, after a check-in marker bearing the two singers' names turned up on a Tibetan route. Netizens now use the phrase for anyone stuck in an old grudge or self-imposed rut, often in a deliberately melodramatic 许飞 tone.",
+    "category": "chengyu",
+    "date_added": "2026-11-03",
+    "sources": [
+      {
+        "url": "https://m.voc.com.cn/xhn/news/202408/20547927.html",
+        "note": "新湖南（科教新报《文化闲谈》，许晖，2024-08-23）：画地为牢出自《报任安书》，由褒义演变为故步自封的贬义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://ent.sina.cn/2026-10-30/detail-iniwywtv8234584.d.html?vt=4",
+        "note": "新浪娱乐 2026-10-30：《后会友期》许飞对厉娜说“我画地为牢，厉娜，我等这一天等了15年”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜 2026-11-03：“画地为牢”打卡点找到了",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dian",
+    "hanzi": "典 / 典中典",
+    "pinyin": "diǎn / diǎn zhōng diǎn",
+    "literal": "classic / classic among classics",
+    "meaning": "Sarcastic one-word verdict meaning 'textbook example of a tired, predictable take (or absurd behaviour)'. You reply '典' to a long-winded post, or to some piece of news, to say you've seen this exact nonsense a hundred times. 典中典 is the intensified form. Dismissive and argumentative, not praise.",
+    "meaning_zh": "“经典”的缩写，但几乎都是阴阳怪气的嘲讽：说某种言论或现象是老套、可笑、重复了无数遍的“经典款”。对别人的长篇大论只回一个“典”，意思是“又是这套”。“典中典”是加强版，经典中的经典。",
+    "example": "又是“年轻人就是不能吃苦”，典中典。",
+    "example_pinyin": "Yòu shì “niánqīngrén jiùshì bù néng chī kǔ”, diǎn zhōng diǎn.",
+    "example_translation": "'Young people just can't take hardship' again? The classic of classics.",
+    "context": "Grew out of Bilibili comment culture. A 2022 WeChat explainer from 宇宙弦音, archived by China Digital Times, traces it to comments like '好家伙，这可真是典中典'. It then became one of a trio of argument-ending replies, 急、孝、典: call your opponent flustered (急了, cf. deck word 你已急哭), a blind devotee (孝子), or simply 典, meaning their view is a stale cliché not worth answering. The same article notes it now works for real-world absurdities too, like stalled housing projects (烂尾楼). It is still a staple of comment sections because it lets you dismiss someone in one character.",
+    "category": "slang",
+    "date_added": "2026-11-03",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/684444.html",
+        "note": "中国数字时代转载 宇宙弦音《新时代网络流行语：急了，孝，典中典、赢麻了》（2022-07）：典中典释义、B站出处与“典急孝”用法",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ban-chang-kai-xiang-bin",
+    "hanzi": "半场开香槟",
+    "pinyin": "bàn chǎng kāi xiāngbīn",
+    "literal": "half-time / open champagne",
+    "meaning": "Celebrating before it's over, and usually getting punished for it. Netizens use it to mock anyone who gloats or relaxes while the result is still undecided: in sport and esports, but also exams, job offers, stock gains and relationships. Often shortened to 开香槟.",
+    "meaning_zh": "比赛才打到一半就开香槟庆祝，比喻胜负未定就提前庆祝、得意忘形，结果往往翻车。常用于体育、电竞，也延伸到考试、求职、炒股等生活场景，简称“开香槟”。",
+    "example": "面试感觉不错就请全组吃饭？别半场开香槟，offer还没到呢。",
+    "example_pinyin": "Miànshì gǎnjué búcuò jiù qǐng quán zǔ chīfàn? Bié bàn chǎng kāi xiāngbīn, offer hái méi dào ne.",
+    "example_translation": "Treating the whole team to dinner because the interview felt good? Don't pop the champagne at half-time. The offer hasn't come yet.",
+    "context": "Comes from football. The usual origin story is the 2005 Champions League final in Istanbul: AC Milan led Liverpool 3-0 at half-time and supposedly opened champagne in the dressing room, then Liverpool scored three in about six minutes and won on penalties. Even the Chinese explainers say the champagne detail may not be true, but the phrase stuck. Esports keeps it fresh. 17173's review of 2025's funniest gaming moments (Feb 2026) headlines one scene 'Punk半场开香槟': at EWC, the Street Fighter 6 player Punk threw down his controller and stood up to celebrate a combo he thought had won. The combo-scaling rules left China's 小孩 (曾卓君) on 12 HP, and 小孩 came back to win the game.",
+    "category": "slang",
+    "date_added": "2026-11-03",
+    "sources": [
+      {
+        "url": "https://news.17173.com/content/02102026/005053294_1.shtml",
+        "note": "17173《游戏这一年：2025年沙雕玩家…》（2026-02-10）：“街霸6 EWC：Punk半场开香槟”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.douban.com/doulist/139440143/",
+        "note": "豆瓣豆列《瓜、饭圈二三事》收录帖（2026-07-19）：半场开香槟源自2005年欧冠决赛AC米兰传闻，真假存疑",
+        "lang": "zh"
+      }
+    ]
   }
 ]
