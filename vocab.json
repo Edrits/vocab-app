@@ -7224,5 +7224,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "hei-chan",
+    "hanzi": "黑产",
+    "pinyin": "hēichǎn",
+    "literal": "黑 black + 产 industry (short for 黑色产业)",
+    "meaning": "'Black industry': the organised online criminal economy — scams, stolen data, fake accounts, secret filming and the trade in their output. Its sibling 灰产 ('grey industry') covers the legally murky services that feed it, and the pair is often lumped together as 黑灰产. Used by journalists, security people and ordinary netizens alike to mean 'there's a whole paid racket behind this'.",
+    "meaning_zh": "“黑色产业”的简称，指通过网络、以违法手段牟利的整条产业链，如电信诈骗、倒卖个人信息、批量养号、偷拍贩卖等。与之相对的“灰产”游走在法律边缘，常为黑产提供辅助，两者合称“黑灰产”。网友说“背后有黑产”，意思是这不是个别行为，而是有人在成规模地赚钱。",
+    "example": "这么多一模一样的评论，背后肯定有黑产在刷。",
+    "example_pinyin": "Zhème duō yīmú-yīyàng de pínglùn, bèihòu kěndìng yǒu hēichǎn zài shuā.",
+    "example_translation": "That many identical comments — there's definitely a black-market operation behind it.",
+    "context": "A term from China's internet-security and legal world that has become everyday vocabulary. A 2021 Guangming Daily piece (republished by The Paper) quotes Peking University law professor Xue Jun: 黑产 is online crime that directly breaks the law, while 灰产 'walks the edge of the law' and often supports it — the same piece explains the coupon-farming 羊毛党 ('wool party') as part of the wider ecosystem. It sat on Baidu's real-time hot search on 5 November 2026 in a media investigation into the '厕所偷拍黑产' (toilet secret-filming black industry), estimated to involve about 140,000 women and spanning everything from camera sales to selling the footage. Netizens attach it to any scam economy: 诈骗黑产, 偷拍黑产, AI黑产.",
+    "category": "slang",
+    "date_added": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_11800170",
+        "note": "澎湃新闻转载光明日报《网络黑灰产：法律规制如何赶上变化》(2021-03-20)，薛军定义黑产/灰产",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-05：“偷拍黑产”调查：约14万女性被偷拍",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jin-tuikuan",
+    "hanzi": "仅退款",
+    "pinyin": "jǐn tuìkuǎn",
+    "literal": "仅 only + 退款 refund",
+    "meaning": "'Refund only': the online-shopping option of getting your money back without returning the goods. Beyond the button itself it names a whole culture war between buyers and sellers — shoppers who abuse it to get things free, and merchants left 货款两空 (with neither the goods nor the money).",
+    "meaning_zh": "网购售后规则：买家收到货后无需退货，直接申请退回货款，原本用于商品破损、与描述不符等情况。后来被一些人当作“薅羊毛”的工具，商家“货款两空”，于是“仅退款”也成了买卖双方互相吐槽的话题。",
+    "example": "外卖都吃光了还申请仅退款，这也太离谱了。",
+    "example_pinyin": "Wàimài dōu chī guāng le hái shēnqǐng jǐn tuìkuǎn, zhè yě tài lípǔ le.",
+    "example_translation": "Eating the whole takeaway and then claiming a refund-only — that's outrageous.",
+    "context": "Pinduoduo introduced 仅退款 in 2021, first for fresh produce and later across all categories; JD, Taobao, Douyin and Kuaishou followed. It was meant to protect buyers, but CCTV (via China Daily, 23 April 2025) said it had '变了味' and become a tool for 薅羊毛 (fleecing sellers), with regulators citing merchants losing both goods and payment — so in spring 2025 1688, Taobao, Douyin and others announced they would scrap platform-enforced refund-only and leave it to sellers. The phrase lives on as shorthand for freeloading buyers: on 5 November 2026 Baidu's hot search carried a delivery rider who collected a refund-only takeaway order and found it almost entirely eaten.",
+    "category": "slang",
+    "date_added": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://cn.chinadaily.com.cn/a/202504/23/WS6808dfb1a310f54263474090.html",
+        "note": "中国日报网（央视新闻）2025-04-23：多家电商平台将全面取消“仅退款”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-05：骑手取回仅退款外卖发现快被吃光",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zou-ge-mianr",
+    "hanzi": "走个面儿",
+    "pinyin": "zǒu ge miànr",
+    "literal": "走 go/walk + 个 a + 面儿 face",
+    "meaning": "Beijing dialect for 'give us a bit of face' — turn up, show support, do someone a favour for the relationship's sake. Since June 2026 netizens use it with an ironic edge, for being leaned on to support something out of 人情 (personal obligation) rather than merit, e.g. buying a film ticket as a favour.",
+    "meaning_zh": "北京方言，意为“给个面子、捧个场”。2026年6月韩红为电影《抓特务》拉票房时说“能不能走个面儿”，被批“人情绑架”，此后网友常带调侃地用它指靠人情、面子拉人捧场。",
+    "example": "朋友新开的店，大家走个面儿，去吃一顿吧。",
+    "example_pinyin": "Péngyou xīn kāi de diàn, dàjiā zǒu ge miànr, qù chī yī dùn ba.",
+    "example_translation": "It's a friend's new restaurant — let's all show our faces and go eat there once.",
+    "context": "An old Beijing neighbourhood phrase that went national in late June 2026. At the premiere of Feng Xiaogang's film 《抓特务》, its music producer, the singer Han Hong, appealed to Beijingers: '北京两千多万人口，咱们北京的兄弟姐妹，爷们娘们，能不能走个面儿？' Critics called it emotional coercion — a cinema ticket is a purchase, not a favour — and Han Hong apologised on social media on 30 June (Yangzi Evening News). Commentary re-posted by The Paper (2 July) argued that box office should rest on a film's '里子' (substance), not '面子'. The phrase was widely turned into memes; it now carries a whiff of 'supporting something because you've been guilt-tripped into it'.",
+    "category": "meme",
+    "date_added": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.yzwb.net/news/wy/202606/t20260630_367673.html",
+        "note": "扬子晚报/紫牛新闻 2026-06-30：韩红“走个面儿”言论引争议并道歉",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_33500731",
+        "note": "澎湃新闻·舆论场 2026-07-02：中国文艺网谈“走个面儿”引争议",
+        "lang": "zh"
+      }
+    ]
   }
 ]

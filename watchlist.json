@@ -270,5 +270,21 @@
     "last_seen": "2026-11-04",
     "sightings": 1,
     "note": "Fan-circle word for a celebrity moving up a tier (咖位), opposite of deck word 糊咖 (Weibo hot search 2026-11-03 '闫桉 升咖'). No source opened defines it yet."
+  },
+  {
+    "hanzi": "翻红",
+    "reason": "backfill",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "sightings": 1,
+    "note": "'Back in fashion': a faded star/show/song suddenly popular again (Baidu hot search 2026-11-05: 北电院长谈《我的前半生》翻红). Established, not in deck."
+  },
+  {
+    "hanzi": "羊毛党",
+    "reason": "backfill",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "sightings": 1,
+    "note": "Organised coupon/promotion fleecers (薅羊毛 groups with a 羊头 leader, joining = 上车); defined in Guangming Daily via The Paper 2021-03-20 (thepaper.cn/newsDetail_forward_11800170). Pairs with deck words 黑产 and 仅退款."
   }
 ]
