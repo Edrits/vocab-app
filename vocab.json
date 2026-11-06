@@ -7302,5 +7302,62 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "fan-hong",
+    "hanzi": "翻红",
+    "pinyin": "fān hóng",
+    "literal": "flip / turn over + red (popular)",
+    "meaning": "To become popular again: a faded star, old TV drama, song or brand suddenly back in the spotlight, usually after netizens dig up old clips (考古) and remix them. The opposite of 过气 (washed-up); often paired with its mirror 翻车 (an old show that ages badly).",
+    "meaning_zh": "指过气、沉寂的明星或老剧、老歌、老品牌因某个契机（网友考古、短视频二创、综艺曝光）重新走红。与“过气”相对，常和“翻车”对举。",
+    "example": "这部十年前的老剧最近在短视频上翻红了，主演也跟着接到新代言。",
+    "example_pinyin": "Zhè bù shí nián qián de lǎo jù zuìjìn zài duǎn shìpín shàng fān hóng le, zhǔyǎn yě gēnzhe jiē dào xīn dàiyán.",
+    "example_translation": "This decade-old drama has just blown up again on short-video apps, and its lead has landed new endorsements off the back of it.",
+    "context": "红 (red) has long meant 'popular' in Chinese showbiz, and 翻红 was once a stock-market word for shares climbing back into the red (up, in Chinese colour convention). It became an entertainment staple in 2022 when fitness streamer 刘畊宏 and singer 王心凌 (after 《乘风破浪的姐姐3》) both staged sudden comebacks — Jiemian's trend columnist wrote that a comeback is 'no longer a rare case' and that brands can 翻红 too. By 2026 it is the standard verb for the nostalgia economy: Yangtse Evening Post (Sept 2026) described a wave of old dramas either '翻红' or '翻车' as audiences re-judge them by today's values, and on 2026-11-05 Baidu hot search ran a story on the 2017 drama 《我的前半生》翻红.",
+    "category": "slang",
+    "date_added": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.jiemian.com/article/7667717.html",
+        "note": "界面新闻 2022-06-29：从刘畊宏女孩到王心凌男孩，破解翻红的流量密码",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/wy/202609/t20260909_391017.html",
+        "note": "扬子晚报 2026-09-09：为啥老剧“翻红”与“翻车”齐飞？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yang-mao-dang",
+    "hanzi": "羊毛党",
+    "pinyin": "yáng máo dǎng",
+    "literal": "sheep's wool + party / gang",
+    "meaning": "Coupon fleecers: people who systematically harvest platform promotions, sign-up bonuses and discounts (薅羊毛, 'plucking the sheep's wool') at little or no cost. Ranges from thrifty deal-hunters to organised grey-market crews with bots and fake accounts; the group leader is the 羊头 (sheep's head) and joining a deal run is 上车 (getting on the bus).",
+    "meaning_zh": "专门研究各平台优惠、补贴、新人红包，以极低或零成本“薅羊毛”的人群。轻则是精打细算的普通用户，重则是用批量账号、脚本的职业化团伙，属网络黑灰产的一环。群主叫“羊头”，跟风参与叫“上车”。",
+    "example": "新用户立减五十的活动一上线，就被羊毛党连夜薅光了。",
+    "example_pinyin": "Xīn yònghù lìjiǎn wǔshí de huódòng yí shàngxiàn, jiù bèi yáng máo dǎng liányè hāo guāng le.",
+    "example_translation": "The moment the '50 yuan off for new users' deal went live, the coupon fleecers stripped it bare overnight.",
+    "context": "From the saying 羊毛出在羊身上 ('the wool comes off the sheep' — the customer pays in the end); 薅羊毛 flipped it into grabbing a platform's freebies. 每日经济新闻 (Dec 2017) reported that most 羊毛党 had set up personal websites, studios and groups and were running at scale; 第一财经 (Nov 2019) found WeChat groups of 400+ members each, run by a 羊头 — the best-informed member — who posts deals and organises orders and refunds, and put the hidden crowd at several hundred thousand. Guangming Daily's 2021 feature on 网络黑灰产 (reposted by The Paper) defined 羊毛党, 羊头 and 上车 as in-group terms. The word swings between admiring (a savvy shopper) and accusing (a grey-market raider). Pairs with 黑产 and 仅退款.",
+    "category": "social",
+    "date_added": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_11800170",
+        "note": "澎湃新闻转载光明日报 2021-03-20：网络黑灰产——法律规制如何赶上变化（定义羊毛党、羊头、上车）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.nbd.com.cn/articles/2017-12-12/1170309.html",
+        "note": "每日经济新闻 2017-12-12：“进击”的“羊毛党”：规模化 产业化 智能化",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yicai.com/news/100400775.html",
+        "note": "第一财经 2019-11-12：“薅羊毛”玩法探秘（羊毛群与“羊头”）",
+        "lang": "zh"
+      }
+    ]
   }
 ]
