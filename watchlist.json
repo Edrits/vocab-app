@@ -208,14 +208,6 @@
     "note": "'Machine content' — how much of a piece of work was done by AI (cf. 含金量); seen once in a Baidu-indexed workplace AI meme round-up alongside 养龙虾. No source opened confirms it."
   },
   {
-    "hanzi": "字节时代",
-    "reason": "unverified",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-11-04",
-    "sightings": 2,
-    "note": "'The ByteDance era': commentator 秦朔's claim (on July 2026 app-usage data, 红果短剧 now China's no.4 app) that ByteDance dominates Chinese attention; ByteDance VP 李亮 called it nonsense on Weibo, 2026-10-27 (English-language reports only). Possible news-lane item if a Chinese source confirms it caught on. | 2026-11-04: 2026-11-04: Baidu hot search '抖音李亮再次回应“字节时间”' — the 秦朔 vs ByteDance row is still running (now reportedly a lawsuit), and the Chinese handle seems to be 字节时间. Still no Chinese source opened."
-  },
-  {
     "hanzi": "形成闭环",
     "reason": "unverified",
     "first_seen": "2026-10-31",
@@ -286,5 +278,13 @@
     "last_seen": "2026-11-06",
     "sightings": 1,
     "note": "From Mango TV's 后会友期 (许飞/厉娜 feud); Baidu hot search 2026-11-06 '2026内娱最贵的两个字叫厉娜'. Spin-offs: '许飞兑水还能喝十年', '钓成翘嘴'. Tied to one show; deck already has 画地为牢 from the same moment."
+  },
+  {
+    "hanzi": "前额叶受损",
+    "reason": "backfill",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "sightings": 1,
+    "note": "'Prefrontal damage': jokey 2026 self-diagnosis for procrastination, zoning out and short temper (央视新闻 via 中新网 2026-05-11 calls it a 社交平台高频词 / 网红病; 京报网 2026-07-22). Sibling of deck words 前额叶友好 and 富养前额叶 — add if distinct enough."
   }
 ]

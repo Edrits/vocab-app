@@ -7359,5 +7359,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "qian-e-ye-you-hao",
+    "hanzi": "前额叶友好",
+    "pinyin": "qián'éyè yǒuhǎo",
+    "literal": "prefrontal-lobe + friendly",
+    "meaning": "Describes a person (or job, or relationship) that protects rather than drains your mental energy: emotionally steady, easy to communicate with, never leaving you exhausted or second-guessing. Mostly heard as 前额叶友好型人格 / 前额叶友好型伴侣, a new must-have on the dating checklist.",
+    "meaning_zh": "形容能保护而不是消耗你“前额叶”的人（也可说工作、关系）：情绪稳定、沟通顺畅、相处不累、不让你内耗。常说“前额叶友好型人格”“前额叶友好型伴侣”，被当作新的择偶标准。",
+    "example": "我不要求他多有钱，只要前额叶友好就行。",
+    "example_pinyin": "Wǒ bù yāoqiú tā duō yǒuqián, zhǐyào qián'éyè yǒuhǎo jiù xíng.",
+    "example_translation": "I don't need him to be rich — just someone who doesn't fry my brain.",
+    "context": "Part of 2026's pop-neuroscience craze, when 前额叶受损 ('prefrontal damage') became a jokey self-diagnosis for procrastination and short tempers and videos urged people to 'put the prefrontal cortex on your dating criteria'. By April 2026 Tencent News ran '「前额叶友好」，正在成为新的择偶标准', defining it as someone who 'protects rather than consumes your prefrontal function' and framing it as a step beyond 情绪稳定: not just calm, but actively saving you energy. The Paper noted it spreading to jobs too ('工作，要找前额叶友好型的'). It hit Baidu hot search again on 2026-11-07 ('前额叶友好成交友上上品'). Experts point out there's little science behind it — it's a metaphor. Compare 富养前额叶 (pampering your own prefrontal cortex) and 情绪价值.",
+    "category": "social",
+    "date_added": "2026-11-07",
+    "sources": [
+      {
+        "url": "https://news.qq.com/rain/a/20260414A02FD700",
+        "note": "腾讯新闻·第十一诊室《「前额叶友好」，正在成为新的择偶标准》(2026-04-14)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32992242",
+        "note": "澎湃新闻·湃客《前额叶，扛下了年轻人所有的错》(2026-04-20)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-07：“前额叶友好”成交友“上上品”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "piao-liang-fan",
+    "hanzi": "漂亮饭",
+    "pinyin": "piàoliang fàn",
+    "literal": "pretty + meal",
+    "meaning": "A 'pretty meal': photogenic, beautifully plated food in a stylish restaurant, chosen as much for the photos and mood as the taste. Also the restaurants themselves. Often said with a wink — 吃顿漂亮饭 is a small treat or a date-night outing.",
+    "meaning_zh": "外观精美、适合拍照分享的高颜值餐食，也指主打环境和出片率的网红餐厅。吃的是颜值、氛围和情绪价值，常说“去吃顿漂亮饭”。",
+    "example": "周末约闺蜜去吃顿漂亮饭，拍照比吃饭时间还长。",
+    "example_pinyin": "Zhōumò yuē guīmì qù chī dùn piàoliang fàn, pāizhào bǐ chīfàn shíjiān hái cháng.",
+    "example_translation": "Took my best friend out for a pretty meal at the weekend — we spent longer taking photos than eating.",
+    "context": "Born on 小红书 and Douyin. 36氪 (July 2025) traces affordable 漂亮饭 back to Wuhan several years earlier and says it 'really took off in 2024', moving beyond the old version — fine dining at several hundred yuan a head — to mid-priced, colourful 'high-looks' meals; by then 小红书 had some 1.8m 漂亮饭 notes and Douyin topic plays of 500m. Chains like NEED and 梅果 drew queues of hours, then pushed into lower-tier cities as first-tier buzz cooled (The Paper, June 2026). There's backlash too: the hashtag #漂亮饭受害者联盟# collects complaints that the food doesn't live up to the looks. Still on Baidu hot search in Nov 2026 ('年轻人排队几小时只为打卡漂亮饭').",
+    "category": "slang",
+    "date_added": "2026-11-07",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3361183219714051",
+        "note": "36氪·潮汐商业评论《“漂亮饭”占领三里屯》(2025-07-02)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_33299092",
+        "note": "澎湃号·红餐网 on 漂亮饭 brands moving to lower-tier cities (2026-06-04)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-07：年轻人排队几小时只为打卡“漂亮饭”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zi-jie-shi-jian",
+    "hanzi": "字节时间",
+    "pinyin": "Zìjié shíjiān",
+    "literal": "ByteDance + time/era",
+    "meaning": "'The ByteDance era': the claim that Chinese internet attention has shifted from Tencent (腾讯时间) to ByteDance, and the very public row it sparked in late 2026. A handle for ByteDance's dominance of screen time.",
+    "meaning_zh": "“字节时间”：认为中国互联网正从“腾讯时间”转向“字节时间”，即字节系应用占据了用户最多的使用时长；也指2026年10月由此引发的秦朔与抖音副总裁李亮的公开论战。",
+    "example": "刷完抖音刷红果，咱们早就活在字节时间里了。",
+    "example_pinyin": "Shuā wán Dǒuyīn shuā Hóngguǒ, zánmen zǎojiù huó zài Zìjié shíjiān lǐ le.",
+    "example_translation": "Douyin, then Hongguo short dramas — we've been living in ByteDance time for ages.",
+    "context": "On 2026-10-26 financial commentator 秦朔 published '可怕的红果与中国互联网的字节时间' on 秦朔朋友圈, citing QuestMobile data via a Nomura report: in July 2026 ByteDance apps took 40.9% of time spent among China's top-50 mobile apps, Tencent 29.1%. Douyin Group VP 李亮 hit back on Weibo calling it sloppy (mobile top-50 only), with phrases like '非蠢即坏' and hints that 秦朔 was speaking for interested parties. The week-long spat ended with 秦朔 suing 李亮 for defamation in a Shanghai court; 李亮 said he would 'actively respond' (IT之家 via 凤凰网, 2026-11-03), and it was still on Baidu hot search on 2026-11-04. Recorded for documentary value: the moment ByteDance's grip on attention (Douyin, 红果短剧) got its own label.",
+    "category": "news",
+    "date_added": "2026-11-07",
+    "sources": [
+      {
+        "url": "https://tech.ifeng.com/c/8xkGytK0r4I",
+        "note": "凤凰网科技/IT之家：秦朔就名誉权纠纷起诉抖音集团副总裁李亮 (2026-11-03)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-04：抖音李亮再次回应“字节时间”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
