@@ -7447,5 +7447,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "qian-e-ye-shou-sun",
+    "hanzi": "前额叶受损",
+    "pinyin": "qián'éyè shòusǔn",
+    "literal": "prefrontal lobe + damaged",
+    "meaning": "'My prefrontal cortex is damaged': a jokey self-diagnosis young people use to explain away procrastination, forgetfulness, zoning out, indecision or snapping at people. It's a catch-all excuse ('it's not me, it's my brain'), not a medical claim.",
+    "meaning_zh": "年轻人的自嘲式“自我确诊”：把拖延、健忘、注意力不集中、犹豫不决、情绪失控等状态都归咎于“前额叶受损”，是一种万能借口，并非真的医学诊断。",
+    "example": "又刷了一晚上手机，作业一个字没写，我的前额叶肯定受损了。",
+    "example_pinyin": "Yòu shuā le yī wǎnshang shǒujī, zuòyè yī gè zì méi xiě, wǒ de qián'éyè kěndìng shòusǔn le.",
+    "example_translation": "Scrolled my phone all night again and didn't write a single word of my homework — my prefrontal cortex is definitely damaged.",
+    "context": "A 2026 example of neuroscience vocabulary escaping into self-mockery. By May 2026 CCTV News (reposted by 中新网, 2026-05-11) was calling it a high-frequency word on social platforms and a 网红病 ('internet-famous ailment'): people match themselves against symptom lists and blame the prefrontal cortex for every lapse, and some went on to search for 'prefrontal repair' methods or buy supplements claiming to 补前额叶. A psychiatrist at Beijing Anding Hospital explained the gap: in neurology 损伤 means tissue really broken, whereas what people describe is more like 'the hardware's fine, the memory's just overloaded'. It belongs to the same brain-science family as the deck words 富养前额叶 and 前额叶友好 — this one is the complaint, those are the cure.",
+    "category": "slang",
+    "date_added": "2026-11-08",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com/life/2026/05-11/10618804.shtml",
+        "note": "中新网（转央视新闻客户端）2026-05-11：“前额叶受损”成社交平台高频词，专家解读",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "bai-you-shou",
+    "hanzi": "白幼瘦",
+    "pinyin": "bái yòu shòu",
+    "literal": "pale + childlike + thin",
+    "meaning": "Loaded label for (and usually a criticism of) the narrow beauty ideal of pale skin, a young or childlike look and extreme thinness. Mostly used disapprovingly — '白幼瘦审美' is called 畸形审美 ('warped beauty standards') by critics, state media and regulators. Also written 白瘦幼.",
+    "meaning_zh": "指“皮肤白、显年幼、身材瘦”的单一审美标准，多用作批评，常与“畸形审美”“身材焦虑”“容貌焦虑”连用。也写作“白瘦幼”。",
+    "example": "别再被白幼瘦审美绑架了，健康才是最好看的。",
+    "example_pinyin": "Bié zài bèi bái yòu shòu shěnměi bǎngjià le, jiànkāng cái shì zuì hǎokàn de.",
+    "example_translation": "Stop letting the pale-young-thin ideal hold you hostage — healthy is what looks best.",
+    "context": "The term names a narrow look, and the backlash against it is now mainstream. A People's Daily satire supplement piece (2023-06-09) glossed 白瘦幼 as 'pale skin, childlike appearance, thin figure' and linked it to fillers for 'elf ears', skull-top injections and calf-nerve surgery after a 15-year-old died of anorexia; a 2025 China Youth Daily survey (via 中新网) found 72.4% of 1,340 young respondents wanted 'natural beauty' to replace the 白幼瘦 standard; and in Oct 2025 China's health commission warned of institutions 'promoting warped standards such as 白幼瘦' to minors. It was back on Baidu hot search on 2026-11-08 with a headline on staying clear-headed amid warped beauty standards. Know it as the critics' word: hardly anyone calls themselves 白幼瘦 approvingly.",
+    "category": "social",
+    "date_added": "2026-11-08",
+    "sources": [
+      {
+        "url": "https://paper.people.com.cn/fcyym/html/2023-06/09/content_25994035.htm",
+        "note": "人民日报《讽刺与幽默》2023-06-09《别让畸形审美侵蚀你的健康》：“白瘦幼”（白皮肤、幼龄态、瘦身材）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/sh/2025/07-10/10445485.shtml",
+        "note": "中新网（转中国青年报）2025-07-10：超七成受访青年力挺“自然美”取代“白幼瘦”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://health.huanqiu.com/article/4OwlW07XdNR",
+        "note": "环球网健康 2025-10-31：有的机构鼓吹“白幼瘦”等畸形审美观（未成年人医美）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ai-man-ju",
+    "hanzi": "AI漫剧",
+    "pinyin": "AI màn jù",
+    "literal": "AI + comic + drama",
+    "meaning": "AI-made comic-style serial videos: web novels or comics turned into short animated episodes (usually 1–5 minutes) with generative AI, released and monetised like vertical micro-dramas (短剧). The booming content category of 2025–26.",
+    "meaning_zh": "用生成式AI把漫画、网文或原创故事做成的动画短剧，单集多为1到5分钟，按短剧模式分集连载、付费变现。2025年被称为“爆发元年”。",
+    "example": "我表弟在宿舍里用AI做漫剧，一部重生题材居然赚了几十万。",
+    "example_pinyin": "Wǒ biǎodì zài sùshè lǐ yòng AI zuò màn jù, yī bù chóngshēng tícái jūrán zhuàn le jǐ shí wàn.",
+    "example_translation": "My cousin makes AI comic dramas in his dorm, and one rebirth story actually earned him a few hundred thousand.",
+    "context": "Of the moment (2025–26). Comic-style dramas (漫剧) existed from around 2015 but were mocked as 'PPT animation' — stiff, niche, and costing tens of thousands of yuan a minute. Generative AI cut that to roughly ¥1,000–5,000 a minute (36氪 trend report, 2026-03-30), and the format took off: Science and Technology Daily (2026-03-19) calls 2025 the breakout year, at a market of ¥16.8bn with 400–500 new titles a day, and DataEye counted 14,634 launches in January 2026 alone. 红果短剧, 快手, 爱奇艺 and 腾讯视频 all built channels; the hit genres are web-novel staples — 系统, 穿越, 重生, 末世. Critics point to copyright fights, copy-paste plots and 'wild growth' driven by capital and traffic. On 2026-11-08 a university student's dorm-room AI漫剧 team, reportedly making over ¥3m, was on Baidu hot search. Worth knowing as the clearest case of AI reshaping China's short-video entertainment.",
+    "category": "news",
+    "date_added": "2026-11-08",
+    "sources": [
+      {
+        "url": "https://www.stdaily.com/web/gdxw/2026-03/19/content_488121.html",
+        "note": "科技日报 2026-03-19《AI漫剧：告别“草台班子”，走向“掘金赛道”》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/3744995470786816",
+        "note": "36氪 2026-03-30《2026年「AI漫剧」趋势报告》（靠谱二次元）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xue-zu-shi-lu",
+    "hanzi": "削足适履",
+    "pinyin": "xuē zú shì lǚ",
+    "literal": "pare + feet + fit + shoes",
+    "meaning": "To cut your feet to fit the shoes: forcing yourself (or something) to fit an unsuitable standard at real cost, rather than changing the standard. A stock rebuke for people harming themselves to chase beauty norms or other rigid templates.",
+    "meaning_zh": "把脚削小去适应鞋子，比喻不顾实际、勉强迁就不合理的标准或条件，甚至不惜伤害自己。网上常用来批评为了迎合审美、考核或模板而委屈、损害自己的做法。",
+    "example": "为了追白幼瘦去饿肚子、做手术，这不就是削足适履吗？",
+    "example_pinyin": "Wèile zhuī bái yòu shòu qù è dùzi, zuò shǒushù, zhè bù jiù shì xuē zú shì lǚ ma?",
+    "example_translation": "Starving yourself and getting surgery to chase the pale-young-thin look — isn't that just cutting your feet to fit the shoes?",
+    "context": "A classical idiom that commentators and netizens reach for whenever a standard is bending people out of shape. The People's Daily satire supplement's 2023 piece on 白瘦幼 beauty culture — elf-ear fillers, skull-top injections, calf-nerve surgery, a teenager's death from anorexia — summed it up: 'being swept along by warped aesthetics is no different from 削足适履'. Use it for any case of damaging yourself to fit someone else's template. Pairs naturally with today's 白幼瘦.",
+    "category": "chengyu",
+    "date_added": "2026-11-08",
+    "sources": [
+      {
+        "url": "https://paper.people.com.cn/fcyym/html/2023-06/09/content_25994035.htm",
+        "note": "人民日报《讽刺与幽默》2023-06-09《别让畸形审美侵蚀你的健康》：“被畸形的审美裹挟，这无异于削足适履”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://mandarin-banana.com/words/21401",
+        "note": "Mandarin Banana dictionary entry for 削足适履 (literal and figurative meaning)",
+        "lang": "en"
+      }
+    ]
   }
 ]
