@@ -7551,5 +7551,114 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "dan-zi-fei-du-du",
+    "hanzi": "胆子真是肥嘟嘟的",
+    "pinyin": "dǎnzi zhēn shì féi dūdū de",
+    "literal": "guts / really / are / chubby-chubby",
+    "meaning": "'You've got some nerve' — a scolding said in a deliberately cute, squishy register. The reduplicated 肥嘟嘟 (plump, chubby) replaces the usual 胆子真大 or 胆子肥了 (you've grown bold), so the telling-off sounds more like a pout than a threat. Used for anyone (or any cat) who has overstepped, usually as a joke.",
+    "meaning_zh": "“你胆子真大”的萌化说法，用叠词“肥嘟嘟”代替常见的“胆子肥了”，把警告说得软萌好笑，像撒娇式的放狠话。多用来调侃对方（或自家猫）太敢了、越界了。",
+    "example": "小咪，你敢偷吃我的鱼，胆子真是肥嘟嘟的！",
+    "example_pinyin": "Xiǎo mī, nǐ gǎn tōu chī wǒ de yú, dǎnzi zhēn shì féi dūdū de!",
+    "example_translation": "Kitty, you dared to steal my fish? You've got some nerve, haven't you!",
+    "context": "Took off in August 2026 from a takeaway chat story: a customer asked a delivery rider to pick up cigarettes on the way for a tip, the merchant tried to step in and take the job instead, and the rider shot back '你胆子真是肥嘟嘟的'. Because the rider was a Meituan rider, netizens redrew Meituan's yellow kangaroo mascot as a fat kangaroo for the reaction stickers, which flooded comment sections. Meituan played along — stressing people should use its official stickers, with the subtext that its kangaroo is not fat at all — and released its own; brands such as Mixue and Miniso joined in, and Kunming police even used the line in a public warning. It also became a template for creators ('小咪，你敢撞我的车，胆子真是肥嘟嘟的'). Digitaling put it in its first-half 2026 top 30 buzzwords.",
+    "category": "meme",
+    "date_added": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1568839.html",
+        "note": "数英 2026-08-26：《“胆子肥嘟嘟”火遍全网，品牌们集体吻了上来》——骑手带烟、商家抢单的出处，美团袋鼠表情包与官方回应，昆明警方等使用",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英《2026上半年网络热词TOP30》：“你的胆子真是肥嘟嘟的啊”出自美团骑手与顾客、商家的聊天",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "nan-bao",
+    "hanzi": "男宝",
+    "pinyin": "nán bǎo",
+    "literal": "male / baby (宝 as in 宝宝)",
+    "meaning": "'Baby man' — a mocking gender-war label for men as a group, casting adult men as pampered, self-centred babies whom society coddles and who enjoy built-in advantages (in jobs, in family priorities). Derogatory and loaded; used mainly by women in online gender debates, often in a light, sarcastic tone.",
+    "meaning_zh": "带有讽刺意味的性别话题标签，把成年男性统称为“宝宝”，讥讽他们以自我为中心、被社会宠着，在就业、生育等方面享有天然优势。属贬义、易引发争吵的词，多见于女性网友参与的性别争论中，语气常带调侃。",
+    "example": "一点家务都不做还嫌饭菜咸，真是男宝本宝了。",
+    "example_pinyin": "Yīdiǎn jiāwù dōu bù zuò hái xián fàncài xián, zhēn shì nán bǎo běn bǎo le.",
+    "example_translation": "Won't lift a finger round the house and then complains the food's too salty — a proper baby man.",
+    "context": "Spread on Weibo in 2022 as a hashtag in China's online gender debates — not to be confused with the older 妈宝男 (a mummy's boy), which targets an individual man's dependence on his mother. 男宝 is broader: it isn't about any particular family situation but sweeps up men as a group as coddled adults. Two Curtin University (Perth) social scientists, Chen Yifan and Gong Qian, studied 43 posts tagged 男宝 from April to June 2022, reported by China Daily in May 2023: they found it was used mainly by women sensitive to gender issues, in a light-hearted way, to point at men's advantages in employment and in reproductive priorities. It stings because it turns the language of babying back on men — the same 宝 that parents and partners use as an endearment. A word to recognise rather than throw around.",
+    "category": "social",
+    "date_added": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://www.163.com/dy/article/I4D0UMO60530SFP3.html",
+        "note": "中国日报（网易号）2023-05-10：《〈脱口秀大会〉上的“妈宝男”吐槽火了！什么是妈宝男，研究称……》——科廷大学研究分析43条“男宝”标签微博",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zuo-jian-zi-fu",
+    "hanzi": "作茧自缚",
+    "pinyin": "zuò jiǎn zì fù",
+    "literal": "make / cocoon / self / bind",
+    "meaning": "To spin a cocoon round yourself: to get trapped by your own actions, schemes or rules — hoist by your own petard. Netizens use it ruefully of themselves when something they started (a promise, a persona, a joke) comes back to tie them up.",
+    "meaning_zh": "像蚕吐丝作茧把自己裹住，比喻自己做的事、定的规矩或设的局反过来困住了自己，自食其果。网友常用来自嘲：自己挖的坑、立的人设或开的玩笑最后把自己套住了。",
+    "example": "当初是我说要每天打卡的，现在天天被催更，真是作茧自缚。",
+    "example_pinyin": "Dāngchū shì wǒ shuō yào měitiān dǎkǎ de, xiànzài tiāntiān bèi cuī gēng, zhēn shì zuò jiǎn zì fù.",
+    "example_translation": "I'm the one who promised to post every day, and now I get nagged for updates daily — I've well and truly trapped myself.",
+    "context": "A classic idiom built on the image of a silkworm sealing itself inside its own cocoon (near-synonyms 吐丝自缚, 造茧自缚). It got a fresh netizen moment in November 2026 as a sequel to deck word 画地为牢: singer 许飞's tearful line to estranged friend 厉娜 on Mango TV's 《后会友期》, '我画地为牢', had become a meme, and when fans chanted it at her, her joking comeback '我作茧自缚' itself hit the trending lists — '许飞 我作茧自缚' was on Weibo hot search on 8 November 2026 and Baidu hot search on 9 November. The pairing is the joke: 画地为牢 is drawing yourself a prison, 作茧自缚 is weaving one round yourself. In everyday comment-section use it's the go-to self-deprecating line for problems of your own making.",
+    "category": "chengyu",
+    "date_added": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://hsklord.com/dictionary/%E4%BD%9C%E8%8C%A7%E8%87%AA%E7%BC%9A",
+        "note": "HSK Lord dictionary entry: 作茧自缚 — to spin a cocoon around oneself; enmeshed in a trap of one's own devising; synonyms 吐丝自缚, 造茧自缚",
+        "lang": "en"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-11-08?sort=hot",
+        "note": "微博热搜历史存档 2026-11-08：“许飞 我作茧自缚”“许飞 厉娜”上榜",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜 2026-11-09：“许飞 我作茧自缚”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xiao-fei-san-jie-mei",
+    "hanzi": "消费三姐妹",
+    "pinyin": "xiāofèi sān jiěmèi",
+    "literal": "consumer / three / sisters",
+    "meaning": "'The consumer trio' — market nickname for three Hong Kong-listed 'new consumption' darlings: Pop Mart (泡泡玛特, Labubu's maker), Laopu Gold (老铺黄金) and Mixue (蜜雪冰城 / 蜜雪集团, the budget bubble-tea chain). Also 港股三姐妹 or 新消费三姐妹. Shorthand for the 2025 boom in these stocks — and, by late 2026, for its unwinding.",
+    "meaning_zh": "港股“新消费”代表股泡泡玛特、老铺黄金、蜜雪集团（蜜雪冰城）的合称，也叫“港股三姐妹”“新消费三姐妹”。2025年三家股价齐飞，成为新消费热潮的象征；到2026年又因股价大跌被拿来讨论热潮退去。",
+    "example": "去年还在追消费三姐妹，今年一看账户，三姐妹全都不香了。",
+    "example_pinyin": "Qùnián hái zài zhuī xiāofèi sān jiěmèi, jīnnián yī kàn zhànghù, sān jiěmèi quán dōu bù xiāng le.",
+    "example_translation": "Last year I was chasing the consumer trio; this year I checked my account and none of the three look so great any more.",
+    "context": "Coined in spring 2025, when all three soared in Hong Kong: Laopu Gold (listed June 2024 at HK$40.5) passed Tencent on 5 March 2025 at HK$600 a share to become the market's priciest stock (股王); Mixue's March 2025 IPO set a record for frozen subscription money (冻资王); and on 28 April 2025 Pop Mart hit a record HK$195 as the Labubu 3.0 craze set off buying frenzies at home and abroad (36氪/投资界, 'Hong Kong's three sisters have exploded'). The tide then turned: by 14 July 2026 Pop Mart was down about 16% for the year, Laopu Gold about 38% and Mixue about 48% (Shanghai Securities News), blamed on weaker Labubu sales, stretched valuations, gold-price swings and bubble-tea saturation. On 9 November 2026 '消费三姐妹 为什么不香了' (why the consumer trio lost their shine) was on Baidu hot search. A handy time-stamp for the 2025 'new consumption' mania — blind boxes, gold and 'cheap but cheerful' tea.",
+    "category": "news",
+    "date_added": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3269526160216454",
+        "note": "36氪（转投资界）2025-04-28：《港股三姐妹，爆了》——老铺黄金成股王、蜜雪冻资王、泡泡玛特创新高",
+        "lang": "zh"
+      },
+      {
+        "url": "https://stock.10jqka.com.cn/20260715/c678180026.shtml",
+        "note": "上海证券报（同花顺转载）2026-07-15：《港股新消费的进与退》——“港股新消费三姐妹”年内跌幅居前",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜 2026-11-09：“消费三姐妹 为什么不香了”",
+        "lang": "zh"
+      }
+    ]
   }
 ]

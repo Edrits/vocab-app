@@ -1,13 +1,5 @@
 [
   {
-    "hanzi": "魅魔系统",
-    "reason": "niche",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-15",
-    "sightings": 4,
-    "note": "Jokes that influencer 易梦玲 'has a succubus system bound to her' after a change of look; one person, one source. The underlying '绑定了XX系统' format (from 系统流 web novels) may be the durable word if it can be sourced. | 2026-10-15: Re-sighted 2026-10-15 in a Sina hot-topics round-up (易梦玲 '绑定了魅魔系统'); still one person."
-  },
-  {
     "hanzi": "人生只是支线",
     "reason": "unverified",
     "first_seen": "2026-10-13",
@@ -251,9 +243,9 @@
     "hanzi": "XX的天塌了",
     "reason": "unverified",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04",
-    "sightings": 1,
-    "note": "Hyperbolic 'XX's sky has fallen in' for a group hit by bad news (Weibo hot search 2026-11-03 '喜欢买黄金的人天塌了'). Productive formula, but 2026-11-04 searches found only content-farm explainers, no origin. Find a real source before adding."
+    "last_seen": "2026-11-09",
+    "sightings": 2,
+    "note": "Hyperbolic 'XX's sky has fallen in' for a group hit by bad news (Weibo hot search 2026-11-03 '喜欢买黄金的人天塌了'). Productive formula, but 2026-11-04 searches found only content-farm explainers, no origin. Find a real source before adding. | 2026-11-09: Re-sighted 2026-11-08 on Weibo hot search ('我天塌了蒜苔居然是碳水啊'). Still no non-content-farm source for the formula's origin."
   },
   {
     "hanzi": "升咖",
@@ -286,5 +278,29 @@
     "last_seen": "2026-11-08",
     "sightings": 1,
     "note": "Search summary (36氪/虎嗅, 2026) says 前额叶受损 spawned '前额叶文学'; no page opened confirms what it is. Sibling of deck words 前额叶受损/友好/富养前额叶."
+  },
+  {
+    "hanzi": "友无能",
+    "reason": "too-new",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "sightings": 1,
+    "note": "'Friend-incapable' (cf. 爱无能): having many contacts but no close friend to confide in. Netizen label for actor 马天宇 after he said on Mango TV's 后会友期 he has zero close friends and talks to AI when low; Baidu hot search 2026-11-09 '更能共情\"友无能\"的马天宇'. Only Weibo aggregation explainers so far — add if it spreads beyond him with a real source."
+  },
+  {
+    "hanzi": "标记参考文献",
+    "reason": "unverified",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "sightings": 1,
+    "note": "Mock-academic 'cite your references' reply used to needle posts (digitaling 2026 H1 top 30 notes some call it a form of online bullying). 2026-11-09 search found no origin or second source."
+  },
+  {
+    "hanzi": "进城办事",
+    "reason": "niche",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "sightings": 1,
+    "note": "From an adidas jacket listing that literally translated 'errands around town'; adidas made a T-shirt, spawning '穿adi办das' (digitaling 2026 H1 top 30). Looks like a brand meme rather than vocabulary — add only if 进城办事 is used independently."
   }
 ]
