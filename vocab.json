@@ -7660,5 +7660,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "li-na-suffix",
+    "hanzi": "厉娜",
+    "pinyin": "Lì Nà",
+    "literal": "Li Na (a person's name), tacked onto the end of a sentence",
+    "meaning": "A meme, not a word with a fixed sense: people end ordinary statements with ', 厉娜' ('我起床了，厉娜' – 'I'm up, Li Na'), copying a tearful line from a reality show. The name works like a heavy, wistful full stop. It makes a throwaway remark sound like a confession made to someone you lost touch with long ago.",
+    "meaning_zh": "源自综艺《后会友期》的热梗：许飞对多年旧友厉娜哽咽着说出“我画地为牢啊，厉娜。”网友随后在任何普通句子末尾加上“，厉娜”，如“我起床了，厉娜”“我不想上班了，厉娜”，像一个意味深长的句号，让日常小事听起来像在对一个疏远多年的故人倾诉。",
+    "example": "今天又熬夜了，厉娜。",
+    "example_pinyin": "Jīntiān yòu áoyè le, Lì Nà.",
+    "example_translation": "Up late again tonight, Li Na.",
+    "context": "From Mango TV's reunion reality show 《后会友期》 (autumn 2026). Singer 许飞 and her former close friend 厉娜 had fallen out roughly fifteen years earlier over a suspected 'tip-off' (告密) and met again on the show without reconciling. Close to tears, 许飞 told her '我画地为牢啊，厉娜' ('I've drawn a prison around myself, Li Na'; 画地为牢 is already in the deck from the same moment). Netizens began copying the tone and the trailing name. By early November 2026 the Weibo hashtag #我起床了厉娜# had 55.3 million reads and reached the top five of hot search. Mango TV added '厉娜' to the end of its programme listings, and What's on Weibo's 8 Nov 2026 trend round-up asked 'why everyone says Li Na'. A psychologist quoted by 扬子晚报 says the format works because adding a name turns routine news ('I've eaten') into a report to someone who matters, so it carries longing and regret at almost no cost. Tied to one show, so it may fade, but it has crossed from fans to brands and the general feed.",
+    "category": "meme",
+    "date_added": "2026-11-10",
+    "sources": [
+      {
+        "url": "https://www.yzwb.net/news/wy/202611/t20261103_408875.html",
+        "note": "扬子晚报 2026-11-03：厉娜后缀的来源、#我起床了厉娜# 阅读量 5530.6 万、芒果TV节目单加“厉娜”、心理学者解读",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/wy/202611/t20261104_409271.html",
+        "note": "扬子晚报 2026-11-04：许飞“我画地为牢啊，厉娜”成新热梗，网友模仿“我不想上班了，厉娜”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.whatsonweibo.com/china-trend-watch-digital-dementia-and-why-everyone-says-li-na/",
+        "note": "What's on Weibo, China Trend Watch, 8 Nov 2026 – 'Why Everyone Says Li Na' (reality TV meme)",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "fenwei-biancheng",
+    "hanzi": "氛围编程",
+    "pinyin": "fēnwéi biānchéng",
+    "literal": "atmosphere / vibe + programming",
+    "meaning": "'Vibe coding': building software by telling an AI what you want in plain language and accepting what it produces, without writing or closely reading the code yourself. Used straight, in self-mockery ('we don't write code, we vibe'), and as a dig at sloppy AI-generated codebases.",
+    "meaning_zh": "即 Vibe Coding：只用自然语言向AI描述需求、审核结果，代码的具体实现全部交给AI完成的编程方式。既用于正经讨论，也常被程序员拿来自嘲或吐槽AI写出的“屎山”代码。",
+    "example": "这个小程序我一行代码都没写，全靠氛围编程。",
+    "example_pinyin": "Zhège xiǎochéngxù wǒ yì háng dàimǎ dōu méi xiě, quán kào fēnwéi biānchéng.",
+    "example_translation": "I didn't write a single line of this mini-app myself – it was all vibe coding.",
+    "context": "A calque of 'vibe coding', which Andrej Karpathy (OpenAI co-founder, former head of AI at Tesla) coined as a joke on X in February 2025: a new way of programming where you 'fully give in to the vibes' and forget the code exists. Collins Dictionary made 'vibe coding' its 2025 Word of the Year. Chinese netizens rendered it 氛围编程 (半月谈 via 凤凰网, May 2026: '网友将其翻译为“氛围编程”'), and through 2026 it became everyday AI-era vocabulary. Video sites are full of 'make money with vibe coding' tutorials, while programmers trade jokes about the debugging afterwards and argue over whether it is a productivity con (36氪, April 2026). The English 'vibe coding' / 'Vibecoding' is often used interchangeably in Chinese text.",
+    "category": "slang",
+    "date_added": "2026-11-10",
+    "sources": [
+      {
+        "url": "https://tech.ifeng.com/c/8tKIrxdjIIg",
+        "note": "凤凰网科技转半月谈《Vibecoding兴起，程序员被“卷”到了》2026-05-22：网友将Vibecoding翻译为“氛围编程”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://eu.36kr.com/zh/p/3546802998751367",
+        "note": "36氪转新智元 2025-11-10：Karpathy 2025年2月在X上提出vibe coding，《柯林斯词典》2025年度词汇",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/3750319030108935",
+        "note": "36氪《Vibe Coding 是一场生产力骗局吗？》2026-04-03：教程泛滥与程序员的实际体验",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "dao-fan-tian-gang",
+    "hanzi": "倒反天罡",
+    "pinyin": "dào fǎn tiāngāng",
+    "literal": "upend + reverse + the Heavenly Dipper stars",
+    "meaning": "Turning the natural order upside down, especially when roles or rank are reversed: a child lecturing a parent, a junior bossing a senior, a pet ruling the house. Usually a mock-outraged, jokey exclamation. It can also praise someone who boldly defies the rules.",
+    "meaning_zh": "形容颠倒常理、以下犯上，尤其指辈分、身份或等级反过来的情形，如晚辈教训长辈、下级指挥上级。多用于夸张调侃，也可褒义地形容敢于打破常规；东北方言里有“大逆不道”“忤逆不孝”的意思。",
+    "example": "儿子居然管起我玩手机来了，真是倒反天罡！",
+    "example_pinyin": "Érzi jūrán guǎn qǐ wǒ wán shǒujī lái le, zhēn shì dào fǎn tiāngāng!",
+    "example_translation": "My son has started policing my phone time – the world's been turned upside down!",
+    "context": "Sounds like an ancient chengyu but isn't one: it isn't listed in standard dictionaries, and it plays on 天罡, the Daoist Dipper stars, whose 36 天罡星 *Water Margin* (水浒传) gives to the leading Liangshan outlaws. Its Northeastern dialect sense, roughly 'unfilial, defying your elders', went viral in 2024 through the Douyin family-life blogger 耀阳的姥爷 ('Yaoyang's grandpa'). Whenever his grandson's antics infuriated him, the grandfather would bellow it. It spread as a reaction phrase for any role reversal and as a title template on Bilibili ('倒反天罡，但……'). By 2025 tech media were using it for AI models that 'go on strike' and talk back to users (爱范儿).",
+    "category": "slang",
+    "date_added": "2026-11-10",
+    "sources": [
+      {
+        "url": "https://www.hrloo.com/news/290446.html",
+        "note": "三茅网 2024-08-23《“倒反天罡”是什么梗》：含义、天罡与水浒渊源、东北方言义、抖音博主“耀阳的姥爷”带火",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ifanr.com/1637905.md",
+        "note": "爱范儿 2025-09-17《AI「摆烂」冲上热搜》：网友用“倒反天罡”等词调侃AI罢工",
+        "lang": "zh"
+      }
+    ]
   }
 ]
