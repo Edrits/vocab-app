@@ -7748,5 +7748,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ren-kuang",
+    "hanzi": "人矿",
+    "pinyin": "rénkuàng",
+    "literal": "人 person + 矿 ore / mineral deposit",
+    "meaning": "'Human ore': a bitter, self-mocking label for ordinary Chinese people as a raw resource to be mined, used up and discarded by the system: worked hard, squeezed by housing costs, with weak welfare to fall back on. Loaded and politically charged; heavily censored.",
+    "meaning_zh": "自嘲式的网络用语，把普通人比作被开采、消耗后丢弃的“矿产资源”，暗讽劳动被过度榨取、房价透支未来、社会保障薄弱。带有强烈的讽刺和不满色彩，在国内平台被大面积屏蔽。",
+    "example": "我们这代人不就是人矿吗，挖完就扔。",
+    "example_pinyin": "Wǒmen zhè dài rén bú jiù shì rénkuàng ma, wā wán jiù rēng.",
+    "example_translation": "Isn't our generation just human ore? Dug out, then thrown away.",
+    "context": "Popularised by a widely read Zhihu Q&A at the end of 2022, then spread through Douyin, Weibo and self-media and hit Weibo hot search; netizens summed it up as 'Saudi oil, Australian iron, Chinese people'. Commentators noted it is blunter than its predecessors: 韭菜 (leeks) at least grow back, 螺丝钉 (screws) and 牛马 are still tools, but ore is simply exhausted and left as slag (矿渣). After China Digital Times archived the Zhihu thread on 2 January 2023, Zhihu deleted the question and Weibo, Douyin and Zhihu blocked the term in near-unison, which CDT read as a coordinated order. It remains a reference point in discussions of overwork and emigration ('润'), usually typed knowingly because it is still filtered.",
+    "category": "social",
+    "date_added": "2026-11-11",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/%E4%BA%BA%E7%9F%BF",
+        "note": "China Digital Space (CDT) lexicon entry 人矿: origin on Zhihu late 2022, censorship across Weibo/Douyin/Zhihu",
+        "lang": "en"
+      },
+      {
+        "url": "https://asteriskmag.com/issues/08/a-chinese-internet-phrasebook",
+        "note": "Asterisk Magazine, 'A Chinese Internet Phrasebook' (Molly Huang, Nov 2024): 人矿 as 'human ore', trended and was banned in 2023",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "mai-lian",
+    "hanzi": "卖脸",
+    "pinyin": "mài liǎn",
+    "literal": "卖 sell + 脸 face",
+    "meaning": "To 'sell your face': license your likeness (often permanently, for a few hundred yuan) so AI short-drama and digital-human studios can use it. The buyer's side is 收脸 / 买脸 ('collecting / buying faces'). Used with a note of alarm about cheap, irreversible deals.",
+    "meaning_zh": "把自己的肖像权（常常是永久授权、只拿几百元）卖给AI短剧或数字人公司，让对方用你的脸生成角色。买方的说法是“收脸”“买脸”。多带有对贱卖、不可逆和隐私风险的担忧。",
+    "example": "先别急着卖脸，合同里写的是永久授权。",
+    "example_pinyin": "Xiān bié jízhe mài liǎn, hétong lǐ xiě de shì yǒngjiǔ shòuquán.",
+    "example_translation": "Don't rush to sell your face: the contract says the licence is permanent.",
+    "context": "A by-product of the 2026 boom in AI short dramas (see deck word AI漫剧). A Daily Economic News report reprinted by 36氪 (10 April 2026), headlined 'AI短剧“买脸”成风', found casting groups advertising 'permanent portrait rights, 1,500 yuan', 100 yuan for ten minutes and two or three photos, and actors discovering '卖脸' clauses quietly added to their contracts; the acting industry broadly resists it, one source saying selling your face is selling your future in one go. The story kept running: on 11 November 2026 'faces sold for 300 yuan become AI short-drama leads the next second' was on Baidu hot search. Related worries: biometric data leaks and faces scraped from Douyin and Xiaohongshu without consent.",
+    "category": "slang",
+    "date_added": "2026-11-11",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/3760227099558400",
+        "note": "36氪 (reprinting 每经头条), 2026-04-10: '1500元买断一张脸，AI短剧“买脸”成风' — uses 卖脸/收脸, prices and cases",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-11: '300元卖掉的脸下一秒就成AI短剧主角'",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhong-tu-da-zhan",
+    "hanzi": "中土大战",
+    "pinyin": "Zhōng Tǔ dàzhàn",
+    "literal": "中 China + 土 Turkey (土耳其) + 大战 great war",
+    "meaning": "The 'China–Turkey war': a week-long meme-slinging brawl between Chinese and Turkish netizens on X in October 2026, also nicknamed the 'first Twitter world war' (第一次推特世界大战). An online flame war, not a diplomatic dispute.",
+    "meaning_zh": "2026年10月中下旬，中国和土耳其网民在X（推特）上爆发的一场持续约一周的大规模骂战和斗图，也被戏称为“第一次推特世界大战”。是网友之间的玩梗混战，并非外交冲突。",
+    "example": "你看了X上的中土大战没？最后连国足都被拉出来一起骂了。",
+    "example_pinyin": "Nǐ kàn le X shàng de Zhōng Tǔ dàzhàn méi? Zuìhòu lián guózú dōu bèi lā chūlái yìqǐ mà le.",
+    "example_translation": "Did you see the China–Turkey war on X? In the end even the national football team got dragged in for a roasting.",
+    "context": "On 16 October 2026 a Turkish user posted on X about pressing a Uyghur woman from Xinjiang on whether she was a Turk; she replied '不，我是中国人' ('No, I'm Chinese'). Around 19 October it escalated: a Turkish cat meme captioned 'how Chinese people use Twitter', then a Chinese post pairing the Turkish flag with a SpongeBob image (about 8 million views). The sides traded the Great Wall ('Qin Shi Huang couldn't defend against an enemy 800 years before it existed'), genetics, inflation and the lira, and rival dish claims; on day three both sides found common ground mocking China's national football team. Greek, Indian, Iranian and Japanese users piled in; Turkish media covered it on 22 October, and interest faded after about a week. CDT's weekly round-up called it 中土大战. Note 中土 is also the Chinese name for Tolkien's Middle-earth (中土世界).",
+    "category": "news",
+    "date_added": "2026-11-11",
+    "sources": [
+      {
+        "url": "https://www.woshipm.com/operate/6483992.html",
+        "note": "人人都是产品经理 (新商业派), 2026-10-26: '一张派大星表情包，点燃了“第一次推特世界大战”' — timeline, view counts, memes",
+        "lang": "zh"
+      },
+      {
+        "url": "https://global.hk01.com/中国观察/60404847/维族女一句-我是中国人-引爆中土网民论战-争议何以升级",
+        "note": "香港01 (reprinting 联合早报), 2026-10-29: trigger post on 16 Oct, 2m+ views, other countries' netizens joining",
+        "lang": "zh"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/chinese/?p=733518",
+        "note": "中国数字时代 CDT周报 第288期, 2026-11-02: refers to '上周的“中土大战”'",
+        "lang": "zh"
+      }
+    ]
   }
 ]
