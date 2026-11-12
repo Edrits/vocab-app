@@ -1,29 +1,5 @@
 [
   {
-    "hanzi": "中式DNA觉醒",
-    "reason": "unverified",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
-    "sightings": 1,
-    "note": "Habits/memories only Chinese people share (e.g. seeing soil and wanting to plant veg); seen in one round-up, no clear origin."
-  },
-  {
-    "hanzi": "允许一切发生",
-    "reason": "unverified",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
-    "sightings": 1,
-    "note": "Self-care/acceptance mantra in meme round-ups; no source confirmed it as a netizen term."
-  },
-  {
-    "hanzi": "猫没吃的你咪什么咪",
-    "reason": "unverified",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-20",
-    "sightings": 2,
-    "note": "Sina finance headline calls it a 2026 hot meme; no origin or meaning found in search, and the article was unreachable. | 2026-10-20: Re-sighted 2026-10-20 in an Oct 2026 meme round-up search (same Sina finance headline); still no origin or meaning confirmed."
-  },
-  {
     "hanzi": "自渡",
     "reason": "unverified",
     "first_seen": "2026-10-18",
@@ -304,27 +280,27 @@
     "note": "Homophone of 一坨大便 ('a pile of poo') for shoddy, cobbled-together content; dodges insult filters. Bilibili 鬼畜 comment-section origin (~2022–23, otto/昊京 remixes). Real and widely used, but 2026-11-11 only content-farm explainers (chinaz, 中华网河南 万能百科) opened; find a better source (Zhihu/Bilibili article, academic paper) before adding."
   },
   {
-    "hanzi": "鼠头鸭脖",
-    "reason": "backfill",
-    "first_seen": "2026-11-11",
-    "last_seen": "2026-11-11",
-    "sightings": 1,
-    "note": "'Rat head, duck neck': shorthand for an obvious official lie, from the 2023 Jiangxi canteen case where authorities insisted a rat head was a duck neck. Listed in Asterisk 'A Chinese Internet Phrasebook' (Nov 2024); needs a Chinese source on netizen usage."
-  },
-  {
-    "hanzi": "冲塔",
-    "reason": "backfill",
-    "first_seen": "2026-11-11",
-    "last_seen": "2026-11-11",
-    "sightings": 1,
-    "note": "'Charging the tower' (League of Legends): coordinated pushes to flood social media with a sensitive message before censors react. Listed in Asterisk 'A Chinese Internet Phrasebook' (Nov 2024); check CDT lexicon and current usage."
-  },
-  {
     "hanzi": "结婚化债",
     "reason": "unverified",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
     "sightings": 1,
     "note": "'Marrying to resolve debt': What's on Weibo phrase of the week (2025-07-03, paywalled). 2026-11-11 Chinese searches found only debt-and-marriage stories and AI-generated pieces, not the term itself in use."
+  },
+  {
+    "hanzi": "神之八秒",
+    "reason": "niche",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "sightings": 1,
+    "note": "A trainee's 8-second wordless dance moment praised by fans; now used for any brief striking moment, with variants 神之六秒/神之九秒 (白鹿 red carpet)/魔之八秒. Digitaling Oct 2026 hot-words list (digitaling.com/articles/1609089.html). Still fan-circle; add if the 神之X秒 formula is used generally."
+  },
+  {
+    "hanzi": "沙县爱情文学",
+    "reason": "too-new",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "sightings": 1,
+    "note": "Fictional chat screenshots dramatising a romance between a 沙县小吃 owner and a regular; remixed widely and by brands (Digitaling Oct 2026 hot-words list). Watch whether it lasts as an X文学 format."
   }
 ]

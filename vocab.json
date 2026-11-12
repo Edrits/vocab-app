@@ -7831,5 +7831,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chong-ta",
+    "hanzi": "冲塔",
+    "pinyin": "chōng tǎ",
+    "literal": "冲 charge + 塔 tower",
+    "meaning": "'Charging the tower': knowingly posting something politically sensitive that the censors are bound to delete — risking a deleted post, a banned account or worse. Also used more loosely for any reckless, self-destructive move (≈ 作死). Someone who does it boldly is a 冲塔勇士 ('tower-charging hero').",
+    "meaning_zh": "原为MOBA游戏术语，指冲进敌方防御塔射程送死；网络上引申为明知会被审查，仍公开发布政治敏感言论、挑战审查或权力，后果可能是删帖、炸号乃至更严重的处罚。也泛指“作死”。",
+    "example": "这种话你也敢发？纯纯冲塔啊，号不想要了？",
+    "example_pinyin": "Zhè zhǒng huà nǐ yě gǎn fā? Chúnchún chōng tǎ a, hào bù xiǎng yào le?",
+    "example_translation": "You dare post that? That's charging the tower, pure and simple — don't you want to keep your account?",
+    "context": "Borrowed from MOBA games such as League of Legends, where enemy towers automatically fire on the first enemy to come in range, so diving under one usually gets you killed. Netizens mapped the tower onto the censorship apparatus: the authorities hold the defensive position and swiftly punish the few who charge. China Digital Times' lexicon catalogues a whole taxonomy — 大号/小号冲塔 (from a big or a throwaway account), 无意冲塔 (crossing a taboo by accident), 全民冲塔 (everyone charging at once), and 肉身冲塔 (taking it offline, in person) — and the inverse 塔冲人, when tightening censorship comes back and deletes your old posts. The term had a fresh moment from late November 2025: Human Rights in China (Dec 2025) described a decentralised '大冲塔运动' in Douyin comment sections and Bilibili danmaku, with users posting open criticism of the leadership, sometimes disguised with thumbs-up and rose emoji to slip past AI filters. Censorship-workaround lane; it's the word people reach for when someone says the unsayable.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/冲塔",
+        "note": "中国数字时代·草泥马语录 词条“冲塔”（来源、分类与事例）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.hrichina.org/p/the-great-tower-rush-a-digital-suicide",
+        "note": "Human Rights in China, 'The Great Tower Rush' (15 Dec 2025) on the 大冲塔运动 since late Nov 2025",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "shu-tou-ya-bo",
+    "hanzi": "鼠头鸭脖",
+    "pinyin": "shǔ tóu yā bó",
+    "literal": "鼠 rat + 头 head + 鸭 duck + 脖 neck",
+    "meaning": "'Rat head, duck neck': shorthand for an official denial that flies in the face of plain evidence — authorities insisting something obvious is not what everyone can see. The companion phrase 指鼠为鸭 ('calling a rat a duck') riffs on the chengyu 指鹿为马.",
+    "meaning_zh": "源自2023年江西高校食堂“鼠头鸭脖”事件，用来讽刺官方无视明显证据、睁眼说瞎话的通报或结论；常与仿照“指鹿为马”的“指鼠为鸭”一起用。",
+    "example": "视频都拍得清清楚楚了还说没问题，又是一出鼠头鸭脖。",
+    "example_pinyin": "Shìpín dōu pāi de qīngqīngchǔchǔ le hái shuō méi wèntí, yòu shì yì chū shǔ tóu yā bó.",
+    "example_translation": "The video shows it plain as day and they still say there's no problem — another rat-head-duck-neck job.",
+    "context": "On 1 June 2023 a video spread of a student at Jiangxi Industry Polytechnic College finding an object with what looked like teeth and whiskers in a canteen dish. On 3 June the college's Weibo said the object had been 'confirmed by the person involved' to be a duck neck, and local officials backed it. Netizens refused to believe it and erupted in memes: 指鼠为鸭 ('古有指鹿为马，今有指鼠为鸭'), mock-scholarly proofs, the hybrid species 鼠鼠我鸭, Tom and Duck Neck. The provincial government launched its own investigation on 10 June and on 18 June announced it was indeed a rat's head. Because the official line collapsed so publicly, 鼠头鸭脖 became a durable handle for a cover-up the public can see straight through — China Digital Times files the episode alongside the 'Tacitus trap' (塔西佗陷阱) of official credibility. Category meme: it's a reference to one case, but one that became a standing shorthand.",
+    "category": "meme",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/江西高校鸭脖事件",
+        "note": "中国数字时代 词条“江西高校鸭脖事件”（时间线、“指鼠为鸭”网友评论）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2023/06/duck-duck-rat-a-rodents-head-prompts-a-deluge-of-memes/",
+        "note": "The World of Chinese, 'Duck, Duck, Rat' (June 2023): timeline and the memes netizens coined",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "shua-qi",
+    "hanzi": "耍起",
+    "pinyin": "shuǎ qǐ",
+    "literal": "耍 play, have fun + 起 get going",
+    "meaning": "Sichuanese for 'let's have fun / get playing', now a youth catchphrase for a fun-first, anti-burnout attitude — choosing enjoyment over grinding and self-torment (内耗). Said as a rallying cry ('耍起！') or as a stance.",
+    "meaning_zh": "四川方言，意为“玩起来”；如今被年轻人用来表达快乐优先、拒绝内耗的生活态度。",
+    "example": "周末别加班了，耍起！",
+    "example_pinyin": "Zhōumò bié jiābān le, shuǎ qǐ!",
+    "example_translation": "Forget overtime this weekend — let's go have fun!",
+    "context": "Its 2026 spread rides on Chengdu storyteller 李伯清, master of 散打评书, whose old clips keep getting dug up and re-cut on short-video platforms. One of them carries his 'sixteen-character guideline' for a happy life: 耍中找钱，找钱来耍，找耍结合，以耍为主 ('find money while having fun, find money to have fun, combine the two — with fun as the main thing'). As Chengdu's official media noted in October 2026, he meant it for retirees over 60, but young people took it to heart anyway, reading it as 不内耗，做自己. Digitaling's October 2026 round-up of hot words lists 耍起 as the term the clip carried to a wider audience, now standing for a fun-first philosophy that refuses 内耗 — a cheerful cousin of 躺平 rather than its gloomier version.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1609089.html",
+        "note": "数英网 2026年10月热词盘点（2026-10-29），第10条“耍起”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://cbgc.scol.com.cn/news/8058509",
+        "note": "川观新闻转载成都发布（2026-10-15）：李伯清“快乐经济十六字”原本说给退休人群，年轻人也听得声声入耳",
+        "lang": "zh"
+      },
+      {
+        "url": "https://i.ifeng.com/c/8xEgln8dkxK",
+        "note": "凤凰网《成都人》李伯清专访：十六字方针在短视频平台流传",
+        "lang": "zh"
+      }
+    ]
   }
 ]
