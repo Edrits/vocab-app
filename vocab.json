@@ -7979,5 +7979,326 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "shuzi-ganshui",
+    "hanzi": "数字泔水",
+    "pinyin": "shùzì gānshuǐ",
+    "literal": "digital (数字) + kitchen swill / pig slops (泔水)",
+    "meaning": "AI slop: low-quality content mass-produced with AI (formulaic articles, knock-off videos, 'expert' explainers) and pumped out for traffic. Used with open disgust, both by ordinary users complaining about their feeds and by regulators.",
+    "meaning_zh": "指用人工智能批量生成的低质内容，比如千篇一律的鸡汤文、魔改视频、假“专家科普”，目的多是骗流量。网友用它吐槽被这类内容刷屏，监管部门也用它指称整治对象。",
+    "example": "现在一刷短视频全是数字泔水，看得人头疼。",
+    "example_pinyin": "Xiànzài yì shuā duǎnshìpín quán shì shùzì gānshuǐ, kàn de rén tóuténg.",
+    "example_translation": "Scroll short videos these days and it's all AI slop. It gives you a headache.",
+    "context": "The Chinese answer to English 'slop' (also rendered more plainly as AI垃圾), which several English-language dictionaries and The Economist picked as a 2025 word of the year. 泔水 is the bucket of leftovers fed to pigs, so the image is of algorithms force-feeding users swill. The phrase went official on 12 February 2026, when the Cyberspace Administration's month-long Spring Festival 清朗 campaign listed 'generating and spreading 数字泔水 and other junk information' as one of its targets. In April 2026 Xinhua ran a piece on clearing it up after WeChat mass-deleted articles for 'non-human automated creation', quoting netizens who feel the flood wastes readers' time. Pairs naturally with AI味: slop is the stuff, AI味 is how it smells.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.cac.gov.cn/2026-02/12/c_1772627849788243.htm",
+        "note": "中央网信办：“清朗·2026年营造喜庆祥和春节网络环境”专项行动通知，任务（二）为整治生成传播“数字泔水”等垃圾信息",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.news.cn/tech/20260414/7423de9437a14c579d6e94947248e0d0/c.html",
+        "note": "新华网《新华鲜报丨清除AI“数字泔水” 以“治”促“智”》（2026-04-14）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.cssn.cn/skgz/bwyc/202603/t20260305_5975080.shtml",
+        "note": "中国社会科学报《年度热词折射个体行为动态》（2026-03-05），解释AI垃圾/数字泔水与slop的关系",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jiang-ai-lv",
+    "hanzi": "降AI率",
+    "pinyin": "jiàng AI lǜ",
+    "literal": "lower (降) + AI + rate (率)",
+    "meaning": "To bring down a text's 'AI rate' (AI率), the percentage an AIGC detector says was machine-written. The annual ordeal of Chinese graduates, whose universities set a cap on the AI率 of a thesis; also the name of the rewriting services and tools that promise to get you under it.",
+    "meaning_zh": "“AI率”指检测系统判定论文中疑似AI生成内容的比例；“降AI率”就是想办法把这个数字压到学校红线以下。它是毕业季大学生的集体烦恼，也指网上各种代降、“包过”的服务和工具。",
+    "example": "我用AI降AI率，结果越降越高。",
+    "example_pinyin": "Wǒ yòng AI jiàng AI lǜ, jiéguǒ yuè jiàng yuè gāo.",
+    "example_translation": "I used AI to lower my AI rate, and it just kept going up.",
+    "context": "Modelled on 降重 (cutting the plagiarism-check duplication rate), the older thesis-season verb. Many universities now tie AI率 to the degree; Guangming Daily (28 May 2026) cites rules such as 'over 20% fails, over 30% must be rewritten', and describes a grey market advertised on Xiaohongshu, Taobao and Xianyu, charging around 2.7 yuan per thousand characters, where '包过' (guaranteed pass) sellers sometimes leave the score higher, leak the thesis or threaten the customer. CCTV, as reported by IT之家 in June 2026, explained why asking a chatbot to 'sound more human' can push a score from 62% to 94%: detectors judge predictability and rhythm, and are never fully accurate. The Guangming piece's verdict links two deck words: '降了AI率，降不掉AI味'.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://m.gmw.cn/2026-05/28/content_38794553.htm",
+        "note": "光明日报《用AI降AI率，降出了什么——毕业论文“AI率检测”调研报道之二》（2026-05-28）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20260624A0BCCS00",
+        "note": "IT之家（腾讯新闻转载，2026-06-24）：AI率从62%“降”到94%？央视介绍毕业论文AI检测原理",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhengliu",
+    "hanzi": "蒸馏",
+    "pinyin": "zhēngliú",
+    "literal": "to distil (蒸 steam + 馏 distil)",
+    "meaning": "To 'distil' a person: feed someone's chat logs, emails and documents to an AI so that it can stand in for them. Office workers use it, half joking and half anxious, for being boiled down into a reusable AI skill, usually just before or after leaving the job. Its opposite, 反蒸馏, is protecting your know-how from being captured.",
+    "meaning_zh": "原是机器学习术语“模型蒸馏”，2026年被打工人借来指把一个人的聊天记录、邮件、文档喂给AI，做成能替他干活的“技能包”。常带着自嘲和焦虑说“我要被蒸馏了”；反过来防止自己的经验被封装，叫“反蒸馏”。",
+    "example": "我怀疑老板让我写交接文档，是想把我蒸馏了。",
+    "example_pinyin": "Wǒ huáiyí lǎobǎn ràng wǒ xiě jiāojiē wéndàng, shì xiǎng bǎ wǒ zhēngliú le.",
+    "example_translation": "I suspect the boss wants that handover document so he can distil me.",
+    "context": "Borrowed from model distillation in machine learning, and turned on people in April 2026 by a GitHub project called colleague-skill (同事.skill), built in about four hours by Zhou Tianyi, a 24-year-old engineer at the Shanghai AI Laboratory. It packages a colleague's Feishu and DingTalk material, emails and WeChat screenshots into an AI agent skill; it gained roughly 6,700 stars in three days and over 14,000 within three weeks, spawned 前任.skill and 老板.skill, and on 13 April was renamed dot-skill, 'able to distil anyone'. Commentators noted that this isn't real distillation, just a few markdown files, but the metaphor stuck because it named a fear about AI replacing jobs. 反蒸馏 became a buzzword in turn, with tools for withholding or poisoning your own data. The viral one-liner riffs on a well-known saying: '同事，散是token，聚是skill'.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/4860478.html",
+        "note": "虎嗅（转载青年志Youthology，2026-05-22）《同事.skill 之后：谁在真正“蒸馏”打工人？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/post/chinese-office-workers-ai-tech-slang/",
+        "note": "The World of Chinese (May 2026): office workers' AI slang, including 蒸馏, 同事.skill and 赛博永生",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.36kr.com/p/3756409475969539",
+        "note": "36氪·硅基研究室（2026-04-07）：AI疲惫症一文，提到同事.skill、前任.skill爆红与“反蒸馏Skill”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yi-ren-gongsi",
+    "hanzi": "一人公司",
+    "pinyin": "yì rén gōngsī",
+    "literal": "one (一) + person (人) + company (公司)",
+    "meaning": "A one-person company, usually called by its English initials OPC (One Person Company): a single founder running a whole business with AI tools and agents in place of staff. The start-up dream of 2026, and a label for the people who quit big tech to try it.",
+    "meaning_zh": "指创始人一个人借助AI工具和智能体，完成从产品设计到推向市场的全部工作的创业模式，常直接叫OPC（One Person Company）。也有“1+N”的说法：一个创始人加N个充当“数字员工”的智能体。",
+    "example": "他从大厂辞职，靠几个智能体开了家一人公司。",
+    "example_pinyin": "Tā cóng dàchǎng cízhí, kào jǐ gè zhìnéngtǐ kāi le jiā yì rén gōngsī.",
+    "example_translation": "He quit big tech and started a one-person company run on a few AI agents.",
+    "context": "The label was circulating in 2025, and took off in early 2026 when AI agents such as OpenClaw (see 养龙虾) made it plausible for one person to cover what used to need a team. National Business Daily reported in April 2026 on stay-at-home mothers and former big-tech product managers piling in, with a consultancy putting the realistic revenue ceiling for most at 5 to 20 million yuan a year. By September 2026 Economic Daily was treating it as a new trend in entrepreneurship while listing the doubts: weak resilience, high compute costs, compliance risks, copy-paste local support policies, 'hollow' OPC communities and registrations made just to collect subsidies. Worth knowing as a snapshot of how the agent boom reshaped what a job could look like.",
+    "category": "news",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.news.cn/tech/20260909/10a31721754141328adf9da30c1f0279/c.html",
+        "note": "经济日报（新华网转载，2026-09-09）《一人公司：数字时代创业新动向》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.nbd.com.cn/articles/2026-04-07/4328109.html",
+        "note": "每日经济新闻（2026-04-07）：AI催生的“一人公司”爆火，介绍OPC与“1+N”模式",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.rmlt.com.cn/2026/0717/753348.shtml",
+        "note": "人民论坛网：《“一人公司”何以站上智能经济风口》（2026-07-17）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "laoshuren",
+    "hanzi": "老鼠人",
+    "pinyin": "lǎoshǔrén",
+    "literal": "rat/mouse (老鼠) + person (人)",
+    "meaning": "\"Rat person\": a self-mocking label for a young person living a low-energy, burrowed-away life — sleeping till the afternoon, scrolling in bed, living on takeaway, barely leaving the room. Usually in the full form 低能量老鼠人 (\"low-energy rat person\"). Said about oneself, with a shrug rather than shame.",
+    "meaning_zh": "年轻人的自嘲人设：作息颠倒、整天窝在出租屋或工位、靠外卖过活、几乎不社交，像老鼠一样蛰伏。常说成“低能量老鼠人”，多用来形容自己。",
+    "example": "周末我就是个低能量老鼠人，躺在出租屋里点外卖，微信步数零。",
+    "example_pinyin": "Zhōumò wǒ jiù shì ge dī néngliàng lǎoshǔrén, tǎng zài chūzūwū lǐ diǎn wàimài, Wēixìn bùshù líng.",
+    "example_translation": "At weekends I'm just a low-energy rat person: lying in my rented room ordering takeaway, zero steps on WeChat.",
+    "context": "Took off in early 2025 on Douyin and Xiaohongshu through \"低能量老鼠人vlog\" videos (\"a day in the life of a low-energy rat person\"): waking in the afternoon, hours on the phone in bed, several takeaways a day, a WeChat step count of 0. 数英 called it 2025's new top internet persona in March 2025, and brands such as Meituan and Tmall quickly joined in. It grows out of the earlier 鼠鼠文学, where people call themselves 鼠鼠 living in the 'sewers', and sits in the same family as 牛马 — animal self-labels for a generation that feels worn down by work and a weak job market. Unlike 躺平, it is less a stance than a description of having no energy left.",
+    "category": "social",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1331875.html",
+        "note": "数英：《2025互联网新晋顶流人设：“低能量老鼠人”》（2025-03-20）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://daoinsights.com/news/mouse-people-why-do-chinese-youth-compare-themselves-to-animals/",
+        "note": "Dao Insights explainer on 老鼠人 / 低能量老鼠人 and 鼠鼠文学 (17 Jun 2025)",
+        "lang": "en"
+      },
+      {
+        "url": "https://realtimemandarin.substack.com/p/256-our-favourite-phrases-of-2025",
+        "note": "RealTime Mandarin, favourite phrases of 2025 — lists 老鼠人 and 低能量老鼠人",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "fan-neijuan",
+    "hanzi": "反内卷",
+    "pinyin": "fǎn nèijuǎn",
+    "literal": "oppose (反) + involution (内卷)",
+    "meaning": "\"Anti-involution\": pushing back against pointless, self-defeating competition. In 2025 it became an official campaign against cut-throat price wars between companies, and at the same time a workplace word for firms sending staff home on time and employees refusing performative overtime.",
+    "meaning_zh": "反对无意义的恶性竞争。2025年既指官方整治企业“内卷式”低价竞争，也指职场上公司强制准点下班、员工拒绝形式主义加班。",
+    "example": "公司说要反内卷，九点准时关灯赶人下班。",
+    "example_pinyin": "Gōngsī shuō yào fǎn nèijuǎn, jiǔ diǎn zhǔnshí guān dēng gǎn rén xiàbān.",
+    "example_translation": "The company says it's going anti-involution: at nine sharp the lights go off and everyone is shooed home.",
+    "context": "内卷 was the complaint; 反内卷 is the 2025 response. The official line grew out of a July 2024 Politburo call to prevent \"'内卷式'恶性竞争\"; 第一财经 put 反内卷 first in its 25 keywords of 2025, calling the clean-up of 'involution-style' disorderly competition a main thread of the year's economic work, with solar, cars, batteries and food-delivery platforms all targeted. The workplace sense arrived in early 2025: Midea's chairman banned after-hours meetings and formalistic overtime and staff were reportedly told to leave at 6.20 pm, while DJI began a \"不准加班\" drive on 27 February with a compulsory 9 pm finish — \"9点下班\" flooded social media and 新周刊 asked whether big firms' 反内卷 was for real. Netizens use it half-hopefully, half-sarcastically, since the workload rarely shrinks.",
+    "category": "social",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_30393136",
+        "note": "澎湃/新周刊：《9点下班刷屏，大厂反内卷来真的？》（2025-03-14），大疆、美的强制下班",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yicai.com/news/102981978.html",
+        "note": "第一财经：《2025：25个关键词里的中国与世界》（2025-12-30），首个关键词为反内卷",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.jiemian.com/article/13762585.html",
+        "note": "界面新闻：《十大热词回顾2025中国经济》，反内卷一节（提法源自2024年7月政治局会议）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://realtimemandarin.substack.com/p/256-our-favourite-phrases-of-2025",
+        "note": "RealTime Mandarin, favourite phrases of 2025 — 反内卷 as a year-long theme",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "guobu",
+    "hanzi": "国补",
+    "pinyin": "guóbǔ",
+    "literal": "state (国) + subsidy (补) — short for 国家补贴",
+    "meaning": "The \"national subsidy\": the government's trade-in discount on phones, appliances and cars. Since 2025 it is an everyday shopping word — people time purchases around it, compare prices 'after 国补', and complain when the daily quota has already gone.",
+    "meaning_zh": "“国家补贴”的简称，指消费品以旧换新的政府补贴，覆盖手机等数码产品、家电和汽车。2025年起成了日常购物用语：等国补、抢国补、算国补后的价格。",
+    "example": "这部手机等国补名额放出来再买，能省五百块。",
+    "example_pinyin": "Zhè bù shǒujī děng guóbǔ míng'é fàng chūlái zài mǎi, néng shěng wǔbǎi kuài.",
+    "example_translation": "Wait until the subsidy quota is released before buying this phone — you'll save five hundred yuan.",
+    "context": "The consumer face of China's stimulus drive. The subsidy is knocked off at the checkout in e-commerce 'subsidy zones', which is why the word is plastered across shopping apps. It also became a running grievance: a 青年志 essay republished by 36氪 in September 2025 opened with students buying laptops at the start of term who found that \"“国补”要么抢不上，或者厂商先涨价，国补后的价格才恢复正常水平\" — either you can't grab it, or sellers raise the price first. Funds come in batches and some regions ran dry. The scheme was renewed on 1 January 2026 with a first tranche of 62.5 billion yuan: 15% off phones, tablets, smartwatches and now smart glasses priced up to 6,000 yuan (capped at 500 yuan an item), top-efficiency appliances capped at 1,500 yuan, plus car scrappage and trade-in subsidies — and a promised crackdown on 'raise first, subsidise later' pricing.",
+    "category": "abbreviation",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.news.cn/politics/20260102/8280c115602841078b65d8f5176b239c/c.html",
+        "note": "新华网/央视新闻：《2026“国补”继续！几类补贴有变化 一文看懂》（2026-01-02）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/3480185211083653",
+        "note": "36氪/青年志：《先涨价再返补贴：国补的迷局与博弈》（2025-09-24）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "piaogen-jingji",
+    "hanzi": "票根经济",
+    "pinyin": "piàogēn jīngjì",
+    "literal": "ticket stub (票根) + economy (经济)",
+    "meaning": "The \"ticket-stub economy\": using a concert, match, film, exhibition or even train ticket as a discount pass for nearby sights, hotels, restaurants and shops, so the spending carries on after the event. A staple of how Chinese cities now compete for visitors.",
+    "meaning_zh": "凭演唱会、赛事、电影、展览甚至车票的票根，在景区、酒店、餐饮、商圈享受折扣，把一次观演延伸成吃住行游购的消费链，即“离场不离消费”。",
+    "example": "看完演唱会别扔票，凭票根去景区能打半价，这就是票根经济。",
+    "example_pinyin": "Kàn wán yǎnchànghuì bié rēng piào, píng piàogēn qù jǐngqū néng dǎ bànjià, zhè jiù shì piàogēn jīngjì.",
+    "example_translation": "Don't bin your ticket after the concert — the stub gets you half price at the scenic spots. That's the ticket-stub economy.",
+    "context": "Part of the 2025 wave of 'X经济' coinages that followed young people travelling to another city just for a gig or a match. 央广网 reported in September 2025 that it was booming in many places: Xi'an tying concert tickets to nearby businesses, Nanchang's airport turning boarding passes into bundles of e-coupons, and Putian's football league stubs earning 3.9折 on dim sum; economist 李勇坚 summed it up as \"离场不离消费\". It was still headline material in October 2026, when 新华每日电讯 described a single stub linking a meal, a night's stay and shopping, cited 7.3 yuan of surrounding spending for every yuan of 苏超 ticket revenue in 2025, and tied it to 情绪消费 — while flagging opaque rules, fiddly redemption and reliance on government subsidy.",
+    "category": "news",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.news.cn/fortune/20261014/900a156cdeba451091214d6f78556b7a/c.html",
+        "note": "新华每日电讯：《票根新花样撬动“情绪消费”》（2026-10-14）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/yw/202509/t20250917_265170.html",
+        "note": "央广网（扬子晚报网转载）：《多地票根经济火热 小票根“链”结大经济》（2025-09-17）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "he-yiwei",
+    "hanzi": "何意味",
+    "pinyin": "hé yìwèi",
+    "literal": "what + meaning (mock-Japanese word order)",
+    "meaning": "A deadpan \"what's that supposed to mean?\" / \"what's the point?\", typed as a reaction to a post, remark or piece of behaviour that is baffling or absurd. Often it is not a real question at all, just a way of registering bewilderment, or something people post for the fun of it.",
+    "meaning_zh": "相当于“什么意思？”“这有什么意义吗？”，看到让人摸不着头脑或离谱的言行时用来表示困惑、无语，很多时候并不是真的在提问，只是发着玩。",
+    "example": "凌晨三点还在群里发工作消息，何意味？",
+    "example_pinyin": "Língchén sān diǎn hái zài qún lǐ fā gōngzuò xiāoxi, hé yìwèi?",
+    "example_translation": "Still sending work messages to the group chat at 3 a.m. — what is that supposed to mean?",
+    "context": "Pseudo-Japanese: it comes from 何の意味 (\"what meaning?\") with the の dropped, so it reads as Chinese characters but is not normal Chinese grammar. It circulated in anime/ACG group chats as stickers during 2025, was picked up in Bilibili parody videos and remixes, and spawned sound-alike variants. By October 2025 it was visible enough that a Sohu piece reported Japanese commentators puzzling over it, one of them reading it as Chinese Gen Z asking \"is there any point to that?\" about modern rules and norms. It was still being listed as must-know slang in an English-language Shanghai guide in August 2026. Tone: dry, mildly mocking; fine among friends and in comment sections, not in formal writing.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/943926537_398212",
+        "note": "搜狐（手谈姬）《看着网络热梗“何意味”，日本人懵了》，2025-10-14：来源、含义与B站二创",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.smartshanghai.com/articles/shanghai-life/20-chinese-internet-slang-terms-you-need-to-know-in-2026",
+        "note": "SmartShanghai, '22 Chinese Internet Slang Terms You Need to Know in 2026' (26 Aug 2026): 何意味 entry with usage",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "mowan-lingzhu",
+    "hanzi": "魔丸 / 灵珠",
+    "pinyin": "mówán / língzhū",
+    "literal": "demon pill / spirit pearl",
+    "meaning": "A pair of labels for temperament. A 魔丸 is the wilful, unconventional, rule-breaking one; a 灵珠 is the well-behaved, high-achieving, gentle and sensible one. Used teasingly to contrast two people (siblings, classmates, pets) or the two sides of yourself.",
+    "meaning_zh": "一组形容个人特质的词：“魔丸”指特立独行、看似离经叛道的人，“灵珠”指乖巧优秀、温和理性的人。带戏谑调侃的语气，可以用来对比两个人，也可以形容自己身上的反差。",
+    "example": "我姐从小是灵珠，我是家里的魔丸。",
+    "example_pinyin": "Wǒ jiě cóngxiǎo shì língzhū, wǒ shì jiā lǐ de mówán.",
+    "example_translation": "My sister has been the golden child since she was little; I'm the family's little demon.",
+    "context": "From the Nezha films: the terms appear in 《哪吒之魔童降世》 (2019), where the demon pill and the spirit pearl are an opposed pair, and went mainstream when 《哪吒之魔童闹海》 was the hit of 2025. In current use they have come loose from the plot and simply describe personality types. 《语言文字周报》 named 魔丸&灵珠 one of its ten internet buzzwords of 2025 (announced 12 December 2025), noting that the pair works both for comparing individuals and for describing one's own contradictions, always with a joking edge. 魔丸 is affectionate rather than insulting.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_32162065",
+        "note": "澎湃新闻《两份“十大网络流行语”同日发布，却只有一条重合》，2025-12-12：《语言文字周报》对“魔丸&灵珠”的释义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.sohu.com/a/964873134_255783",
+        "note": "北青网（搜狐转载）《2025年“十大网络流行语”发布 “魔丸&灵珠”上榜》，2025-12-13",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "wo-bing-bu-zhidao-nin-daodi-shi-zenme-le",
+    "hanzi": "我并不知道您到底是怎么了",
+    "pinyin": "wǒ bìng bù zhīdào nín dàodǐ shì zěnme le",
+    "literal": "I really don't know what on earth has happened to you (polite 您)",
+    "meaning": "A mock-courteous way of saying \"what is wrong with you?\". The respectful 您 and the measured wording sound polite, but the message is resigned exasperation. Used as a comeback in an argument or as a comment under absurd content; politer on the surface than calling someone mad.",
+    "meaning_zh": "表面礼貌、实则无语的说法，意思接近“你咋了”“你没事吧”。用敬称“您”加上无奈的语气，在争论时回怼对方，或吐槽离谱、抽象的内容。",
+    "example": "大半夜给我发六十秒语音，我并不知道您到底是怎么了。",
+    "example_pinyin": "Dàbànyè gěi wǒ fā liùshí miǎo yǔyīn, wǒ bìng bù zhīdào nín dàodǐ shì zěnme le.",
+    "example_translation": "Sending me a sixty-second voice message in the middle of the night — I honestly don't know what has got into you.",
+    "context": "A 2026 comment-section staple. An English-language Shanghai slang guide traces it to a viral customer-service argument and files it under 阴阳怪气 (saying something nice while meaning the opposite). A Weibo round-up dated 22 June 2026 describes it as popular on social media from late May, used for almost anything that leaves you speechless, and lists the variants people riff on: 我不知道您是怎么了, 我并不知道您这是怎么了, the northern 我不知道您是咋了, plural 您们 and third-person TA. 数英 put it in its hot words of the first half of 2026, glossing it as roughly 你咋了. The joke is the gap between the deferential 您 and the obvious contempt.",
+    "category": "slang",
+    "date_added": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英《2026上半年网络热词TOP30，全会的是梗王！》，2026-08-21：收录“我并不知道您到底是怎么了”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.smartshanghai.com/articles/shanghai-life/20-chinese-internet-slang-terms-you-need-to-know-in-2026",
+        "note": "SmartShanghai, '22 Chinese Internet Slang Terms You Need to Know in 2026' (26 Aug 2026): entry on the phrase, customer-service origin",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5312562524852007.html",
+        "note": "新浪新闻（微博博主文章）《“我不知道您是怎么了”流行》，2026-06-22：流行时间与各种变体",
+        "lang": "zh"
+      }
+    ]
   }
 ]
