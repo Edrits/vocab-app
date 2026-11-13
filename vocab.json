@@ -9221,5 +9221,67 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "dun-wait-for-update",
+    "hanzi": "蹲",
+    "pinyin": "dūn",
+    "literal": "to squat",
+    "meaning": "To camp out in a comment section waiting for something: the next instalment, an answer, a shopping link. '蹲一个后续' = waiting here for the follow-up. The cuter form is 蹲蹲.",
+    "meaning_zh": "指守在评论区等：等后续、等答案、等链接。“蹲一个后续”就是在这儿等后续。更俏皮的说法是“蹲蹲”。",
+    "example": "蹲一个后续，楼主记得回来更新。",
+    "example_pinyin": "Dūn yí gè hòuxù, lóuzhǔ jìde huílái gēngxīn.",
+    "example_translation": "Squatting here for the follow-up — OP, remember to come back and update.",
+    "context": "Wiktionary lists the sense plainly, '(Internet slang) to wait', with 蹲一个后续 as its example. Chinese meme glossaries describe it as a placeholder comment: you leave 蹲 or 蹲一个 under a post you care about so that you can find it again and see how it turns out, and under serialised fiction it means waiting for the next chapter. 蹲蹲 is the softer variant common on Xiaohongshu and Douyin. The same comment sections supply 蹲链接 (waiting for the shopping link).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E8%B9%B2",
+        "note": "Wiktionary 蹲: '(Internet slang) to wait', example 蹲一个后续",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.jishuoshuo.com/geng/38414.html",
+        "note": "集说说：《蹲一个是什么意思？》——评论区留“蹲一个”表示关注、等待更新，类似占位符",
+        "lang": "zh"
+      },
+      {
+        "url": "https://regengbaike.com/1717.html",
+        "note": "热梗百科：《蹲蹲网络用语啥意思》——“蹲在这里等答案”，等一个后续",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhouyu-ai-prompt",
+    "hanzi": "咒语",
+    "pinyin": "zhòuyǔ",
+    "literal": "incantation, magic spell",
+    "meaning": "An AI prompt, especially the long string of keywords fed to an image model. Writing one is 念咒 ('chanting a spell'). Said half in jest: the right words work like magic, and nobody is quite sure why.",
+    "meaning_zh": "指给AI的提示词，尤其是AI绘画里那一长串关键词。写提示词叫“念咒”。带点玩笑：词用对了像施了魔法，却没人说得清为什么。",
+    "example": "这张图太好看了，求咒语！",
+    "example_pinyin": "Zhè zhāng tú tài hǎokàn le, qiú zhòuyǔ!",
+    "example_translation": "This image is gorgeous — share the spell, please!",
+    "context": "The word took hold with AI image generation in 2022, when a good prompt looked like sorcery and people guarded theirs like secret recipes. A November 2025 article on Shanghai's first court case over AI prompts is headlined with the word ('看“咒语”的时代变迁') and notes how that secrecy has since faded. The AI community site WayToAGI defines AI咒语 as the specific prompts used with AI, particularly in AI painting. It sits in the same joke as [[liandan-train-ai]] (training the model is alchemy) and [[chouka-ai-gacha-pull]] (running it is a gacha pull).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.woshipm.com/ai/6293399.html",
+        "note": "人人都是产品经理（快刀青衣，2025-11）：《上海首例AI提示词案背后：看“咒语”的时代变迁》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.waytoagi.com/question/60993",
+        "note": "WayToAGI：《什么是AI咒语》——“AI 咒语通常指在与 AI 进行交互，特别是在 AI 绘画等领域中使用的特定提示词”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.qiuwowo.com/2016.html",
+        "note": "蜗蜗助手：《为什么说AI咒语是提示词，如何念好这个“咒语”？》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
