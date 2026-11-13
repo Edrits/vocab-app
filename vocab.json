@@ -8548,5 +8548,150 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "tizi-vpn-ladder",
+    "hanzi": "梯子",
+    "pinyin": "tīzi",
+    "literal": "ladder",
+    "meaning": "Slang for a VPN or any tool for getting over the Great Firewall — the 'ladder' you climb the wall with. You 开梯子 or 挂梯子 (switch it on), ask friends for a good 梯子, and complain when it 挂了 (dies).",
+    "meaning_zh": "翻墙工具的俗称，指VPN或其他代理工具，即用来“翻墙”的“梯子”。常说“开梯子”“挂梯子”“搭梯子”。",
+    "example": "梯子又挂了，谷歌学术死活打不开。",
+    "example_pinyin": "Tīzi yòu guà le, Gǔgē Xuéshù sǐhuó dǎ bu kāi.",
+    "example_translation": "My VPN's down again — Google Scholar just won't open.",
+    "context": "The image follows from 翻墙 ('climbing over the wall'): if the firewall is a wall, the tool that gets you over it is a ladder. It is the most everyday word for a VPN and, like [[jichang-vpn-airport]] for the provider, it lets people talk about circumvention without naming it. Amnesty International noted in March 2020 that 'ladder' was among the terms routinely used on Chinese social media to refer to VPNs. Wiktionary records the verb phrase 搭梯子 ('set up a ladder') in the same sense.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://contextualchinese.com/%E6%A2%AF%E5%AD%90",
+        "note": "Contextual Chinese Dictionary: 梯子 — 'a ladder; (modern slang) a VPN or other tool for bypassing internet censorship', with example sentences",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.amnesty.org/en/latest/news/2020/03/china-social-media-language-government-censorship-covid/",
+        "note": "Amnesty International (March 2020): 'ladder' among the terms routinely used on Chinese social media to refer to VPNs",
+        "lang": "en"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%A2%AF%E5%AD%90",
+        "note": "Wiktionary 梯子: quotation using 搭梯子 for setting up circumvention tools",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "kexue-shangwang",
+    "hanzi": "科学上网",
+    "pinyin": "kēxué shàngwǎng",
+    "literal": "scientific + go online: 'using the internet scientifically'",
+    "meaning": "Tongue-in-cheek euphemism for getting round the Great Firewall. Sounds like a wholesome slogan, means using a VPN. Its sibling 魔法上网 ('magic internet use') does the same job, and people shorten that to 魔法: '这个网站需要魔法' = you need a VPN for this site.",
+    "meaning_zh": "“翻墙”的委婉说法，字面像一句正经口号，实际指用代理工具访问被屏蔽的网站。同类说法还有“魔法上网”，常简称“魔法”，如“这个网站需要魔法”。",
+    "example": "这个模型国内用不了，得先科学上网。",
+    "example_pinyin": "Zhège móxíng guónèi yòng bu liǎo, děi xiān kēxué shàngwǎng.",
+    "example_translation": "You can't use this model inside China — you have to 'go online scientifically' first.",
+    "context": "China Digital Times lists a whole family of mock-official names for 翻墙: 科学上网, 文明上网, 自由上网, 正常上网, 魔法上网 and 爱国上网. The joke is that they borrow the tone of a public-information slogan. 科学上网 is the commonest and is used quite openly in tutorials and tool recommendations; 魔法 is the casual spoken form. See also [[tizi-vpn-ladder]] for the tool and [[jichang-vpn-airport]] for the provider.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/翻墙",
+        "note": "中国数字时代·翻墙 词条：“又称科学上网、文明上网、自由上网、正常上网、魔法上网、爱国上网等”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%A7%91%E5%AD%B8%E4%B8%8A%E7%B6%B2",
+        "note": "Wiktionary entry for 科學上網 / 科学上网",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E6%A2%AF%E5%AD%90",
+        "note": "Contextual Chinese Dictionary: 梯子 entry, which cross-refers to 翻墙 and 科学上网",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "rou-fan",
+    "hanzi": "肉翻",
+    "pinyin": "ròufān",
+    "literal": "肉 flesh + 翻 climb over: short for 肉身翻墙, 'climbing the wall in the flesh'",
+    "meaning": "To leave mainland China in person — emigrate or move abroad — as opposed to merely getting past the firewall with software. Short for 肉身翻墙.",
+    "meaning_zh": "“肉身翻墙”的简称，指本人离开中国大陆、移居或长期生活在国外，与靠软件“翻墙”相对。",
+    "example": "他去年肉翻了，现在在东京打工。",
+    "example_pinyin": "Tā qùnián ròufān le, xiànzài zài Dōngjīng dǎgōng.",
+    "example_translation": "He got out in person last year and is working in Tokyo now.",
+    "context": "A play on 翻墙: with a VPN only your browsing gets over the wall; with 肉翻 your body does. Wiktionary labels 肉身翻墙 a slang neologism meaning 'to relocate outside mainland China', with 肉翻 as its short form. Voice of America used the phrase in May 2020 for people who had left China for the United States. It overlaps with 润 ('run'), the more famous word for getting out, but 肉翻 keeps the firewall image. The tone ranges from light (working-holiday guides) to heavy (leaving for political reasons).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E8%82%89%E8%BA%AB%E7%BF%BB%E7%89%86",
+        "note": "Wiktionary 肉身翻牆: '(neologism, slang) to relocate outside mainland China'; synonym 肉翻",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.voacantonese.com/a/hopeless-and-suffocated-in-china-they-fled-to-the-u-s-20200509/5412657.html",
+        "note": "美国之音（2020-05-09）：《肉身翻墙 为了“免于恐惧的自由”》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zha-hao",
+    "hanzi": "炸号",
+    "pinyin": "zhà hào",
+    "literal": "炸 blow up + 号 account",
+    "meaning": "To have your account 'blown up': suddenly and permanently banned by the platform, with everything you posted wiped. Usually passive: 被炸号了, 号被炸了.",
+    "meaning_zh": "指网络账号被平台突然封停，账号里的内容也随之消失。多用被动：“被炸号了”“号被炸了”。",
+    "example": "我就转了一条微博，第二天就被炸号了，十年的内容全没了。",
+    "example_pinyin": "Wǒ jiù zhuǎn le yì tiáo Wēibó, dì-èr tiān jiù bèi zhà hào le, shí nián de nèiróng quán méi le.",
+    "example_translation": "All I did was repost one Weibo post, and the next day my account was nuked — ten years of posts, gone.",
+    "context": "Initium Media defined it in April 2023: '炸号 is the word mainland netizens use for their account being suddenly suspended; once it happens, every trace of you on that platform is erased.' Its report followed a Douban user whose fifteen-year-old account was banned in March 2022, and who found that courts would not even register a lawsuit over a politically sensitive ban. The word is most at home on Weibo and Douban, and it is the sharp end of a scale that starts with [[xian-liu]] (being quietly throttled).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://theinitium.com/20230410-mainland-douban-account-suspension-prosecutions-zh-hans/",
+        "note": "端传媒（2023-04-10）：《15年豆瓣账号永久封禁》——“‘炸号’是中国大陆网民描述自己网络账号被突然封停时的用词”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.bilibili.com/read/cv21406694/",
+        "note": "哔哩哔哩专栏：《微博炸号是什么意思？炸号了怎么恢复？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xian-liu",
+    "hanzi": "限流",
+    "pinyin": "xiànliú",
+    "literal": "限 limit + 流 flow (traffic)",
+    "meaning": "To be throttled: the platform quietly cuts how many people see your posts, without deleting them or telling you. The Chinese counterpart of 'shadowbanned'. Usually 被限流了.",
+    "meaning_zh": "指平台悄悄降低内容的曝光量，帖子没被删，但几乎没人能刷到。常说“被限流了”。",
+    "example": "这条笔记发了三天才二十个浏览，肯定被限流了。",
+    "example_pinyin": "Zhè tiáo bǐjì fā le sān tiān cái èrshí gè liúlǎn, kěndìng bèi xiànliú le.",
+    "example_translation": "Three days up and this post has twenty views — it's definitely been throttled.",
+    "context": "Fear of 限流 is what drives much of the filter-dodging vocabulary in this deck, such as [[mi-money-algospeak]] for money. Creators swap out words they believe will get a post suppressed. In January 2025 Douyin executive Li Liang said publicly that ordinary words like 钱 and 死 do not trigger throttling ('可以明确说，不会限流'), and that restrictions apply only in specific settings such as product sales. In June 2026 a Chinese Social Sciences Net article quoted the linguist Fang Xiaobing describing such 黑话 as creators' way of evading review and chasing traffic. The belief persists, and so do the substitutes.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.gamersky.com/tech/202501/1867845.shtml",
+        "note": "游民星空（2025-01-06）：《抖音高管再辟谣敏感词：谈钱谈死真的不会限流》，引李亮微博",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.cssn.cn/skgz/bwyc/202606/t20260623_6055282.shtml",
+        "note": "中国社会科学网（2026-06-23）：《警惕网络“黑话”侵蚀语言文化根基》，谈创作者为规避审核、限流而造“黑话”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/1032958559_121124358",
+        "note": "搜狐：《小红书、抖音、视频号违禁词汇总》，按违规轻重列出限流、下架、封号等处罚",
+        "lang": "zh"
+      }
+    ]
   }
 ]
