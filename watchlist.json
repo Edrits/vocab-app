@@ -272,14 +272,6 @@
     "note": "Baidu hot search 2026-11-10 '“沉睡艺人”拿“大芒果”翻红': dormant celebrities revived by Mango TV's 后会友期. Overlaps deck word 翻红 and the same show as 厉娜/画地为牢; add only if it becomes a general label."
   },
   {
-    "hanzi": "依托答辩",
-    "reason": "backfill",
-    "first_seen": "2026-11-11",
-    "last_seen": "2026-11-11",
-    "sightings": 1,
-    "note": "Homophone of 一坨大便 ('a pile of poo') for shoddy, cobbled-together content; dodges insult filters. Bilibili 鬼畜 comment-section origin (~2022–23, otto/昊京 remixes). Real and widely used, but 2026-11-11 only content-farm explainers (chinaz, 中华网河南 万能百科) opened; find a better source (Zhihu/Bilibili article, academic paper) before adding."
-  },
-  {
     "hanzi": "结婚化债",
     "reason": "unverified",
     "first_seen": "2026-11-11",
@@ -302,5 +294,29 @@
     "last_seen": "2026-11-12",
     "sightings": 1,
     "note": "Fictional chat screenshots dramatising a romance between a 沙县小吃 owner and a regular; remixed widely and by brands (Digitaling Oct 2026 hot-words list). Watch whether it lasts as an X文学 format."
+  },
+  {
+    "hanzi": "老式人类",
+    "reason": "unverified",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "sightings": 1,
+    "note": "'Old-fashioned humans': finding comfort in familiar things and a slower personal rhythm. Listed in 36氪/卡思数据 year-end meme piece (2026-01-05, 36kr.com/p/3626312061830402) with only a one-line gloss; find origin and current usage."
+  },
+  {
+    "hanzi": "自嬷",
+    "reason": "unverified",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "sightings": 1,
+    "note": "Self-comforting trend ('mothering yourself'), same 36氪/卡思数据 piece (2026-01-05). Origin and exact usage not found; close to deck word 爱你老己."
+  },
+  {
+    "hanzi": "BOSS直骗",
+    "reason": "unverified",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "sightings": 1,
+    "note": "Pun on recruitment app BOSS直聘 ('Boss direct hire' → 'Boss direct scam') for deceptive job ads; seen as a job-hunting Halloween costume in Digitaling 2026-11-03 (digitaling.com/articles/1615564.html). No source defining it as a netizen term yet."
   }
 ]

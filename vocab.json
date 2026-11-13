@@ -8300,5 +8300,62 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "v-wo-50",
+    "hanzi": "V我50",
+    "pinyin": "V wǒ wǔshí",
+    "literal": "V (WeChat, 'vx') + me + 50 (yuan)",
+    "meaning": "'Send me 50 yuan on WeChat' — a jokey, never-serious request for money, classically the punchline of a long, absurd or tear-jerking post that turns out to be a pitch for KFC's Thursday deal. Also used as a cheeky tease in group chats.",
+    "meaning_zh": "“微信转我50块”。V指微信（vx），50指金额。网友并非真的要钱，而是用来开玩笑、调侃，最典型的用法是在一段离奇或煽情的长文最后突然反转：“今天是肯德基疯狂星期四，谁V我50？”",
+    "example": "今天疯狂星期四，谁V我50？",
+    "example_pinyin": "Jīntiān fēngkuáng xīngqīsì, shéi V wǒ wǔshí?",
+    "example_translation": "It's Crazy Thursday today — who's going to send me 50 quid?",
+    "context": "Born from KFC China's 疯狂星期四 (Crazy Thursday) promotion of cut-price Thursday meals. From around 2021 netizens wrote 疯狂星期四文学 — melodramatic or bizarre stories that swerve at the end into asking readers to 'V me 50' for a KFC bucket; KFC embraced it with a 'literature festival' and later a 'V我50' gift card. It has outlived the campaign as general slang for asking for money. Fresh hook (Nov 2026): when China Railway's renumbering of trains took effect, the Qiqihar–Dalian K550 was announced as becoming V550 from 25 November 2026, and state media (光明网, 11 Nov 2026) noted it 'matches the hot meme V我50' — alongside V587, which collides with the older slang V587 (威武霸气, 'mighty and domineering').",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://baike.baidu.com/en/item/V%20Me%2050/1438905",
+        "note": "Baidu Baike (English) — 'V Me 50': meaning, KFC Crazy Thursday origin, gift card",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.sohu.com/a/1100166994_162758",
+        "note": "搜狐转光明网 2026-11-11：铁路车次调整，K550次将变为V550次，与“V我50”热梗贴近",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "wan-geng-jie",
+    "hanzi": "万梗节",
+    "pinyin": "wàn gěng jié",
+    "literal": "myriad + meme + festival (pun on 万圣节, Halloween)",
+    "meaning": "'Meme Festival' — netizens' name for Halloween as Chinese young people now celebrate it: crowds on city streets dressed not as ghosts but as memes, TV characters, viral internet figures, brands and in-jokes about work and life.",
+    "meaning_zh": "把“万圣节”谐音改成“万梗节”，指中国年轻人过万圣节的方式：不扮鬼怪，而是扮成热梗、影视角色、网红、品牌和打工人吐槽，上街集体玩梗、“发疯”、搞抽象。",
+    "example": "今年万梗节你打算cos什么梗？",
+    "example_pinyin": "Jīnnián wàn gěng jié nǐ dǎsuàn cos shénme gěng?",
+    "example_translation": "What meme are you going to cosplay for Meme Festival this year?",
+    "context": "Took off with Shanghai's Halloween night of 31 October 2023, when crowds around Julu Road came dressed as 安陵容, Tang Monk, Li Jiaqi and the like; 界面新闻 wrote that young people had turned 万圣节 into 万梗节, quoting the trending line '上海万圣节 找个发疯的理由罢了'. Some costumes were pointed satire, and in 2024 Shanghai police cordoned off Julu Road and nearby streets and Weibo hashtags were blocked (China Digital Times). The party moved on to other cities: by Halloween 2026 Digitaling reported packed crowds at Hangzhou's in77, Nanjing and Chengdu, with costumes of 薛甄珠, 牛来, 奶龙, the iPhone foldable and the hands-behind-back 负鼠. The name sticks because it captures how the festival has been re-purposed as a stage for meme culture.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://m.jiemian.com/article/10330123.html",
+        "note": "界面新闻（2023年11月）：上海年轻人把“万圣节”变成了“万梗节”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/space/万梗节",
+        "note": "中国数字时代 CDT百科词条“万梗节”：2023年上海街头起源、2024年警方管控",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1615564.html",
+        "note": "数英网 2026-11-03：2026年万圣节杭州、南京、成都街头的热门梗装扮",
+        "lang": "zh"
+      }
+    ]
   }
 ]
