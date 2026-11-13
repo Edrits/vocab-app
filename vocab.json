@@ -8693,5 +8693,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "jia-weibo-clamped",
+    "hanzi": "夹",
+    "pinyin": "jiā",
+    "literal": "to clamp, to pinch",
+    "meaning": "Weibo slang for a post being 'clamped': throttled or hidden from other users, with its repost, comment and like buttons greyed out, while you can still see it yourself. Usually 被夹了. The same joke gives Weibo's chief executive his nickname, 夹总.",
+    "meaning_zh": "微博用语，指微博因含敏感词、特殊词或广告而被限制流量，甚至对其他用户不可见，下面的转发、评论、点赞一栏变灰。常说“被夹了”。微博CEO也因此被戏称为“夹总”。",
+    "example": "我那条吐槽发出去就被夹了，只有自己看得见。",
+    "example_pinyin": "Wǒ nà tiáo tǔcáo fā chūqù jiù bèi jiā le, zhǐyǒu zìjǐ kàn de jiàn.",
+    "example_translation": "My rant got 'clamped' the moment I posted it — I'm the only one who can see it.",
+    "context": "Weibo's chief executive Wang Gaofei posts as 来去之间, so users called him 来总. Take the middle stroke out of 来 and you get 夹, and with it the nickname 夹总 for the man blamed for posts disappearing. A 2022 business profile explained 夹 as what happens when a post containing sensitive words, 'special' words or advertising is throttled or made invisible to others, and said '今天你被夹了吗' ('been clamped today?') had become a greeting among Weibo users. In February 2025 Weibo's own AI search gave this origin for 夹总, and Wang reposted it with a bemused reply. Narrower than [[xian-liu]]: 夹 belongs to Weibo, and a post that is 夹 is as good as gone.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/536185218_103207",
+        "note": "搜狐（2022-04-08）：《王高飞激荡十三年 “夹”在微博中》——“夹”的含义、“今天你被夹了吗”、“夹总”的由来",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20250222A01YSE00",
+        "note": "腾讯新闻·三言科技（2025-02-22）：《DeepSeek给出“夹总”外号由来，微博CEO回应》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "si-death-homophone",
+    "hanzi": "亖",
+    "pinyin": "sì",
+    "literal": "an old variant of 四 (four), read sì; stands in for 死 (sǐ, die)",
+    "meaning": "Stand-in character for 死 (die, death). Typed where 死 might be blocked or just for a lighter tone: 笑亖 (dying of laughter), 累亖 (dead tired), 去亖 (drop dead).",
+    "meaning_zh": "“死”的替代字。“亖”本是“四”的古字，读sì，网友用它代替“死”，一是规避违禁词，二是语气更轻松，如“笑亖”“累亖”。",
+    "example": "这个视频笑亖我了，看了十遍。",
+    "example_pinyin": "Zhège shìpín xiào sǐ wǒ le, kàn le shí biàn.",
+    "example_translation": "This video killed me — I've watched it ten times.",
+    "context": "Wiktionary lists 亖 as an internet-slang alternative form of 死, with 笑亖 and 累亖 as examples. A Douban thread asking what 笑亖 means gets the plain answer: in some groups 死 is a banned word that will not post, so people use the sound-alike 亖 instead. It is read aloud as 死; the example pinyin above follows the meaning. It sits beside [[ga-death-algospeak]] in the family of death-word substitutes that grew out of fear of [[xian-liu]], and it has outlived the fear: many people now type it simply because it looks funnier.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E4%BA%96",
+        "note": "Wiktionary 亖: '(Internet slang) alternative form of 死', examples 累亖, 笑亖",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.douban.com/group/topic/257962295/",
+        "note": "豆瓣小组：《笑亖是什么意思》——“有的组死这个词是违禁词，打不出来，用同音词亖代替”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "qiangnei-qiangwai",
+    "hanzi": "墙内 / 墙外",
+    "pinyin": "qiángnèi / qiángwài",
+    "literal": "inside the wall / outside the wall",
+    "meaning": "墙内: the Chinese internet inside the Great Firewall, and by extension life and opinion inside it. 墙外: the uncensored internet outside, reached only with a VPN. Used as nouns and as labels: 墙内网友, 墙外消息.",
+    "meaning_zh": "“墙内”指防火长城以内的中国大陆网络环境，也泛指墙内的生活与舆论；“墙外”指被屏蔽的境外网络，需要翻墙才能访问。常作定语：墙内网友、墙外消息。",
+    "example": "这事墙内一个字都搜不到，墙外早就传疯了。",
+    "example_pinyin": "Zhè shì qiángnèi yí gè zì dōu sōu bu dào, qiángwài zǎo jiù chuán fēng le.",
+    "example_translation": "You can't find a word about this inside the wall; outside it went viral ages ago.",
+    "context": "The pair that the rest of the firewall vocabulary hangs on: you use a [[tizi-vpn-ladder]] to get from 墙内 to 墙外. Wiktionary labels both mainland internet slang, glossing 墙内 as the world inside the Great Firewall (sites that are not blocked, the domestic network) and 墙外 as the world outside it. China Digital Times uses both as ordinary vocabulary in its 翻墙 entry.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%89%86%E5%85%A7",
+        "note": "Wiktionary 牆內 / 墙内: '(Mainland China Internet slang) the world inside the Great Firewall'",
+        "lang": "en"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%89%86%E5%A4%96",
+        "note": "Wiktionary 牆外 / 墙外: '(Mainland China Internet slang) the world outside the Great Firewall'",
+        "lang": "en"
+      },
+      {
+        "url": "https://chinadigitaltimes.net/space/翻墙",
+        "note": "中国数字时代·翻墙 词条：文中使用“墙内”“墙外”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
