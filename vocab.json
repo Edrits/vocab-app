@@ -8357,5 +8357,144 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chuanzi-false-flag-troll",
+    "hanzi": "串子",
+    "pinyin": "chuànzi",
+    "literal": "串 (short for 反串, playing a role that isn't yours) + 子 (noun suffix): a role-switcher",
+    "meaning": "A false-flag troll: someone who poses as a fan of a team, game, streamer or camp and then posts obnoxious or over-the-top comments in that guise, so that bystanders come to dislike the side being 'supported'. Derogatory. The behaviour is 反串, and 串 works as a verb: 别串了 means 'drop the act'. Calling a comment 一眼串子 says 'obvious false-flag, don't bite'.",
+    "meaning_zh": "指在弹幕、评论区里假扮成某一方的粉丝或支持者，故意发表招人烦的极端言论，好让路人讨厌被“支持”的那一方的人，也就是“反串黑”，带贬义。“串”也可以作动词，如“别串了”；“一眼串子”是提醒别人这是反串，不要上当。",
+    "example": "别理他，一眼串子，越回他越来劲。",
+    "example_pinyin": "Bié lǐ tā, yì yǎn chuànzi, yuè huí tā yuè láijìn.",
+    "example_translation": "Ignore him, he's an obvious false-flag troll; the more you reply, the more he enjoys it.",
+    "context": "串子 is the person who does 反串 ('fanchuan'): a covert, indirect attack in which you impersonate the other side's fans to make them look bad. It is everyday vocabulary in livestream chat, bullet comments and comment sections, especially around esports, streamers, sport and entertainment fandoms. A 2025 study from the Hong Kong University of Science and Technology (Guangzhou) treated it as a new form of antisocial behaviour: looking at Bilibili livestream chat it identified about 130,000 instances across 37,400 sessions, and listed 串子, 别串 and 串 as the keywords viewers use to call it out. A popular-psychology explainer carried by The Paper in November 2025 sorts the tactics into three kinds: 拉踩 (praise one side while trashing another), 捧杀 (praise so extreme that the fans look unhinged) and 假中立 (posing as a neutral passer-by). The sources consulted describe the usage but do not document where or when the word was coined. In practice the accusation is also thrown around loosely to dismiss any comment one dislikes.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_32046408",
+        "note": "澎湃号·政务（ACC心理科普）《“串子”是怎么激怒你的？终于有研究说清楚了！》2025-11-26：定义、三种常见形式",
+        "lang": "zh"
+      },
+      {
+        "url": "https://arxiv.org/abs/2509.00780",
+        "note": "Wei, He & Tyson (HKUST Guangzhou), 'Understanding Fanchuan in Livestreaming Platforms' (arXiv, Aug 2025): defines 反串, glosses 串子 / 别串, Bilibili chat data",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "chouka-ai-gacha-pull",
+    "hanzi": "抽卡",
+    "pinyin": "chōu kǎ",
+    "literal": "draw (抽) a card (卡)",
+    "meaning": "Originally a gacha pull in a mobile game. In AI-creator slang it now means hitting 'generate' again and again on an image or video model and hoping one of the random results is usable: 'rolling' the model. A person paid to do this for AI short dramas is a 抽卡师 ('card-puller').",
+    "meaning_zh": "原指手游里花钱抽角色、抽道具。现在AI创作圈借来指反复让模型生成图片或视频，再从一堆随机结果里挑出能用的那一个，因为同一句提示词每次出来的效果都不一样，全看运气。专门做这件事的岗位叫“抽卡师”。",
+    "example": "这个镜头我抽卡抽了二十多次，人物的脸还是崩的。",
+    "example_pinyin": "Zhège jìngtóu wǒ chōu kǎ chōu le èrshí duō cì, rénwù de liǎn háishi bēng de.",
+    "example_translation": "I've rolled this shot more than twenty times and the character's face still comes out broken.",
+    "context": "Gaming vocabulary that has leaked into the AI content industry. Because image and video generation is random, the same prompt gives a different result every time, so creators generate over and over and pick the keeper; the trade jokingly calls this 抽卡, as in gacha games. With the AI short-drama boom the word turned into a job title: a June 2026 feature (China Entrepreneur magazine, carried by Jiemian) profiles 抽卡师, who break a script into shots, write a prompt for each and pick the usable output, on a basic monthly wage of roughly five to six thousand yuan in first-tier cities. PingWest reported in August 2026 on a team needing 8 to 12 prompt rounds per storyboard panel, speaks of 抽卡玄学 ('gacha mysticism') and the 抽卡-废片-抽卡 loop (roll, dud, roll again), and tools now advertise a lower 抽卡成本 (cost of rolling). Useful collocations: 反复抽卡, 抽卡成本, 有效抽卡率, 废片 (a dud clip).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.jiemian.com/article/14662301.html",
+        "note": "界面新闻（转《中国企业家》）《月薪两万的“造脸人”，快被自己造的“脸”淘汰了》2026-06-29：“抽卡”“抽卡师”的解释与薪资",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.pingwest.com/a/316738",
+        "note": "品玩《和麦芽传媒AI技术团队聊了聊：他们把“抽卡玄学”变成了工程问题》2026-08-25：反复抽卡、抽卡-废片循环",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.woshipm.com/ai/6470717.html",
+        "note": "人人都是产品经理：即梦“样片模式”实测，文中多次使用“反复抽卡”“抽卡成本”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "mei-ku-ying-chi",
+    "hanzi": "没苦硬吃",
+    "pinyin": "méi kǔ yìng chī",
+    "literal": "no hardship, yet force yourself to eat it",
+    "meaning": "To put yourself through hardship that nobody asked for and that serves no purpose. First aimed at thrifty elders who make life harder than it needs to be (refusing the air conditioning, labouring while ill); now also said of schools, bosses or yourself whenever suffering is treated as a virtue in its own right. Mildly critical, often exasperated.",
+    "meaning_zh": "明明没有必要吃苦，却偏要给自己找罪受。最初用来吐槽过分节俭的老一辈（夏天舍不得开空调、带病干活），后来也用来批评学校、单位或自己把吃苦当成美德的做法，带一点无奈和批评的口气。",
+    "example": "明明有空调不开，非说心静自然凉，这不是没苦硬吃吗？",
+    "example_pinyin": "Míngmíng yǒu kōngtiáo bù kāi, fēi shuō xīn jìng zìrán liáng, zhè bú shì méi kǔ yìng chī ma?",
+    "example_translation": "There's an air conditioner right there and you won't turn it on, insisting a calm mind keeps you cool. Isn't that just suffering for the sake of it?",
+    "context": "Took off in 2024. Beijing Youth Daily's youth desk (August 2024) traces the meme to a blogger's video about two elderly women in a hospital ward, one of whom had collapsed after picking wheat in the scorching sun; the video drew more than 24,000 comments and the phrase spread from there, usually paired with its mirror image 没福硬享 for the young. Sixth Tone put it among the buzzwords that defined China's 2024. It has since outgrown the generational joke: in May 2025 China Youth Daily's commentary on vocational-school students sunburnt during an outdoor showcase was headlined 没苦硬吃，没有必要, and by November 2025 a Qianjiang Evening News piece was using it for young people who choose hardship themselves (stair-climbing challenges, walking to work, delivery gigs after the day job).",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.sixthtone.com/news/1016379",
+        "note": "Sixth Tone, 'City or Not City? The Buzzwords That Defined China's 2024' (17 Dec 2024): lists 没苦硬吃 as 'self-imposed hardship'",
+        "lang": "en"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20240828A02LOR00",
+        "note": "北青放牛班（北京青年报）《年轻人“没福硬享”，老一辈“没苦硬吃”》，2024-08-28：出处与含义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://pinglun.youth.cn/wztt/202505/t20250518_16006836.htm",
+        "note": "中国青年网（中国青年报客户端）评论《没苦硬吃，没有必要》，2025-05-18：2025年仍在使用",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sohu.com/a/957025143_121627717",
+        "note": "钱江晚报·潮评赛《“没苦硬吃”背后，是“我为故我在”》，2025-11-21：用于年轻人主动吃苦",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "hanjinliang-hai-zai-shangsheng",
+    "hanzi": "含金量还在上升",
+    "pinyin": "hánjīnliàng hái zài shàngshēng",
+    "literal": "gold content is still rising",
+    "meaning": "A stock compliment in the pattern XX的含金量还在上升: the more time passes, the more a person, work, result or old remark turns out to be worth. Said when later events make something look even better than it did at the time; also used tongue-in-cheek.",
+    "meaning_zh": "常用句式为“××的含金量还在上升”，指某人、某部作品、某个成绩或某句旧话随着时间推移越来越显得珍贵、难以替代。多用于事后回看发现它比当初以为的更厉害，也可以带调侃。",
+    "example": "重看十年前的老剧才发现，原版的含金量还在上升。",
+    "example_pinyin": "Chóng kàn shí nián qián de lǎo jù cái fāxiàn, yuánbǎn de hánjīnliàng hái zài shàngshēng.",
+    "example_translation": "Rewatching the old series from ten years ago, you realise the original just keeps looking better.",
+    "context": "含金量 ('gold content') has long been used for how much a degree or title is really worth; in 2024 netizens turned it into a fixed line. Jinwan Bao's new-terms column (November 2024) defined it as humorous praise for something that grows more precious with time, giving the example of viewers saying an earlier version's 含金量还在上升 after a remake. In December 2024 the National Language Resources Monitoring and Research Centre named it one of the ten internet expressions of the year, and ZOL's round-up noted netizens applying it to an old Lei Jun clip about cash reserves that was reshared when a carmaker failed to pay its staff. It is still an everyday headline formula: Sina in October 2025 ('樊振东的这场比赛含金量还在上升') and Tencent News in September 2026.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_29626936",
+        "note": "澎湃新闻：国家语言资源监测与研究中心“2024年度十大网络用语”（含释义）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://k.sina.com.cn/article_7517400647_1c0126e47059062swu.html",
+        "note": "今晚报（人民资讯转载）《含金量还在上升》，2024-11-03：释义与用法",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.163.com/dy/article/JJNKVH4T051189P5.html",
+        "note": "中关村在线《含金量还在上升 2024年十大网络热词很“抽象”》，2024-12-18：雷军视频的例子",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.theworldofchinese.com/2025/01/internet-slang-quiz-the-ultimate-2024-buzzword-challenge",
+        "note": "The World of Chinese, 'Internet Slang Quiz: The Ultimate 2024 Buzzword Challenge' (Jan 2025): includes 含金量还在上升",
+        "lang": "en"
+      },
+      {
+        "url": "https://video.sina.cn/finance/2025-10-25/detail-infvaynp7365987.d.html",
+        "note": "手机新浪网视频标题《樊振东的这场比赛含金量还在上升》，2025-10-25：2025年用例",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.qq.com/rain/a/20260904V0B0JV00",
+        "note": "腾讯新闻视频标题《刘宇宁游戏王含金量还在上升reaction》，2026-09：2026年用例",
+        "lang": "zh"
+      }
+    ]
   }
 ]
