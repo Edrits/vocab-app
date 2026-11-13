@@ -8496,5 +8496,57 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ai-huanjue",
+    "hanzi": "AI幻觉",
+    "pinyin": "AI huànjué",
+    "literal": "AI + hallucination (幻觉)",
+    "meaning": "AI hallucination: when a chatbot confidently makes things up, such as book titles that don't exist, mixed-up identities or dead links. Often shortened to 幻觉 ('它又幻觉了'), and the everyday word for why you can't fully trust an AI answer.",
+    "meaning_zh": "指大模型遇到不熟悉或超出知识范围的问题时，一本正经地编造不存在的内容，比如虚构书名、张冠李戴、给出打不开的链接。口语里常简称“幻觉”，是大家提醒“别全信AI”时最常用的词。",
+    "example": "别全信它，AI幻觉很严重，连书名都能编出来。",
+    "example_pinyin": "Bié quán xìn tā, AI huànjué hěn yánzhòng, lián shūmíng dōu néng biān chūlái.",
+    "example_translation": "Don't trust it completely. AI hallucination is bad; it'll even invent book titles.",
+    "context": "A technical term that became household vocabulary once chatbots went mass-market in China in 2025. In July 2025 People's Daily explained it to general readers (recommended books that don't exist, people's identities swapped), citing a survey in which 42.2% of respondents named inaccurate or false information as the biggest problem with AI apps. It then reached the courts: in January 2026 the Hangzhou Internet Court ruled on what media called the country's first AI '幻觉' tort case. A man sued after a chatbot gave wrong university information and then 'promised' him 100,000 yuan in compensation; the court dismissed the claim, holding that an AI is not a civil subject and that hallucination is currently unavoidable, though providers still owe a duty of care.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.news.cn/tech/20250702/6d7b6a2ec76e4916a149b27baae6526d/c.html",
+        "note": "人民日报（新华网转载，2025-07-02）：解释AI幻觉现象及相关调查数据",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/sh/2026/01-29/10561091.shtml",
+        "note": "中国新闻网《全国首例AI“幻觉”侵权案 为何这么判》（2026-01-29）",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ciyuan",
+    "hanzi": "词元",
+    "pinyin": "cíyuán",
+    "literal": "word (词) + basic unit (元)",
+    "meaning": "The officially recommended Chinese word for an AI 'token', the smallest unit of text a large model processes and the unit AI usage is billed in. In speech most people still say token; 词元 is what appears in news, policy and formal writing.",
+    "meaning_zh": "人工智能领域“token”的规范中文名，指大模型处理信息的最小单位，也是模型调用的计费单位。口语里多数人仍说token，“词元”多见于新闻、政策文件和正式文章。",
+    "example": "这个月的词元又烧完了。",
+    "example_pinyin": "Zhè ge yuè de cíyuán yòu shāo wán le.",
+    "example_translation": "I've burnt through this month's tokens again.",
+    "context": "Until 2026 'token' had more than ten competing Chinese renderings, among them 令牌, 代币, 智元 and 模元, and most people simply used the English. In March 2026 the national terminology committee (全国科学技术名词审定委员会) fast-tracked a review and recommended 词元 as the standard name for trial use; rival proposals kept their defenders. The timing reflects how far the word had travelled: by March 2026 China's daily token calls were reported to have passed 140 trillion, and China Social Sciences Today noted that a term once confined to the AI back end was now turning up in public debate. The companion to 烧Token: same thing, formal register.",
+    "category": "news",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.nbd.com.cn/articles/2026-03-26/4309666.html",
+        "note": "每日经济新闻（2026-03-26）徐飞评论：全国科技名词委推荐“词元”为token标准中文名，并列举十余种其他译法",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.cssn.cn/skgz/bwyc/202605/t20260507_5987705.shtml",
+        "note": "中国社会科学报（2026-05-07）《词元重构AI产业新生态》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
