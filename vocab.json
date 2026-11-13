@@ -8776,5 +8776,450 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "ge-flake",
+    "hanzi": "鸽",
+    "pinyin": "gē",
+    "literal": "pigeon; short for 放鸽子, 'to release a pigeon' (stand someone up)",
+    "meaning": "To flake: fail to turn up, miss a deadline, or not post the update you promised. '又鸽了' = flaked again. A creator who keeps doing it is a 鸽子.",
+    "meaning_zh": "“放鸽子”的简称，指爽约、拖更、说好的事没做到。“又鸽了”就是又没更新、又没来。经常这样的人被叫作“鸽子”。",
+    "example": "说好周五更新，结果又鸽了。",
+    "example_pinyin": "Shuō hǎo zhōuwǔ gēngxīn, jiéguǒ yòu gē le.",
+    "example_translation": "They promised an update on Friday, and flaked again.",
+    "context": "放鸽子 has long meant standing someone up. Online it shrank to the single verb 鸽 and widened to any broken promise, above all a video creator or author who does not update on schedule. Wiktionary labels the verb a humorous internet neologism meaning 'to fail to meet a promise, to flake'. The Wikiversity list of mainland internet slang records 鸽子 as the nickname fans give a streamer who rarely uploads.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E9%B4%BF",
+        "note": "Wiktionary 鴿: '(neologism, Internet slang, humorous) short for 放鴿子; to fail to meet a promise, to flake'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E9%B8%BD%E5%AD%90",
+        "note": "Contextual Chinese Dictionary, 鸽子: notes that 放鸽子 can mean standing someone up",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“鸽子：由于实况主不经常更新视频，所以常被如此称呼”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "qianshui-lurk",
+    "hanzi": "潜水",
+    "pinyin": "qiánshuǐ",
+    "literal": "to dive (underwater)",
+    "meaning": "To lurk: read a group chat or forum without ever posting. The opposite, surfacing to say something, is 冒泡 ('to bubble up').",
+    "meaning_zh": "指在群聊或论坛里只看不说话。偶尔出来说一句叫“冒泡”。",
+    "example": "我在这个群潜水三年了，今天第一次说话。",
+    "example_pinyin": "Wǒ zài zhège qún qiánshuǐ sān nián le, jīntiān dì-yī cì shuōhuà.",
+    "example_translation": "I've lurked in this group for three years; today is the first time I've said anything.",
+    "context": "A forum-era word that moved intact into WeChat and QQ groups. Wiktionary gives 'to lurk; to view an internet forum or chat without participating', and lists 冒泡 for a lurker making an appearance. The Wikiversity slang list adds 潜艇 and 潜水员 for the lurker, and notes people also 潜水 to dodge a row after saying the wrong thing.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%BD%9B%E6%B0%B4",
+        "note": "Wiktionary 潛水: '(Internet slang) to lurk; to view an internet forum or chat without participating in the discussion'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E6%BD%9C%E6%B0%B4",
+        "note": "Contextual Chinese Dictionary, 潜水: 'to lurk online: read without actively posting or replying'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“潜水：表示在论坛只看贴不回复”；“潜艇”“潜水员”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xiaohao-alt",
+    "hanzi": "小号",
+    "pinyin": "xiǎohào",
+    "literal": "small + account number",
+    "meaning": "An alt account: a second, usually anonymous account kept alongside your main one (大号). Used for saying what you would not say under your own name, or for sock-puppetry. The older forum word is 马甲 ('waistcoat').",
+    "meaning_zh": "指主账号（大号）之外另开的账号，多为匿名，用来说不方便用大号说的话，也可指“马甲”。",
+    "example": "这话不敢用大号说，我切小号发。",
+    "example_pinyin": "Zhè huà bù gǎn yòng dàhào shuō, wǒ qiē xiǎohào fā.",
+    "example_translation": "I daren't say this on my main account — I'll switch to my alt to post it.",
+    "context": "Wiktionary gives two internet senses for 小号: 'alternate account; alt' and 'sock puppet'. The Wikiversity slang list pairs it with the older 马甲, defined as an extra ID registered by someone who is already a forum member. It matters in this vocabulary because an alt is what people fall back on after [[zha-hao]].",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E8%99%9F",
+        "note": "Wiktionary 小號: '(Internet slang) alternate account; alt'; 'sock puppet'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“马甲/小号：已经注册的论坛成员以不同的ID注册的论坛成员”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xiao-blind-fan",
+    "hanzi": "孝",
+    "pinyin": "xiào",
+    "literal": "filial piety",
+    "meaning": "Sarcastic: slavishly defending an idol, brand or boss whatever they have done, like a dutiful son. '太孝了' = what a devoted little son. Often a pun on 好笑 (how funny) written 好孝. Derogatory.",
+    "meaning_zh": "反讽用法，指偶像、品牌等做了错事，仍然无脑替其辩护，像“孝子”一样。常借“好笑”的谐音写作“好孝”。带贬义。",
+    "example": "都被骂上热搜了还在替他洗，太孝了。",
+    "example_pinyin": "Dōu bèi mà shàng rèsōu le hái zài tì tā xǐ, tài xiào le.",
+    "example_translation": "He's being slated on the trending list and they're still making excuses for him. How filial.",
+    "context": "Wiktionary labels it derogatory internet slang: 'to exhibit excessive or blind support for a person or thing'. The Wikiversity slang list explains the pun: 孝 stands in for 笑, so 好孝 reads as 好笑, while the literal 孝子 ('dutiful son') supplies the insult. It belongs with [[dian]] among the one-character sneers of comment sections.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E5%AD%9D",
+        "note": "Wiktionary 孝: '(Internet slang, derogatory) to exhibit excessive or blind support for a person or thing'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“孝：‘笑’的谐音，指喜欢的明星或品牌做出不当行为，依旧无脑为其辩护……亦有‘孝子’之意，作反讽”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xidi-whitewash",
+    "hanzi": "洗地",
+    "pinyin": "xǐdì",
+    "literal": "to wash the floor",
+    "meaning": "To make excuses for someone's wrongdoing; to spin or whitewash after a scandal. Said of fans, paid posters and PR accounts. Derogatory.",
+    "meaning_zh": "指为做错事的人或机构辩护、开脱，或在出事后做公关“擦屁股”。带贬义。",
+    "example": "证据都摆出来了，还有人在评论区洗地。",
+    "example_pinyin": "Zhèngjù dōu bǎi chūlái le, hái yǒu rén zài pínglùnqū xǐdì.",
+    "example_translation": "The evidence is all out there, and people are still in the comments making excuses.",
+    "context": "Wiktionary traces it to a line in Stephen Chow's film Kung Fu Hustle, '警察出来洗地啦' (the police come out to wash the floor), said after the gang has done its work. The Wikiversity slang list defines it as defending someone after a public outcry, or crisis PR for the powerful.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%B4%97%E5%9C%B0",
+        "note": "Wiktionary 洗地: '(neologism, derogatory, figuratively) to justify and defend someone's wrongdoing; to whitewash', from Kung Fu Hustle",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E6%B4%97%E5%9C%B0",
+        "note": "Contextual Chinese Dictionary, 洗地: 'whitewash, make excuses for, spin (a story)'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“洗地：指为他人辩护，通常是某人被众人声讨后站出来为其辩护”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "kejin-pay-to-win",
+    "hanzi": "氪金",
+    "pinyin": "kèjīn",
+    "literal": "氪 (krypton, standing in for 课 'to charge') + 金 money",
+    "meaning": "To spend real money in a free-to-play game for items, draws or power. Often just 氪. Its partner is 肝 ('liver'): to grind for hours instead of paying. You either 氪 or 肝.",
+    "meaning_zh": "指在免费游戏里花真钱买道具、抽卡，常简称“氪”。与之相对的是“肝”，即花大量时间硬刷。",
+    "example": "这游戏不氪金根本玩不下去。",
+    "example_pinyin": "Zhè yóuxì bú kèjīn gēnběn wán bu xiàqù.",
+    "example_translation": "You simply can't get anywhere in this game without paying.",
+    "context": "Wiktionary labels it humorous mainland gaming slang: paying a premium in a freemium game. The Wikiversity slang list notes the 'correct' spelling is 课金. Wiktionary records the matching sense of 肝: to grind day and night, to the point of wearing out your liver. Both words have spread beyond games: people 氪 on a hobby and 肝 a deadline.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%B0%AA%E9%87%91",
+        "note": "Wiktionary 氪金: '(Mainland China, video games, slang, humorous) to pay a premium in a freemium game'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E6%B0%AA%E9%87%91",
+        "note": "Contextual Chinese Dictionary, 氪金: 'spending real money in games (microtransactions)'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“氪金：正确写法为课金，用现实金钱购买游戏内的官方商店道具”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E8%82%9D",
+        "note": "Wiktionary 肝: '(video games, neologism) to grind; to repeat a task day and night'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "gouliang-pda",
+    "hanzi": "狗粮",
+    "pinyin": "gǒuliáng",
+    "literal": "dog food",
+    "meaning": "A couple's public display of affection, as felt by the single person watching (the 单身狗, 'single dog'). Couples 撒狗粮 (scatter dog food); onlookers 吃狗粮 (get fed it).",
+    "meaning_zh": "指情侣公开秀恩爱，对单身的人（单身狗）来说就像被喂“狗粮”。秀恩爱叫“撒狗粮”，被迫看叫“吃狗粮”。",
+    "example": "朋友圈全是情侣合照，又被喂了一嘴狗粮。",
+    "example_pinyin": "Péngyouquān quán shì qínglǚ hézhào, yòu bèi wèi le yì zuǐ gǒuliáng.",
+    "example_translation": "My feed is wall-to-wall couple photos — force-fed another mouthful of dog food.",
+    "context": "The joke rests on 单身狗, the self-mocking word for a single person: if singles are dogs, lovers' displays are what they get fed. Wiktionary defines 狗粮 as a 'display of affection seen from the perspective of a third, lonely person'.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%8B%97%E7%B3%A7",
+        "note": "Wiktionary 狗糧: '(slang, neologism) display of affection seen from the perspective of a third, lonely person'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E7%8B%97%E7%B2%AE",
+        "note": "Contextual Chinese Dictionary, 狗粮: 'dog food; public displays of affection (PDA)'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E6%92%92%E7%8B%97%E7%B2%AE",
+        "note": "Contextual Chinese Dictionary, 撒狗粮: 'public display of affection (PDA)'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "guo-blame",
+    "hanzi": "锅",
+    "pinyin": "guō",
+    "literal": "cooking pot",
+    "meaning": "The blame. 背锅 is to carry the can for something; 甩锅 is to dump the blame on someone else; '这锅我不背' = I'm not taking the fall for this.",
+    "meaning_zh": "指责任、过错。“背锅”是替人担责，“甩锅”是把责任推给别人，“这锅我不背”即我不担这个责任。",
+    "example": "明明是需求改了，这锅我可不背。",
+    "example_pinyin": "Míngmíng shì xūqiú gǎi le, zhè guō wǒ kě bù bēi.",
+    "example_translation": "The requirements changed, plainly. I'm not carrying the can for this.",
+    "context": "From 背黑锅, 'to carry the black pot', an older idiom for taking the blame. Wiktionary records 锅 on its own as a mainland neologism for 'blame; fault', 背锅 as short for 背黑锅, and 甩锅 as 'to pass the buck'. Office and gaming talk use all three constantly.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E9%8D%8B",
+        "note": "Wiktionary 鍋: '(Mainland China, neologism) blame; fault'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E7%94%A9%E9%94%85",
+        "note": "Contextual Chinese Dictionary, 甩锅: 'to pass the buck, shift blame'",
+        "lang": "en"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%94%A9%E9%8D%8B",
+        "note": "Wiktionary 甩鍋: '(neologism, figurative) to pass the buck; to shirk responsibility and shift the blame onto others'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "huashui-coast",
+    "hanzi": "划水",
+    "pinyin": "huáshuǐ",
+    "literal": "to paddle",
+    "meaning": "To coast: do the bare minimum and let others carry the work, in a team project, a meeting or a game.",
+    "meaning_zh": "指在团队合作、开会或打游戏时出工不出力，混着过。",
+    "example": "小组作业他全程划水，最后分数一样高。",
+    "example_pinyin": "Xiǎozǔ zuòyè tā quánchéng huáshuǐ, zuìhòu fēnshù yíyàng gāo.",
+    "example_translation": "He coasted through the whole group project and got the same mark as the rest of us.",
+    "context": "Wiktionary gives the slang sense simply as 'to shirk'. The picture is of someone in the boat who only pretends to row.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E5%88%92%E6%B0%B4",
+        "note": "Wiktionary 划水: '(slang) to shirk'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E5%88%92%E6%B0%B4",
+        "note": "Contextual Chinese Dictionary, 划水: 'slacking off, goofing off, freeriding'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "kaiche-dirty-jokes",
+    "hanzi": "开车",
+    "pinyin": "kāichē",
+    "literal": "to drive a car",
+    "meaning": "To tell dirty jokes or share explicit material. Someone practised at it is a 老司机 ('veteran driver'), which also means an old hand at anything.",
+    "meaning_zh": "指讲荤段子、发黄色内容。擅长此道的人叫“老司机”，“老司机”也泛指某方面的行家。",
+    "example": "聊得好好的，他突然开车，群里瞬间安静了。",
+    "example_pinyin": "Liáo de hǎohǎo de, tā tūrán kāichē, qún lǐ shùnjiān ānjìng le.",
+    "example_translation": "We were chatting away quite happily when he suddenly got smutty, and the group went dead silent.",
+    "context": "Wiktionary labels it mainland slang: 'to share explicit or sexual material (by telling dirty jokes, uploading pornographic content, etc.)'. The Wikiversity slang list gives the origin: 发车, 开车 and 飙车 meant posting download links for explicit files, the poster being the 老司机.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E9%96%8B%E8%BB%8A",
+        "note": "Wiktionary 開車: '(Mainland China, slang) to share explicit or sexual material'",
+        "lang": "en"
+      },
+      {
+        "url": "https://contextualchinese.com/%E5%BC%80%E8%BD%A6",
+        "note": "Contextual Chinese Dictionary, 开车: 'to drive a car; to tell a dirty joke'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“发车/开车/飙车：指在网上发布色情图文视频等资源的下载链接，发布者被称为‘老司机’”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "shichui-hard-proof",
+    "hanzi": "实锤",
+    "pinyin": "shíchuí",
+    "literal": "solid hammer",
+    "meaning": "Hard proof; a smoking gun, usually screenshots, recordings or photos behind a piece of gossip. Also a verb: 被实锤了 = it has been proved. '有锤吗？' = any proof?",
+    "meaning_zh": "指确凿的证据，多为截图、录音、照片等。也作动词：“被实锤了”即被证实了。",
+    "example": "聊天记录都放出来了，这下实锤了。",
+    "example_pinyin": "Liáotiān jìlù dōu fàng chūlái le, zhè xià shíchuí le.",
+    "example_translation": "The chat logs have been released. That settles it — it's proven.",
+    "context": "Wiktionary gives 'smoking gun; ironclad evidence; concrete proof'. The Wikiversity slang list ties it to celebrity gossip, and adds a caution worth keeping: something being 实锤 does not mean it is true, since the 'proof' can be fabricated.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E5%AF%A6%E9%8C%98",
+        "note": "Wiktionary 實錘: '(Mainland China, neologism, slang) smoking gun; ironclad evidence; concrete proof'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“实锤：对应的英文词汇为hard evidence，意即有图有视频的证据或者结论”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "biye-laid-off",
+    "hanzi": "毕业",
+    "pinyin": "bìyè",
+    "literal": "to graduate",
+    "meaning": "Big-tech euphemism for being laid off. Usually in quotation marks or passive: 被“毕业”了. Its older sibling is 优化 ('optimised'): 被优化了 = got made redundant.",
+    "meaning_zh": "互联网大厂对裁员的委婉说法，常说“被毕业”。更早的同类说法是“优化”，“被优化了”即被裁了。",
+    "example": "我们组上周有三个人“毕业”了。",
+    "example_pinyin": "Wǒmen zǔ shàng zhōu yǒu sān gè rén \"bìyè\" le.",
+    "example_translation": "Three people on our team 'graduated' last week.",
+    "context": "In spring 2022 JD.com's lay-off notice wished departing staff '毕业快乐，恭喜您顺利毕业' ('Happy graduation! Congratulations on graduating'). 36Kr wrote that after 优化, 毕业 had become big tech's newest 黑话, and traced the sequence of euphemisms: 末位淘汰, then 结构优化, then 毕业. Wiktionary records both senses: 毕业 'to quit a job; to be fired' and 优化 'to fire; to lay off' (euphemistic). See also [[ruan-cai-yuan]] and [[liu-san-ling-630]].",
+    "category": "social",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/1693526763560072",
+        "note": "36氪·镜观台（2022-04-11）：《互联网大厂“毕业”时代》——“继‘优化’之后，‘毕业’成为互联网大厂又一‘黑话’”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/1680225199596807",
+        "note": "36氪：《裁员叫法进化史：末位淘汰-结构优化-毕业》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%95%A2%E6%A5%AD",
+        "note": "Wiktionary 畢業: '(figurative, business) to quit [a job]; to be fired'",
+        "lang": "en"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E5%84%AA%E5%8C%96",
+        "note": "Wiktionary 優化: '(figurative, euphemistic) to fire; to dismiss; to lay off'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "liandan-train-ai",
+    "hanzi": "炼丹",
+    "pinyin": "liàndān",
+    "literal": "to refine an elixir (Daoist alchemy)",
+    "meaning": "To train an AI model. So much depends on trial, error and luck that practitioners liken it to alchemy and call themselves 炼丹师 (alchemists). Now also said of hobbyists training their own image models.",
+    "meaning_zh": "指训练AI模型。因为调参靠经验和运气，从业者自嘲像道士炼丹，自称“炼丹师”。现在也指爱好者自己训练绘画模型。",
+    "example": "模型炼了三天，丹没炼成，显卡先冒烟了。",
+    "example_pinyin": "Móxíng liàn le sān tiān, dān méi liàn chéng, xiǎnkǎ xiān màoyān le.",
+    "example_translation": "Three days of training, no elixir to show for it, and the graphics card is the first thing smoking.",
+    "context": "The metaphor is worked out in full: in a 2020 promotional piece for its deep-learning framework, the AI firm Megvii cast data as the ingredients, the framework as the 丹炉 (furnace) and computing power as the fire beneath it. IT Home used 炼丹师 when reporting that training AI models had become a certifiable occupation. In the image-generation scene, a Juejin tutorial notes that training a LoRA model is '俗称炼丹'. Compare [[chouka-ai-gacha-pull]] for running the finished model.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/383679393_701814",
+        "note": "搜狐（2020）：《深度学习“炼丹”难？三分钟带你了解国产丹炉旷视天元》——数据是灵材、框架是丹炉、算力是真火",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ithome.com/0/589/256.htm",
+        "note": "IT之家：《现在，训练 AI 模型也是一个可以考证的事情了》，文中用“炼丹师”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://juejin.cn/post/7269723528961392695",
+        "note": "掘金：《手把手教你在云环境炼丹：Stable Diffusion LoRA 模型保姆级炼制教程》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yingye-idol-duty",
+    "hanzi": "营业",
+    "pinyin": "yíngyè",
+    "literal": "to be open for business",
+    "meaning": "Of an idol or influencer: to be 'on duty' — posting, livestreaming or interacting with fans as part of the job. '终于营业了' = finally posted something. By extension, anyone putting on their professional face.",
+    "meaning_zh": "指偶像、网红把经营形象当工作：发微博、直播、和粉丝互动。“终于营业了”就是终于发东西了。也泛指任何人摆出“工作状态”。",
+    "example": "他半年没发微博了，今天终于营业了。",
+    "example_pinyin": "Tā bàn nián méi fā Wēibó le, jīntiān zhōngyú yíngyè le.",
+    "example_translation": "He hadn't posted on Weibo for half a year; today he finally clocked in.",
+    "context": "Wiktionary labels it idol-fandom slang: 'to perform one's social role; particularly to treat one's idolship as a job, and thus maintain one's social media accounts or interact with fans'. The Wikiversity slang list uses it in passing of stars with strong '营业能力'. The deck's [[huorengan]] is its opposite: someone who 'doesn't look like they are 营业'.",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E7%87%9F%E6%A5%AD",
+        "note": "Wiktionary 營業: '(neologism, slang, chiefly idol fandom) to perform one's social role; particularly to treat one's idolship as a job'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：艺人条目中用到“营业能力强”“敷衍营业”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "banzhuan-grind",
+    "hanzi": "搬砖",
+    "pinyin": "bānzhuān",
+    "literal": "to carry bricks",
+    "meaning": "To do dull, repetitive work; by extension, simply to go to work. Self-mocking: the office worker as a labourer on a building site.",
+    "meaning_zh": "指干重复、枯燥的活儿，也泛指上班。带自嘲意味，把上班族比作工地上搬砖的工人。",
+    "example": "不说了，明天还得早起搬砖。",
+    "example_pinyin": "Bù shuō le, míngtiān hái děi zǎoqǐ bānzhuān.",
+    "example_translation": "Enough chat — I've got to be up early tomorrow to shift bricks.",
+    "context": "Wiktionary gives the humorous neologism: 'to do a lot of repetitive work; to hold an unstimulating and tedious job'. The Wikiversity slang list records the Tieba put-down '醒醒吧，工头叫你去搬砖了' ('wake up, the foreman wants you back shifting bricks'), used on anyone getting above themselves online. It is the cheerful older cousin of [[niu-ma]].",
+    "category": "slang",
+    "date_added": "2026-11-13",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%90%AC%E7%A3%9A",
+        "note": "Wiktionary 搬磚: '(neologism, figurative, humorous) to do a lot of repetitive work; to hold an unstimulating and tedious job'",
+        "lang": "en"
+      },
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》：“醒醒吧，工头叫你去搬砖了”，语出百度贴吧",
+        "lang": "zh"
+      }
+    ]
   }
 ]
