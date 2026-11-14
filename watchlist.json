@@ -208,14 +208,6 @@
     "note": "Hyperbolic 'XX's sky has fallen in' for a group hit by bad news (Weibo hot search 2026-11-03 '喜欢买黄金的人天塌了'). Productive formula, but 2026-11-04 searches found only content-farm explainers, no origin. Find a real source before adding. | 2026-11-09: Re-sighted 2026-11-08 on Weibo hot search ('我天塌了蒜苔居然是碳水啊'). Still no non-content-farm source for the formula's origin."
   },
   {
-    "hanzi": "升咖",
-    "reason": "unverified",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-04",
-    "sightings": 1,
-    "note": "Fan-circle word for a celebrity moving up a tier (咖位), opposite of deck word 糊咖 (Weibo hot search 2026-11-03 '闫桉 升咖'). No source opened defines it yet."
-  },
-  {
     "hanzi": "大麦哥",
     "reason": "niche",
     "first_seen": "2026-11-06",
@@ -318,5 +310,21 @@
     "last_seen": "2026-11-13",
     "sightings": 1,
     "note": "Pun on recruitment app BOSS直聘 ('Boss direct hire' → 'Boss direct scam') for deceptive job ads; seen as a job-hunting Halloween costume in Digitaling 2026-11-03 (digitaling.com/articles/1615564.html). No source defining it as a netizen term yet."
+  },
+  {
+    "hanzi": "凑AI",
+    "reason": "unverified",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "sightings": 1,
+    "note": "Office workers padding work with token AI use to hit AI-usage targets ('各显神通地凑AI'), alongside 表演AI提效 and AI含量. Seen in one 蓝鲸财经/定焦One feature (2026-10-26, lanjinger.com/d/1792811350126390123). Check for independent use; may overlap watchlist 含机量."
+  },
+  {
+    "hanzi": "零开机",
+    "reason": "too-new",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "sightings": 1,
+    "note": "Baidu hot search 2026-11-14 '内娱 零开机时代': an industry blogger says mainland long-form drama shoots may collapse under AI漫剧 and copycat content. News-lane candidate only if 零开机 becomes a lasting handle for the drama slump; no source opened beyond the board."
   }
 ]

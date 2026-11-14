@@ -9283,5 +9283,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "sheng-ka",
+    "hanzi": "升咖",
+    "pinyin": "shēng kā",
+    "literal": "rise + 咖 (tier, from 咖位 'star ranking')",
+    "meaning": "To move up a tier in celebrity ranking: a performer getting bigger roles, better billing and more endorsements after a breakout. Fan-circle and entertainment-gossip talk, often argued over ('has he really 升咖?'). Opposite of being a 糊咖. Works in the negative too: 升不升咖 'whether or not they've moved up'.",
+    "meaning_zh": "指艺人咖位上升：爆了一部作品之后番位更靠前、资源和代言更好，跻身更高一档。多见于饭圈和娱乐八卦讨论，常引发争论（“到底算不算升咖”）。反义可对照“糊咖”。也可说“升不升咖”。",
+    "example": "演完这部剧，他算是彻底升咖了，代言接到手软。",
+    "example_pinyin": "Yǎn wán zhè bù jù, tā suàn shì chèdǐ shēng kā le, dàiyán jiē dào shǒu ruǎn.",
+    "example_translation": "After that drama he's well and truly moved up a tier — endorsements are pouring in.",
+    "context": "咖 comes from 咖位, the informal pecking order of stars (itself from Taiwanese 大咖 'big shot'); the deck's [[hu-ka]] is a star on the way down. 升咖 is the way up. It surged in early November 2026 with the hashtag #闫桉升咖#, after actor 闫桉 landed his first male lead in the costume drama 《嫁金钗》; fans under the tag split between '确实升咖了' and '升不升咖不重要' (Sina Entertainment, 2026-11-04). On 2026-11-14 it was on Baidu's hot-search board again when actress 叶璇 argued that starring in a top-tier short drama counts as 升咖, not a step down. It's a judgement call, never an official rank, which is exactly why fans fight about it.",
+    "category": "slang",
+    "date_added": "2026-11-14",
+    "sources": [
+      {
+        "url": "https://ent.sina.cn/2026-11-04/detail-inixnyrp8380253.d.html?vt=4",
+        "note": "新浪娱乐（2026-11-04）：《闫桉的粉丝对他的升咖持什么态度？》——#闫桉升咖#词条下的粉丝讨论",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜实时榜（2026-11-14）：“叶璇：演顶级短剧是升咖”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jian-zheng",
+    "hanzi": "键政",
+    "pinyin": "jiàn zhèng",
+    "literal": "keyboard + politics (short for 键盘政治)",
+    "meaning": "'Keyboard politics': holding forth on current affairs and geopolitics online, usually with more confidence than expertise. Also a verb (他又在键政了) and a scene: 键政圈 'the keyboard-politics crowd', 键政家/键政人 for its members. Mildly mocking, though plenty of people use it of themselves.",
+    "meaning_zh": "“键盘政治”的缩写：在网上高谈阔论时政、国际局势，往往自信多于专业。可作动词（“他又在键政了”）；“键政圈”指热衷此道的网络群体，成员叫“键政家”“键政人”。带点嘲讽，但也常被用来自嘲。",
+    "example": "他白天上班摸鱼，晚上在知乎键政到凌晨。",
+    "example_pinyin": "Tā báitiān shàngbān mōyú, wǎnshang zài Zhīhū jiàn zhèng dào língchén.",
+    "example_translation": "He slacks off at work all day, then does keyboard politics on Zhihu till the small hours.",
+    "context": "A sibling of 键盘侠 'keyboard warrior'. A 2020 BBC Chinese piece (archived by China Digital Times) on the online political codewords 入关学 and 加速主义 notes that netizens coined 键政家 ('keyboard politician') to mock people airing half-baked political views online, and that analysts feared this unsystematic 键政 was polarising opinion. By 2025 the 键政圈 was the incubator of the political jargon itself: a Huxiu essay on 赢学 opens 'if you know the Chinese internet's 键政圈, you know 赢学 is its hottest word', tracing how sarcastic [[ying-ma-le]] and 'win-ology' spread through it. Knowing the word tells you where terms like those come from, and that their users are a self-aware online subculture, not pundits.",
+    "category": "slang",
+    "date_added": "2026-11-14",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/653152.html",
+        "note": "中国数字时代转载BBC中文（2020-08-18）：《中国网络政治暗语“入关学”与“加速主义”》——“中国网友曾发明‘键政家’（键盘政治家）一词”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4108703.html",
+        "note": "虎嗅（新潮沉思录，2025-03-12）：《“赢学”世界才刚刚开始》——多次提到“中文互联网键政圈”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "san-ren-cheng-hu",
+    "hanzi": "三人成虎",
+    "pinyin": "sān rén chéng hǔ",
+    "literal": "three people + make + tiger",
+    "meaning": "Repeat a falsehood enough and people believe it — if three people say there's a tiger in the market, there's a tiger. Used for rumours and fake news snowballing online, and as a warning not to forward unverified claims.",
+    "meaning_zh": "谣言说的人多了，就会被当成真的——三个人都说集市上有老虎，人们便信了。常用来形容网上谣言、假新闻越传越真，也用来提醒别乱转未经核实的消息。",
+    "example": "网上的消息别急着转，三人成虎，说的人多了，假的也像真的。",
+    "example_pinyin": "Wǎngshang de xiāoxi bié jízhe zhuǎn, sān rén chéng hǔ, shuō de rén duō le, jiǎ de yě xiàng zhēn de.",
+    "example_translation": "Don't rush to share stuff you see online — three people make a tiger, and enough repetition makes the fake look real.",
+    "context": "From 《战国策·魏策二》: the Wei minister 庞葱 (also written 庞恭), about to escort the crown prince to Handan as a hostage, asks the king whether he'd believe one, two, then three people claiming a tiger was loose in the market. The king admits that at three he would. 庞葱 warns that far more than three will slander him while he's away. They did, and the king never trusted him again. Today it's the go-to idiom whenever a rumour goes viral: The World of Chinese pairs it with a case where an AI-generated video of a fake Jiangsu factory explosion spread online and three people were arrested for making it to farm traffic.",
+    "category": "chengyu",
+    "date_added": "2026-11-14",
+    "sources": [
+      {
+        "url": "https://www.theworldofchinese.com/2024/05/idiomized-how-to-talk-fake-news-in-4-characters/",
+        "note": "The World of Chinese (2024-05-09): 'Idiomized: How to talk fake news in 4 characters' — the story and modern use for online rumours",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.sina.cn/news/detail/5055404767711623.html",
+        "note": "新浪（爱霸英语，2024-07-12）：《用英语讲中国故事 第55期 三人成虎》——出自《战国策·魏策》庞葱与魏王的对话",
+        "lang": "zh"
+      }
+    ]
   }
 ]
