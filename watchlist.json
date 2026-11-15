@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "自渡",
-    "reason": "unverified",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "sightings": 1,
-    "note": "'Ferry yourself across' — rescue yourself rather than wait for help; Buddhist-flavoured self-reliance word. A Taiwanese commentary (报新闻, ~2026-10-12) says its searches surged on mainland social media in Sept 2026 (also a 2023 buzzword), but no mainland source confirmed netizen usage."
-  },
-  {
-    "hanzi": "购物审批",
-    "reason": "too-new",
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "sightings": 1,
-    "note": "Getting strangers to approve/reject your planned purchase, via the 钱包请等等 mini program (launched 2026-08-25, 300k+ users; Huxiu 2026-10-10, Baidu hot search 2026-10-18). Watch whether 购物审批 / 冷酷审批官 outlives the one app."
-  },
-  {
     "hanzi": "AI梦男",
     "reason": "unverified",
     "first_seen": "2026-10-21",
@@ -315,9 +299,9 @@
     "hanzi": "凑AI",
     "reason": "unverified",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "sightings": 1,
-    "note": "Office workers padding work with token AI use to hit AI-usage targets ('各显神通地凑AI'), alongside 表演AI提效 and AI含量. Seen in one 蓝鲸财经/定焦One feature (2026-10-26, lanjinger.com/d/1792811350126390123). Check for independent use; may overlap watchlist 含机量."
+    "last_seen": "2026-11-15",
+    "sightings": 2,
+    "note": "Office workers padding work with token AI use to hit AI-usage targets ('各显神通地凑AI'), alongside 表演AI提效 and AI含量. Seen in one 蓝鲸财经/定焦One feature (2026-10-26, lanjinger.com/d/1792811350126390123). Check for independent use; may overlap watchlist 含机量. | 2026-11-15: Re-sighted 2026-11-15: 36氪 2026-06-24 and 虎嗅 describe workers faking AI use for KPIs (burning tokens, relabelling own work as AI-generated), but the phrase 凑AI itself still only in the 蓝鲸财经/定焦One piece."
   },
   {
     "hanzi": "零开机",

@@ -9361,5 +9361,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "npd-label",
+    "hanzi": "NPD",
+    "pinyin": "NPD (ēn pī dī)",
+    "literal": "Narcissistic Personality Disorder (自恋型人格障碍)",
+    "meaning": "Pop-psychology label slapped on anyone controlling, manipulative or unable to admit fault, especially parents and partners on reality TV: 'he's so NPD', 'NPD mum'. It's loaded: a clinical diagnosis turned into an online insult and an armchair verdict, and critics say it erases the 'D' (disorder).",
+    "meaning_zh": "“自恋型人格障碍”的英文缩写，被网友泛化成标签：控制欲强、不认错、爱情感操控或道德绑架的人（尤其是综艺里的父母、伴侣）都会被“鉴定”为NPD。带贬义和争议——把临床诊断变成了网络骂人话和隔空确诊。",
+    "example": "弹幕全在刷：这妈妈太NPD了吧，句句都在否定女儿。",
+    "example_pinyin": "Dànmù quán zài shuā: zhè māma tài NPD le ba, jùjù dōu zài fǒudìng nǚ'ér.",
+    "example_translation": "The bullet comments are all saying the same thing: this mum is so NPD, every sentence puts her daughter down.",
+    "context": "NPD caught on as a social-media buzzword after PUA. In November 2024 viewers of Mango TV's 《再见爱人4》 labelled guest 杨子 as 'NPD' (and 爹味) within the first episode, and The Paper counted nearly 10,000 Xiaohongshu posts on how to deal with NPD people. It flared up again in autumn 2026, when viewers of 《我家那闺女2026》 called athlete 张家齐's mother an 'NPD母亲' and marketing accounts ran headlines like '芒果台全方位展示NPD'. On 2026-11-15 '综艺里到处都是NPD妈妈 啥是NPD' was on Baidu's hot search. Huxiu's Oct 2026 essay '鉴别“NPD父母”' notes it is now widely used as a kind of online insult, with NPD, BPD and ADHD worn like 'fashion items'. Use with care: it's an accusation, not a diagnosis.",
+    "category": "social",
+    "date_added": "2026-11-15",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_29240485",
+        "note": "澎湃新闻·湃客《NPD，在综艺节目里搞起了“团建”》(2024-11-05)：杨子被网友定位为“NPD”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4898956.html",
+        "note": "虎嗅《鉴别“NPD父母”：年轻人迟来的清算》(2026-10-24)：NPD被广泛用作网络辱骂",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-15：“综艺里到处都是NPD妈妈 啥是NPD”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "gouwu-shenpi",
+    "hanzi": "购物审批",
+    "pinyin": "gòuwù shěnpī",
+    "literal": "shopping + approval (as in office sign-off)",
+    "meaning": "'Purchase approval': submitting something you want to buy (item, price, reason, cheaper alternative) for friends or strangers to approve (通过) or reject (驳回) before you're allowed to spend — a jokey bureaucratic brake on impulse buying that went viral in autumn 2026.",
+    "meaning_zh": "把想买的东西（商品、价格、理由、平替）提交给朋友或陌生网友“审批”，由他们投票“通过”或“驳回”后再决定买不买，用来对抗冲动消费。2026年秋天走红的玩法。",
+    "example": "这双鞋八百多，我先发个购物审批，被驳回就不买了。",
+    "example_pinyin": "Zhè shuāng xié bābǎi duō, wǒ xiān fā gè gòuwù shěnpī, bèi bóhuí jiù bù mǎi le.",
+    "example_translation": "These shoes are over 800 yuan — I'll put in a purchase approval first, and if it's rejected I won't buy them.",
+    "context": "Per 新周刊 (via Huxiu, 2026-10-10), the idea started online in early August 2026 as a form you filled in and sent to friends; good approval records were reposted to Xiaohongshu and it spread. A Shanghai interaction-design graduate known as 火山 then built the WeChat mini program 钱包请等等 ('Wallet, please wait'), which passed 10,000 users within nine hours and 300,000+ participants by October; HK01 (2026-10-26) reports she built it in eight days with AI tools and it reached over a million players. Strangers in its public 'square' approve, reject or just 围观, and a rejection shows how much you 'saved'. Its slogan: '冲动消费的黄金冷静期是24小时'. Some users admit browsing it just got them 种草 on more things. A snapshot of 2026's cautious-spending mood.",
+    "category": "news",
+    "date_added": "2026-11-15",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/4896357.html",
+        "note": "虎嗅转载新周刊《最会过日子的年轻人，开始让陌生网友审批花钱》(2026-10-10)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.yzwb.net/news/sh/202610/t20261016_403251.html",
+        "note": "扬子晚报网 (2026-10-16)：“钱包请等等”小程序消费审批实测",
+        "lang": "zh"
+      },
+      {
+        "url": "https://global.hk01.com/数码生活/60402991/内地女生凭ai研发购物审批程式-靠陌生人管钱包-掀全网审批热",
+        "note": "香港01《内地女生凭AI研发购物审批程式 靠陌生人管钱包 掀全网审批热》(2026-10-26)",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhang-guan-li-dai",
+    "hanzi": "张冠李戴",
+    "pinyin": "zhāng guān lǐ dài",
+    "literal": "Zhang's hat on Li's head",
+    "meaning": "To attribute something to the wrong person or thing; to mix things up. Online it's the standard verdict on misattributed quotes, wrongly captioned photos and, increasingly, AI hallucinations that pin facts on the wrong person.",
+    "meaning_zh": "把姓张的帽子戴到姓李的头上，比喻弄错了对象、搞混了事实。网上常用来吐槽名言被安错作者、图文对不上，以及AI“幻觉”把信息安到错误的人或事上。",
+    "example": "AI 把两部剧的演员表张冠李戴了，还说得一本正经。",
+    "example_pinyin": "AI bǎ liǎng bù jù de yǎnyuánbiǎo zhāngguān-lǐdài le, hái shuō de yìběn-zhèngjīng.",
+    "example_translation": "The AI mixed up the casts of two dramas, and said it with a perfectly straight face.",
+    "context": "A long-established everyday chengyu that has found new life in the AI era. People's Daily's July 2025 commentary on AI 'talking nonsense with a straight face' lists '人物身份张冠李戴' among typical hallucinations, alongside fake links; a 检察日报 investigation (via 光明网, 2025-11-10) heads a section '张冠李戴、无中生有' with the case of an AI assistant that pinned one costume drama's ratings on another (《与晋长安》 onto 《锦月如歌》). In comment sections it's the go-to jab at misattributed quotes, mismatched captions and confidently wrong chatbots.",
+    "category": "chengyu",
+    "date_added": "2026-11-15",
+    "sources": [
+      {
+        "url": "https://www.news.cn/comments/20250702/9cfdd12603964dabb975b001675bafda/c.html",
+        "note": "人民日报评论（新华网转载）《如何看待AI“一本正经地胡说八道”》(2025-07-02)：人物身份张冠李戴",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.gmw.cn/2025-11/10/content_1304219328.htm",
+        "note": "光明网转载检察日报 AI幻觉调查 (2025-11-10)：“张冠李戴、无中生有”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
