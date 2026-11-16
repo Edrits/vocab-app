@@ -9449,5 +9449,103 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "renzhi-touxiang",
+    "hanzi": "认知投降",
+    "pinyin": "rènzhī tóuxiáng",
+    "literal": "cognition + surrender",
+    "meaning": "'Cognitive surrender': taking an AI's output as your own judgement and no longer bothering to check it. The last of three stages people now cite: 认知卸载 (offloading — the AI does the task, you still own the result), 推迟判断 (deferring — you treat its answer as a basis for the next step), then 认知投降 (you stop verifying at all). Used as a warning and, increasingly, as a self-mocking diagnosis.",
+    "meaning_zh": "把AI的输出直接当成自己的判断，甚至觉得没必要再检查。常与“认知卸载”（把任务交给AI，但仍对结果负责）、“推迟判断”并列，认知投降是最后一步。多用来提醒人们别过度依赖AI，也被拿来自嘲。",
+    "example": "代码全让AI写，连看都不看就上线，你这已经是认知投降了。",
+    "example_pinyin": "Dàimǎ quán ràng AI xiě, lián kàn dōu bù kàn jiù shàngxiàn, nǐ zhè yǐjīng shì rènzhī tóuxiáng le.",
+    "example_translation": "You let the AI write all the code and ship it without even looking — that's full-on cognitive surrender.",
+    "context": "A calque of 'cognitive surrender', a term from Wharton researchers Steven Shaw and Gideon Nave. In April 2026 Taiwan's TechNews reported their University of Pennsylvania study: faced with wrong AI answers, participants accepted the flawed reasoning about 73.2% of the time and overturned it only about 19.7%. It spread further in early November 2026, when Phoenix Tech (凤凰网科技) wrote up a long X post by Anthropic Claude Code engineer Addy Osmani, 'Critical thinking when agents do the work', which laid out the offloading → deferral → surrender ladder. By 16 November '警惕“认知投降”' was on Baidu's real-time hot search, and a May 2026 虎嗅 essay ('伪智能时代') contrasts it with 认知卸载: offloading hands over the task, surrender hands over the judgement too. Sits alongside 降AI率 and AI味 in the deck's AI lane.",
+    "category": "slang",
+    "date_added": "2026-11-16",
+    "sources": [
+      {
+        "url": "https://tech.ifeng.com/c/8xm61sxmjoS",
+        "note": "凤凰网科技（2026-11-04）：Anthropic工程师Addy Osmani谈“认知投降”，三阶段定义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://technews.tw/2026/04/09/cognitive-surrender-leads-ai-users-to-abandon-logical-thinkin/",
+        "note": "科技新报 TechNews（2026-04-09）：宾大研究，73.2%接受错误AI推理",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4855689.html",
+        "note": "虎嗅（2026-05-04）《伪智能时代》：Shaw和Nave命名认知投降，区分认知卸载",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-16：“警惕‘认知投降’”上榜",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xx-cike",
+    "hanzi": "XX刺客",
+    "pinyin": "XX cìkè",
+    "literal": "XX + assassin",
+    "meaning": "An 'assassin' product or service: something that looks ordinary and cheap but ambushes you with a shocking bill at the till. Fully productive — slot in any noun: 雪糕刺客 (ice cream), 水果刺客 (fruit), 维修刺客 (home repairs that balloon in price). Implies hidden or unmarked pricing, not just 'expensive'.",
+    "meaning_zh": "看起来普通、便宜，结账时价格却让人大吃一惊的商品或服务，像“刺客”一样冷不防给你一刀。可自由套用：雪糕刺客、水果刺客、维修刺客等，重点是价格不透明、出其不意，而不只是贵。",
+    "example": "随手拿了根雪糕，一扫码二十八块，又被刺客刺了。",
+    "example_pinyin": "Suíshǒu nále gēn xuěgāo, yì sǎomǎ èrshíbā kuài, yòu bèi cìkè cì le.",
+    "example_translation": "I grabbed an ice lolly without thinking, scanned it — 28 yuan. Ambushed by an assassin again.",
+    "context": "Born in summer 2022 as 雪糕刺客 ('ice-cream assassin'): premium bars such as 钟薛高 (Chicecream, up to 66 yuan a bar per The China Project) were mixed into convenience-store freezers without price tags, so shoppers only discovered the price at checkout. The China Project's Phrase of the Week (July 2022) already noted spin-offs — 水果刺客, 巧克力刺客, even 猪蹄刺客. The suffix has outlived the ice-cream craze (China's price-labelling rules tightened from July 2023) and is now standard consumer-complaint vocabulary: China News Service's March 2026 follow-up on the 啄木鸟 home-repair platform asked whether this '维修刺客' had fixed itself, and on 16 November 2026 a People's Daily commentary on repair-platform overcharging ('人民日报评维修刺客') hit Baidu's hot search. Cousin of deck word 背刺.",
+    "category": "slang",
+    "date_added": "2026-11-16",
+    "sources": [
+      {
+        "url": "https://thechinaproject.com/?p=229347",
+        "note": "The China Project, 'Ice-cream assassin' — Phrase of the Week (2022-07-15)",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.36kr.com/p/1815596544213385",
+        "note": "36氪：雪糕刺客2022年夏天走红的报道",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/cj/2026/03-13/10586586.shtml",
+        "note": "中新网民生调查局（2026-03-13）：曝光整改一年，啄木鸟归来仍是“维修刺客”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-16：“人民日报评维修刺客：变味的业绩考核”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yamiao-zhuzhang",
+    "hanzi": "揠苗助长",
+    "pinyin": "yà miáo zhù zhǎng",
+    "literal": "pull up + seedlings + help + grow",
+    "meaning": "To spoil something by forcing it to develop faster than it naturally can; counterproductive haste. Also written 拔苗助长.",
+    "meaning_zh": "比喻违反事物发展的客观规律，急于求成，反而把事情弄糟。也作“拔苗助长”。",
+    "example": "三岁就报五个班，这不是鸡娃，是揠苗助长。",
+    "example_pinyin": "Sān suì jiù bào wǔ gè bān, zhè bú shì jī wá, shì yà miáo zhù zhǎng.",
+    "example_translation": "Five classes at age three? That's not pushy parenting, that's pulling up the seedlings to make them grow.",
+    "context": "From 《孟子·公孙丑上》: a man of the state of Song, fretting that his seedlings weren't growing, tugged each one up, went home boasting that he'd helped them grow — and his son ran out to find them all withered. Mencius uses it in his discussion of cultivating 浩然之气: growth can't be forced. Online it is the go-to verdict in education rows: comment sections under stories about 超前学习 (learning ahead of the syllabus) and 鸡娃 parenting call it 揠苗助长 — The Paper's 2024 piece on the dilemma between '超前学习的苦' and '掉队的苦' quotes both commenters and a parent using it. Pairs naturally with deck words 鸡娃 and 内卷.",
+    "category": "chengyu",
+    "date_added": "2026-11-16",
+    "sources": [
+      {
+        "url": "https://www.zdic.net/hans/揠苗助长",
+        "note": "汉典：揠苗助长词条，出处《孟子·公孙丑上》及释义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_29356865",
+        "note": "澎湃新闻（2024-11-15）：“超前学习的苦”和“掉队的苦”，网友与家长用“揠苗助长”批评超前学习",
+        "lang": "zh"
+      }
+    ]
   }
 ]
