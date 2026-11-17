@@ -9547,5 +9547,83 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "neng-gong-zhi-ren",
+    "hanzi": "能工智人",
+    "pinyin": "néng gōng zhì rén",
+    "literal": "able + work + clever + person (人工智能 'artificial intelligence' scrambled)",
+    "meaning": "A jokey scramble of 人工智能 (AI). Workers use it to mock themselves as 'human AI' doing standardised, process-driven tasks; freelancers also use it, tongue in cheek, to sell human-made services (PPTs, video edits, retouching) as a cheaper alternative to AI.",
+    "meaning_zh": "把“人工智能”打乱顺序而成的调侃说法。打工人用它自嘲像“人肉AI”一样做标准化、流程化的工作；也有人在闲鱼等平台以“能工智人”为卖点，反向营销真人服务（做PPT、剪视频、修图等），称比AI更有性价比。",
+    "example": "老板说要用AI提效，结果最后干活的还是我这个能工智人。",
+    "example_pinyin": "Lǎobǎn shuō yào yòng AI tí xiào, jiéguǒ zuìhòu gàn huó de háishi wǒ zhège néng gōng zhì rén.",
+    "example_translation": "The boss wanted AI to boost efficiency — and in the end the one doing the work is still me, the 'human intelligence'.",
+    "context": "A 2026 AI-era coinage. A 民情瞭望 report republished on Sohu (13 April 2026) says the reshuffled 人工智能 went viral on social platforms as a humorous response to the AI wave. It carries two senses: office workers whose jobs feel as mechanical as an AI's ('有时候感觉自己像个‘人肉AI’'), and a reverse-marketing label on Xianyu (闲鱼), where listings starting around 20 yuan offer human PPT-making, editing or dog-walking, with pitches like '比龙虾更有性价比' (a dig at the OpenClaw agent — deck word 养龙虾) and '百万token消耗，产出还不稳定。不如选我，还能提供情绪价值。' An economics professor quoted in the piece proposed redefining it as '会用AI的巧匠' rather than '人肉AI'. Sits alongside deck words 养龙虾, 烧Token and 情绪价值.",
+    "category": "slang",
+    "date_added": "2026-11-17",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/1008996964_120237",
+        "note": "搜狐·民情瞭望（2026-04-13）：“百万Token”不如我有性价比！人工智能VS能工智人——自嘲与闲鱼真人服务",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "e-die",
+    "hanzi": "俄爹",
+    "pinyin": "é diē",
+    "literal": "Russia + daddy",
+    "meaning": "Derogatory, mocking label for Russia as seen by China's uncritically pro-Russian netizens — and, by extension, a jab at those netizens (精俄 / 精苏) who treat Russia like a father figure. Saying someone '舔俄爹' (licks Daddy Russia) accuses them of fawning over Moscow.",
+    "meaning_zh": "网络蔑称，讽刺部分“精俄”“精苏”网民无原则地吹捧俄罗斯、把俄罗斯当“爹”供着；“舔俄爹”即指盲目亲俄、为俄罗斯辩护的行为。带有明显贬义和政治色彩。",
+    "example": "俄爹虐我千百遍，我待俄爹如初恋。",
+    "example_pinyin": "É diē nüè wǒ qiān bǎi biàn, wǒ dài é diē rú chūliàn.",
+    "example_translation": "Daddy Russia may abuse me a thousand times, but I'll still treat him like my first love.",
+    "context": "Loaded label from the Chinese internet's arguments over Russia. China Digital Times' Grass-Mud Horse Lexicon traces it to the older slur 黄俄孝子 ('filial sons of Yellow Russia' — 黄俄 recalls the late-Qing-era Russian scheme to annex northern China): casting Russia as the father is the joke, since it implies self-abasing subordination. The lexicon quotes the mocking couplet '俄爹虐我千百遍，我待俄爹如初恋' and links its use to episodes like the Russian embassy's 2020 Weibo post celebrating Vladivostok's 160th anniversary. After the 2022 invasion of Ukraine it was aimed at pro-Russia commenters; Taiwan's Liberty Times headlined a March 2022 report on the 'Great Translation Movement' '小粉紅舔「俄爹」'. Users are typically critics of the pro-Russia camp — report it as a jab, not a neutral nickname.",
+    "category": "social",
+    "date_added": "2026-11-17",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/space/俄爹",
+        "note": "中国数字时代·草泥马语录：俄爹词条（源自“黄俄孝子”，释义与用例）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/3858357",
+        "note": "自由时报（2022-03-13）：歌颂侵略！小粉红舔「俄爹」 「大翻译运动」让他们海外现形",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "pei-de-gan",
+    "hanzi": "配得感",
+    "pinyin": "pèi de gǎn",
+    "literal": "deserve + feeling",
+    "meaning": "Sense of deservingness: the belief that you're worthy of good things — praise, love, nice food, success — and can accept them without guilt. Usually discussed as 低配得感 (feeling you don't deserve anything, so you scrimp on yourself and flinch at compliments) versus 高配得感 (confident, unapologetic self-worth).",
+    "meaning_zh": "相信自己值得拥有美好事物的感觉。“低配得感”的人被夸会慌、被请客会不安，物质上对自己抠搜、行动上畏手畏脚；“高配得感”则指坦然接受赞美和好东西，理直气壮。",
+    "example": "别人夸我一句我就浑身不自在，我这配得感也太低了。",
+    "example_pinyin": "Biérén kuā wǒ yí jù wǒ jiù húnshēn bú zìzài, wǒ zhè pèi de gǎn yě tài dī le.",
+    "example_translation": "One compliment and I squirm all over — my sense of deserving is way too low.",
+    "context": "A pop-psychology term that went mainstream on Chinese social media around 2024 and is now a staple of self-care talk. A 2024 The Paper column by 壹心理 founder 黄启团 explained it ('不配得感' — refusing a classmate's treat because you feel unworthy) and blamed critical parenting. A 浙江宣传 commentary (via ifeng, November 2024) noted netizens debating a stand-up comic's '低配感' and hailing swimmer 潘展乐's Paris Olympics line '冠军是我们了，不满意的应该是别人' as '超高配得感'. RealTime Mandarin (January 2026) lists it in the vocabulary around the self-love meme 爱你老己. Pairs with deck words 情绪价值 and 爱你老己.",
+    "category": "slang",
+    "date_added": "2026-11-17",
+    "sources": [
+      {
+        "url": "https://news.ifeng.com/c/8eHi6MO19GU",
+        "note": "凤凰网/浙江宣传（2024-11-06）：别让“低配感”困住自己——释义、潘展乐“超高配得感”等例子",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_27206566",
+        "note": "澎湃号·湃客（2024-04-29）：心理学中提到的“自我配得感”是什么？（黄启团）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://realtimemandarin.substack.com/p/258-chinas-latest-internet-slang",
+        "note": "RealTime Mandarin #258 (2026-01-10): China's latest internet slang — 爱你老己, 配得感 and self-care vocabulary",
+        "lang": "en"
+      }
+    ]
   }
 ]
