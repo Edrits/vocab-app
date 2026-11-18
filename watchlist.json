@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "AI梦男",
-    "reason": "unverified",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "sightings": 1,
-    "note": "Label for bosses irrationally infatuated with AI ('一定要把AI使用起来！', 'AI赋能'); coined in a 酷玩实验室 piece (June 2026, reposted by 36氪/虎嗅) with 职场CK内裤. Only that one origin piece found — check for independent usage."
-  },
-  {
-    "hanzi": "大水理论",
-    "reason": "too-new",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-27",
-    "sightings": 2,
-    "note": "Spin-off of 喝大水 (added 2026-10-21): 36氪 says a netizen's argument that 1.5–2L bottles beat drinks on price/health/social grounds. Watch if it outlives the October trend. | 2026-10-27: Re-sighted 2026-10-27: 虎嗅 2026-10-13 says '全网进入大水时代' hit the short-video hot list in early Oct; 新周刊 2026-10-26 lists spin-offs 大水杯时代, 大壶理论 ('放下大水，立地成壶'). Deck has 喝大水 — add only if the 理论 framing proves distinct."
-  },
-  {
     "hanzi": "娆黛摇",
     "reason": "too-new",
     "first_seen": "2026-10-22",
@@ -326,5 +310,37 @@
     "last_seen": "2026-11-17",
     "sightings": 1,
     "note": "Nostalgic template meme: from a 31-second Douyin video of a summer night posted 2026-11-12 ('全体进入暑假时代'), people repost old summer photos/videos with the line (variants 全员进入大暑假时代), often to 温岚《夏天的风》; spread to 小红书/微博 by 11-14–16 after a cold snap (什么值得买 post.smzdm.com/p/aomqqwz9/). This week's format so far — add only if it lasts."
+  },
+  {
+    "hanzi": "排面",
+    "reason": "unverified",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "sightings": 1,
+    "note": "Face/prestige, showy treatment ('有排面', '排面拉满', '给足排面'). Baidu hot search 2026-11-18 '中国排面成新晋落地签' (Thai travellers joking during APEC Shenzhen). Established slang missing from deck, but searches found no source defining it or giving an origin — find one (dictionary entry, explainer) before adding."
+  },
+  {
+    "hanzi": "心巴",
+    "reason": "unverified",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "sightings": 1,
+    "note": "'唱到我心巴上了' / '在我的心巴上' = hits right where it counts, exactly to my taste. 格隆汇 Nov 2026 on 后会友期 lists '不在我的心巴上' among widely imitated memes. 2026-11-18 searches found no definition or origin source."
+  },
+  {
+    "hanzi": "野性消费",
+    "reason": "backfill",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "sightings": 1,
+    "note": "'Wild consumption': impulsive, patriotic/support buying that started with 鸿星尔克's 2021 flood donation; 格隆汇 Nov 2026 uses it for fans' buying in 李亚鹏's livestreams. Established term missing from deck — needs an opened source on the 2021 origin."
+  },
+  {
+    "hanzi": "降智",
+    "reason": "backfill",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "sightings": 1,
+    "note": "'Dumbing down' — content (short dramas, plots) or a person suddenly acting stupid ('降智剧情', '恋爱降智'). 格隆汇 Nov 2026 uses it of short-drama quality. Established slang missing from deck; needs a source."
   }
 ]
