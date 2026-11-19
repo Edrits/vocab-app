@@ -9698,5 +9698,52 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "yexing-xiaofei",
+    "hanzi": "野性消费",
+    "pinyin": "yěxìng xiāofèi",
+    "literal": "野性 wild, untamed + 消费 consumption",
+    "meaning": "'Wild consumption': emotionally driven, deliberately irrational buying to reward a brand or person netizens feel deserves support, often in a wave of goodwill or patriotic sentiment. Said half-jokingly, as the opposite of the 理性消费 ('consume rationally') that the brand itself may plead for.",
+    "meaning_zh": "“野性消费”指网友出于感动、支持或爱国情绪，不讲理性地冲动下单，用买买买来回报自己认可的品牌或个人；常带调侃意味，与品牌方劝说的“理性消费”相对。",
+    "example": "老板越劝大家理性消费，网友越要野性消费，直播间直接被买空了。",
+    "example_pinyin": "Lǎobǎn yuè quàn dàjiā lǐxìng xiāofèi, wǎngyǒu yuè yào yěxìng xiāofèi, zhíbōjiān zhíjiē bèi mǎi kōng le.",
+    "example_translation": "The more the boss begged everyone to shop sensibly, the more netizens went on a wild spending spree — the livestream sold out completely.",
+    "context": "Born in July 2021, when sportswear brand 鸿星尔克 (Erke) announced a 50 million yuan donation of goods to flood-hit Henan (21 July). Netizens, moved that a struggling, low-key domestic brand would give so much, posted that its Weibo comments were heartbreaking (心酸) and flooded its Douyin and Taobao livestreams; the brand's hosts and chairman 吴荣照 urged people to consume rationally, which only fuelled the joke. '野性消费' spread as a livestream meme alongside '缝纫机冒烟' (the factory sewing machines smoking from overwork). It has since become a general label for any wave of emotional support-buying, and is still used in 2026 coverage of fans' buying sprees in celebrity livestreams.",
+    "category": "slang",
+    "date_added": "2026-11-19",
+    "sources": [
+      {
+        "url": "https://www.36kr.com/p/1327164689488135",
+        "note": "36氪 / DT商业观察 (2021-07-26) on the 鸿星尔克 donation and the 野性消费 buying spree in its livestreams",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "jiang-zhi",
+    "hanzi": "降智",
+    "pinyin": "jiàngzhì",
+    "literal": "降 lower + 智 intelligence",
+    "meaning": "'Dumbed down': a person, plot or product suddenly behaving far more stupidly than it should — a character who abandons all logic to drive the plot (降智剧情), a smart friend who loses all sense when in love (恋爱降智), or content that leaves you feeling dumber. In AI circles, users say a chatbot has been 降智 when its answers suddenly get worse: forgetful, off-topic or lazily short.",
+    "meaning_zh": "“降智”指人或作品突然变笨、不讲逻辑：剧情为了推动冲突让角色集体犯傻（降智剧情），人一谈恋爱就失去判断力（恋爱降智），或刷完内容感觉自己变笨了。AI圈里也常说某个大模型“被降智”，指回答质量突然下降、答非所问、前言不搭后语或敷衍了事。",
+    "example": "这剧女主为了制造误会全程降智，我看得血压都上来了。",
+    "example_pinyin": "Zhè jù nǚzhǔ wèile zhìzào wùhuì quánchéng jiàngzhì, wǒ kàn de xuèyā dōu shànglái le.",
+    "example_translation": "The heroine of this drama plays dumb the whole way through just to manufacture misunderstandings — watching it sent my blood pressure up.",
+    "context": "A long-standing complaint in drama and web-novel fandoms about characters whose intelligence drops whenever the plot needs it. It has had two big revivals in the AI era. Users of ChatGPT and other chatbots say a model has been 降智 when its replies suddenly get worse, often blaming hidden throttling; a CSDN explainer (Feb 2026) notes 'this phenomenon is jokingly called 降智', though it argues long contexts and settings are often the real cause. And in autumn 2026 the debate over whether AI-generated short dramas, with their contrived conflicts and sudden twists, are '降智' content that makes viewers dumber trended on social platforms, prompting a 浙江宣传 commentary (26 Oct 2026).",
+    "category": "slang",
+    "date_added": "2026-11-19",
+    "sources": [
+      {
+        "url": "https://news.ifeng.com/c/8xWtdz0yXne",
+        "note": "凤凰网转载《浙江宣传：AI短剧真的“降智”吗》(2026-10-26), on the social-media debate over 'dumbing-down' AI short dramas",
+        "lang": "zh"
+      },
+      {
+        "url": "https://deepseek.csdn.net/6a2a1e4710ee7a33f27ac43c.html",
+        "note": "CSDN explainer (2026-02-22) on the ChatGPT web '降智' phenomenon: '这种现象，大家戏称为“降智”'",
+        "lang": "zh"
+      }
+    ]
   }
 ]

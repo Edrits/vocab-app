@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "娆黛摇",
-    "reason": "too-new",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
-    "sightings": 1,
-    "note": "Hand-gesture dance (with a slap move) improvised by actress 田曦薇 at a promo event for the costume drama 《嫁金钗》, Oct 2026; netizens joke about '排队来领巴掌'. Tied to one actress/show so far — watch whether it spreads beyond the fandom."
-  },
-  {
-    "hanzi": "许愿式编程",
-    "reason": "unverified",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
-    "sightings": 1,
-    "note": "'Wish coding': mocking spin on vibe coding (氛围编程), where you just make a wish and let the AI guess what you want. Seen in one 掘金 post only; check for wider use in AI/dev circles."
-  },
-  {
     "hanzi": "山顶洞语",
     "reason": "too-new",
     "first_seen": "2026-10-23",
@@ -307,9 +291,9 @@
     "hanzi": "所有人进入暑假时代",
     "reason": "too-new",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "sightings": 1,
-    "note": "Nostalgic template meme: from a 31-second Douyin video of a summer night posted 2026-11-12 ('全体进入暑假时代'), people repost old summer photos/videos with the line (variants 全员进入大暑假时代), often to 温岚《夏天的风》; spread to 小红书/微博 by 11-14–16 after a cold snap (什么值得买 post.smzdm.com/p/aomqqwz9/). This week's format so far — add only if it lasts."
+    "last_seen": "2026-11-19",
+    "sightings": 2,
+    "note": "Nostalgic template meme: from a 31-second Douyin video of a summer night posted 2026-11-12 ('全体进入暑假时代'), people repost old summer photos/videos with the line (variants 全员进入大暑假时代), often to 温岚《夏天的风》; spread to 小红书/微博 by 11-14–16 after a cold snap (什么值得买 post.smzdm.com/p/aomqqwz9/). This week's format so far — add only if it lasts. | 2026-11-19: 2026-11-19: Re-sighted in Nov 2026 meme round-up search summaries (全体进入暑假时代, 11-12 Douyin origin, ~79万 likes in 3 days). Still a single-format nostalgia wave; add only if it outlasts the month."
   },
   {
     "hanzi": "排面",
@@ -328,19 +312,19 @@
     "note": "'唱到我心巴上了' / '在我的心巴上' = hits right where it counts, exactly to my taste. 格隆汇 Nov 2026 on 后会友期 lists '不在我的心巴上' among widely imitated memes. 2026-11-18 searches found no definition or origin source."
   },
   {
-    "hanzi": "野性消费",
+    "hanzi": "单身税",
     "reason": "backfill",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
     "sightings": 1,
-    "note": "'Wild consumption': impulsive, patriotic/support buying that started with 鸿星尔克's 2021 flood donation; 格隆汇 Nov 2026 uses it for fans' buying in 李亚鹏's livestreams. Established term missing from deck — needs an opened source on the 2021 origin."
+    "note": "'Singles tax': netizen label for policies/costs seen as penalising the unmarried; trended for months in 2018 around Individual Income Tax Law amendments and was banned on Weibo (What's on Weibo 2018-08-23, whatsonweibo.com/singles-tax-a-hot-term-that-is-banned-on-weibo-now/). Loaded/censored lane — needs a Chinese source showing current (2025–26) use before adding."
   },
   {
-    "hanzi": "降智",
-    "reason": "backfill",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "hanzi": "CJ生活",
+    "reason": "niche",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
     "sightings": 1,
-    "note": "'Dumbing down' — content (short dramas, plots) or a person suddenly acting stupid ('降智剧情', '恋爱降智'). 格隆汇 Nov 2026 uses it of short-drama quality. Established slang missing from deck; needs a source."
+    "note": "Xiaohongshu meme pairing screenshots of a weary-looking CJ from GTA: San Andreas with captions about one's own daily grind ('bro的日常'); brands (名创优品, 淘宝闪购) riffed on it (Digitaling Oct 2026 hot-words list, digitaling.com/articles/1609089.html). GTA 6 launched 2026-11-19 — watch whether it persists as a label."
   }
 ]
