@@ -9745,5 +9745,114 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chun-ai-zhan-shi",
+    "hanzi": "纯爱战士",
+    "pinyin": "chún'ài zhànshì",
+    "literal": "纯 pure + 爱 love + 战士 warrior",
+    "meaning": "'Pure-love warrior': someone who only wants a single, faithful romance with no love triangles, cheating or heartbreak plots, in fiction and, by extension, in real life. Usually self-applied with a wink ('作为纯爱战士我接受不了'), and the sworn enemy of 牛头人 (NTR, stories where a partner is stolen).",
+    "meaning_zh": "喜欢专一、纯粹的恋爱，不接受三角恋、出轨、“胃疼”剧情的人，多为自称并带自嘲意味；从看作品延伸到现实中的恋爱观。与“牛头人”（NTR）势不两立。",
+    "example": "我是纯爱战士，男主一变心我就直接弃剧。",
+    "example_pinyin": "Wǒ shì chún'ài zhànshì, nánzhǔ yí biànxīn wǒ jiù zhíjiē qì jù.",
+    "example_translation": "I'm a pure-love warrior: the moment the male lead's heart strays, I drop the show.",
+    "context": "From anime/manga fandom: meme wikis trace it to the manga Jujutsu Kaisen (《咒术回战》) and define it as viewers of novels, films and series who want one uncomplicated romance with no interfering subplots. It is defined against 牛头人, the Chinese nickname for NTR (from Japanese 寝取られ, ne-to-ra-re, a lover being taken by someone else); the camps trade slogans such as '牛头人一刀一个纯爱战士', '牛头人biss' (a misheard 牛头人必死, 'NTR must die') and '纯爱天下第一'. It later spread beyond ACG as a jokey label for anyone idealistic or devoted in love, and spawned the deck word 纯恨战士 as its bitter mirror image. It still surfaces in mainstream gossip: What's on Weibo's 14 Nov 2026 piece on Jensen Huang's affair scandal was headlined 'From \"Pure Love Warrior\" to Political Victim'.",
+    "category": "slang",
+    "date_added": "2026-11-20",
+    "sources": [
+      {
+        "url": "https://wiki.yglsr.com/2023/09/131/",
+        "note": "梗语百科「纯爱战士」词条：释义、出自《咒术回战》、与牛头人对立",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.shenmegeng.cn/3082.html",
+        "note": "什么梗：纯爱战士是什么意思（牛头人=NTR，牛头人biss）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.whatsonweibo.com/from-pure-love-warrior-to-political-victim-jensen-huangs-fall-on-chinese-social-media/",
+        "note": "What's on Weibo, 14 Nov 2026: Jensen Huang headline using 'Pure Love Warrior'",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "di-neng-liang-ren",
+    "hanzi": "低能量人",
+    "pinyin": "dī néngliàng rén",
+    "literal": "低 low + 能量 energy + 人 person",
+    "meaning": "'Low-energy person': a self-label for someone whose battery runs flat fast: tired easily, drained by socialising, slow to get going, needing a lot of rest. Used as a neutral personality type (like I人/E人) rather than a complaint, with 高能量人 for the tireless go-getters. Variant: 低精力人.",
+    "meaning_zh": "自称容易疲惫、社交后很快耗尽、做事提不起劲、需要大量休息的人，被当作一种中性的人格标签（类似I人/E人）；相对的是精力旺盛的“高能量人”。也说“低精力人”。",
+    "example": "我是低能量人，周末见一次朋友就要躺两天回血。",
+    "example_pinyin": "Wǒ shì dī néngliàng rén, zhōumò jiàn yí cì péngyou jiù yào tǎng liǎng tiān huíxuè.",
+    "example_translation": "I'm a low-energy person: one meet-up with friends at the weekend and I need two days in bed to recharge.",
+    "context": "Took off in 2025 with 'low-energy day' vlogs on Douyin and Xiaohongshu, alongside the deck word 老鼠人. NewRank (新榜) data republished by Digitaling in April 2025 put #低能量# topics at over 100 million views, with the topic once topping Xiaohongshu's hot-search list; it described the vibe as '低能量、拖延症、轻微摆烂'. By late 2025 it had settled into a personality label: a Paper (澎湃) health podcast in November 2025 asked why young people agonise over being 低能量, and a psychiatrist on it said the popular 低精力人/高精力人 split is not so different from tags like 内向/外向 or I人/E人, and is not the same as depression. Related to the deck word 社交电池 (social battery).",
+    "category": "social",
+    "date_added": "2026-11-20",
+    "sources": [
+      {
+        "url": "https://www.digitaling.com/articles/1340303.html",
+        "note": "数英（转载新榜）2025-04-13《低能量老鼠人火了，谁在收割流量红利？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_32005837",
+        "note": "澎湃新闻·健康有方FM 2025-11-21《这届年轻人，为何因“低能量”内耗？》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "lao-shi-ren-lei",
+    "hanzi": "老式人类",
+    "pinyin": "lǎoshì rénlèi",
+    "literal": "老式 old-style + 人类 human",
+    "meaning": "'Old-school human': a jokey self-label for young people who opt out of fast, status-driven, spend-heavy living and copy their grandparents instead: street food over fancy meals, goji tea over bubble tea, warmth over fashion, parks over tourist hotspots, knitting or calligraphy, big phone fonts and fewer notifications. Also '老式男友' for a frugal, practical boyfriend.",
+    "meaning_zh": "年轻人自嘲式的标签：拒绝快节奏、攀比和高消费，向长辈的生活方式靠拢——吃路边摊不吃精致餐、喝枸杞茶不喝奶茶、穿衣保暖优先、逛公园不挤景点、织毛衣练书法、手机调大字号少开通知，从熟悉的事物中获得安全感，找回自己的节奏。",
+    "example": "我现在是老式人类，奶茶戒了，改喝枸杞茶。",
+    "example_pinyin": "Wǒ xiànzài shì lǎoshì rénlèi, nǎichá jiè le, gǎi hē gǒuqǐ chá.",
+    "example_translation": "I'm an old-school human now: I've given up bubble tea and switched to goji tea.",
+    "context": "Stories about 'old-school humans' began circulating on mainland social media in December 2025 and had passed a billion views by February 2026, according to the South China Morning Post: young people posted about going to the market with grandparents, eating at community canteens, square-dancing with aunties and dressing for warmth, and one account wrote a full guide to the lifestyle. A 卡思数据 year-end meme round-up republished on 36Kr (5 Jan 2026) listed it among the memes that reveal young people's mindset, glossing it as finding security in familiar things and your own pace of life. A gentler cousin of 躺平 and 反精致: less giving up than slowing down.",
+    "category": "social",
+    "date_added": "2026-11-20",
+    "sources": [
+      {
+        "url": "https://36kr.com/p/3626312061830402",
+        "note": "36氪（转载卡思数据）2026-01-05《爆火的年末热梗，藏着年轻人的精神密码》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/21/china-youth-ditch-fast-living-to-become-old-school-humans-stories-get-1-billion-views-online",
+        "note": "SCMP via The Star, 21 Feb 2026: China youth become 'old-school humans', 1bn views",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "hua-zhong-qu-chong",
+    "hanzi": "哗众取宠",
+    "pinyin": "huázhòng qǔchǒng",
+    "literal": "哗 make a clamour + 众 the crowd + 取 win + 宠 favour",
+    "meaning": "To grandstand: win the crowd's attention or approval with showy, sensational words or stunts. Derogatory. Online it is the standard put-down for clout-chasing: staged videos, rage-bait posts and livestreamers who pick fights for traffic.",
+    "meaning_zh": "用浮夸的言行博取众人的注意、好感或拥护，含贬义。网上常用来批评为博眼球、蹭流量而摆拍、制造争议、恶意引流的博主和主播。",
+    "example": "这种摆拍视频就是哗众取宠，别再给它流量了。",
+    "example_pinyin": "Zhè zhǒng bǎipāi shìpín jiù shì huázhòng qǔchǒng, bié zài gěi tā liúliàng le.",
+    "example_translation": "Staged videos like this are just grandstanding: stop giving them traffic.",
+    "context": "From the Book of Han's 'Treatise on Arts and Letters' (《汉书·艺文志》, 1st century CE), which complains of scholars who stray from the Way '苟以哗众取宠', merely to stir up the crowd and win favour. Two thousand years on it fits the attention economy perfectly: netizens and commentators reach for it whenever a creator fakes a drama for views, and headlines use it for livestream stunts, e.g. IT之家's '男子直播约架哗众取宠，最终被“毒流量”反噬' (a streamer who challenged rivals to fights on air for traffic and was detained). Pairs naturally with 博眼球 and 蹭流量.",
+    "category": "chengyu",
+    "date_added": "2026-11-20",
+    "sources": [
+      {
+        "url": "https://zh.wiktionary.org/wiki/嘩眾取寵",
+        "note": "维基词典「嘩眾取寵」：释义及《汉书·艺文志》出处",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.ithome.com/0/891/253.htm",
+        "note": "IT之家《男子直播约架哗众取宠，最终被“毒流量”反噬》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
