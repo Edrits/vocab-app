@@ -9854,5 +9854,62 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "niu-tou-ren",
+    "hanzi": "牛头人",
+    "pinyin": "niútóurén",
+    "literal": "ox-head person (its initials N-T-R spell NTR)",
+    "meaning": "NTR: someone who steals another person's partner (or the plot trope of a partner being stolen), and by extension anyone who snatches something you had your eye on. Used jokingly among friends; the opposite camp is 纯爱战士 ('pure-love warriors').",
+    "meaning_zh": "即NTR，指横刀夺爱、抢走别人恋人或伴侣的第三者，也指这种剧情；后泛化为抢走别人心仪之物的人，多用于玩笑。与“纯爱战士”相对。",
+    "example": "你居然跟我抢同一个搭子？好你个牛头人！",
+    "example_pinyin": "Nǐ jūrán gēn wǒ qiǎng tóng yí gè dāzi? Hǎo nǐ gè niútóurén!",
+    "example_translation": "You're actually trying to steal my buddy? You absolute home-wrecker!",
+    "context": "NTR is short for the Japanese 寝取られ (netorare), an anime/manga and game trope where a lover is taken by a third party. Chinese ACG fans noticed that the pinyin initials of 牛头人 — the ox-headed 'tauren' — spell N-T-R, and the pun stuck. In Chinese use it widened to anyone whose partner, crush or would-be partner gets stolen, and even to men or women alike; fans shorten it to 牛 as a content tag ('牛否?' = is there NTR in it?). It lives in a jokey feud with 纯爱战士: '牛头人一刀一个纯爱战士' versus '劳资一枪一个牛头人' and the misheard chant '牛头人biss' (牛头人必死, 'NTR must die'). Moegirl notes the term carries some moral controversy, so it's mostly playful.",
+    "category": "slang",
+    "date_added": "2026-11-21",
+    "sources": [
+      {
+        "url": "https://shenmegeng.cn/3082.html",
+        "note": "什么梗网：纯爱战士是什么梗（牛头人=NTR、寝取られ、牛头人一刀一个纯爱战士、牛头人biss）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://zh.moegirl.org.cn/NTR",
+        "note": "萌娘百科：NTR 词条（寝取られ缩写、中文泛化、使用需谨慎）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://kaweah.freedombox.rocks/kiwix/wiktionary_en_all_maxi_2023-04/%E7%89%9B%E9%A0%AD%E4%BA%BA",
+        "note": "Wiktionary (mirror): 牛頭人 — pinyin initials NTR used as a substitute for NTR",
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "id": "ai-jing-shen-bing",
+    "hanzi": "AI精神病",
+    "pinyin": "AI jīngshénbìng",
+    "literal": "AI + psychosis/mental illness",
+    "meaning": "'AI psychosis': originally delusions or paranoia that appear or worsen after long, immersive chats with an agreeable chatbot (not a formal diagnosis). Netizens now also use it jokingly for anyone — especially a boss — who treats whatever the AI says as gospel.",
+    "meaning_zh": "原指长期沉浸式与AI聊天后出现或加重的妄想、偏执等症状（并非正式医学诊断）；网友也拿来吐槽盲目迷信AI、把AI输出当标准答案的人，尤其是老板。",
+    "example": "我老板得了AI精神病，KPI都是让AI算出来的。",
+    "example_pinyin": "Wǒ lǎobǎn déle AI jīngshénbìng, KPI dōu shì ràng AI suàn chūlái de.",
+    "example_translation": "My boss has AI psychosis — even our KPIs are worked out by the AI.",
+    "context": "'AI psychosis' entered Chinese coverage in 2025 via cases of people who 'talked themselves into' delusions with chatbots, with doctors stressing it isn't a clinical diagnosis. The jokey workplace sense took off on 27 July 2026, when '我老板得了AI精神病' hit Weibo hot search: it came from a popular Reddit r/antiwork post about a boss who presented his Claude conversation in a meeting, set the team's targets from the AI's forecast, then asked the AI again and blamed staff when the numbers missed. Netizens piled in with their own stories of managers treating AI output as the right answer and overriding front-line experience — Gamersky's headline called it the boss being 被AI夺舍 ('possessed by AI'). It sits alongside deck words like 夺舍 and 能工智人 in the 2026 vocabulary of AI at work.",
+    "category": "slang",
+    "date_added": "2026-11-21",
+    "sources": [
+      {
+        "url": "https://www.gamersky.com/news/202607/2178393.shtml",
+        "note": "游民星空 2026-07-27：“我老板得了AI精神病”上热搜 网友吐槽老板被AI夺舍",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4759953.html",
+        "note": "虎嗅：on 'AI精神病' — delusions after immersive AI chats, Kendra Hilty / Geoff Lewis cases (search summary)",
+        "lang": "zh"
+      }
+    ]
   }
 ]
