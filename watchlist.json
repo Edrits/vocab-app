@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "心理委员，俺不得劲",
-    "reason": "unverified",
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "sightings": 1,
-    "note": "Joke cry for help to the class mental-health officer ('俺不得劲' = northern dialect for feeling off), from comment sections under healing/depressing videos; reverse '你不用来了，我太得劲了'. In digitaling's 2026 H1 top 30 only; origin not found in search."
-  },
-  {
-    "hanzi": "样人笑幻",
-    "reason": "niche",
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "sightings": 1,
-    "note": "Northeastern-accent homophone of 让人笑话, mocking excessive concern for face (e.g. cleaning before the cleaner arrives); from creator 九莓子's videos. One write-up (digitaling 2026 H1 top 30)."
-  },
-  {
     "hanzi": "精神离职",
     "reason": "unverified",
     "first_seen": "2026-10-26",
@@ -294,5 +278,21 @@
     "last_seen": "2026-11-21",
     "sightings": 1,
     "note": "Scenic-spot 'sucker's trio' of souvenirs nobody wants: 城市限定护手霜, 城市冰箱贴, 文创雪糕 (search summary of 2026 National Day coverage; What's on Weibo 2026-11-08 phrase of the week on '3 souvenirs sold everywhere'). 2026-11-21 searches found no page using the exact phrase; 澎湃 2026-03-12 piece covers generic Yiwu-made souvenirs without the label. Builds on deck word 大冤种."
+  },
+  {
+    "hanzi": "下次一定",
+    "reason": "backfill",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "sightings": 1,
+    "note": "Bilibili stock reply 'next time for sure' — a polite brush-off when an uploader asks for coins/一键三连, i.e. 白嫖 now, never later. On memecub 新晋热梗 2026-11-22. Established but missing; 2026-11-22 searches found no openable source (Moegirl page blocked) — find one before adding."
+  },
+  {
+    "hanzi": "祖国人",
+    "reason": "niche",
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "sightings": 1,
+    "note": "Chinese name for Homelander (The Boys); memecub 新晋热梗 2026-11-18. Currently memes (milk-drinking, AI pics of him touring China, puffing-cheek reaction face) rather than a word with a portable sense; add only if it becomes a label for a type of person."
   }
 ]

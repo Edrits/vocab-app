@@ -9911,5 +9911,78 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "mao-zi-shu-shu",
+    "hanzi": "帽子叔叔",
+    "pinyin": "màozi shūshu",
+    "literal": "hat + uncle",
+    "meaning": "'Uncle in the cap': the police. A soft, childlike stand-in for 警察 used in short videos, livestreams and comments, because creators believe writing 'police' outright gets a post flagged or throttled. Often used jokingly ('帽子叔叔来了', 'the hat uncles are here') when someone is about to get in trouble.",
+    "meaning_zh": "“警察”的代称。短视频、直播和评论区里，很多人认为直接写“警察”容易被审核或限流，于是用带点童趣的“帽子叔叔”代替；也常用来调侃有人要“出事”了，如“帽子叔叔来了”。",
+    "example": "这种视频别乱发，小心帽子叔叔请你喝茶。",
+    "example_pinyin": "Zhè zhǒng shìpín bié luàn fā, xiǎoxīn màozi shūshu qǐng nǐ hē chá.",
+    "example_translation": "Don't go posting videos like that — careful the hat uncles don't invite you in for tea.",
+    "context": "Part of the growing vocabulary of 屏蔽词 workarounds on Chinese platforms. A July 2026 essay republished by China Digital Times (【404经验】, originally a WeChat post of 10 July 2026, reposted 12 July) complained that you 'can't call the police the police, only 帽子叔叔', listing it alongside 8+1 for drinking, 米 for money, 绿泡泡 for WeChat and 啵啵间 for a livestream room. The essay blamed the spread of such codes on keyword-based moderation that can't read context, platforms covering themselves legally, and creators' fear of being throttled — and argued the codes muddy everyday language. The image is the uniform's peaked cap plus the 'uncle' that Chinese children are taught to call police officers (警察叔叔), so it reads as cute rather than hostile, though in context it can carry irony. Note the 'invite you to tea' (请喝茶) in the example — an older euphemism for being called in by the authorities.",
+    "category": "slang",
+    "date_added": "2026-11-22",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/729280.html",
+        "note": "中国数字时代 2026-07-12：【404经验】屏蔽词泛滥：平台审核的无奈、乱象与破局之路 — lists 帽子叔叔 for 警察, 8+1, 米, 绿泡泡, 啵啵间",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ba-jia-yi",
+    "hanzi": "8+1",
+    "pinyin": "bā jiā yī",
+    "literal": "eight plus one (= 9, jiǔ)",
+    "meaning": "Code for alcohol / drinking (酒 jiǔ). 8 + 1 = 9 (九 jiǔ), which sounds like 酒, so streamers and posters write '8+1' or '喝点8+1' instead of naming the drink, to avoid alcohol-related moderation.",
+    "meaning_zh": "“酒”或“喝酒”的暗语：8+1=9，“九”与“酒”同音。主播和博主为避开平台对饮酒内容的审核，用“8+1”“来点8+1”代替直接说酒。",
+    "example": "今晚下班整点8+1，不醉不归。",
+    "example_pinyin": "Jīnwǎn xiàbān zhěng diǎn bā jiā yī, bú zuì bù guī.",
+    "example_translation": "Let's have a bit of 'eight plus one' after work tonight — we're not going home till we're drunk.",
+    "context": "A two-step dodge — arithmetic, then a homophone — from the world of livestreams and short videos, where the word 酒 is widely believed to trigger moderation or throttling. The July 2026 China Digital Times repost of the essay 【404经验】 on runaway blocked-word lists cites '提及喝酒要说8+1' as a standard example, next to 帽子叔叔 for police and 米 for money. A cousin of deck word 米.",
+    "category": "abbreviation",
+    "date_added": "2026-11-22",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/729280.html",
+        "note": "中国数字时代 2026-07-12：【404经验】屏蔽词泛滥 — '提及喝酒要说8+1'",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "ke-cp",
+    "hanzi": "嗑CP",
+    "pinyin": "kē CP",
+    "literal": "crack (like sunflower seeds) / be hooked on + couple (pairing)",
+    "meaning": "To 'ship' a pair: to enjoy, as a bystander, imagining and savouring the romantic chemistry between two people — real celebrities, characters, even friends on a reality show. Sweet moments are 糖 ('sugar'), the pair 发糖 when they give fans some, and you 嗑糖 when you lap it up; '好嗑' means a pairing is very shippable. Fan shorthand includes kswl (嗑死我了, 'I'm dying of shipping') and kdl (嗑到了, 'got my fix').",
+    "meaning_zh": "以旁观者身份想象、享受两个人（明星、角色甚至综艺里的朋友）之间的情感互动。甜蜜互动叫“糖”，当事人“发糖”，粉丝“嗑糖”；“好嗑”指这对CP很有看头。缩写有kswl（嗑死我了）、kdl（嗑到了）。",
+    "example": "这俩人一个眼神我就嗑到了，太好嗑了吧！",
+    "example_pinyin": "Zhè liǎ rén yí gè yǎnshén wǒ jiù kē dào le, tài hǎo kē le ba!",
+    "example_translation": "One look between those two and I've got my fix — they're so shippable!",
+    "context": "CP comes from 'coupling', a term from Japanese ACG fan fiction circles, which spread from fictional pairings to real-person ones; 嗑, literally cracking seeds or getting hooked, conveys a fan's compulsive enjoyment. A 2021 roundtable in 文艺报 (via 中国作家网) treated 嗑CP as a craving for 'spiritual sugar' and a fantasy of free romantic love, and criticised studios and agencies for deliberately '加糖' ('adding sugar') to manufacture couples for profit. It is now everyday vocabulary well beyond fandom: on 22 November 2026 Baidu hot search ran '十年后重看《欢乐颂》比恨海情天还好嗑' — rewatching the drama Ode to Joy ten years on, viewers found its female friendships more shippable than its romances.",
+    "category": "slang",
+    "date_added": "2026-11-22",
+    "sources": [
+      {
+        "url": "https://www.thepaper.cn/newsDetail_forward_24020415",
+        "note": "澎湃新闻·湃客 2023-07-28：《3个原理揭秘，为什么我们都爱「嗑 CP」》— defines 嗑CP, KSWL/KDL",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinawriter.com.cn/n1/2021/0719/c404027-32162590.html",
+        "note": "文艺报 via 中国作家网 2021：“CP”现象研究：“加糖”的买卖与浪漫的消亡 (roundtable on 嗑CP, 发糖, 加糖)",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-22: 十年后重看《欢乐颂》比恨海情天还好嗑",
+        "lang": "zh"
+      }
+    ]
   }
 ]
