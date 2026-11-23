@@ -9984,5 +9984,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chun-guo-rizi-ren",
+    "hanzi": "纯过日子人",
+    "pinyin": "chún guò rìzi rén",
+    "literal": "purely + live one's days + person",
+    "meaning": "A self-label for someone who has quietly stopped competing and performing: no flexing, no grinding to impress, but no full 躺平 either. They keep working and simply get on with eating, sleeping, going to work and the small things they can control. Also as a verb phrase: 纯过日子 ('just living my life').",
+    "meaning_zh": "网络流行语，字面意思是\"单纯过日子的人\"，特指不追求物质、不再硬卷、也不彻底躺平，把精力收回到吃饭、睡觉、上班这些日常小事上的人。也可以说\"纯过日子\"，表示不攀比、不表演，务实地过好眼前的生活。",
+    "example": "我现在就是个纯过日子人，不攀比也不焦虑，下班回家做饭就挺好。",
+    "example_pinyin": "Wǒ xiànzài jiù shì ge chún guò rìzi rén, bù pānbǐ yě bù jiāolǜ, xiàbān huí jiā zuò fàn jiù tǐng hǎo.",
+    "example_translation": "I'm a 'just living my life' person now: no keeping up with anyone, no anxiety, just going home after work and cooking. That suits me fine.",
+    "context": "Took off on Chinese social media from August 2026 with posts declaring '全民进入纯过日子时代' ('everyone has entered the just-living-my-life era'), and the topic reached Weibo hot search. It plays on the older praise 会过日子 (thrifty, good at running a household). Coverage reads it as a middle path between 内卷 and 躺平, a turn away from 'performative' online life: practical gifts such as laundry liquid or topping up someone's phone credit, slimmed-down wardrobes, cooking at home, free days out in parks and museums, renting or buying second-hand. 北京青年报 (via 中新网, 29 Sept 2026) framed it as young people dropping outward comparison for a practical, grounded life. 虎嗅 essays argued over whether it is a healthy reset or just another label. Sinica's Phrase of the Week (22 Nov 2026) glossed it as 'simple lifer', capturing the mood with the line 认命但没摆烂 (accepting your lot, but not giving up).",
+    "category": "social",
+    "date_added": "2026-11-23",
+    "sources": [
+      {
+        "url": "https://tidenews.com.cn/news.html?id=3563178",
+        "note": "潮新闻：定义\"纯过日子人\"——不追求物质、不再硬卷、也不彻底躺平；2026年8月起社交媒体兴起\"全民进入纯过日子时代\"讨论，话题登上微博热搜",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705394.shtml",
+        "note": "中新网转北京青年报（2026-09-29）：《\"纯过日子\"成网络热词 年轻人选择务实理性生活》，实用礼物、精简衣橱等表现",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.sinicapodcast.com/p/simple-lifer-phrase-of-the-week",
+        "note": "Sinica, 'Simple lifer' Phrase of the Week (22 Nov 2026): 纯过日子人, origin Aug 2026, link to 会过日子",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.huxiu.com/article/4894901.html",
+        "note": "虎嗅：评论\"纯过日子人\"是对社交媒体表演式生活的疲惫回应",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zisha-suicide-homophone",
+    "hanzi": "紫砂",
+    "pinyin": "zǐshā",
+    "literal": "purple sand (the Yixing clay used for teapots); sound-alike for 自杀 zìshā, suicide",
+    "meaning": "Filter-dodging sound-alike for 自杀 (suicide). Online it is mostly used as jokey hyperbole, '我紫砂了' meaning 'I'm dead / I want to die (of embarrassment, of losing again)', not as a literal statement. Dark humour: know it to recognise it, and take it seriously if someone seems to mean it.",
+    "meaning_zh": "\"自杀\"的谐音词。原本指宜兴紫砂壶的\"紫砂\"，网友用它代替\"自杀\"以规避敏感词审核。日常多是夸张的自嘲，如\"我紫砂了\"表示尴尬、崩溃、想死的心都有了，并不是真的想轻生。",
+    "example": "排位又连跪五把，我直接紫砂了。",
+    "example_pinyin": "Páiwèi yòu lián guì wǔ bǎ, wǒ zhíjiē zǐshā le.",
+    "example_translation": "Lost five ranked games in a row again. I'm literally dead.",
+    "context": "Belongs to the same family of death-word substitutes as [[si-death-homophone]] and [[ga-death-algospeak]]: platforms suppress posts with words like 自杀, so people swap in the near-homophone 紫砂, the purple clay of Yixing teapots (zǐshā vs zìshā, the tones differ only on the first syllable). Wikiversity's list of mainland internet slang files it under homophones simply as '\"自杀\"的谐音'. A 2022 Douban thread asking where verbal tics like 捏, 事 and 紫砂 came from shows how far it had spread by then; posters guessed at Baidu Tieba's 孙吧 or other extremely-online circles, though nobody could pin down a source. The joke works because a teapot is so cosy and harmless, which is also why it slips past filters.",
+    "category": "slang",
+    "date_added": "2026-11-23",
+    "sources": [
+      {
+        "url": "https://zh.wikiversity.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8",
+        "note": "维基学院《中国大陆网络用语列表》谐音一节：\"紫砂：'自杀'的谐音\"",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.douban.com/group/topic/273648754/",
+        "note": "豆瓣小组（2022-08-25）：《\"捏\"\"素\"\"事\"\"紫砂\"这些口癖是哪来的》，网友猜测出自孙吧等圈子",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xia-ci-yi-ding",
+    "hanzi": "下次一定",
+    "pinyin": "xià cì yídìng",
+    "literal": "next time + definitely",
+    "meaning": "'Next time, for sure!': a cheerful, empty promise. On Bilibili it's the stock reply when an uploader asks viewers to like/coin/favourite (一键三连) or follow: enjoy the video for free now, pay up never. Used generally for any polite brush-off.",
+    "meaning_zh": "\"下次一定（会做）\"，其实下次也不一定，是一句敷衍的客套话。最常见于B站：UP主在视频结尾求一键三连（点赞、投币、收藏）或关注时，不想投币的观众就在弹幕里刷\"下次一定\"。后来也泛用于任何礼貌的推托。",
+    "example": "UP主：\"喜欢的话记得一键三连！\"弹幕：\"下次一定！\"",
+    "example_pinyin": "UP zhǔ: \"Xǐhuan dehuà jìde yí jiàn sān lián!\" Dànmù: \"Xià cì yídìng!\"",
+    "example_translation": "Uploader: 'If you liked it, remember to like, coin and favourite!' Bullet comments: 'Next time, for sure!'",
+    "context": "Usually traced to the livestreams of streamer 药水哥: when he asked viewers to follow him, chat filled with '下次一定'. It then became Bilibili's reflex answer to creators' end-of-video pleas for 一键三连, where coins are the scarce currency viewers are reluctant to spend, so it sits right next to [[bai-piao]] (enjoying content for free). Sohu's 梗研究社 explainer (Feb 2020) already treated it as an established B站 meme and noted it spreading off-platform: reply '下次一定' to a teacher chasing homework screenshots, or to a friend reminding you that you still owe them wedding gift money. Still a stock phrase in Bilibili comment culture.",
+    "category": "slang",
+    "date_added": "2026-11-23",
+    "sources": [
+      {
+        "url": "https://www.sohu.com/a/372837801_120569780",
+        "note": "搜狐「梗研究社」（2020-02-14）：《\"下次一定\"是什么梗？》——出自药水哥直播间，B站观众拒绝一键三连时刷\"下次一定\"",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/350243418",
+        "note": "知乎问题：《现在很火的\"下次一定…\"是怎么来的梗？》，回答指向药水哥直播",
+        "lang": "zh"
+      }
+    ]
   }
 ]

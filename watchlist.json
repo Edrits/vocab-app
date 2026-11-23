@@ -1,13 +1,5 @@
 [
   {
-    "hanzi": "精神离职",
-    "reason": "unverified",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-10-28",
-    "sightings": 2,
-    "note": "'Mentally resigned': physically at your desk, already quit in your head. Seen in Oct 2026 meme round-ups (search summary); close to deck word 精神下班, so only add if it is clearly distinct and sourced. | 2026-10-28: Re-sighted 2026-10-28 in 2026 meme round-up search summaries (人在工位，心已离职). Still only content-farm round-ups; close to deck word 精神下班."
-  },
-  {
     "hanzi": "A3",
     "reason": "too-new",
     "first_seen": "2026-10-27",
@@ -70,14 +62,6 @@
     "last_seen": "2026-10-31",
     "sightings": 1,
     "note": "Jokey use of the bureaucratic 'closed loop' for things coming full circle (e.g. Baidu hot search 2026-10-31 '语文课文在此刻形成闭环' — school texts finally making sense in adulthood). No source opened explains the joking sense; find one before adding."
-  },
-  {
-    "hanzi": "紫砂",
-    "reason": "unverified",
-    "first_seen": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "sightings": 1,
-    "note": "Homophone of 自杀 used to dodge filters (censorship-workaround lane, often jokey '我紫砂了'). 2026-11-01 search returned only teapot results; needs a real source (CDT lexicon, academic paper on 谐音规避) before adding — handle with care given the subject."
   },
   {
     "hanzi": "零分朋友",
@@ -280,19 +264,27 @@
     "note": "Scenic-spot 'sucker's trio' of souvenirs nobody wants: 城市限定护手霜, 城市冰箱贴, 文创雪糕 (search summary of 2026 National Day coverage; What's on Weibo 2026-11-08 phrase of the week on '3 souvenirs sold everywhere'). 2026-11-21 searches found no page using the exact phrase; 澎湃 2026-03-12 piece covers generic Yiwu-made souvenirs without the label. Builds on deck word 大冤种."
   },
   {
-    "hanzi": "下次一定",
-    "reason": "backfill",
-    "first_seen": "2026-11-22",
-    "last_seen": "2026-11-22",
-    "sightings": 1,
-    "note": "Bilibili stock reply 'next time for sure' — a polite brush-off when an uploader asks for coins/一键三连, i.e. 白嫖 now, never later. On memecub 新晋热梗 2026-11-22. Established but missing; 2026-11-22 searches found no openable source (Moegirl page blocked) — find one before adding."
-  },
-  {
     "hanzi": "祖国人",
     "reason": "niche",
     "first_seen": "2026-11-22",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
+    "sightings": 2,
+    "note": "Chinese name for Homelander (The Boys); memecub 新晋热梗 2026-11-18. Currently memes (milk-drinking, AI pics of him touring China, puffing-cheek reaction face) rather than a word with a portable sense; add only if it becomes a label for a type of person. | 2026-11-23: Re-sighted 2026-11-23: memecub 新晋热梗 (appeared 5 days ago). Still memes about Homelander, not a portable label."
+  },
+  {
+    "hanzi": "牢大",
+    "reason": "unverified",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
     "sightings": 1,
-    "note": "Chinese name for Homelander (The Boys); memecub 新晋热梗 2026-11-18. Currently memes (milk-drinking, AI pics of him touring China, puffing-cheek reaction face) rather than a word with a portable sense; add only if it becomes a label for a type of person."
+    "note": "On memecub 近期热梗榜 2026-11-23 (▲2). Kobe Bryant nickname meme (dark humour around his death, 'man! what can I say'); Bilibili-heavy, loaded/edgy. Not sourced today — needs a real explainer and a check on whether it's too tasteless for a card."
+  },
+  {
+    "hanzi": "以讹传讹",
+    "reason": "backfill",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "sightings": 1,
+    "note": "Chengyu candidate (passing on errors until they become 'fact') fitting 2026 AI-rumour coverage (CAC/新华网 on 谣言→AI引用→更多谣言). 2026-11-23 couldn't open a dictionary page with its 出处 or an article using it online — find both, then add when a chengyu is due."
   }
 ]
