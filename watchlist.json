@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "A3",
-    "reason": "too-new",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "sightings": 1,
-    "note": "资产A3: self-mocking 'asset rating' — A = Asset, number = digits of your assets, so A3 = assets in the hundreds of yuan ('A3人士', 'A3生活指南', eating 沙县 on an A3 budget). Only source so far: 新周刊 via 虎嗅 2026-10-26 (huxiu.com/article/4900363.html). Watch for independent use."
-  },
-  {
-    "hanzi": "没死主义",
-    "reason": "too-new",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "sightings": 1,
-    "note": "'Not-dead-ism': low-bar life philosophy (anti-优绩主义 — being alive counts as success), listed with A3 and 大水 in 新周刊's 2026-10-26 'grand theories' piece. No origin found yet."
-  },
-  {
     "hanzi": "大脑降噪",
     "reason": "unverified",
     "first_seen": "2026-10-28",
@@ -280,11 +264,19 @@
     "note": "On memecub 近期热梗榜 2026-11-23 (▲2). Kobe Bryant nickname meme (dark humour around his death, 'man! what can I say'); Bilibili-heavy, loaded/edgy. Not sourced today — needs a real explainer and a check on whether it's too tasteless for a card."
   },
   {
-    "hanzi": "以讹传讹",
-    "reason": "backfill",
-    "first_seen": "2026-11-23",
-    "last_seen": "2026-11-23",
+    "hanzi": "黑猫鼓掌",
+    "reason": "unverified",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
     "sightings": 1,
-    "note": "Chengyu candidate (passing on errors until they become 'fact') fitting 2026 AI-rumour coverage (CAC/新华网 on 谣言→AI引用→更多谣言). 2026-11-23 couldn't open a dictionary page with its 出处 or an article using it online — find both, then add when a chengyu is due."
+    "note": "Listed in 2026 meme round-ups (search summary) as a reaction image for fake applause / sarcastic, perfunctory cheering. 2026-11-24 search found no origin or real explainer (only unrelated 'black cat zoning out' KYM pages)."
+  },
+  {
+    "hanzi": "义母",
+    "reason": "unverified",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "sightings": 1,
+    "note": "Weibo hot search 2026-11-23 '健身房老板这是义母啊' — jokey 'adoptive mother' for a doting older woman/boss figure. Meaning and origin not confirmed 2026-11-24."
   }
 ]

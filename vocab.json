@@ -10072,5 +10072,93 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "shijie-de-cenci",
+    "hanzi": "世界的参差",
+    "pinyin": "shìjiè de cēncī",
+    "literal": "世界 world + 的 's + 参差 unevenness (a bookish word for 'irregular, not level')",
+    "meaning": "'The unevenness of the world': a wry, faintly literary way of noting the gap between you and someone far luckier, richer or more talented. Usually said with a sigh after a comparison — 'some of us are still saving for a deposit, some own five flats: this is the unevenness of the world.' It softens envy and self-pity into an elegant shrug.",
+    "meaning_zh": "感叹人与人之间在天赋、财富、生活上的巨大差距，常带自嘲或无奈。“参差”本是书面语，用在口语里显得文绉绉又好笑，把羡慕和失落化成一句体面的感叹，如“这就是世界的参差”。",
+    "example": "我还在为房租发愁，同学已经在挑第二套房了，这就是世界的参差吧。",
+    "example_pinyin": "Wǒ hái zài wèi fángzū fāchóu, tóngxué yǐjīng zài tiāo dì-èr tào fáng le, zhè jiù shì shìjiè de cēncī ba.",
+    "example_translation": "I'm still fretting about rent and my classmate is already picking out a second flat — I suppose that's the unevenness of the world.",
+    "context": "Popularised by actor Deng Chao (邓超) as a mentor on the Tencent idol show 创造营2021 (premiered February 2021): facing trainees of wildly varying ability he praised the contest format for letting them 'see the unevenness of the world' (让你们看到世界的参差), which was hailed as a high-EQ way of saying some contestants were far better than others. Deng had already quoted the idea that 'the beauty of this world is an uneven beauty' in a 2017 interview after winning a Golden Rooster award. Weibo users then turned it into an all-purpose sigh — The World of Chinese (July 2021) cites posts like '这就是世界的参差吗' after exams and property comparisons. Five years on it is still live: on 23 November 2026 '做家教感受到了世界的参差' (a private tutor seeing how the other half lives) was on Weibo hot search.",
+    "category": "slang",
+    "date_added": "2026-11-24",
+    "sources": [
+      {
+        "url": "https://www.theworldofchinese.com/2021/07/a-viral-elegant-phrase-to-lessen-the-pain-of-inequality/",
+        "note": "The World of Chinese, 'A viral elegant phrase to lessen the pain of inequality' (2021-07-09): Deng Chao origin and Weibo examples",
+        "lang": "en"
+      },
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_11517804",
+        "note": "澎湃新闻 2021-03-02：邓超在《创造营2021》说要“看到世界的参差”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-11-23?sort=hot",
+        "note": "微博热搜存档 2026-11-23：“做家教感受到了世界的参差”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "zhengdun-zhichang",
+    "hanzi": "整顿职场",
+    "pinyin": "zhěngdùn zhíchǎng",
+    "literal": "整顿 rectify, shake up (officialese for a crackdown) + 职场 the workplace",
+    "meaning": "'Shaking up the workplace': the (often exaggerated) image of Gen-Z workers who refuse unpaid overtime, skip team-building, ignore after-hours messages, push back at bosses and threaten arbitration. Usually in the formula '00后整顿职场', and now productive: '00后整顿XX' for young people refusing to play along with any old custom.",
+    "meaning_zh": "指00后打工人不惯着职场潜规则：准点下班、拒绝团建、下班不回消息、敢怼老板、敢于仲裁。常说“00后整顿职场”，也被套用成“00后整顿婚礼/整顿酒桌”等，泛指年轻人拒绝配合老规矩。带调侃，也常被质疑是摆拍演绎。",
+    "example": "领导周末拉群开会，实习生直接回了句“下班时间勿扰”，真是00后整顿职场。",
+    "example_pinyin": "Lǐngdǎo zhōumò lā qún kāihuì, shíxíshēng zhíjiē huí le jù “xiàbān shíjiān wù rǎo”, zhēn shì líng-líng hòu zhěngdùn zhíchǎng.",
+    "example_translation": "The boss set up a weekend group call and the intern just replied 'Do not disturb outside working hours' — Gen Z really is shaking up the workplace.",
+    "context": "Took off around mid-2022 with a generational one-liner: '80后在加班对领导唯唯诺诺，90后在摸鱼装模作样，00后在重拳出击整顿职场' (post-80s grovel to the boss over overtime, post-90s fake being busy, post-00s come out swinging to rectify the workplace). China News Service (July 2022) lists the legends attached to it — reverse background checks on employers, leaving on the dot, refusing team-building, taking firms to arbitration, quitting at the first disagreement — and notes such 爽文 stories live mostly on hot lists; much of the content is staged by influencers. The joke is in 整顿, the language of official crackdowns, applied to cheeky juniors. It is still a template: on 23 November 2026 Weibo hot search ran '00后不整顿职场来整顿婚礼了'.",
+    "category": "social",
+    "date_added": "2026-11-24",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com.cn/sh/2022/07-23/9810233.shtml",
+        "note": "中新网 2022-07-23《00后“整顿职场”，在整顿什么？》：流行句式与典型行为",
+        "lang": "zh"
+      },
+      {
+        "url": "https://weibo-trending-hot-history.vercel.app/hots/2026-11-23?sort=hot",
+        "note": "微博热搜存档 2026-11-23：“00后不整顿职场来整顿婚礼了”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "yi-e-chuan-e",
+    "hanzi": "以讹传讹",
+    "pinyin": "yǐ é chuán é",
+    "literal": "以 taking + 讹 an error + 传 pass on + 讹 (as) an error — 'pass on a mistake as a mistake'",
+    "meaning": "To spread misinformation that gets more distorted with each retelling — Chinese whispers for rumours. Used to call out a claim being repeated without anyone checking it: '别以讹传讹了' (stop passing that on).",
+    "meaning_zh": "把本来就不正确的说法又错误地传出去，越传越走样。常用来批评不加核实就转发传言，如“别再以讹传讹了”。",
+    "example": "这条消息官方早就辟谣了，大家别再以讹传讹了。",
+    "example_pinyin": "Zhè tiáo xiāoxi guānfāng zǎo jiù pìyáo le, dàjiā bié zài yǐ é chuán é le.",
+    "example_translation": "The authorities debunked that ages ago — everyone stop passing it on.",
+    "context": "A classical chengyu best known from chapter 51 of Dream of the Red Chamber (《红楼梦》), where a character remarks that, through the ages, people have passed on errors as errors (古往今来，以讹传讹) and busybodies even manufacture 'ancient sites' to fool people. Dictionaries also give earlier Song-dynasty forms. It fits the rumour-heavy feed of 2026: China's internet regulator reported on 6 November 2026 a crackdown on rumours that fake authoritative sources, splice and recycle old news, or are generated with AI — the modern assembly line for exactly what this idiom describes.",
+    "category": "chengyu",
+    "date_added": "2026-11-24",
+    "sources": [
+      {
+        "url": "https://www.hanyuguoxue.com/chengyu/ci-1b25790b11",
+        "note": "汉语国学 成语词典：以讹传讹 释义与《红楼梦》出处",
+        "lang": "zh"
+      },
+      {
+        "url": "https://kaikki.org/dictionary/Chinese/meaning/%E4%BB%A5/%E4%BB%A5%E8%A8%9B/%E4%BB%A5%E8%A8%9B%E5%82%B3%E8%A8%9B.html",
+        "note": "Kaikki (Wiktionary extract): 以訛傳訛 'to relay an erroneous message so it becomes increasingly distorted'",
+        "lang": "en"
+      },
+      {
+        "url": "https://www.cac.gov.cn/2026-11/06/c_1795719668534871.htm",
+        "note": "中国网信网 2026-11-06《借灾造势 误读政策 蹭炒热点 多部门联动治理谣言乱象》",
+        "lang": "zh"
+      }
+    ]
   }
 ]
