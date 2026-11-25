@@ -10160,5 +10160,52 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "xinli-weiyuan",
+    "hanzi": "心理委员",
+    "pinyin": "xīnlǐ wěiyuán",
+    "literal": "心理 psychology + 委员 committee member: the class 'mental-health rep'",
+    "meaning": "Mock cry for help when something online stings: commenters spam '心理委员呢？我不得劲儿/我喘不上气儿' ('Where's the mental-health rep? I feel awful / I can't breathe'), usually with crying emoji. It works for any kind of 破防: pity at someone's tragedy, envy at a couple showing off, or your own bad news. Also used playfully ('我是心理委员，你咋了？') by people pretending to offer comfort when they really just want the gossip.",
+    "meaning_zh": "网友遇到扎心、破防的内容时的调侃式求助：在评论区刷屏'心理委员呢？我不得劲儿/我喘不上气儿'，配哭脸表情。看到别人的不幸、别人秀恩爱、自己遇到倒霉事都能'呼叫心理委员'，比'破防了'更有画面感和互动感。也有人自称'我是心理委员，你咋了？'，表面关心，实则吃瓜。",
+    "example": "看完这个结局我直接破防，心理委员呢？我不得劲儿！",
+    "example_pinyin": "Kàn wán zhège jiéjú wǒ zhíjiē pòfáng, xīnlǐ wěiyuán ne? Wǒ bù déjìnr!",
+    "example_translation": "That ending wrecked me. Where's the mental-health rep? I feel awful!",
+    "context": "心理委员 is a real class role in many Chinese universities and high schools: a student elected to keep an eye on classmates' mental health and pass concerns on to teachers. According to a BB姬 piece republished on 虎嗅, the meme took off around late October 2025 in the comments under emotional, venting videos on Douyin, with people 'paging the 心理委员' and pretending to be one. From early November it spun off staged chat screenshots in which the 'rep' cheers someone up by sending a glamorous selfie. That briefly turned it into a pretext for asking for photos, and influencers posed as 'cyber mental-health reps'. Once the cheeky phase passed, it settled back into a general 'I've been 破防-ed, comfort me' call. 不得劲儿 is northern dialect for feeling off or out of sorts. The Douyin topic passed 600 million plays. Digitaling's 2026 H1 top-30 hot words still listed '心理委员，俺不得劲' as a way to voice emotional ups and downs, so it has outlived the initial wave. Compare deck words 破防 and 不舒服文学.",
+    "category": "slang",
+    "date_added": "2026-11-25",
+    "sources": [
+      {
+        "url": "https://m.huxiu.com/aibrief/10321.html",
+        "note": "虎嗅（转载BB姬）《破防网友哭着到处呼叫的“心理委员”，到底存在吗？》— 梗的起源、用法与6亿播放",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.digitaling.com/articles/1561293.html",
+        "note": "数英 2026上半年网络热词TOP30 — 收录'心理委员，俺不得劲'",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xie-mo-sha-lv",
+    "hanzi": "卸磨杀驴",
+    "pinyin": "xiè mò shā lǘ",
+    "literal": "卸 unhitch + 磨 millstone + 杀 kill + 驴 donkey: unhitch the donkey from the mill, then kill it",
+    "meaning": "To get rid of someone as soon as they've served their purpose; to use people and then discard them. Online it is the stock accusation against a company, boss or platform that drops the people who built its success, such as staff laid off right after a project ships or a star pushed aside once the brand has taken off.",
+    "meaning_zh": "比喻把出过力的人在事成之后一脚踢开，用完就扔、过河拆桥。网上常用来指责公司、老板或平台在员工、功臣帮自己做成事后就把人辞退或排挤。",
+    "example": "项目刚上线就把我们优化了，这不就是卸磨杀驴吗？",
+    "example_pinyin": "Xiàngmù gāng shàngxiàn jiù bǎ wǒmen yōuhuà le, zhè bú jiù shì xiè mò shā lǘ ma?",
+    "example_translation": "They 'optimised' us out the moment the project went live. Talk about using people and tossing them aside.",
+    "context": "The image is a mill donkey: once the grinding is done, it is unhitched and slaughtered instead of being rewarded. Sinica Podcast's Chinese Phrase of the Week (Andrew Methven, December 2023) traces the written form to 刘绍棠's 1966 short story 《狼烟》, where the expendable 'donkey' is a military leader who helped win a battle. That December it became a rallying cry in the 东方甄选 (East Buy) 'little post' saga. CEO 孙东旭 backed a post suggesting star livestreamer 董宇辉 was taking too much credit, and fans accused the company of 卸磨杀驴. East Buy lost about 2 million Douyin followers in five days, and its Hong Kong shares fell more than 22%. In 打工人 talk it pairs naturally with deck words 牛马 and 软裁员, along with 优化, the euphemism for being laid off. Close cousins: 过河拆桥 and 兔死狗烹.",
+    "category": "chengyu",
+    "date_added": "2026-11-25",
+    "sources": [
+      {
+        "url": "https://www.sinicapodcast.com/p/kill-the-donkey-when-its-done-its",
+        "note": "Sinica Podcast, Chinese Phrase of the Week (Andrew Methven, 2023-12-24): meaning, 1966 literary origin, East Buy / Dong Yuhui usage",
+        "lang": "en"
+      }
+    ]
   }
 ]

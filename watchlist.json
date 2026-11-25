@@ -1,21 +1,5 @@
 [
   {
-    "hanzi": "大脑降噪",
-    "reason": "unverified",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "sightings": 1,
-    "note": "Listed with 夯爆了 and 背手负鼠 as youth 'social lingua franca' in a 中国之声 report (Sept 2026, via 光明网 m.gmw.cn/2026-09/13/content_1304563118.htm, which returned 503). Meaning not confirmed — check what it means and whether it is in real use."
-  },
-  {
-    "hanzi": "我的麦炸吗",
-    "reason": "niche",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "sightings": 1,
-    "note": "Esports hype call: at the 王者荣耀 共创之夜 (2026-10-25) player 一诺 asked '我的麦炸吗' and the crowd shouted '炸'; carried over from 2025 炸麦 jokes (Weibo article). So far confined to Honor of Kings fandom."
-  },
-  {
     "hanzi": "数字实习生",
     "reason": "unverified",
     "first_seen": "2026-10-29",
@@ -278,5 +262,29 @@
     "last_seen": "2026-11-24",
     "sightings": 1,
     "note": "Weibo hot search 2026-11-23 '健身房老板这是义母啊' — jokey 'adoptive mother' for a doting older woman/boss figure. Meaning and origin not confirmed 2026-11-24."
+  },
+  {
+    "hanzi": "中式DNA觉醒",
+    "reason": "unverified",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "sightings": 1,
+    "note": "Habits only Chinese people relate to, e.g. seeing bare soil and wanting to plant vegetables (Digitaling 2026 H1 top 30, digitaling.com/articles/1561293.html). 2026-11-25 searches found the older 'DNA动了' / 种菜基因 framing but no origin or second source for the exact phrase."
+  },
+  {
+    "hanzi": "AI脑雾",
+    "reason": "unverified",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "sightings": 1,
+    "note": "'AI brain fog': foggy thinking and poor focus from leaning on AI (36氪 2026-05-11, reposted from 经济观察报, alongside 前额叶损伤 and 空心人). Cf. English 'AI brain fry' (HBR/BCG 2026). Check whether netizens use it as a joking self-label rather than only as a media term."
+  },
+  {
+    "hanzi": "蒸蚌",
+    "reason": "unverified",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "sightings": 1,
+    "note": "Homophone of 真棒, used as all-purpose praise; from a cat-training video in which a calico cat guesses its way to treats (Digitaling 2026 H1 top 30). No second source or sign of current use yet."
   }
 ]
