@@ -10207,5 +10207,36 @@
         "lang": "en"
       }
     ]
+  },
+  {
+    "id": "tongshi-skill",
+    "hanzi": "同事.skill",
+    "pinyin": "tóngshì.skill",
+    "literal": "同事 colleague + .skill (an AI 'skill pack' file)",
+    "meaning": "Jokey-dark name for 'distilling' a co-worker into an AI skill: feeding their chats, documents and emails to a large model so a bot can carry on their job in their voice. Used of being 炼化 ('refined', as in alchemy) into a digital double, and spun into a whole family of X.skill jokes (前任.skill for an ex, 老板.skill, 导师.skill). Carries the office worker's dread that their know-how is being harvested to replace them.",
+    "meaning_zh": "把同事“炼化”成AI技能包的说法：把一个人的聊天记录、文档、邮件喂给大模型，提炼出他的工作方法和说话风格，生成能替他干活的数字分身。后来衍生出前任.skill、老板.skill、导师.skill等一系列“X.skill”玩笑，带着打工人怕自己经验被提取、被取代的黑色幽默。",
+    "example": "离职前别把文档写那么细，小心被做成同事.skill，人走了还在替公司上班。",
+    "example_pinyin": "Lízhí qián bié bǎ wéndàng xiě nàme xì, xiǎoxīn bèi zuòchéng tóngshì.skill, rén zǒu le hái zài tì gōngsī shàngbān.",
+    "example_translation": "Don't write your handover docs in so much detail before you quit — they might turn you into a colleague.skill and you'll still be working for the company after you've gone.",
+    "context": "From colleague-skill (同事.skill), an open-source GitHub project that went viral in early April 2026: give it a departed co-worker's Feishu/DingTalk messages, emails and docs and it builds an AI 'skill' that does their work in their tone, with the tagline '将冰冷的离别化为温暖的 Skill，欢迎加入赛博永生' ('turn a cold farewell into a warm Skill — welcome to cyber-immortality'). Juejin reported 7,000+ GitHub stars in five days. The verb 炼化 (to refine/absorb, from xianxia cultivation novels) stuck: China Digital Times reposted a LOGO研究所 piece (8 April 2026) about a netizen whose ex-colleague had been '炼化' into a digital person, and a Shandong company that trained a digital double of a departed HR worker. Spin-offs followed — 前任.skill for exes, and a 反蒸馏.skill meant to sabotage the distilling (cf. deck word 蒸馏). 36氪/豹变 quoted workers joking that working for a company now means 'saving up skills for it'. It rides the 2026 AI-agent boom (Claude Code, OpenClaw — cf. 养龙虾) and the wider fear of AI replacing junior staff.",
+    "category": "slang",
+    "date_added": "2026-11-26",
+    "sources": [
+      {
+        "url": "https://chinadigitaltimes.net/chinese/726409.html",
+        "note": "中国数字时代转载 LOGO研究所《同事“被炼化了”成永生打工人》(2026-04-08)：同事.skill 来源与“炼化”释义",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.36kr.com/p/3758040078975745",
+        "note": "36氪/豹变《将同事“封装”“炼化”，Skill到底在干什么？》(2026-04-08)：社交媒体热议、反蒸馏.skill、网友反应",
+        "lang": "zh"
+      },
+      {
+        "url": "https://juejin.cn/post/7625576464485826595",
+        "note": "稀土掘金《这个开源 skill 专门炼化你的离职同事。》(2026-04-07)：项目功能、标语、五天7K星、前任.skill",
+        "lang": "zh"
+      }
+    ]
   }
 ]
