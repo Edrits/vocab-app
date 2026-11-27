@@ -1,13 +1,5 @@
 [
   {
-    "hanzi": "含机量",
-    "reason": "unverified",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "sightings": 1,
-    "note": "'Machine content' — how much of a piece of work was done by AI (cf. 含金量); seen once in a Baidu-indexed workplace AI meme round-up alongside 养龙虾. No source opened confirms it."
-  },
-  {
     "hanzi": "形成闭环",
     "reason": "unverified",
     "first_seen": "2026-10-31",
@@ -270,5 +262,21 @@
     "last_seen": "2026-11-25",
     "sightings": 1,
     "note": "Homophone of 真棒, used as all-purpose praise; from a cat-training video in which a calico cat guesses its way to treats (Digitaling 2026 H1 top 30). No second source or sign of current use yet."
+  },
+  {
+    "hanzi": "暖到发紫",
+    "reason": "too-new",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "sightings": 1,
+    "note": "Baidu hot search 2026-11-27 '大回暖来了 暖到发紫' (big warm spell from 30 Nov). Hyperbolic 'X到发紫' intensifier (cf. 红到发紫); check whether X到发紫 is a productive netizen formula with a real explainer."
+  },
+  {
+    "hanzi": "融脸",
+    "reason": "unverified",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "sightings": 1,
+    "note": "Baidu hot search 2026-11-27 '《丑狐》融脸': a model says her likeness was merged into an AI short-drama 'cyber villain'. Seems a variant of deck word 偷脸 (added 2026-11-27); add only if 融脸 gets its own established sense."
   }
 ]

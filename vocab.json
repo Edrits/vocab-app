@@ -10238,5 +10238,109 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "chongxin-yang-fumu",
+    "hanzi": "重新养父母",
+    "pinyin": "chóngxīn yǎng fùmǔ",
+    "literal": "重新 again / anew + 养 raise, bring up + 父母 parents",
+    "meaning": "'Re-raising your parents': grown children reversing the usual roles and gently looking after, teaching and indulging their parents as equals — taking Mum to exercise and teaching her skincare, getting Dad concert tickets, bringing home novelty snacks, reminding them to wrap up when it's cold. Framed as a warm, slightly jokey way of easing family friction rather than trying to change one's parents.",
+    "meaning_zh": "“把父母重新养一遍”：成年子女反过来以平等的姿态照顾、陪伴、“宠”父母——陪妈妈运动、教她护肤化妆，给爸爸抢演唱会门票，回家带新奇零食，提醒他们天冷加衣。被视为一种“反向哺育”，用来缓和家庭内耗，把父母拉进“合伙人”阵营，而不是执着于改变他们。",
+    "example": "我最近在重新养父母，周末带我妈去学了普拉提。",
+    "example_pinyin": "Wǒ zuìjìn zài chóngxīn yǎng fùmǔ, zhōumò dài wǒ mā qù xué le pǔlātí.",
+    "example_translation": "I've been re-raising my parents lately — this weekend I took Mum to try Pilates.",
+    "context": "A 2026 trend on Chinese social media: the hashtag 长大后我把爸妈重新养了一遍 ('now I'm grown up I've raised my parents all over again') hit the hot-search lists, with people sharing lists of small things they now do for their parents. A Communist Youth League piece reposted by Beijing Daily (9 March 2026) described it as 'reverse nurturing' (反向哺育) that turns parents into 'partners' in the household and argued it is also a way of 'raising yourself' (养自己) — it builds on the earlier 重新养自己 (re-parenting yourself) idea. It was back on Baidu hot search on 27 November 2026 ('许多年轻人为何开始重新养父母'). Its appeal is the cheeky inversion of 养 — the word parents use for bringing up children — to describe a gentler, less hierarchical kind of filial care.",
+    "category": "social",
+    "date_added": "2026-11-27",
+    "sources": [
+      {
+        "url": "https://news.bjd.com.cn/2026/03/09/11622199.shtml",
+        "note": "京报网（转载共青团中央）2026-03-09《年轻人流行“重新养父母”，也是在“养自己”》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-27：许多年轻人为何开始“重新养父母”",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "tou-lian",
+    "hanzi": "偷脸",
+    "pinyin": "tōu liǎn",
+    "literal": "偷 steal + 脸 face",
+    "meaning": "'Face theft': using AI to lift a real person's face or look without permission and put it into generated content — above all the flood of AI short dramas (AI短剧) that cast ordinary people's photos as characters, sometimes as villains. Also 盗脸. Used both by victims and in coverage of AI likeness infringement.",
+    "meaning_zh": "AI“偷脸”：未经许可用AI盗用真人的脸或形象，生成到内容里，尤其指AI短剧把素人、博主的照片做成角色（甚至丑化成反派）。也说“盗脸”。属于肖像侵权，常见于对AI短剧乱象的讨论。",
+    "example": "我的照片被AI短剧偷脸了，还被做成了反派！",
+    "example_pinyin": "Wǒ de zhàopiàn bèi AI duǎnjù tōu liǎn le, hái bèi zuò chéng le fǎnpài!",
+    "example_translation": "An AI short drama stole my face — and made me the villain!",
+    "context": "The term took off in spring 2026 when hanfu make-up artist 白菜 and model/blogger 七海Christ discovered (around 30 March 2026) that the AI-generated short drama 《桃花簪》 — with a heat score above 40 million — had used their faces for unpleasant characters (a lecherous, greedy 刘大 and an abusive 何掌柜). Baidu took it down; the platform removed the drama and suspended the producer's uploads for 15 days on 3 April. 每日经济新闻 ran an '“偷脸”调查' (1 April) and 虎嗅 a feature on ordinary people 'stolen' by AI dramas; the same weeks saw 杨紫's and 易烊千玺's studios act against AI dramas, and the Beijing Internet Court publicised a case swapping 迪丽热巴's face onto a micro-drama lead. Lawyers cite Civil Code Article 1019, which bans forging someone's likeness with technology. It belongs with deck words AI漫剧 and AI脸 as AI-era vocabulary.",
+    "category": "slang",
+    "date_added": "2026-11-27",
+    "sources": [
+      {
+        "url": "https://www.nbd.com.cn/articles/2026-04-01/4321399.html",
+        "note": "每日经济新闻 2026-04-01《AI短剧“偷脸”调查：行业乱象谁来管？》",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.huxiu.com/article/4848720.html",
+        "note": "虎嗅 2026-04《被AI短剧偷脸的普通人，“莫名其妙就变成了反派”》",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "rong-geng",
+    "hanzi": "融梗",
+    "pinyin": "róng gěng",
+    "literal": "融 blend, fuse + 梗 gag, plot device, trope",
+    "meaning": "'Trope-blending': stitching together other people's plot devices, character set-ups and story beats into your own work. Defenders call it 借鉴 (drawing on); critics call it plagiarism by another name. Used in web-fiction, film and TV arguments whenever a work is accused of borrowing too much.",
+    "meaning_zh": "把别人作品里的“梗”（人物设定、故事套路、情节桥段）拼合融进自己的作品。支持者称为“借鉴”，批评者认为实质是“抄袭”。常用于网文、影视作品的抄袭争议。",
+    "example": "这部剧不是原创，是融了好几部韩剧的梗。",
+    "example_pinyin": "Zhè bù jù bú shì yuánchuàng, shì róng le hǎo jǐ bù Hánjù de gěng.",
+    "example_translation": "This show isn't original — it's blended tropes from several Korean dramas.",
+    "context": "Born in the web-fiction (网文) world, where the line between borrowing and copying is notoriously blurry. 中国新闻网 (Dec 2019, citing a 人民日报 commentary) defines it as pooling others' ideas and borrowing their intellectual output in character design and plot patterns, and says the word entered mainstream view with the 2019 film 《少年的你》, whose source novel faced plagiarism accusations. It is often discussed alongside 洗稿 (rewording someone's article), 撞梗 (accidentally hitting the same trope) and 借鉴. It still surfaces whenever a hit is accused of copying — e.g. on Baidu hot search on 27 November 2026, a Douban-8.0 drama accused of copying a Korean drama.",
+    "category": "slang",
+    "date_added": "2026-11-27",
+    "sources": [
+      {
+        "url": "https://www.chinanews.com.cn/cul/2019/12-06/9026475.shtml",
+        "note": "中国新闻网 2019-12-06（人民日报评论）：融梗的定义与《少年的你》争议",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.bjnews.com.cn/detail/157233356415578.html",
+        "note": "新京报 2019：“融梗”就是把“梗”融合在一起，也算抄",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "da-xiao-zhou",
+    "hanzi": "大小周",
+    "pinyin": "dà xiǎo zhōu",
+    "literal": "大 big + 小 small + 周 week",
+    "meaning": "The 'big week / small week' schedule: an alternating working pattern where staff get a two-day weekend one week (大周) and work Saturday the next (小周) — two fewer rest days a month. A staple grievance of tech-company (大厂) and manufacturing workers, alongside 996.",
+    "meaning_zh": "“大小周”：相邻两周中，“大周”双休，“小周”周六要上班，每月比正常双休少休两天。是互联网大厂和制造业打工人常吐槽的工作制度，常与996并提。",
+    "example": "这周是小周，周六还得去公司，又不能出去玩了。",
+    "example_pinyin": "Zhè zhōu shì xiǎo zhōu, zhōuliù hái děi qù gōngsī, yòu bù néng chūqù wán le.",
+    "example_translation": "It's a 'small week', so I have to go in on Saturday — no going out again.",
+    "context": "A long-standing piece of Chinese workplace vocabulary that became a flashpoint in 2021: in August that year a joint release of typical labour-dispute cases by the labour ministry and the Supreme People's Court was read by lawyers as showing that 996 and 大小周 are illegal. 虎嗅 (Oct 2021) described how at surveillance-camera maker 海康威视 it existed only through verbal orders, never on paper, while rival 宇视科技 announced it was scrapping it. It is back in the news: on 27 November 2026 Baidu hot search carried '海康威视取消大小周却遭员工抵制', with staff complaining that earlier start times and lost meal allowances left them worse off. A useful word for any 打工人 conversation.",
+    "category": "slang",
+    "date_added": "2026-11-27",
+    "sources": [
+      {
+        "url": "https://www.huxiu.com/article/466267.html",
+        "note": "虎嗅 2021-10-23：海康威视“大小周”报道（定义、宇视取消、996/大小周违法案例）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-27：海康威视取消大小周却遭员工抵制",
+        "lang": "zh"
+      }
+    ]
   }
 ]
