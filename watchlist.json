@@ -1,13 +1,5 @@
 [
   {
-    "hanzi": "形成闭环",
-    "reason": "unverified",
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-10-31",
-    "sightings": 1,
-    "note": "Jokey use of the bureaucratic 'closed loop' for things coming full circle (e.g. Baidu hot search 2026-10-31 '语文课文在此刻形成闭环' — school texts finally making sense in adulthood). No source opened explains the joking sense; find one before adding."
-  },
-  {
     "hanzi": "零分朋友",
     "reason": "niche",
     "first_seen": "2026-11-01",
@@ -176,14 +168,6 @@
     "note": "Face/prestige, showy treatment ('有排面', '排面拉满', '给足排面'). Baidu hot search 2026-11-18 '中国排面成新晋落地签' (Thai travellers joking during APEC Shenzhen). Established slang missing from deck, but searches found no source defining it or giving an origin — find one (dictionary entry, explainer) before adding."
   },
   {
-    "hanzi": "心巴",
-    "reason": "unverified",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-26",
-    "sightings": 2,
-    "note": "'唱到我心巴上了' / '在我的心巴上' = hits right where it counts, exactly to my taste. 格隆汇 Nov 2026 on 后会友期 lists '不在我的心巴上' among widely imitated memes. 2026-11-18 searches found no definition or origin source. | 2026-11-26: 2026-11-26: Re-sighted on Weibo (张馨予走秀，网友：'每一步都踩在审美心巴上', 2026-11-25). Still no definition/origin source found (moegirl/baidu searches empty)."
-  },
-  {
     "hanzi": "CJ生活",
     "reason": "niche",
     "first_seen": "2026-11-19",
@@ -275,8 +259,24 @@
     "hanzi": "融脸",
     "reason": "unverified",
     "first_seen": "2026-11-27",
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
+    "sightings": 2,
+    "note": "Baidu hot search 2026-11-27 '《丑狐》融脸': a model says her likeness was merged into an AI short-drama 'cyber villain'. Seems a variant of deck word 偷脸 (added 2026-11-27); add only if 融脸 gets its own established sense. | 2026-11-28: 2026-11-28: Re-sighted on Baidu hot search ('我的脸被AI融走了 谁之责' — model says AI short drama 融脸'd her; experts say liability is hard to pin down). Still reads as a variant of deck word 偷脸."
+  },
+  {
+    "hanzi": "数字实习生",
+    "reason": "unverified",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
     "sightings": 1,
-    "note": "Baidu hot search 2026-11-27 '《丑狐》融脸': a model says her likeness was merged into an AI short-drama 'cyber villain'. Seems a variant of deck word 偷脸 (added 2026-11-27); add only if 融脸 gets its own established sense."
+    "note": "'Digital intern': office workers' name for AI tools/agents (one ad agency gave its AI a staff number and desk). Seen 2026-11-28 only in a search summary of 2026 meme round-ups; no page opened. Check for real use and a source."
+  },
+  {
+    "hanzi": "比奇堡居民",
+    "reason": "niche",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "sightings": 1,
+    "note": "Blank-faced Bikini Bottom residents from SpongeBob used as a stand-in for exhausted office workers; seen as a Halloween costume theme in Digitaling 2026-11-03 (digitaling.com/articles/1615564.html). Add if used as a general label for the worker state."
   }
 ]

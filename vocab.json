@@ -10342,5 +10342,88 @@
         "lang": "zh"
       }
     ]
+  },
+  {
+    "id": "yue-retch",
+    "hanzi": "yue / 哕",
+    "pinyin": "yuě",
+    "literal": "yue (哕) = the sound of retching; 'to retch'",
+    "meaning": "The onomatopoeic sound of gagging, typed as plain pinyin 'yue'. '我yue了' = 'I'm gagging / that's revolting'; '笑yue了' = laughing so hard (or so scornfully) you nearly retch, often aimed at a cringeworthy post or a bad joke. Also used straight, for a genuinely disgusting smell or sight.",
+    "meaning_zh": "干呕的拟声词，网上多直接打拼音“yue”，本字是“哕”（yuě）。“我yue了”表示恶心、受不了；“笑yue了”表示笑到想吐，常用来吐槽油腻、尴尬的内容或烂梗；遇到真恶心的气味、画面也会说“边yue边……”。",
+    "example": "这条土味情话我看一次yue一次。",
+    "example_pinyin": "Zhè tiáo tǔwèi qínghuà wǒ kàn yí cì yuě yí cì.",
+    "example_translation": "Every time I read this cheesy pick-up line I gag.",
+    "context": "哕 (yuě) is a standard dictionary word — the 现代汉语词典 lists it as both the sound of retching and the verb 'to retch' — and a common word in Central Plains and other northern dialects, but most people can't write the character, so online it is typed as bare pinyin 'yue', usually with a retching-face emoji 🤮. Apple's built-in input method famously only offers 哕 under its other reading, huì, which itself became a Weibo talking point. Variants like '笑yue了' have made it everyday slang, and it now turns up even in news headlines: on 28 November 2026 a Baidu hot-search headline described rescuers in Changde, Hunan pulling a puppy out of a stinking sewer as '2人边yue边救' ('two people retching while rescuing it').",
+    "category": "slang",
+    "date_added": "2026-11-28",
+    "sources": [
+      {
+        "url": "http://www.jpchinapress.com/static/content/SS/2024-05-09/1238167262281639598.html",
+        "note": "日本新华侨报 2024-05-09：原来真的有yuě这个字（引《现代汉语词典》释义，网友常用拼音yue表示吐了）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-28：“小狗掉进臭水沟2人边yue边救”",
+        "lang": "zh"
+      },
+      {
+        "url": "https://www.zhihu.com/question/384749388",
+        "note": "知乎问题：不好意思，我yue了网络用语啥意思？",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "xinba",
+    "hanzi": "心巴",
+    "pinyin": "xīnba",
+    "literal": "心 heart + 巴 (mock body-part suffix, from 上巴)",
+    "meaning": "A jokey made-up word for 'heart' — the spot something hits when it moves you or is exactly to your taste. Usually '戳中我的心巴' / '踩在我的心巴上' ('hits me right in the heart', 'right up my street'); '不在我的心巴上' = not my thing at all.",
+    "meaning_zh": "“心脏、心尖”的戏称，由“上巴”衍生而来。“戳中了我的心巴”“踩在我的心巴上”表示某人某事正中下怀、让人瞬间心动；反过来“不在我的心巴上”就是不对胃口。",
+    "example": "这首歌每一句都唱在我的心巴上。",
+    "example_pinyin": "Zhè shǒu gē měi yí jù dōu chàng zài wǒ de xīnba shang.",
+    "example_translation": "Every line of this song hits me right in the heart.",
+    "context": "Born from a viral street-interview clip: an older man pointing at his philtrum couldn't remember the word 人中 and called it '上巴' ('the upper -ba', by analogy with 下巴, chin). Netizens loved it and started coining a run of other -巴 words; 心巴, for the heart, is the one that stuck, as a cutesy way to say something tugged at your heartstrings. It has outlived the joke: in November 2026 '不在我的心巴上' was among the lines widely imitated from Mango TV's hit friendship show 后会友期, and Weibo users praised a catwalk by actress 张馨予 as '每一步都踩在审美心巴上'.",
+    "category": "slang",
+    "date_added": "2026-11-28",
+    "sources": [
+      {
+        "url": "https://www.dancihu.com/liuxingyu/x2443.html",
+        "note": "单词乎·流行语：心巴是什么意思（“上巴”衍生词，源自大爷采访视频）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://m.gelonghui.com/p/7356311",
+        "note": "格隆汇 2026-11：「后会友期」爆火——列“不在我的心巴上”为被网友广泛模仿的梗",
+        "lang": "zh"
+      }
+    ]
+  },
+  {
+    "id": "liu-ye-h6",
+    "hanzi": "六爷",
+    "pinyin": "Liù Yé",
+    "literal": "六 six + 爷 'Grandpa / Sir' (respectful-jokey title)",
+    "meaning": "Military fans' affectionate nickname for China's H-6 (轰-6) bomber family — 'Grandpa Six', a nod to an airframe older than most of its fans that still keeps getting new variants and weapons. Appears in 军迷 chat, news comment sections and even headlines.",
+    "meaning_zh": "军迷对轰-6系列轰炸机的昵称。轰-6服役几十年、型号从轰-6K一路改到轰-6N，像一位老当益壮的“爷”，网友又敬又调侃地叫它“六爷”。",
+    "example": "航展又要开了，“六爷”这次挂了什么？",
+    "example_pinyin": "Hángzhǎn yòu yào kāi le, “Liù Yé” zhè cì guà le shénme?",
+    "example_translation": "The air show's about to open again — what's Grandpa Six carrying this time?",
+    "context": "The H-6 began as a licensed copy of the Soviet Tu-16 and is one of the longest-serving types in the PLA; endless upgrades (H-6K, H-6N…) turned it into a running joke and point of pride among Chinese 军迷 (military buffs), who gave it the senior-relative title 六爷. The best-known quip is '不怕六爷挂得多，就怕六爷挂一颗' — 'don't fear Grandpa Six carrying lots, fear him carrying just one' — which The Paper (澎湃新闻) noted in August 2026 seemed to come true when the H-6N appeared with a single large 惊雷-1 missile. The nickname went mainstream again on 28 November 2026, when Baidu hot search ran '珠海航展 “六爷”来了' as the first H-6Ks flew out for the Zhuhai Airshow.",
+    "category": "slang",
+    "date_added": "2026-11-28",
+    "sources": [
+      {
+        "url": "https://m.thepaper.cn/newsDetail_forward_33744456",
+        "note": "澎湃新闻 2026-08-08：“六爷”挂一颗出场！（军迷喜欢把轰-6称为“六爷”）",
+        "lang": "zh"
+      },
+      {
+        "url": "https://top.baidu.com/board?tab=realtime",
+        "note": "百度热搜 2026-11-28：“珠海航展 ‘六爷’来了”",
+        "lang": "zh"
+      }
+    ]
   }
 ]
